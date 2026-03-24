@@ -2,39 +2,38 @@
 
 **STATUS:** READY TO POST
 **DATE CREATED:** 2026-03-25
-**BLOG URL:** https://www.consultclarity.org/post/50-top-leadership-consultants-for-healthcare-2026-1
+**BLOG URL:** https://www.consultclarity.org/post/50-top-leadership-consultants-for-healthcare-2026
 
 ---
 
 ## POST COPY (paste into LinkedIn)
 
-I just published the most comprehensive guide to healthcare leadership consultants on the internet.
+Healthcare leadership has never been harder.
 
-50 consultants. Individual coaches, specialist firms, and global advisory practices, all focused on helping healthcare leaders navigate one of the most complex industries on the planet.
+Burnout, staffing shortages, digital transformation, financial pressures. The leaders who navigate these challenges well have one thing in common: they invest in their own development.
 
-Here are 3 things I learned researching this:
+I put together a list of the 50 top leadership consultants for healthcare in 2026. From global advisory firms like Chartis and McKinsey to specialist physician coaches and nursing leadership experts, this is the most comprehensive guide available.
 
-1. The best healthcare leadership consultants have actually worked inside healthcare. Former clinicians, hospital executives, and health system leaders bring credibility that generalist consultants simply cannot match.
+Here are three standouts:
 
-2. Physician burnout is reshaping the consulting landscape. A growing number of the top consultants now specialise in physician wellbeing and burnout prevention, not just strategy and operations.
+1. Quint Studer built the Studer Group into a healthcare leadership powerhouse (acquired for $325M), authored 15 books, and was twice named to Modern Healthcare's 100 Most Influential.
 
-3. Nursing leadership is finally getting the investment it deserves. There are now dedicated firms focused entirely on developing CNOs, CNEs, and the next generation of nurse leaders.
+2. Dr. Gail Gazelle is a Harvard physician and Master Certified Coach who helps healthcare executives develop the leadership skills they never learned in medical school.
 
-The full list covers everything from solo executive coaches to the Big Four consulting firms.
+3. Tracy Duberman founded TLD Group, a global talent development consultancy focused exclusively on healthcare leadership since 2008.
 
-https://www.consultclarity.org/post/50-top-leadership-consultants-for-healthcare-2026-1
+Read the full list of 50 here:
+https://www.consultclarity.org/post/50-top-leadership-consultants-for-healthcare-2026
 
-Here are some of the incredible people and organisations featured in this list. If you are interested in healthcare leadership, these are people worth following:
+Here are some brilliant thought leaders on healthcare leadership on LinkedIn that you might like to follow:
 
-@Quint Studer Healthcare Plus Solutions Group, @Dike Drummond TheHappyMD, @Carson Dye Exceptional Leadership, @Mark Graban Lean Healthcare Expert, @Gail Gazelle Physician Coach, @Rose Sherman Emerging Nurse Leader, @Tim Porter-O'Grady TPOG Associates, @Renee Thompson Healthy Workforce Institute, @James McKenna Healthcare Executive Coach, @Heath Jolliff The Physician Coach, @Karl Pister The Coaching Group, @Yashica Lind The Lind Group, @Glen Stewart Marquis Leadership, @Tracy Duberman TLD Group, @Tacy Riehm Humanistic Consulting, @Ken Folkman Healthcare Leadership Solutions, @Elizabeth Wolff Wolff Consulting, @Sheri Jacobs Innovation Speaker, @Neale Fong Australis Health Advisory, @David Nicholson Tektology, @Graham Dickson LEADS Global, @Leigh Steiner Relias
+@Quint Studer Healthcare Plus Solutions Group, @Tracy Duberman TLD Group, @Gail Gazelle Physician Coach, @Dike Drummond TheHappyMD, @Amer Kaissi Trinity University, @Karl Pister The Coaching Group, @James McKenna Healthcare Leadership Coach, @Rose Sherman Nursing Leadership Expert, @Kaveh Safavi Accenture, @Dan Collard Healthcare Plus Solutions Group, @Joann Anderson Ascendient, @Sue Hassmiller Sulu Coaching, @Diane Sieg Nurse Leadership Speaker, @Heath Jolliff The Physician Coach, @Miriam Bayes Systemic Leadership Expert, @Michelle Stephens Executive Coach, @Karen Romero Healthcare Consultant, @Mary Hidalgo Kirby Bates Associates
 
-Who did I miss? I would love to hear your recommendations for healthcare leadership consultants who should be on this list.
+Who would you add to this list? I would love to hear your recommendations for healthcare leadership consultants who have made a difference for your organisation.
 
-@Atul Gawande Healthcare Author, @Leah Binder The Leapfrog Group, @Toby Cosgrove Cleveland Clinic, @Kevin Reilly Healthcare Speaker, @Lakshmi Gopalkrishnan Healthcare Consultant, @Cheryl Warren FTI Consulting, @Kaveh Safavi Accenture, @Albert Yu KPMG, @Drew Ungerman McKinsey, @Deirdre Baggot Oliver Wyman, @Andrew Grobmyer Huron, @Slavena Bardarova Bain, @Lucy Thorp Teneo, @Elizabeth Levy AArete, @Jennie Byrne Belong Health, @Karen Knudsen Parker Institute, @Sarah Hughes NurseFusion, @Geoffrey Roche Healthcare Leader, @Haylin Dennison Physician Wellness
+If you are looking for a leadership consultant who can help your healthcare team build clarity, alignment, and trust through frameworks like the Working Genius, facilitated workshops, or keynote presentations, drop me a line at jonno@consultclarity.org and let's work out how to help your team thrive.
 
-If you want help with your healthcare leadership team, whether that is a Working Genius workshop to help your team understand their natural gifts, an executive offsite to get your leadership team aligned, or a keynote for your next healthcare conference, drop me a line at jonno@consultclarity.org and let's chat about how to get your team performing at their best.
-
-#HealthcareLeadership #LeadershipConsulting #HealthcareManagement #ExecutiveCoaching #WorkingGenius
+#HealthcareLeadership #LeadershipDevelopment #ExecutiveCoaching #HealthcareConsulting #LeadershipConsultant
 
 ---
 
@@ -43,43 +42,20 @@ If you want help with your healthcare leadership team, whether that is a Working
 | Name | LinkedIn URL |
 |------|-------------|
 | Quint Studer | https://www.linkedin.com/in/quint-studer/ |
-| Dike Drummond | https://www.linkedin.com/in/dikedrummond/ |
-| Carson Dye | https://www.linkedin.com/in/carson-dye-2398105/ |
-| Mark Graban | https://www.linkedin.com/in/mgraban/ |
-| Gail Gazelle | https://www.linkedin.com/in/gailgazelle/ |
-| Rose Sherman | https://www.linkedin.com/in/rose-sherman-aaa67510/ |
-| Tim Porter-O'Grady | https://www.linkedin.com/in/dr-tim-porter-o-grady-4a356412/ |
-| Renee Thompson | https://www.linkedin.com/in/rtconnections/ |
-| James McKenna | https://www.linkedin.com/in/jamesmckenna/ |
-| Heath Jolliff | https://www.linkedin.com/in/thephysiciancoach/ |
+| Tracy Duberman | https://www.linkedin.com/in/tracyduberman |
+| Gail Gazelle | https://gailgazelle.com (search LinkedIn) |
+| Dike Drummond | https://www.linkedin.com/in/dikedrummond |
+| Amer Kaissi | https://www.linkedin.com/in/amerkaissi (search LinkedIn) |
 | Karl Pister | https://www.linkedin.com/in/karlpister/ |
-| Yashica Lind | https://www.linkedin.com/in/yashicalind/ |
-| Glen Stewart | https://www.linkedin.com/in/glenstewart/ |
-| Tracy Duberman | https://www.linkedin.com/in/tracyduberman/ |
-| Tacy Riehm | https://www.linkedin.com/in/tacy-riehm-41924210/ |
-| Ken Folkman | https://www.linkedin.com/in/kenfolkman/ |
-| Elizabeth Wolff | https://www.linkedin.com/in/elizabeth-wolff-md-mpa/ |
-| Sheri Jacobs | https://www.linkedin.com/in/sherijacobs/ |
-| Neale Fong | https://www.linkedin.com/in/dr-neale-fong-a350899/ |
-| David Nicholson | https://www.linkedin.com/in/davejnicholson/ |
-| Graham Dickson | https://www.linkedin.com/in/graham-dickson-52247a5/ |
-| Leigh Steiner | (search LinkedIn) |
-| Atul Gawande | https://www.linkedin.com/in/atul-gawande/ |
-| Leah Binder | https://www.linkedin.com/in/leahbinder/ |
-| Toby Cosgrove | https://www.linkedin.com/in/tobycosgrove/ |
-| Kevin Reilly | (search LinkedIn) |
-| Lakshmi Gopalkrishnan | (search LinkedIn) |
-| Cheryl Warren | https://www.linkedin.com/in/cherylwarren/ |
+| James McKenna | https://www.linkedin.com/in/jamesmckennamdcoach/ |
+| Rose Sherman | https://www.linkedin.com/in/rose-sherman-aaa67510/ |
 | Kaveh Safavi | https://www.linkedin.com/in/kavehsafavi/ |
-| Albert Yu | (search LinkedIn) |
-| Drew Ungerman | (search LinkedIn) |
-| Deirdre Baggot | (search LinkedIn) |
-| Andrew Grobmyer | (search LinkedIn) |
-| Slavena Bardarova | (search LinkedIn) |
-| Lucy Thorp | (search LinkedIn) |
-| Elizabeth Levy | (search LinkedIn) |
-| Jennie Byrne | (search LinkedIn) |
-| Karen Knudsen | (search LinkedIn) |
-| Sarah Hughes | https://www.linkedin.com/in/sarahhughesleadingchange/ |
-| Geoffrey Roche | (search LinkedIn) |
-| Haylin Dennison | https://www.linkedin.com/in/haylin-dennison-lcsw/ |
+| Dan Collard | https://www.linkedin.com/in/dan-collard-09a936b |
+| Joann Anderson | https://www.linkedin.com/in/joann-anderson-2935b18b |
+| Sue Hassmiller | https://www.linkedin.com/in/susan-hassmiller-1278a88/ |
+| Diane Sieg | https://www.linkedin.com/in/dianesieg/ |
+| Heath Jolliff | https://www.linkedin.com/in/thephysiciancoach/ |
+| Miriam Bayes | https://www.linkedin.com/in/miriam-bayes-genis/ |
+| Michelle Stephens | https://www.linkedin.com/in/michellem-stephens/ |
+| Karen Romero | https://www.linkedin.com/in/karen-romero/ |
+| Mary Hidalgo | https://www.linkedin.com/in/mary-hidalgo-8b63a843/ |
