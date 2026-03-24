@@ -106,3 +106,30 @@
 - YouTube scheduled: 2026-04-06 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-06)
 - Issues: None. All 17 people are new to the database. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of prolific authors (Todd Whitaker - 60+ books), YouTube/podcast hosts (Baruti Kafele, Danny Bauer, Joshua Stamper), viral educators (Hamish Brewer - Relentless Principal), and practicing principals (Sanée Bell, Jessica Cabeen, Rachael George, Jen Schwanke). Good social media presence across the roster.
+
+## Executive Coaching — 2026-03-25
+- Unique people across all platforms: 15 (15 new, 0 returning)
+- Returning names: None
+- Slug: executive-coaching
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-08 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-08 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled. All 15 people are new to the database. Strong mix of ICF-certified coaches (Joshua Miller, Dr. Carol Parker Walsh, Victoria Scott), TikTok/social media native creators (Alexandra Young 229K, Sue Reynolds 265K, Allison L. Barr 187K), established thought leaders (Lolly Daskal 1M+ X followers, Craig Groeschel 269K YouTube), and women's leadership specialists (Kelli Thompson, Dr. Carol Parker Walsh).
+
+## Team Culture — 2026-03-25
+- Unique people across all platforms: 15 (15 new, 0 returning)
+- Returning names: None
+- Slug: team-culture
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-09 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-09 due to daily limit)
+- Issues: TikTok daily limit reached, used customScheduled. All 15 people are new to the database. Excellent mix of tech industry alumni (Julie Zhuo - Facebook VP Design, Laszlo Bock - Google People Ops, Katelin Holloway - Reddit VP People), bestselling authors (Daniel Pink, Mel Robbins), Gen Z/millennial workplace creators (Corporate Natalie, DeAndre Brown, Erin McGoff, Ashley Herd, Leigh Elena Henderson), and team building practitioners (Chad Littlefield, Mark Collard, Arthur Carmazzi #1 Global Gurus).
+
+## Psychological Safety in Schools — 2026-03-25
+- Unique people across all platforms: 15 (15 new, 0 returning)
+- Returning names: None
+- Slug: psychological-safety-in-schools
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-10 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-10 due to daily limit)
+- Issues: TikTok daily limit reached, used customScheduled. Education footer variant used ("Certified Working Genius Facilitator | Author"). All 15 people are new to the database. Strong mix of viral educators (Carey Arensberg 486K, Gabe Dannenbring 1.6M TikTok, Jamie Gilbert 1M+ TikTok, Cassie Stephens 362K IG), framework creators (Doug Lemov - Teach Like a Champion, Esther Wojcicki - TRICK, Zaretta Hammond - Ready for Rigor), SEL specialists (Peyton Curley, Ms. Bo, Becky Jo Oglesby), and education content platforms (Jennifer Gonzalez - Cult of Pedagogy, CJ Reynolds, Catlin Tucker).
