@@ -66,3 +66,13 @@
 - YouTube scheduled: 2026-03-30 via customScheduled (March 30 had only 2 posts)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
 - Issues: None. All 17 people are new to the database. Strong mix of academics (Martin, McGrath, Mintzberg, Mauborgne, Bryson), practitioners (Horwath, Olsen, Kenny, Latham, Krippendorff), authors (Bungay, Pelard, McKeown, Kraaijenbrink), and innovation/design strategists (Osterwalder, Viki, Solomon). Good international coverage: Australia (Kenny), Netherlands (Kraaijenbrink), UK (Pelard, McKeown, Bungay), Canada (Mintzberg), France/INSEAD (Mauborgne). Ann Latham and John Bryson have minimal social media presence.
+
+## Conflict Resolution — 2026-03-24
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: conflict-resolution
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-31 via customScheduled (March 31 had 5 posts)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars)
+- Issues: None. All 17 people are new to the database. Strong mix of academics (Heen, Goldman-Wetzler), practitioners (Eddy, Liddle, Cloke, Noble, Pollack), content creators (Fisher, Christian, Lenski, Hurdle), authors/journalists (Ripley, Caspersen, Gallo, Davey, Parker, Regier), and international voices (Liddle-UK, Noble-Canada). Jefferson Fisher is the standout social media presence with 8M+ followers. Bill Eddy, Kenneth Cloke, David Liddle, and Cinnie Noble have minimal social media presence but are deep domain specialists.
