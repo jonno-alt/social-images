@@ -1,15 +1,73 @@
 # Batch Outreach: Next Batch Configuration
-# Edit this file to set the target segments for the next scheduled run.
-# Push changes to GitHub: the scheduled task pulls this file at the start of each run.
+# The task processes segments in order, up to 100 targets per run.
+# Format: - Segment description | PIPELINE=N
 
 TARGET_SEGMENTS:
-# Add one segment per line. The task processes them in order, up to 100 targets total.
-# Example:
-# - Australian construction companies | PIPELINE=1
-# - Independent schools in Victoria | PIPELINE=2
-# - Christian schools in Queensland | PIPELINE=6
+# --- NATIONAL (Australia & New Zealand) ---
+- Professional and industry associations in Australia | PIPELINE=1
+- Professional and industry associations in New Zealand | PIPELINE=1
+- Conference producers and event companies in Australia | PIPELINE=3
+- Conference producers and event companies in New Zealand | PIPELINE=3
+
+# --- AUSTRALIAN STATES: Associations ---
+- Professional and industry associations in New South Wales | PIPELINE=1
+- Professional and industry associations in Victoria | PIPELINE=1
+- Professional and industry associations in Queensland | PIPELINE=1
+- Professional and industry associations in Western Australia | PIPELINE=1
+- Professional and industry associations in South Australia | PIPELINE=1
+- Professional and industry associations in Tasmania | PIPELINE=1
+- Professional and industry associations in the ACT | PIPELINE=1
+- Professional and industry associations in the Northern Territory | PIPELINE=1
+
+# --- AUSTRALIAN STATES: Conferences ---
+- Conference producers and event companies in New South Wales | PIPELINE=3
+- Conference producers and event companies in Victoria | PIPELINE=3
+- Conference producers and event companies in Queensland | PIPELINE=3
+- Conference producers and event companies in Western Australia | PIPELINE=3
+- Conference producers and event companies in South Australia | PIPELINE=3
+- Conference producers and event companies in Tasmania | PIPELINE=3
+- Conference producers and event companies in the ACT | PIPELINE=3
+- Conference producers and event companies in the Northern Territory | PIPELINE=3
+
+# --- AUSTRALIAN CITIES: Associations ---
+- Professional and industry associations in Sydney | PIPELINE=1
+- Professional and industry associations in Melbourne | PIPELINE=1
+- Professional and industry associations in Brisbane | PIPELINE=1
+- Professional and industry associations in Perth | PIPELINE=1
+- Professional and industry associations in Adelaide | PIPELINE=1
+- Professional and industry associations in Gold Coast | PIPELINE=1
+- Professional and industry associations in Canberra | PIPELINE=1
+- Professional and industry associations in Newcastle | PIPELINE=1
+- Professional and industry associations in Hobart | PIPELINE=1
+- Professional and industry associations in Wollongong | PIPELINE=1
+- Professional and industry associations in Geelong | PIPELINE=1
+- Professional and industry associations in Townsville | PIPELINE=1
+- Professional and industry associations in Cairns | PIPELINE=1
+- Professional and industry associations in Darwin | PIPELINE=1
+- Professional and industry associations in Toowoomba | PIPELINE=1
+- Professional and industry associations in Ballarat | PIPELINE=1
+- Professional and industry associations in Bendigo | PIPELINE=1
+- Professional and industry associations in Launceston | PIPELINE=1
+
+# --- AUSTRALIAN CITIES: Conferences ---
+- Conference producers and event companies in Sydney | PIPELINE=3
+- Conference producers and event companies in Melbourne | PIPELINE=3
+- Conference producers and event companies in Brisbane | PIPELINE=3
+- Conference producers and event companies in Perth | PIPELINE=3
+- Conference producers and event companies in Adelaide | PIPELINE=3
+- Conference producers and event companies in Gold Coast | PIPELINE=3
+- Conference producers and event companies in Canberra | PIPELINE=3
+- Conference producers and event companies in Newcastle | PIPELINE=3
+- Conference producers and event companies in Hobart | PIPELINE=3
+- Conference producers and event companies in Wollongong | PIPELINE=3
+- Conference producers and event companies in Geelong | PIPELINE=3
+- Conference producers and event companies in Townsville | PIPELINE=3
+- Conference producers and event companies in Cairns | PIPELINE=3
+- Conference producers and event companies in Darwin | PIPELINE=3
+- Conference producers and event companies in Toowoomba | PIPELINE=3
+- Conference producers and event companies in Ballarat | PIPELINE=3
+- Conference producers and event companies in Bendigo | PIPELINE=3
+- Conference producers and event companies in Launceston | PIPELINE=3
 
 OVERRIDES:
-# Optional overrides for this run
-# FEATURED_SESSIONS=
 # MAX_TARGETS=100
