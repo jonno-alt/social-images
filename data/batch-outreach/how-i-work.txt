@@ -1,34 +1,59 @@
-# HOW I WORK: Batch Outreach Workflow (6 at a time)
+# HOW I WORK: Batch Outreach Workflow (Research + Manual Drafts)
 # Folder: ~/Cowork-Data/batch-outreach/
-# Last updated: March 2026
+# Last updated: 24 March 2026
 
 ## What This Workflow Does
 
-Processes 6 schools or associations at a time through the outreach pipeline.
-Phase 1 (Claude): Picks targets, checks Gmail, prepares a Gemini research brief.
-Phase 2 (Gemini, manual): Jonno pastes the brief into Gemini for email format discovery.
-Phase 3 (Claude): Processes Gemini results, creates Gmail drafts, updates tracker.
+Phase 1 (Claude, automated/scheduled): Researches targets in waves of 6, discovers contact emails, checks Gmail for duplicates, saves research to a markdown file.
+Phase 2 (Jonno, manual): Pastes gemini-prompt.md + research targets into Gemini in browser. Gemini generates email copy in batches of 6. Jonno creates Gmail drafts manually.
+Phase 3 (Jonno, manual): Updates outreach-tracker.xlsx and run-log.md after drafts are created. Pushes to GitHub.
 
 ## File Locations
 
 | File | Purpose |
 |------|---------|
-| outreach-tracker.xlsx | Master tracker. Targets tab has all schools/orgs. Run Log tab tracks each run. Existing Clients tab is the do-not-target list. |
-| master-outreach-prompt.md | Full pipeline templates (Pipelines 1-6) with all rules, personalized paragraphs, and follow-up sequences. Copy of the master doc. |
+| outreach-tracker.xlsx | Master tracker. Targets tab has all orgs. 15 columns: Organisation, Acronym, Website, Sector, Pipeline, Contact Name, Contact Title, Email, Email Type, Confidence, Status, Date Added, Date Emailed, Run #, Notes. |
 | run-log.md | Append-only log of every run. Never overwrite, only append. |
-| gemini-brief-YYYY-MM-DD.md | Generated each run for targets needing email discovery. Paste into Gemini. |
-| gemini-results-YYYY-MM-DD.md | Optional. Save Gemini's response here for the record. |
+| gemini-prompt.md | THE master prompt. Copy into Gemini browser, then paste targets after it. Contains all email rules, voice guidelines, pipeline templates, and real sent email examples. |
+| research-ready-YYYY-MM-DD.md | Generated each run by Claude. Contains the researched targets table ready to paste into Gemini. |
+| research-ready-TEMPLATE.md | Template showing the format for research output files. |
+| next-batch.txt | Segment configuration. Defines TARGET_SEGMENTS in order. |
 | how-i-work.txt | This file. Rules and reference data. |
 
 ## Core Rules
 
-1. BATCH SIZE: Always 6 targets per run. No more, no less (unless fewer than 6 remain).
-2. PRIORITY ORDER: Process targets sorted by Priority (1=highest) then Date Added (oldest first).
-3. GMAIL FIRST: Always check Gmail before anything else. It is faster and more reliable.
-4. GEMINI FOR EMAIL DISCOVERY: Gemini handles the quoted-string Google searching and brute-force email format discovery. Claude prepares the brief, Gemini executes, Claude processes results.
-5. NEVER DELETE DATA: Mark records as inactive or update values. Never delete rows from the tracker.
-6. FRESHNESS: Gmail check results are valid for 90 days. If a target was Gmail-checked less than 90 days ago, reuse the findings.
-7. EXISTING CLIENTS: Always cross-check against the Existing Clients tab before drafting. Never email an existing client with a cold template.
+1. BATCH SIZE: Always 6 targets per wave. No more, no less (unless fewer than 6 remain).
+2. SEGMENT ORDER: Process segments in order from next-batch.txt. Exhaust each segment before moving to the next.
+3. GMAIL FIRST: Always check Gmail for prior contact with each target's domain before including them.
+4. NEVER DELETE DATA: Mark records as inactive or update values. Never delete rows from the tracker.
+5. EXISTING CLIENTS: Always cross-check against prior outreach before targeting. Never email someone already contacted.
+6. MAX PER RUN: Up to 100 targets per scheduled run.
+
+## What Claude Does (Phase 1)
+
+For each wave of 6 targets:
+1. Search for organisations matching the current segment from next-batch.txt
+2. For each org: find decision-maker name, title, and email via web search
+3. Check Gmail for prior contact with the org's domain (skip if already contacted)
+4. Check outreach-tracker.xlsx for duplicates (skip if domain already in tracker)
+5. Classify email confidence: CONFIRMED (found on org's own site), HIGH (inferred from confirmed pattern), FALLBACK (generic inbox)
+6. Research what the org does (for the Organisation Notes column, which Gemini uses to personalise)
+7. Save everything to research-ready-YYYY-MM-DD.md
+8. Push research file to GitHub
+
+Claude does NOT create Gmail drafts. Claude does NOT write email copy. That is Gemini's job now.
+
+## What Jonno Does (Phase 2)
+
+1. Open Cowork, review the research-ready file
+2. Open Gemini in browser
+3. Paste the full contents of gemini-prompt.md
+4. Paste the targets table from the research-ready file
+5. Gemini generates emails in batches of 6
+6. Create Gmail drafts manually from Gemini's output
+7. Update outreach-tracker.xlsx (add rows, Status = "Draft created")
+8. Update run-log.md (append wave entry)
+9. Push tracker and run-log to GitHub
 
 ## Pipeline Quick Reference
 
@@ -51,24 +76,30 @@ Phase 3 (Claude): Processes Gemini results, creates Gmail drafts, updates tracke
 - ASBA reference: Full name "The Association of School Business Administrators Australia and New Zealand National Conference in Darwin" for anyone who was NOT at the conference
 - Delegate count: "180+" for Pipeline 5. "200+" for Pipelines 1-4. None for Pipeline 6.
 
-## MCP Servers Required
+## Email Confidence Levels
 
-- Gmail (for Gmail searching and draft creation)
-- No Buffer MCP needed for this workflow
-
-## Cowork Scheduling
-
-- Task name: batch-outreach-6
-- Schedule: Monday, Wednesday, Friday at 8:00am AEST (or on demand)
-- The workflow will pause after Phase 1 if any targets need Gemini research
-- Jonno manually pastes Gemini brief and results to complete Phase 2
-
-## Autonomous Defaults
-
-- Pipeline selection: Use Pipeline column from tracker. If blank, default to Pipeline 2 unless school name contains "Christian", "Lutheran", "Baptist", "Catholic", or "Anglican" (then Pipeline 6).
-- Staff name collection: Collect 10 per target via web search. If fewer than 5 found, note and proceed.
-- Error handling: Skip failed targets, log errors, continue with remaining targets. Always update the tracker and run log even on partial failure.
+- CONFIRMED: Email verified on the organisation's own website or official team page
+- HIGH: Email format inferred from confirmed colleagues at the same org, or role-based (e.g., ceo@)
+- FALLBACK: Generic inbox (info@, admin@, reception@, etc.)
 
 ## Data Broker Sites to IGNORE (for email discovery)
 
-ZoomInfo, RocketReach, ContactOut, SignalHire, Datanyze, Adapt.io, GetProspect, or any paid data broker. Only trust emails confirmed on legitimate third-party pages (government registers, sports sites, education directories, school-published documents).
+ZoomInfo, RocketReach, ContactOut, SignalHire, Datanyze, Adapt.io, GetProspect, or any paid data broker. Only trust emails confirmed on legitimate sources (org websites, government registers, industry directories, published documents).
+
+## Cowork Scheduling
+
+- Task name: batch-outreach
+- Schedule: Monday, Wednesday, Friday at 8:00am AEST (or on demand)
+- Claude runs Phase 1 only (research). Stops after saving research-ready file.
+- Jonno manually runs Phase 2 (Gemini + drafts) when at a computer.
+
+## GitHub Persistence
+
+- Repo: jonno-alt/social-images
+- Path: data/batch-outreach/
+- PAT: [STORED IN COWORK SCHEDULED TASK]
+- Push research-ready files, run-log.md, and outreach-tracker.xlsx after each phase.
+
+## Segment Progress Tracking
+
+Track which segments from next-batch.txt have been completed. At the start of each run, check run-log.md and outreach-tracker.xlsx to determine where to pick up.
