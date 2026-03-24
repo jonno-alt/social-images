@@ -224,36 +224,94 @@ Leadership Team Facilitator | Keynote Speaker | Author (default, topic is genera
 - Pinterest has no boards configured. 7 pins saved but not scheduled.
 - 4 GitHub uploads failed on first attempt but all succeeded on retry.
 
-
 ---
 
-## Additional Posts: 2026-03-24 (Manual Request)
+## Run: 2026-03-24T17:30:00+10:00
 
-**Trigger:** User requested testimonial + service niche posts added to queue
-**Posts Created:** 2
+**Trigger:** Scheduled automatic run
+**Input:** "Signs You're Avoiding a Difficult Conversation" - https://www.consultclarity.org/post/signs-avoiding-difficult-conversation
+**Content Calendar Row:** 10
 
-### 1. Testimonial: Edward Amey - Best Leadership Offsite
-- Source: consultclarity.org/testimonials
-- 5 slides (cover + 3 quote slides + CTA)
-- Scheduled on 8 platforms (LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky)
-- YouTube: daily limit. Pinterest: no boards.
-- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+### Carousels Built
 
-### 2. Service Niche: The Human Side of AI in Schools
-- 6 slides (cover + challenge + what you get + how it works + social proof + CTA)
-- Keynote for school leaders navigating AI change
-- Combined with Working Genius framework
-- Scheduled on 8 platforms
-- Footer role: Certified Working Genius Facilitator | Author
+| Carousel | Slides | Folder |
+|----------|--------|--------|
+| avoiding-conversations-internal-battle | 8 | avoiding-conversations-internal-battle-2026-03-24 |
+| avoiding-conversations-management-workaround | 8 | avoiding-conversations-management-workaround-2026-03-24 |
+| avoiding-conversations-escalation-pattern | 8 | avoiding-conversations-escalation-pattern-2026-03-24 |
+| avoiding-conversations-breaking-point | 8 | avoiding-conversations-breaking-point-2026-03-24 |
 
-### Scheduling Summary
-- 16 posts scheduled (2 carousels x 8 platforms)
-- All using automatic scheduling, addToQueue mode
-- YouTube skipped (daily limit reached earlier in run)
-- Pinterest skipped (no boards configured)
+**Total slides:** 32 (8 per carousel x 4 carousels)
+**Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 4 MP4 files (1080x1920, 4s per slide, h264 CRF 23)
+**Pinterest pins:** 4 (1000x1500)
+**Footer role:** Leadership Team Facilitator | Keynote Speaker | Author
 
-### Native Action Items
-- LinkedIn: Add @mentions natively if not 1st-degree
-- Facebook: Add personal profile tags
-- X/Twitter: Add photo tags natively
-- Instagram: Verify photo tags applied correctly
+### Decisions Made
+
+- Blog post split into 4 carousels by theme: Internal Battle (signs 1-3), Management Workaround (signs 4-6), Escalation Pattern (signs 7-10), Breaking Point (signs 11-13)
+- Footer role set to default (difficult conversations topic, no specific keyword match for school/Working Genius/offsite/etc.)
+- Instagram photo tags applied to cover slide of each carousel: @brenebrown, @simonsinek, @patricklencioniofficial, @kimmalonescott, @adamgrant
+- Pinterest skipped because channel has no boards configured
+- YouTube skipped because daily post limit (10) already reached from previous runs
+- Bluesky carousel 4 first attempt failed (image dimension fetch error), retried with 2 images successfully
+
+### Platforms Scheduled
+
+| Platform | Carousels 1-4 | Notes |
+|----------|--------------|-------|
+| LinkedIn | 4/4 | Square images, 200-400 word posts, no hashtags |
+| Facebook | 4/4 | Square images, short captions |
+| Instagram | 4/4 | Portrait images, photo tags + caption mentions, 5 hashtags |
+| Threads | 4/4 | Square images, 1 topic tag (#leadership) |
+| X/Twitter | 4/4 | 4 square images max, @BreneBrown mention on C1 |
+| Google Business | 4/4 | 1 square image, learn_more button |
+| TikTok | 4/4 | Video, short captions with hashtags |
+| YouTube | 0/4 | BLOCKED: Daily limit reached (10 posts/day) |
+| Bluesky | 4/4 | 4 square images max, link attachment |
+| Pinterest | 0/4 | SKIPPED: No boards configured |
+
+### Handle Research
+
+- Added Brene Brown (LinkedIn, X, Instagram, TikTok, Facebook confirmed)
+- Added Chartered Management Institute (X: @cmi_managers, Facebook confirmed)
+- Added Gallup (LinkedIn, X, Facebook confirmed)
+- Existing handles reused: Simon Sinek, Patrick Lencioni, Kim Scott, Adam Grant (all verified within 90 days)
+
+### Errors and Warnings
+
+- YouTube: Daily post limit (10) reached. All 4 YouTube videos need manual scheduling or will be queued on next available day.
+- Pinterest: No boards configured on channel. Cannot schedule pins.
+- Bluesky C4: First attempt failed with "Failed to fetch image dimensions: Internal Server Error". Retried with 2 images instead of 4, succeeded.
+- GitHub clone failed due to disk space (repo 336MB, only 940MB available). Used Contents API for all uploads instead.
+
+### Native Action Items for Jonno
+
+1. **LinkedIn (all 4 posts):** Add personal profile tags natively if desired (Brene Brown, Simon Sinek, Patrick Lencioni, Kim Scott, Adam Grant). Buffer only supports 1st-degree connections.
+2. **Facebook (all 4 posts):** Add personal profile tags natively (cannot tag personal profiles via API, only pages).
+3. **X/Twitter (all 4 posts):** Add up to 10 photo tags natively (Buffer cannot add photo tags via API).
+4. **TikTok (all 4 posts):** Consider replacing Buffer short captions with full native captions:
+   - C1: "57% of people would do anything to avoid a difficult conversation. Here are 3 signs the battle is all in your head. Stop rehearsing. Start scheduling. Email jonno@consultclarity.org for my book Step Up or Step Out. #leadership #difficultconversations #management #leadershipdevelopment #teamculture"
+   - C2: "Over 80% of workers hold back from challenging conversations. Are you managing around the problem? These 3 signs say yes. Email jonno@consultclarity.org for a proven framework. #leadership #management #teambuilding #difficultconversations #accountability"
+   - C3: "Hope is not a management strategy. 4 signs the cost of avoidance is compounding. The conversation you dread is the one your team is waiting for. jonno@consultclarity.org #leadership #difficultconversations #accountability #teamculture #management"
+   - C4: "People do not leave because of the difficult person. They leave because leadership would not address them. Have the conversation this week. jonno@consultclarity.org #leadership #teamculture #management #difficultconversations #leadershipdevelopment"
+5. **YouTube (all 4 videos):** Schedule manually. Videos uploaded to GitHub:
+   - C1: https://raw.githubusercontent.com/jonno-alt/social-images/main/carousels/avoiding-conversations-internal-battle-2026-03-24/avoiding-conversations-internal-battle-video.mp4
+   - C2: https://raw.githubusercontent.com/jonno-alt/social-images/main/carousels/avoiding-conversations-management-workaround-2026-03-24/avoiding-conversations-management-workaround-video.mp4
+   - C3: https://raw.githubusercontent.com/jonno-alt/social-images/main/carousels/avoiding-conversations-escalation-pattern-2026-03-24/avoiding-conversations-escalation-pattern-video.mp4
+   - C4: https://raw.githubusercontent.com/jonno-alt/social-images/main/carousels/avoiding-conversations-breaking-point-2026-03-24/avoiding-conversations-breaking-point-video.mp4
+6. **Pinterest:** Configure boards on Pinterest channel in Buffer, then schedule pins manually. Pin images uploaded to GitHub.
+7. **Instagram (all 4 posts):** Verify photo tags applied correctly after posting.
+
+### Excel Files Updated
+
+- handle-database.xlsx: Added Brene Brown, Chartered Management Institute, Gallup
+- content-calendar.xlsx: Marked "Signs You're Avoiding a Difficult Conversation" as "Carousel Created"
+- carousel-log.xlsx: Added 4 new carousel entries
+
+### Output Files
+
+- 96 carousel slide PNGs (32 slides x 3 sizes)
+- 4 Pinterest pin PNGs
+- 4 MP4 videos
+- All uploaded to GitHub: https://github.com/jonno-alt/social-images/tree/main/carousels/
