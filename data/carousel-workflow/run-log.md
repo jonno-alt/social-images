@@ -122,3 +122,104 @@
 - **Details:** All 7 rows in content-calendar.xlsx have Carousel Status = "Carousel Created". No rows with status "Not Started" found.
 - **Action:** None required. Add new blog post URLs to content-calendar.xlsx with status "Not Started" to queue future carousel builds.
 - **Errors:** None
+
+---
+
+## Run: 2026-03-24 (Scheduled)
+
+**Trigger:** Scheduled automated run
+**Input:** "Handle the Brilliant Jerk at Work" - https://www.consultclarity.org/post/handle-brilliant-jerk-work
+**Source:** Content calendar row 8 (first "Not Started" entry)
+
+### Carousels Built (7 total)
+1. **The Brilliant Jerk Problem** - 8 slides (cover + 6 content + CTA)
+2. **Recognise the Real Cost** - 8 slides
+3. **Diagnose Before You Act** - 8 slides
+4. **Intervene With Structure** - 8 slides
+5. **Reinforce Culture Through Action** - 8 slides
+6. **6 Mistakes Leaders Make With Brilliant Jerks** - 8 slides
+7. **Your First 30 Days Action Plan** - 8 slides
+
+### Image Sizes
+- Square (1080x1080): LinkedIn, Facebook, X/Twitter, Threads, Google Business, Bluesky
+- Portrait (1080x1350): Instagram
+- Vertical (1080x1920): Video source, TikTok backup
+- Pinterest pin (1000x1500): Generated for each carousel
+
+### Videos
+- 7 vertical MP4 videos (1080x1920, 4s per slide, h264 CRF 23, 30fps)
+- Concat demuxer approach, cream letterboxing
+
+### GitHub Upload
+- Repository: jonno-alt/social-images
+- 182 files uploaded (178 first pass + 4 retried successfully)
+- Folders: carousels/[name]-2026-03-24/{square,portrait,vertical}/
+
+### Scheduling Results
+**Platforms scheduled (56 posts total across 7 carousels):**
+- LinkedIn: 7/7 scheduled (automatic, addToQueue)
+- Facebook: 7/7 scheduled
+- Instagram: 7/7 scheduled (portrait images, photo tags on slide 1)
+- Threads: 7/7 scheduled (with topic tag "leadership")
+- X/Twitter: 7/7 scheduled (under 280 chars)
+- Google Business: 7/7 scheduled (whats_new with learn_more button)
+- TikTok: 7/7 scheduled (video, under 150 chars)
+- Bluesky: 7/7 scheduled (with link attachment)
+
+**Platforms NOT scheduled:**
+- YouTube: Hit daily limit (10 posts/day). All 7 videos need manual scheduling.
+- Pinterest: No boards configured. All 7 pins need board setup first.
+
+### Footer Role Used
+Leadership Team Facilitator | Keynote Speaker | Author (default, topic is general leadership/team dynamics)
+
+### Decisions Made
+1. Blog sections mapped to 7 carousels covering all major themes
+2. Used default footer role (topic covers general leadership, not specifically schools/Working Genius/coaching)
+3. Step numbers used on carousels 2-6 where tips are numbered
+4. Instagram photo tags: @simonsinek, @adamgrant, @patricklencioniofficial, @bylizwiseman, @kimmalonescott (verified public accounts)
+5. X/Twitter kept under 280 chars with no @mentions in text (documented for native tagging)
+6. TikTok kept under 150 chars
+
+### Handle Research Summary
+- 13 people researched: Robert Sutton, Kim Scott, Amy Edmondson, Simon Sinek, Reed Hastings, Patrick Lencioni, Liz Wiseman, Tessa West, Adam Grant, Dave Bailey, Kathryn Landis, Tim Duggan, Achim Nowak
+- All added to handle-database.xlsx with verified handles
+- Most active on LinkedIn and X/Twitter
+- Limited Bluesky/Threads presence across group
+
+### Native Action Items Pending
+
+**LinkedIn (all 7 posts):**
+- Add @mentions natively if not 1st-degree connections: Robert Sutton, Kim Scott, Amy Edmondson, Simon Sinek, Patrick Lencioni, Liz Wiseman, Tessa West, Adam Grant
+
+**Facebook (all 7 posts):**
+- Add personal profile tags natively (Buffer only supports Page tags)
+
+**X/Twitter (all 7 posts):**
+- Add photo tags natively (up to 10): @simonsinek, @AdamMGrant, @AmyCEdmondson, @kimballscott, @LizWiseman, @patricklencioni, @TessaWestNYU, @work_matters, @davesuperman, @AchimNowak
+
+**Instagram (all 7 posts):**
+- Verify all photo tags applied correctly after posting
+
+**TikTok (all 7 posts):**
+- Standard posts (under 150 chars). No native caption needed.
+
+**YouTube (all 7 videos - NOT SCHEDULED):**
+- Schedule manually via YouTube Studio or Buffer when daily limit resets
+- Video URLs in GitHub: carousels/[name]-2026-03-24/[name]-video.mp4
+- Add @channel mentions in YouTube Studio
+
+**Pinterest (all 7 pins - NOT SCHEDULED):**
+- Create a board first (e.g., "Leadership Tips")
+- Then schedule pins with pin.png images from each carousel folder
+
+### Excel Files Updated
+- content-calendar.xlsx: Row "Handle the Brilliant Jerk at Work" marked as "Carousel Created"
+- carousel-log.xlsx: 7 new rows added
+- handle-database.xlsx: 13 new handle entries added
+
+### Errors/Warnings
+- Disk space limited (91% used). Could not git clone. Used Contents API for uploads instead.
+- YouTube daily post limit reached (10/day). 7 videos need manual scheduling.
+- Pinterest has no boards configured. 7 pins saved but not scheduled.
+- 4 GitHub uploads failed on first attempt but all succeeded on retry.
