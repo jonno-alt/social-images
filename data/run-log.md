@@ -76,3 +76,33 @@
 - YouTube scheduled: 2026-03-31 via customScheduled (March 31 had 5 posts)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
 - Issues: None. All 17 people are new to the database. Strong mix of academics (Heen, Goldman-Wetzler), practitioners (Eddy, Liddle, Cloke, Noble, Pollack), content creators (Fisher, Christian, Lenski, Hurdle), authors/journalists (Ripley, Caspersen, Gallo, Davey, Parker, Regier), and international voices (Liddle-UK, Noble-Canada). Jefferson Fisher is the standout social media presence with 8M+ followers. Bill Eddy, Kenneth Cloke, David Liddle, and Cinnie Noble have minimal social media presence but are deep domain specialists.
+
+## Organizational Culture — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: organizational-culture
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-04 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-04 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached on initial attempt, used customScheduled for April 4. All 17 people are new to the database. Strong mix of Global Gurus ranked professionals (Mary Kelly #5, Monte Wyatt #12, Chris Dyer #15, James Ferguson #20), bestselling authors (Daniel Coyle, Kim Scott, Adrian Gostick), platform founders (Didier Elzinga - Culture Amp), and content creators (Laura Whaley - TikTok).
+
+## Adaptive Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: adaptive-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-05 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-05)
+- Issues: None. All 17 people are new to the database. This is a niche academic topic — the roster centers on the Harvard adaptive leadership framework founders (Heifetz, Linsky, Grashow) and their intellectual ecosystem (Parks, Williams, Kegan, Lahey, Ancona). Kansas Leadership Center (O'Malley, Fabris McBride) represents the largest civic application. Most people have minimal social media presence as they are academics/consultants rather than content creators.
+
+## School Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: school-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-06 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-06)
+- Issues: None. All 17 people are new to the database. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of prolific authors (Todd Whitaker - 60+ books), YouTube/podcast hosts (Baruti Kafele, Danny Bauer, Joshua Stamper), viral educators (Hamish Brewer - Relentless Principal), and practicing principals (Sanée Bell, Jessica Cabeen, Rachael George, Jen Schwanke). Good social media presence across the roster.
