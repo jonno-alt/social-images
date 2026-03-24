@@ -157,3 +157,73 @@
 - Total Buffer posts scheduled: 172 (90 from Run #1 + 82 from Run #2)
 - Total carousel assets on GitHub: 500 (480 PNGs + 20 videos)
 - Series coverage: All 6 series have 4 stories each (balanced). Series 1-2 have extra FICTIONAL coverage.
+
+---
+
+## Run #3 - 2026-03-25
+
+**Timestamp:** 2026-03-25T09:17:00Z (19:17 AEST)
+**Stories Created:** 10 (Stories #21-30)
+**Batch Size:** 10 (default)
+
+### Stories in This Batch
+
+| # | Series | Type | Hook | Slug |
+|---|--------|------|------|------|
+| 21 | The Leader Who Thought It Was a People Problem | FICTIONAL | She fired three coordinators. The role was the problem. | fired-three-coordinators-same-role |
+| 22 | The Question That Changed Everything | FICTIONAL | One question ended the meeting. And started the real one. | asked-what-are-we-avoiding |
+| 23 | The Moment They Saw It | FICTIONAL | The team was working hard. On completely different things. | mapped-the-workflow-saw-the-gap |
+| 24 | The Cost of Getting It Wrong | FICTIONAL | The project failed once. Then failed the exact same way. | skipped-the-debrief-repeated-the-failure |
+| 25 | The Team That Looks Fine But Isn't | TRUE | They owned 50% of the market. Fear owned 100% of the culture. | nokia-looked-unbeatable-crumbled |
+| 26 | The Meeting That Changed Everything | TRUE | Apple was 90 days from bankrupt. He fired the entire board. | jobs-told-apple-board-resign |
+| 27 | The Leader Who Thought It Was a People Problem | TRUE | They fired 5,300 employees. The CEO built the system. | wells-fargo-blamed-5300-employees |
+| 28 | The Question That Changed Everything | TRUE | They studied 180 teams. Talent was not the answer. | google-asked-what-makes-teams-work |
+| 29 | The Moment They Saw It | TRUE | Every chart was green. The company was losing $17 billion. | mulally-ford-all-green-losing-billions |
+| 30 | The Cost of Getting It Wrong | TRUE | Revenue hit $100 billion. Almost none of it was real. | enron-punished-dissent-rewarded-fraud |
+
+### Decisions Made
+
+- Third run. Loaded story-tracker.xlsx from GitHub repo (20 stories from Runs #1-2).
+- Prioritized series 3-6 (fewest at 3 each) for stories 21-24 as FICTIONAL.
+- Stories 25-30 added TRUE stories across all 6 series.
+- TRUE stories: Nokia, Apple/Jobs 1997, Wells Fargo, Google Project Aristotle, Ford/Mulally, Enron.
+
+### GitHub
+
+- Commit: dd7cbba
+- 250 files added: 10 stories x (8 slides x 3 sizes + 1 video)
+
+### Buffer Posts by Platform
+
+| Platform | Posts | Mode | Notes |
+|----------|-------|------|-------|
+| LinkedIn | 10 | addToQueue | Square images, all 8 slides |
+| Facebook | 10 | addToQueue | Square images, all 8 slides |
+| Instagram | 10 | addToQueue | Portrait images, all 8 slides |
+| Threads | 10 | addToQueue | Square images, all 8 slides |
+| X/Twitter | 10 | addToQueue | Square slides 1,4,5,8 |
+| Google Business | 10 | addToQueue | Square slide 1, whats_new |
+| Bluesky | 10 | addToQueue | Square slides 1,4,5,8 |
+| TikTok | 10 | customScheduled | Daily limit. Staggered Apr 1-10, 10:00 AEST |
+| YouTube | 9 | customScheduled | Stories 21-22 addToQueue, 23-29 customScheduled. Story 30 failed (429) |
+| Pinterest | 0 | SKIPPED | No boards configured |
+| **Total** | **89** | | 1 failed (YouTube #30) |
+
+### Errors
+
+1. TikTok daily limit (Story 21): switched to customScheduled Apr 1-10.
+2. YouTube daily limit (Story 23): switched to customScheduled Apr 1-8.
+3. Buffer 429 (Story 30 YouTube): 2 retries exhausted. Needs manual scheduling.
+
+### Items for Review
+
+- Story 30 YouTube needs manual scheduling.
+- Pinterest skipped (no boards).
+- TikTok: Apr 1-10. YouTube: Apr 1-8 (Story 30 missing).
+
+### Running Totals
+
+- Total stories: 30
+- Total Buffer posts: 261 (90 + 82 + 89)
+- Total GitHub assets: 750 (720 PNGs + 30 videos)
+- Series coverage: All 6 series have 5 stories each (balanced).
