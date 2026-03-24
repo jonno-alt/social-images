@@ -56,3 +56,13 @@
 - YouTube scheduled: 2026-03-29 via customScheduled (March 29 had only 3 posts)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
 - Issues: Several niche coaching culture specialists (Peter Hawkins, Jonathan Passmore, Thomas Crane, Gillian Jones, Ro Gorell, Julie Starr, Sarah Wirth, Behnam Bakhshandeh) have minimal social media presence. JP Nerbun/TOC Culture Consulting are the most social-media-active people on this list. Some GitHub uploads needed retries due to API rate limits. All 17 people are new to the database — zero overlap with previous 75 names.
+
+## Strategic Planning — 2026-03-24
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: strategic-planning
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-30 via customScheduled (March 30 had only 2 posts)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars)
+- Issues: None. All 17 people are new to the database. Strong mix of academics (Martin, McGrath, Mintzberg, Mauborgne, Bryson), practitioners (Horwath, Olsen, Kenny, Latham, Krippendorff), authors (Bungay, Pelard, McKeown, Kraaijenbrink), and innovation/design strategists (Osterwalder, Viki, Solomon). Good international coverage: Australia (Kenny), Netherlands (Kraaijenbrink), UK (Pelard, McKeown, Bungay), Canada (Mintzberg), France/INSEAD (Mauborgne). Ann Latham and John Bryson have minimal social media presence.
