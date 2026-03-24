@@ -30,5 +30,60 @@
     "top_competitor_item_count": 6,
     "our_word_count": 2822,
     "our_item_count": 21
+  },
+  "handle_registry": {
+    "tier_1": [
+      {
+        "name": "Patrick Lencioni",
+        "linkedin": "https://www.linkedin.com/in/patrick-lencioni-orghealth/",
+        "x": "@patricklencioni",
+        "instagram": "@patricklencioniofficial"
+      },
+      {
+        "name": "Cody Thompson",
+        "linkedin": "https://www.linkedin.com/in/cody-thompson-a5918850/"
+      },
+      {
+        "name": "Anna Barnhill",
+        "linkedin": "https://www.linkedin.com/in/annabarnhill/",
+        "instagram": "@annabarnhill_coach"
+      }
+    ],
+    "tier_2": [
+      {
+        "name": "Greg Harrod",
+        "linkedin": "https://www.linkedin.com/in/gregharrod/"
+      },
+      {
+        "name": "Gina Lincoln",
+        "linkedin": "https://www.linkedin.com/in/ginalincoln/"
+      },
+      {
+        "name": "Jacklyn Shirley",
+        "linkedin": "https://www.linkedin.com/in/jacklyn-shirley-a8275a77/"
+      },
+      {
+        "name": "Tara Nesser",
+        "linkedin": "https://www.linkedin.com/in/taranesser/"
+      }
+    ],
+    "tier_3": [
+      {
+        "name": "Kathy Caprino",
+        "linkedin": "https://www.linkedin.com/in/kathycaprino/"
+      },
+      {
+        "name": "Jenna Kutcher",
+        "linkedin": "https://www.linkedin.com/in/jennakutcher/"
+      },
+      {
+        "name": "Leadr",
+        "instagram": "@leadrinc"
+      },
+      {
+        "name": "Dale Carnegie",
+        "linkedin": "https://www.linkedin.com/company/dale-carnegie/"
+      }
+    ]
   }
 }
