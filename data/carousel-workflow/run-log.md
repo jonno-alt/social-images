@@ -315,3 +315,87 @@ Leadership Team Facilitator | Keynote Speaker | Author (default, topic is genera
 - 4 Pinterest pin PNGs
 - 4 MP4 videos
 - All uploaded to GitHub: https://github.com/jonno-alt/social-images/tree/main/carousels/
+
+---
+
+## Run: 2026-03-24 ~18:30 AEST
+
+**Trigger:** Scheduled automated run
+**Blog Post:** Why Good Teachers Leave Schools
+**URL:** https://www.consultclarity.org/post/why-good-teachers-leave-schools
+
+### Carousels Built (7)
+1. teachers-daily-energy-drain (7 slides) - Reasons 1-5: reactive mode, pastoral overload, task switching, role mismatch, competence trap
+2. teachers-leadership-behaviours (7 slides) - Reasons 6-10: inconsistent backing, micromanagement, change saturation, negative feedback, niceness vs care
+3. teachers-loss-of-autonomy (7 slides) - Reasons 11-15: low voice, erosion of autonomy, moral injury, no career paths, shifting goalposts
+4. teachers-systemic-failures (7 slides) - Reasons 16-20: admin overload, meeting bloat, timetable design, data demands, learner complexity
+5. teachers-breaking-points (7 slides) - Reasons 21-25: underperformance, toxic positivity, always-on, parent conflict, life-stage mismatch
+6. teachers-5-mistakes-principals (7 slides) - 5 common principal misconceptions about retention
+7. teachers-what-principals-can-do (7 slides) - 5 practical actions for this term
+
+### Image Sizes
+- Square: 1080x1080 (LinkedIn, Facebook, X/Twitter, Threads, Google Business, Bluesky)
+- Portrait: 1080x1350 (Instagram)
+- Vertical: 1080x1920 (TikTok video source)
+- Pinterest pin: 1000x1500
+
+### Videos
+- 7 vertical MP4s (1080x1920, 4s/slide, concat demuxer, h264 CRF 23)
+
+### Footer Role
+- "Certified Working Genius Facilitator | Author | Keynote Speaker" (school topic)
+
+### Decisions Made
+- 7 carousels covering all 25 reasons plus mistakes and practical guide sections
+- Topic keyword "school" matched footer role to "Certified Working Genius Facilitator | Author"
+- Grouped 25 reasons into 5 groups of 5, matching the blog's section structure
+- Added 2 additional carousels for "mistakes" and "practical guide" sections
+- 7 slides per carousel: 1 cover + 5 content + 1 CTA
+
+### Platforms Scheduled
+- LinkedIn: 7 posts scheduled (automatic, addToQueue)
+- Facebook: 7 posts scheduled
+- Instagram: 7 posts scheduled (portrait images, photo tags + caption mentions)
+- Threads: 7 posts scheduled
+- X/Twitter: 7 posts scheduled (max 4 images per post)
+- Google Business: 7 posts scheduled (1 image, whats_new with learn_more button)
+- TikTok: 7 posts scheduled (video)
+- Bluesky: 7 posts scheduled (max 4 images, link attachment)
+
+### Platforms NOT Scheduled
+- YouTube: Hit daily limit (10 posts max). All 7 videos need manual upload.
+- Pinterest: No boards configured. Skipped. Pin images uploaded to GitHub.
+
+### Handle Research Summary
+- 17 new handles added to handle-database.xlsx
+- New individuals: Richard Ingersoll, Linda Darling-Hammond, Andy Hargreaves, Michael Fullan, Viviane Robinson, Elena Aguilar, Todd Whitaker, Chase Mielke, Jack Worth, David Rock
+- New organizations: RAND Corporation, Learning Policy Institute, OECD Education, ASCD, WeAreTeachers, NFER, McKell Institute
+- Existing handles reused: Patrick Lencioni, Adam Grant, Brene Brown, Simon Sinek, Gallup
+
+### GitHub Upload
+- All carousel images and videos uploaded via Contents API
+- 1 file failed (teachers-loss-of-autonomy/square/slide_06.png) due to rate limiting - needs manual retry
+- Data files pushed via Contents API
+
+### Errors and Warnings
+- YouTube daily limit reached (10 posts max per day from previous runs)
+- Pinterest no boards configured (same as previous runs)
+- GitHub rate limiting caused 1 image upload failure
+- X/Twitter first attempt for Carousel 1 exceeded 280 chars, fixed on retry
+
+### Native Action Items Pending
+- YouTube: Upload all 7 videos manually via YouTube Studio
+- Facebook: Add personal profile tags natively (API only supports Page tags)
+- X/Twitter: Add photo tags natively for all 7 posts (10 tags each)
+- Instagram: Verify photo tags applied correctly for all 7 posts
+- Pinterest: Configure boards, then schedule pins manually
+- GitHub: Retry upload of teachers-loss-of-autonomy/square/slide_06.png
+
+### Excel Files Updated
+- handle-database.xlsx: 17 new entries added, all marked ACTIVE
+- content-calendar.xlsx: "Why Good Teachers Leave Schools" marked as "Carousel Created"
+- carousel-log.xlsx: 7 new rows added
+
+### Output Files
+- 7 carousel folders in GitHub: carousels/{name}-2026-03-24/
+- Each folder: square/, portrait/, vertical/ subdirs + pin.png + video.mp4
