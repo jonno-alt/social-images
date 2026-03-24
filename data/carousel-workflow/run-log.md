@@ -399,3 +399,97 @@ Leadership Team Facilitator | Keynote Speaker | Author (default, topic is genera
 ### Output Files
 - 7 carousel folders in GitHub: carousels/{name}-2026-03-24/
 - Each folder: square/, portrait/, vertical/ subdirs + pin.png + video.mp4
+
+## Run: 2026-03-24 (Scheduled)
+
+**Trigger:** Scheduled automated run
+**Input:** New Leader Identity Grief - https://www.consultclarity.org/post/new-leader-identity-grief
+**Topic Keywords:** new leader, identity, grief, transition
+**Footer Role:** Leadership Team Facilitator | Keynote Speaker | Author
+
+### Carousels Built (7)
+1. identity-grief-friendship-shift (6 slides) - Signs 1-3: The Friendship Shift
+2. identity-grief-expert-identity-loss (6 slides) - Signs 4-6: The Expert Identity Loss
+3. identity-grief-imposter-crisis (6 slides) - Signs 7-9: The Imposter Crisis
+4. identity-grief-loneliness (6 slides) - Signs 10-12: The Loneliness Nobody Warned You About
+5. identity-grief-identity-vacuum (6 slides) - Signs 13-15: The Identity Vacuum
+6. identity-grief-emotional-tax (6 slides) - Signs 16-18: The Emotional Tax
+7. identity-grief-rebuilding (7 slides) - Signs 19-23: Rebuilding Your Leadership Identity
+
+### Image Sizes
+- Square: 1080x1080 (LinkedIn, Facebook, X/Twitter, Threads, Google Business, Bluesky)
+- Portrait: 1080x1350 (Instagram)
+- Vertical: 1080x1920 (Video source, TikTok backup)
+- Pinterest Pin: 1000x1500
+
+### Videos Built (7)
+All 7 carousels converted to 1080x1920 vertical MP4 (4 sec/slide, h264, CRF 23, 30fps)
+
+### GitHub Upload
+All images and videos uploaded to jonno-alt/social-images via Contents API.
+Folders: carousels/identity-grief-*-2026-03-24/
+
+### Handle Research
+Added 16 new entries to handle-database.xlsx:
+Herminia Ibarra, Liz Fosslien, Julie Zhuo, Michael Bungay Stanier, Marshall Goldsmith,
+Linda A. Hill, Ram Charan, Ronald Heifetz, Justin Bariso, Sara Canaday, Rachel Pacheco,
+Tessa Brock, Glenn Birkelev, RHR International, KPMG, Wharton Executive Education
+
+### Scheduling Results
+- LinkedIn: 7/7 scheduled (automatic, addToQueue)
+- Facebook: 7/7 scheduled (automatic, addToQueue)
+- Instagram: 7/7 scheduled (portrait images, automatic, addToQueue)
+- Threads: 7/7 scheduled (square images, automatic, addToQueue)
+- X/Twitter: 7/7 scheduled (max 4 square images, automatic, addToQueue)
+- Google Business: 7/7 scheduled (1 image + learn_more CTA, automatic, addToQueue)
+- TikTok: 4/7 scheduled (video only). Parts 5-7 hit daily limit (25 posts/day).
+- YouTube: 0/7 scheduled. Hit daily limit (10 posts/day).
+- Bluesky: 7/7 scheduled (max 4 square images + link attachment, automatic, addToQueue)
+- Pinterest: 0/7. No boards configured on the Pinterest channel.
+
+**Total: 53 posts scheduled across 8 platforms**
+
+### Native Action Items Pending
+1. **TikTok**: Schedule parts 5-7 manually when daily limit resets
+   - Part 5: "Who am I now?" The identity vacuum of leadership #LeadershipIdentity #LeadershipGrief #NewManager #Leadership
+   - Part 6: The emotional tax nobody puts in the job description #EmotionalIntelligence #LeadershipGrief #NewManager #Burnout
+   - Part 7: 5 signs you're rebuilding your leadership identity #LeadershipGrowth #LeadershipGrief #NewManager #Leadership
+   - Videos at: carousels/identity-grief-identity-vacuum-2026-03-24/, carousels/identity-grief-emotional-tax-2026-03-24/, carousels/identity-grief-rebuilding-2026-03-24/
+
+2. **YouTube**: Schedule all 7 videos when daily limit resets
+   - Use vertical videos from each carousel folder
+   - Category: 27 (Education), Privacy: public
+   - Titles: "[Section Name]: New Leader Identity Grief (Part N/7)"
+
+3. **Pinterest**: Configure boards on Pinterest channel, then schedule pin
+   - Pin image at: carousels/new-leader-identity-grief-2026-03-24/pin.png
+
+4. **LinkedIn**: Add photo tags natively if 10+ people tagged (standard text @mentions used)
+
+5. **X/Twitter**: Add photo tags natively (up to 10 per post)
+
+6. **Instagram**: Verify all photo tags applied correctly after Buffer publishes
+
+### Decisions Made
+- Used default footer role "Leadership Team Facilitator | Keynote Speaker | Author" (no specific keyword match)
+- Split blog into 7 carousels matching the 7 section categories
+- Signs 19-23 (Rebuilding) grouped into one larger carousel (7 slides) since it's the resolution section
+- Used under 150 chars for TikTok captions (Path 1 standard)
+- Skipped Pinterest (no boards configured)
+- Limited X/Twitter to 4 images per post per platform rules
+
+### Errors/Warnings
+- TikTok: Daily limit reached after 4 posts (parts 5-7 need manual scheduling)
+- YouTube: Daily limit reached (0 posts scheduled, all 7 need manual scheduling)
+- Pinterest: No boards configured on channel (pin image created but not scheduled)
+- GitHub upload: One transient connection error on emotional-tax slide_03 (retried successfully)
+
+### Excel Files Updated
+- content-calendar.xlsx: Marked "New Leader Identity Grief" as "Carousel Created"
+- handle-database.xlsx: Added 16 new handles
+- carousel-log.xlsx: Added 7 new carousel entries
+
+### Output Files
+- 7 carousel folders with square/portrait/vertical PNGs + MP4 video each
+- 1 Pinterest pin (1000x1500)
+- All hosted on GitHub at jonno-alt/social-images
