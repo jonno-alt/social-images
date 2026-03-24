@@ -223,3 +223,37 @@ Leadership Team Facilitator | Keynote Speaker | Author (default, topic is genera
 - YouTube daily post limit reached (10/day). 7 videos need manual scheduling.
 - Pinterest has no boards configured. 7 pins saved but not scheduled.
 - 4 GitHub uploads failed on first attempt but all succeeded on retry.
+
+
+---
+
+## Additional Posts: 2026-03-24 (Manual Request)
+
+**Trigger:** User requested testimonial + service niche posts added to queue
+**Posts Created:** 2
+
+### 1. Testimonial: Edward Amey - Best Leadership Offsite
+- Source: consultclarity.org/testimonials
+- 5 slides (cover + 3 quote slides + CTA)
+- Scheduled on 8 platforms (LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky)
+- YouTube: daily limit. Pinterest: no boards.
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+
+### 2. Service Niche: The Human Side of AI in Schools
+- 6 slides (cover + challenge + what you get + how it works + social proof + CTA)
+- Keynote for school leaders navigating AI change
+- Combined with Working Genius framework
+- Scheduled on 8 platforms
+- Footer role: Certified Working Genius Facilitator | Author
+
+### Scheduling Summary
+- 16 posts scheduled (2 carousels x 8 platforms)
+- All using automatic scheduling, addToQueue mode
+- YouTube skipped (daily limit reached earlier in run)
+- Pinterest skipped (no boards configured)
+
+### Native Action Items
+- LinkedIn: Add @mentions natively if not 1st-degree
+- Facebook: Add personal profile tags
+- X/Twitter: Add photo tags natively
+- Instagram: Verify photo tags applied correctly
