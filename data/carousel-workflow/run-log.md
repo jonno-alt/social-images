@@ -583,3 +583,80 @@ Tessa Brock, Glenn Birkelev, RHR International, KPMG, Wharton Executive Educatio
 - Each with square/, portrait/, vertical/ subdirs + video + pin
 - Total: 168 PNG images + 7 MP4 videos + 7 Pinterest pins = 182 files
 
+
+## Run: 2026-03-25 (Scheduled)
+
+**Trigger:** Scheduled automatic run
+**Blog Post:** Working Genius vs StrengthsFinder: 21 Key Differences
+**URL:** https://www.consultclarity.org/post/working-genius-vs-strengthsfinder-21-key-differences
+
+### Carousels Built
+- wg-vs-sf-purpose: 7 slides (cover + 5 content + CTA)
+- wg-vs-sf-framework: 7 slides (cover + 5 content + CTA)
+- wg-vs-sf-teams: 8 slides (cover + 6 content + CTA)
+- wg-vs-sf-impact: 8 slides (cover + 6 content + CTA)
+
+### Image Sizes
+- Square: 1080x1080 (LinkedIn, Facebook, X/Twitter, Threads, Google Business, Bluesky)
+- Portrait: 1080x1350 (Instagram)
+- Vertical: 1080x1920 (Video source)
+- Pinterest Pin: 1000x1500
+
+### Videos
+- 4 MP4 videos created (1080x1920, 4s per slide, h264 CRF 23, 30fps)
+
+### GitHub Upload
+- All images and videos pushed to jonno-alt/social-images
+- Folders: carousels/wg-vs-sf-purpose-2025-03-25, carousels/wg-vs-sf-framework-2025-03-25, carousels/wg-vs-sf-teams-2025-03-25, carousels/wg-vs-sf-impact-2025-03-25
+
+### Scheduling Results
+- **LinkedIn:** 4 posts scheduled (all 4 carousels) - 200-400 word narratives
+- **Facebook:** 4 posts scheduled - short captions with images
+- **Instagram:** 4 posts scheduled - portrait images with photo tags for @patricklencioniofficial
+- **Threads:** 4 posts scheduled - under 500 chars with 1 topic tag
+- **X/Twitter:** 4 posts scheduled - under 280 chars, 4 images each
+- **Google Business:** 4 posts scheduled - whats_new with learn_more button
+- **Bluesky:** 4 posts scheduled - under 300 chars with link attachment
+- **TikTok:** FAILED - daily limit reached (25 posts max per day)
+- **YouTube:** FAILED - daily limit reached (10 posts max per day)
+- **Pinterest:** SKIPPED - no boards configured in Buffer
+
+### Decisions Made
+- Footer role: "Certified Working Genius Facilitator | Author" (topic is Working Genius)
+- Blog sections split into 4 carousels covering all 21 differences
+- Patrick Lencioni tagged on Instagram (photo tag), mentioned on all text platforms
+- Gallup not tagged (organization, less relevant to carousel content)
+- No em dashes used in any post text
+- No "ranked"/"rating" language used
+- All posts include jonno@consultclarity.org CTA
+
+### Handle Research
+- Patrick Lencioni: all handles verified 2026-03-24 (ACTIVE)
+- Gallup: LinkedIn and X verified 2026-03-24 (ACTIVE)
+- No new handles needed for this article
+
+### Errors/Warnings
+- TikTok daily posting limit reached (25). Videos ready in GitHub for manual scheduling.
+- YouTube daily posting limit reached (10). Videos ready in GitHub for manual scheduling.
+- Pinterest has no boards configured in Buffer. Pin images ready in GitHub.
+- GitHub push required retry due to concurrent commits from other workflow runs.
+
+### Native Action Items Pending
+- LinkedIn: No additional native actions needed (under 5 tags per post)
+- Facebook: Add personal profile tags for Patrick Lencioni natively
+- X/Twitter: Add photo tags natively (10 max)
+- TikTok: Schedule all 4 videos natively (daily limit blocked Buffer)
+- YouTube: Schedule all 4 videos natively (daily limit blocked Buffer)
+- Instagram: Verify photo tags applied correctly for @patricklencioniofficial
+- Pinterest: Configure boards in Buffer, then schedule pins manually
+
+### Excel Files Updated
+- content-calendar.xlsx: Marked "Carousel Created" with date and carousel names
+- carousel-log.xlsx: Added 4 new carousel entries
+- handle-database.xlsx: No changes needed (all handles current)
+
+### Output Files
+- 4 carousels x 3 sizes = 12 image sets (30 total PNGs)
+- 4 Pinterest pins
+- 4 MP4 videos
+- 28 Buffer posts scheduled
