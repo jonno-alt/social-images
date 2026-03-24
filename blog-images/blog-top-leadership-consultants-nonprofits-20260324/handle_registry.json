@@ -1,0 +1,330 @@
+{
+  "tier_1_core": [
+    {
+      "name": "Joan Garry",
+      "company": "Joan Garry Consulting",
+      "linkedin": "https://www.linkedin.com/in/joangarry/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Patrick Lencioni",
+      "company": "The Table Group",
+      "linkedin": "https://www.linkedin.com/in/patrick-lencioni-orghealth/",
+      "twitter": "@patricklencioni",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Anne Wallestad",
+      "company": "BoardSource",
+      "linkedin": "https://www.linkedin.com/in/annewallestad/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Mallory Erickson",
+      "company": "Practivated",
+      "linkedin": "https://www.linkedin.com/in/mallory-erickson-bressler/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Christal M. Cherry",
+      "company": "The Board Pro",
+      "linkedin": "https://www.linkedin.com/in/christalmcherry/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Dan Pallotta",
+      "company": "Advertising for Humanity",
+      "linkedin": "https://www.linkedin.com/in/dan-pallotta-66b3715/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Beth Kanter",
+      "company": "Beth Kanter Consulting",
+      "linkedin": "https://www.linkedin.com/in/bethkanter/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Aly Sterling",
+      "company": "Aly Sterling Philanthropy",
+      "linkedin": "https://www.linkedin.com/in/aly-sterling-9b942029/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    }
+  ],
+  "tier_2_practitioners": [
+    {
+      "name": "Karin Hurt",
+      "company": "Let's Grow Leaders",
+      "linkedin": "https://www.linkedin.com/in/karin-hurt/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Tosha Anderson",
+      "company": "The Charity CFO",
+      "linkedin": "https://www.linkedin.com/in/tosha-anderson-cpa-57489512/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Matt Scott",
+      "company": "CauseMic",
+      "linkedin": "https://www.linkedin.com/in/mscottbba/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Simon Sinek",
+      "company": "Start With Why",
+      "linkedin": "https://www.linkedin.com/in/simonsinek/",
+      "twitter": "@simonsinek",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Brene Brown",
+      "company": "Brene Brown Education",
+      "linkedin": "https://www.linkedin.com/in/brenebrown/",
+      "twitter": "@BreneBrown",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Adam Grant",
+      "company": "Wharton School",
+      "linkedin": "https://www.linkedin.com/in/adammgrant/",
+      "twitter": "@AdamMGrant",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Liz Wiseman",
+      "company": "The Wiseman Group",
+      "linkedin": "https://www.linkedin.com/in/lizwiseman/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "John Maxwell",
+      "company": "Maxwell Leadership",
+      "linkedin": "https://www.linkedin.com/in/johnmaxwell/",
+      "twitter": "@JohnCMaxwell",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Henry Cloud",
+      "company": "Cloud Townsend",
+      "linkedin": "https://www.linkedin.com/in/drhenrycloud/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Susan Cain",
+      "company": "Quiet Revolution",
+      "linkedin": "https://www.linkedin.com/in/susancain/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Kim Scott",
+      "company": "Radical Candor",
+      "linkedin": "https://www.linkedin.com/in/kimballscott/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Marcus Buckingham",
+      "company": "The Marcus Buckingham Company",
+      "linkedin": "https://www.linkedin.com/in/marcusbuckingham/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    }
+  ],
+  "tier_3_broader_leadership": [
+    {
+      "name": "Carey Nieuwhof",
+      "company": "Carey Nieuwhof Communications",
+      "linkedin": "https://www.linkedin.com/in/careynieuwhof/",
+      "twitter": "@caborec",
+      "instagram": "@careynieuwhof",
+      "threads": ""
+    },
+    {
+      "name": "Craig Groeschel",
+      "company": "Life.Church",
+      "linkedin": "https://www.linkedin.com/in/craiggroeschel/",
+      "twitter": "@craiggroeschel",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Andy Stanley",
+      "company": "North Point Ministries",
+      "linkedin": "https://www.linkedin.com/in/andystanley/",
+      "twitter": "@andystanley",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Michael Hyatt",
+      "company": "Full Focus",
+      "linkedin": "https://www.linkedin.com/in/michaelhyatt/",
+      "twitter": "@michaelhyatt",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Lori Mazan",
+      "company": "Sounding Board",
+      "linkedin": "https://www.linkedin.com/in/lorimazan/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Marshall Goldsmith",
+      "company": "Marshall Goldsmith Inc",
+      "linkedin": "https://www.linkedin.com/in/marshallgoldsmith/",
+      "twitter": "@coaborec",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Jim Collins",
+      "company": "Jim Collins LLC",
+      "linkedin": "https://www.linkedin.com/in/jim-collins-Good2Great/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Amy Edmondson",
+      "company": "Harvard Business School",
+      "linkedin": "https://www.linkedin.com/in/amedmondson/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Scott Belsky",
+      "company": "Adobe",
+      "linkedin": "https://www.linkedin.com/in/scottbelsky/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Todd Henry",
+      "company": "Accidental Creative",
+      "linkedin": "https://www.linkedin.com/in/toddhenry/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Michael Bungay Stanier",
+      "company": "Box of Crayons",
+      "linkedin": "https://www.linkedin.com/in/michaelbungaystanier/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Dorie Clark",
+      "company": "Duke Fuqua School of Business",
+      "linkedin": "https://www.linkedin.com/in/doriec/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    }
+  ],
+  "tier_4_organisations": [
+    {
+      "name": "Bridgespan Group",
+      "company": "The Bridgespan Group",
+      "linkedin": "https://www.linkedin.com/company/the-bridgespan-group/",
+      "twitter": "@bridloginspan",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "BoardSource",
+      "company": "BoardSource",
+      "linkedin": "https://www.linkedin.com/company/boardsource/",
+      "twitter": "@boardsource",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "CompassPoint",
+      "company": "CompassPoint Nonprofit Services",
+      "linkedin": "https://www.linkedin.com/company/compasspoint-nonprofit-services/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Center for Creative Leadership",
+      "company": "CCL",
+      "linkedin": "https://www.linkedin.com/company/center-for-creative-leadership/",
+      "twitter": "@CCLdotORG",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Aspen Leadership Group",
+      "company": "ALG",
+      "linkedin": "https://www.linkedin.com/company/aspen-leadership-group/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Nonprofit Leadership Lab",
+      "company": "Joan Garry",
+      "linkedin": "https://www.linkedin.com/company/nonprofitleadershiplab/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "CauseMic",
+      "company": "CauseMic",
+      "linkedin": "https://www.linkedin.com/company/causemic/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    },
+    {
+      "name": "Aly Sterling Philanthropy",
+      "company": "ASP",
+      "linkedin": "https://www.linkedin.com/company/aly-sterling-philanthropy/",
+      "twitter": "",
+      "instagram": "",
+      "threads": ""
+    }
+  ]
+}
