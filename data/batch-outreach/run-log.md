@@ -297,3 +297,23 @@ This is the append-only log of every batch outreach run. NEVER overwrite existin
 - **Status:** Researched - pending Gemini
 - **Skipped targets:** Eventful Projects SA (already contacted vicky@), Conference Design TAS (already contacted mail@/Sarah), Consec ACT (already contacted barry.neame@), Conference Logistics (already contacted leanne@), Event Avenue TAS (no email found), EventSphere TAS (no email found), Events Mate WA (SSL expired, no contact details)
 - **Note:** Conference producer segments for VIC, QLD, WA, SA, TAS, ACT, and NT are now exhausted. Many PCOs in smaller states were already contacted in prior campaigns. Tasmania segment yielded zero new targets (all PCOs already contacted).
+
+### Run 4 - Wave 1 (2026-03-24)
+- **Date:** 2026-03-24
+- **Segment:** Professional and industry associations in Sydney
+- **Pipeline:** 1 (Associations)
+
+| # | Organisation | Contact | Title | Email | Email Type | Confidence | Status |
+|---|-------------|---------|-------|-------|-----------|------------|--------|
+| 1 | Committee for Sydney | Eamon Waterford | CEO | eamon@sydney.org.au | Direct | HIGH | Researched - pending Gemini |
+| 2 | Business Events Sydney (BESydney) | Amanda Lampe | CEO | alampe@besydney.com.au | Direct | HIGH | Researched - pending Gemini |
+| 3 | CBD Sydney Chamber of Commerce | Peter May | Executive Officer | Peter.May@cbdsydneychamber.com.au | Direct | CONFIRMED | Researched - pending Gemini |
+| 4 | Parramatta Chamber of Commerce | Romina Bousimon | General Manager | romina@parramattachamber.com.au | Direct | CONFIRMED | Researched - pending Gemini |
+| 5 | Western Sydney Leadership Dialogue | Adam Leto | CEO | info@westernsydney.org.au | Generic | FALLBACK | Researched - pending Gemini |
+| 6 | Canterbury Bankstown Chamber of Commerce | Wally Mehanna | CEO | ceo@cbchamber.org.au | Direct | CONFIRMED | Researched - pending Gemini |
+
+- **Targets researched this wave:** 6
+- **Running total this run:** 6
+- **Status:** Researched - pending Gemini
+- **Skipped targets:** Business Sydney (already contacted Paul Nicolaou Apr-May 2023), Haymarket Chamber (small precinct), Surry Hills Business Precinct (small precinct), Glebe Chamber (small precinct), Newtown Enmore Business Precinct (small precinct), Potts Point Partnership (small precinct), Darlinghurst Business Partnership (small precinct), Paddington Chamber (small precinct), North Sydney Business Chamber (volunteer-run), Bondi & Districts Chamber (small local), Manly Business Chamber (volunteer-run), Business Northern Beaches (small network), Sydney Hills Business Chamber (volunteer-run)
+- **Note:** First wave of city-level segments. All national and state-level segments completed in Runs 1-3 (94 targets). Email for Committee for Sydney inferred from colleague pattern (hannah@, matt@ → eamon@). Email for BESydney inferred from colleague pattern (sstewart@, knicholls@ → alampe@).
