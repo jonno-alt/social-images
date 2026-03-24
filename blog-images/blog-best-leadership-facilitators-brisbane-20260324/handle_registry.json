@@ -1,0 +1,108 @@
+{
+  "tier_1": [
+    {
+      "name": "Michelle Gibbings",
+      "company": "Michelle Gibbings",
+      "linkedin": "https://www.linkedin.com/in/michellegibbings/",
+      "twitter": "@MichelleGibbing",
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "LinkedIn Top Voice, award-winning author, very active poster"
+    },
+    {
+      "name": "Alison Lalieu",
+      "company": "Leadership Evolution",
+      "linkedin": "https://www.linkedin.com/in/alisonlalieu/",
+      "twitter": "@alisonlalieu",
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Active on LinkedIn, AITD award winner"
+    },
+    {
+      "name": "Rupert Bryce",
+      "company": "Performance Strategies",
+      "linkedin": "https://www.linkedin.com/in/rupertbryce/",
+      "twitter": "@rupertbryce",
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Active LinkedIn poster, Brisbane-based"
+    }
+  ],
+  "tier_2": [
+    {
+      "name": "Penny Beeston",
+      "company": "Strategic Options",
+      "linkedin": "https://www.linkedin.com/in/pennybeeston/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Former CEO, podcast host"
+    },
+    {
+      "name": "People Tank",
+      "company": "People Tank",
+      "linkedin": "https://www.linkedin.com/company/people-tank/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Company page, award-winning"
+    },
+    {
+      "name": "CoachStation",
+      "company": "CoachStation",
+      "linkedin": "https://www.linkedin.com/company/coachstation/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Company page, strengths-based"
+    },
+    {
+      "name": "Phuel",
+      "company": "Phuel",
+      "linkedin": "https://www.linkedin.com/company/phuel/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Company page"
+    }
+  ],
+  "tier_3": [
+    {
+      "name": "Leadership Evolution",
+      "company": "Leadership Evolution",
+      "linkedin": "https://www.linkedin.com/company/leadership-evolution/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Company page"
+    },
+    {
+      "name": "Keogh Consulting",
+      "company": "Keogh Consulting",
+      "linkedin": "https://www.linkedin.com/company/keogh-consulting/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Company page"
+    },
+    {
+      "name": "TMS Consulting",
+      "company": "TMS Consulting",
+      "linkedin": "https://www.linkedin.com/company/tms-consulting/",
+      "twitter": null,
+      "instagram": null,
+      "threads": null,
+      "tiktok": null,
+      "notes": "Company page"
+    }
+  ]
+}
