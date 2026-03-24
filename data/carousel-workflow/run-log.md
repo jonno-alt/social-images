@@ -493,3 +493,93 @@ Tessa Brock, Glenn Birkelev, RHR International, KPMG, Wharton Executive Educatio
 - 7 carousel folders with square/portrait/vertical PNGs + MP4 video each
 - 1 Pinterest pin (1000x1500)
 - All hosted on GitHub at jonno-alt/social-images
+
+---
+
+## Run: 2026-03-25 (Automated Scheduled Run)
+
+**Trigger:** Scheduled task (carousel-build-and-schedule)
+**Blog Post:** "21 Proven Ways to Beat Leadership Decision Fatigue"
+**URL:** https://www.consultclarity.org/post/leadership-decision-fatigue
+**Topic Keywords:** decision fatigue, leadership, cognitive load, Working Genius
+**Footer Role:** Leadership Team Facilitator | Keynote Speaker | Author
+
+### Carousels Built (7 total, 54 slides)
+
+| Carousel | Slides | Sizes | Video | Pin |
+|---|---|---|---|---|
+| decision-fatigue-intro | 8 | square, portrait, vertical | Yes | Yes |
+| decision-architecture | 8 | square, portrait, vertical | Yes | Yes |
+| meeting-design | 7 | square, portrait, vertical | Yes | Yes |
+| energy-management | 8 | square, portrait, vertical | Yes | Yes |
+| cognitive-load-reduction | 7 | square, portrait, vertical | Yes | Yes |
+| team-structure-decisions | 8 | square, portrait, vertical | Yes | Yes |
+| decision-fatigue-mistakes | 8 | square, portrait, vertical | Yes | Yes |
+
+### GitHub Upload
+
+- **All images uploaded:** 168/168 PNGs via GitHub Contents API
+- **All videos uploaded:** 7/7 MP4s via GitHub Contents API
+- **All Pinterest pins uploaded:** 7/7
+- **Git push failed** due to concurrent workflow; switched to Contents API successfully
+- **Repository:** jonno-alt/social-images
+- **Folder pattern:** carousels/[name]-2026-03-25/
+
+### Buffer Scheduling (35 posts scheduled)
+
+| Carousel | LinkedIn | Facebook | Instagram | Threads | X/Twitter | Google Business | Bluesky | TikTok | YouTube | Pinterest |
+|---|---|---|---|---|---|---|---|---|---|---|
+| decision-fatigue-intro | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | LIMIT | LIMIT | NO BOARDS |
+| decision-architecture | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | LIMIT | LIMIT | NO BOARDS |
+| meeting-design | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | LIMIT | LIMIT | NO BOARDS |
+| energy-management | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | LIMIT | LIMIT | NO BOARDS |
+| cognitive-load-reduction | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | Scheduled | LIMIT | LIMIT | NO BOARDS |
+| team-structure-decisions | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | LIMIT | LIMIT | NO BOARDS |
+| decision-fatigue-mistakes | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | RATE LIMIT | LIMIT | LIMIT | NO BOARDS |
+
+### Decisions Made
+
+1. **7 carousels** built from blog sections: intro/why it matters, decision architecture (tips 1-5), meeting design (tips 6-9), energy management (tips 10-14), cognitive load reduction (tips 15-18), team structure (tips 19-21), and common mistakes
+2. **Footer role:** "Leadership Team Facilitator | Keynote Speaker | Author" (default, matches topic)
+3. **Tags:** Used Patrick Lencioni, Daniel Pink, Jeff Bezos, David Rock, Harvard Business School, Columbia Business School, Gallup across platforms
+4. **Pinterest skipped:** No boards configured on Pinterest channel
+5. **TikTok/YouTube skipped:** Daily posting limits reached (25 TikTok, 10 YouTube)
+6. **Carousels 6-7 deferred:** Buffer API rate limit (429) hit after 35 posts
+
+### Handle Research Summary
+
+- **Existing handles reused (verified < 90 days):** Patrick Lencioni, David Rock, Gallup
+- **New handles researched and added:** Jeff Bezos, Daniel Pink, Columbia Business School, Harvard Business School, Deloitte, McKinsey, Bain & Company, Amazon
+- **Unverifiable:** Isaac Smith (researcher), Maryam Kouchaki (limited social presence)
+
+### Native Action Items Pending
+
+1. **LinkedIn:** Post carousels 6-7 natively when rate limit resets
+2. **Facebook:** Add personal profile tags natively for all 5 scheduled posts
+3. **X/Twitter:** Add photo tags natively for all 5 scheduled posts (up to 10 per post)
+4. **TikTok:** Upload 7 videos natively or schedule when daily limit resets
+5. **YouTube:** Upload 7 videos natively or schedule when daily limit resets
+6. **Pinterest:** Configure boards, then schedule 7 pins
+7. **Carousels 6-7:** Schedule across all 7 platforms when Buffer rate limit resets
+8. **Instagram:** Verify all photo tags applied correctly on 5 scheduled posts
+
+### Errors and Warnings
+
+1. **Git push failed:** Concurrent workflow pushing to same repo; switched to GitHub Contents API
+2. **Buffer rate limit (429):** Hit after scheduling ~35 posts; carousels 6-7 deferred
+3. **TikTok daily limit:** 25 posts already scheduled for the day
+4. **YouTube daily limit:** 10 posts already scheduled for the day
+5. **Pinterest:** No boards configured; cannot schedule pins
+
+### Excel Files Updated
+
+- content-calendar.xlsx: Marked "Leadership Decision Fatigue" as "Carousel Created"
+- carousel-log.xlsx: Added 7 carousel entries
+- handle-database.xlsx: Added 8 new handle entries
+
+### Output Files
+
+- 7 carousel folders in GitHub: carousels/[name]-2026-03-25/
+- Each with square/, portrait/, vertical/ subdirs + video + pin
+- Total: 168 PNG images + 7 MP4 videos + 7 Pinterest pins = 182 files
+
