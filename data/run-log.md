@@ -36,3 +36,13 @@
 - YouTube scheduled: 2026-03-27 via customScheduled
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
 - Issues: Prior run had partially scheduled change management posts to all 8 channels but failed to update tracking files. This run regenerated images with updated roster, pushed to GitHub, and completed tracking. Duplicate Instagram post was created and deleted. Facebook, Threads, X/Twitter duplicate attempts blocked by Buffer's duplicate detection — kept prior run's posts which are already scheduled.
+
+## Resilience — 2026-03-24
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: resilience
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-28 via customScheduled (March 28 had 4 posts)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars)
+- Issues: None. All 17 people are new to the database. Good mix of academics (Reivich, Ungar, Luthar, Duckworth, Rose), practitioners (Stejskal, Sood, Kennedy, Graham, Grady), content creators (Hone, McGonigal, Hook), and international voices (Hone-NZ, Cowan-Australia, Ungar-Canada).
