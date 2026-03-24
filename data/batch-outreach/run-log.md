@@ -241,3 +241,59 @@ This is the append-only log of every batch outreach run. NEVER overwrite existin
 - **Drafts created this wave:** 6
 - **Running total this run:** 66
 - **Skipped targets:** ICMS Australasia (already contacted via GMass campaign), Think Business Events (already contacted via GMass campaign), GEMS Event Management (already contacted via GMass campaign), Conference National (already contacted previously), Lateral Events (already drafted Run 2 Wave 1), Alive Events Agency (already drafted Run 2 Wave 1), ASN Events (already drafted Run 2 Wave 1), The Production House Events (already drafted Run 2 Wave 1), Catalyst Event Solutions (already drafted Run 2 Wave 1), The Conference Group (already drafted Run 2 Wave 1), Public Sector Network (already contacted)
+
+### Run 3 - Wave 1 (2026-03-24)
+- **Date:** 2026-03-24
+- **Segment:** Conference producers and event companies in Victoria
+- **Pipeline:** 3 (Conference producers)
+
+| # | Organisation | Contact | Title | Email | Email Type | Confidence | Status |
+|---|-------------|---------|-------|-------|-----------|------------|--------|
+| 1 | Australian Conference & Event Organisers (ACEO) | Mandy Bromilow | Director/Founder | mandy@aceo.net.au | Direct | CONFIRMED | Researched - pending Gemini |
+| 2 | Liberty Events | Kira Fitzpatrick | Managing Director | sales@libertyevents.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 3 | JT Production Management | Julia Truong | Founder | enquiries@jtproductionmanagement.com | Generic | FALLBACK | Researched - pending Gemini |
+| 4 | Peanut Productions | Matthew Jackson | Head of Commercial | matthew@peanutproductions.com.au | Direct | HIGH | Researched - pending Gemini |
+| 5 | MCO Events | Melissa Yu | Director | enquiries@mcoevents.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 6 | FruitBowl Events Agency | Tammy Crupi | Founder/Director | info@fruitbowl.com.au | Generic | FALLBACK | Researched - pending Gemini |
+
+- **Targets researched this wave:** 6
+- **Running total this run:** 6
+- **Status:** Researched - pending Gemini
+- **Skipped targets:** CIS Event Management (already contacted dee@ and lauren@), KE Creative (already contacted kelly-ann@), WALDRONSMITH Management (already contacted kate@), GEMS Event Management (already contacted jmcgraw@ and mglasson@), The Conference Group (in tracker), Alive Events Agency (in tracker), ICMS (GMass), Think Business Events (GMass), Right Angle Events (no proper email), ICE Australia (website broken)
+
+### Run 3 - Wave 2 (2026-03-24)
+- **Date:** 2026-03-24
+- **Segment:** Conference producers and event companies in Queensland
+- **Pipeline:** 3 (Conference producers)
+
+| # | Organisation | Contact | Title | Email | Email Type | Confidence | Status |
+|---|-------------|---------|-------|-------|-----------|------------|--------|
+| 7 | Event Society | Decinda Burrell | Creative Director | admin@eventsociety.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 8 | Absolute Events & Marketing | Susan Harris | MD & Event Director | susan@absoluteeventsandmarketing.com.au | Direct | HIGH | Researched - pending Gemini |
+| 9 | FAME Events | April Booij | Founder | hello@fame-events.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 10 | Glo Events | Pete Cunningham | Co-Founder | hello@gloevents.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 11 | Anagram Events | Steven Turner | Director | admin@anagramevents.com.au | Generic | FALLBACK | Researched - pending Gemini |
+
+- **Targets researched this wave:** 5
+- **Running total this run:** 11
+- **Status:** Researched - pending Gemini
+- **Skipped targets:** Nectar CC (already contacted peta@, nick@, deb@, bianca@), YRD Event Management (already contacted mary@), Iceberg Events (already contacted jodie@ and katie@), Loud Events (already contacted helena@), Somerset Events (website SSL broken, no email), The Conference Group (in tracker), ICMS (GMass), Think Business Events (GMass), GEMS (already contacted)
+
+### Run 3 - Wave 3 (2026-03-24)
+- **Date:** 2026-03-24
+- **Segment:** Conference producers and event companies in WA, SA, ACT, NT
+- **Pipeline:** 3 (Conference producers)
+
+| # | Organisation | Contact | Title | Email | Email Type | Confidence | Status |
+|---|-------------|---------|-------|-------|-----------|------------|--------|
+| 12 | Event & Conference Co (WA) | Rebecca Cole | Director | hello@eventandconferenceco.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 13 | Seed Events (SA) | (Generic inbox) | - | admin@seedevents.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 14 | Conference Co-ordinators (ACT) | (Generic inbox) | - | conference@confco.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 15 | Agentur (NT) | Britta Decker | Managing Director | info@agentur.com.au | Generic | FALLBACK | Researched - pending Gemini |
+| 16 | Bask Event Management (NT) | Andrea Allen | Owner & MD | info@baskeventmanagement.com.au | Generic | FALLBACK | Researched - pending Gemini |
+
+- **Targets researched this wave:** 5
+- **Running total this run:** 16
+- **Status:** Researched - pending Gemini
+- **Skipped targets:** Eventful Projects SA (already contacted vicky@), Conference Design TAS (already contacted mail@/Sarah), Consec ACT (already contacted barry.neame@), Conference Logistics (already contacted leanne@), Event Avenue TAS (no email found), EventSphere TAS (no email found), Events Mate WA (SSL expired, no contact details)
+- **Note:** Conference producer segments for VIC, QLD, WA, SA, TAS, ACT, and NT are now exhausted. Many PCOs in smaller states were already contacted in prior campaigns. Tasmania segment yielded zero new targets (all PCOs already contacted).
