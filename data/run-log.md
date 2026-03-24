@@ -46,3 +46,13 @@
 - YouTube scheduled: 2026-03-28 via customScheduled (March 28 had 4 posts)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
 - Issues: None. All 17 people are new to the database. Good mix of academics (Reivich, Ungar, Luthar, Duckworth, Rose), practitioners (Stejskal, Sood, Kennedy, Graham, Grady), content creators (Hone, McGonigal, Hook), and international voices (Hone-NZ, Cowan-Australia, Ungar-Canada).
+
+## Coaching Cultures — 2026-03-24
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: coaching-cultures
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-29 via customScheduled (March 29 had only 3 posts)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars)
+- Issues: Several niche coaching culture specialists (Peter Hawkins, Jonathan Passmore, Thomas Crane, Gillian Jones, Ro Gorell, Julie Starr, Sarah Wirth, Behnam Bakhshandeh) have minimal social media presence. JP Nerbun/TOC Culture Consulting are the most social-media-active people on this list. Some GitHub uploads needed retries due to API rate limits. All 17 people are new to the database — zero overlap with previous 75 names.
