@@ -1,0 +1,15 @@
+# Batch Outreach: Next Batch Configuration
+# Edit this file to set the target segments for the next scheduled run.
+# Push changes to GitHub: the scheduled task pulls this file at the start of each run.
+
+TARGET_SEGMENTS:
+# Add one segment per line. The task processes them in order, up to 100 targets total.
+# Example:
+# - Australian construction companies | PIPELINE=1
+# - Independent schools in Victoria | PIPELINE=2
+# - Christian schools in Queensland | PIPELINE=6
+
+OVERRIDES:
+# Optional overrides for this run
+# FEATURED_SESSIONS=
+# MAX_TARGETS=100
