@@ -1,0 +1,74 @@
+# HOW I WORK: Batch Outreach Workflow (6 at a time)
+# Folder: ~/Cowork-Data/batch-outreach/
+# Last updated: March 2026
+
+## What This Workflow Does
+
+Processes 6 schools or associations at a time through the outreach pipeline.
+Phase 1 (Claude): Picks targets, checks Gmail, prepares a Gemini research brief.
+Phase 2 (Gemini, manual): Jonno pastes the brief into Gemini for email format discovery.
+Phase 3 (Claude): Processes Gemini results, creates Gmail drafts, updates tracker.
+
+## File Locations
+
+| File | Purpose |
+|------|---------|
+| outreach-tracker.xlsx | Master tracker. Targets tab has all schools/orgs. Run Log tab tracks each run. Existing Clients tab is the do-not-target list. |
+| master-outreach-prompt.md | Full pipeline templates (Pipelines 1-6) with all rules, personalized paragraphs, and follow-up sequences. Copy of the master doc. |
+| run-log.md | Append-only log of every run. Never overwrite, only append. |
+| gemini-brief-YYYY-MM-DD.md | Generated each run for targets needing email discovery. Paste into Gemini. |
+| gemini-results-YYYY-MM-DD.md | Optional. Save Gemini's response here for the record. |
+| how-i-work.txt | This file. Rules and reference data. |
+
+## Core Rules
+
+1. BATCH SIZE: Always 6 targets per run. No more, no less (unless fewer than 6 remain).
+2. PRIORITY ORDER: Process targets sorted by Priority (1=highest) then Date Added (oldest first).
+3. GMAIL FIRST: Always check Gmail before anything else. It is faster and more reliable.
+4. GEMINI FOR EMAIL DISCOVERY: Gemini handles the quoted-string Google searching and brute-force email format discovery. Claude prepares the brief, Gemini executes, Claude processes results.
+5. NEVER DELETE DATA: Mark records as inactive or update values. Never delete rows from the tracker.
+6. FRESHNESS: Gmail check results are valid for 90 days. If a target was Gmail-checked less than 90 days ago, reuse the findings.
+7. EXISTING CLIENTS: Always cross-check against the Existing Clients tab before drafting. Never email an existing client with a cold template.
+
+## Pipeline Quick Reference
+
+| Pipeline | Target Type | Contraction | Title | Key Differences |
+|----------|------------|-------------|-------|-----------------|
+| 1 | Associations | "I am" | Founder | Personalised paragraph required |
+| 2 | General schools | "I am" | Founder | Standard school template |
+| 3 | Conference producers | "I am" | Founder | Shorter, more direct |
+| 4 | Speaker bureaus | "I am" | Founder | Bureau-specific ask |
+| 5 | ASBA-leveraged education | "I'm" | Founder | Short format, proof-point-led, three-part ask |
+| 6 | Christian schools | "I'm" | Co-Founder | Pastoral background, spiritual leadership, 14 client references |
+
+## Email Rules (apply to ALL pipelines)
+
+- Greeting: "Hi [First Name]," or "Hi [Org Name] team," NEVER "Dear" or "Hi there"
+- Admin team line: Include only for generic inboxes, skip for direct emails
+- Close: Always end on a question (except Pipeline 5 which ends on implicit invitation)
+- "More than happy" line: Include near close but NOT as the final line (skip in Pipeline 5)
+- Em dashes: NEVER use. Rewrite with commas or periods.
+- ASBA reference: Full name "The Association of School Business Administrators Australia and New Zealand National Conference in Darwin" for anyone who was NOT at the conference
+- Delegate count: "180+" for Pipeline 5. "200+" for Pipelines 1-4. None for Pipeline 6.
+
+## MCP Servers Required
+
+- Gmail (for Gmail searching and draft creation)
+- No Buffer MCP needed for this workflow
+
+## Cowork Scheduling
+
+- Task name: batch-outreach-6
+- Schedule: Monday, Wednesday, Friday at 8:00am AEST (or on demand)
+- The workflow will pause after Phase 1 if any targets need Gemini research
+- Jonno manually pastes Gemini brief and results to complete Phase 2
+
+## Autonomous Defaults
+
+- Pipeline selection: Use Pipeline column from tracker. If blank, default to Pipeline 2 unless school name contains "Christian", "Lutheran", "Baptist", "Catholic", or "Anglican" (then Pipeline 6).
+- Staff name collection: Collect 10 per target via web search. If fewer than 5 found, note and proceed.
+- Error handling: Skip failed targets, log errors, continue with remaining targets. Always update the tracker and run log even on partial failure.
+
+## Data Broker Sites to IGNORE (for email discovery)
+
+ZoomInfo, RocketReach, ContactOut, SignalHire, Datanyze, Adapt.io, GetProspect, or any paid data broker. Only trust emails confirmed on legitimate third-party pages (government registers, sports sites, education directories, school-published documents).
