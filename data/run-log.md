@@ -29,10 +29,10 @@
 
 ## Change Management — 2026-03-24
 - People: 17 (17 new, 0 returning)
-- Returning names: None — all 17 are new to the database
+- Returning names: None
 - Slug: change-management
 - Slides: 19 (cover + 17 people + CTA)
 - Posts scheduled: 8/8 (Pinterest skipped)
-- YouTube scheduled: 2026-03-27 via customScheduled (March 27 had only 2 posts)
+- YouTube scheduled: 2026-03-27 via customScheduled
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
-- Issues: Some GitHub uploads needed retry due to connection refused errors (all resolved). Many niche change management specialists (Jason Little, Theresa Moulton, Isolde Kanikani, Tricia Kennedy) have minimal social media presence beyond LinkedIn. Featured strong mix of academics (Kotter, Kanter, Johnson), practitioners (Gallagher, Conner, Creasey), content creators (Moulton, McMaster), and international voices (Ross, Frahm, McMaster from Australia, Scarlett from UK, Kanikani from Netherlands).
+- Issues: Prior run had partially scheduled change management posts to all 8 channels but failed to update tracking files. This run regenerated images with updated roster, pushed to GitHub, and completed tracking. Duplicate Instagram post was created and deleted. Facebook, Threads, X/Twitter duplicate attempts blocked by Buffer's duplicate detection — kept prior run's posts which are already scheduled.
