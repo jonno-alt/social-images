@@ -183,3 +183,13 @@
 - YouTube scheduled: 2026-04-12 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-12 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 12. All 17 people are new to the database. Strong mix of academics (Abrahams-Stanford, Lyon-SUNY, Men-UF, Mirivel-UALR), Hall of Fame speakers (Booher-50 books, Duarte-Resonate), bestselling authors (Gallo-Talk Like TED, Van Edwards-Captivate, Wilding-Managing Up, Schwartzberg-Get to the Point, Ungerböck-22 Talk SHIFTs), viral content creators (Vinh Giang-6M IG/1.3M TikTok, Alex Lyon-500K YouTube, Conor Neill-230K YouTube), behind-the-scenes coaches (Briar Goldberg-TED Director of Speaker Coaching), podcast hosts (Abrahams-Think Fast Talk Smart, Camacho-Speak Up #3 worldwide, Ndlela-Speaking & Communicating), and international voices (Giang-Australia, Neill-Ireland/Spain, Ossai-Nigeria, Ndlela-South Africa, Mirivel-France/US). Good Global Gurus representation (Booher, Ossai #7).
+
+## Burnout Prevention — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: burnout-prevention
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-20 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-20 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 20. All 17 people are new to the database. Strong mix of foundational researchers (Maslach-MBI creator, Leiter-40yr researcher), bestselling authors (Nagoski-Stress Cycle, Moss-Burnout Epidemic, Davis-Beating Burnout at Work, Jiménez-The Burnout Fix, Biali Haas-The Resilient Life, Malesic-End of Burnout, Murray-Burnout Solution), podcast hosts (Donovan-FRIED top 1%, Bonner-Black Girl Burnout, Randall-Burnout Recovery 244 eps), content creators (Sarai Marie-3M TikTok, Nesdoly-TEDx), practitioners (Spencer-UK Six Signals, Montañez-Forbes columnist), and international voices (Murray-Ireland, Spencer-UK, Leiter-Australia, Nesdoly-Canada, Konjedic-Slovenia, Montañez-lived UK/South Korea/Japan/USA).
