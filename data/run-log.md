@@ -253,3 +253,23 @@
 - YouTube scheduled: 2026-05-01 via customScheduled
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars)
 - Issues: None. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of foundational researchers (Jim Knight-University of Kansas, Joellen Killion-Learning Forward 45+ years, Jan Hasbrouck-reading specialist/Student-Focused Coaching, Vicki Collet-GIR Model/University of Arkansas), bestselling authors (Jennifer Serravallo-NYT bestseller/Reading Strategies Book, Elena Aguilar-Art of Coaching series/Arise 2024, Diane Sweeney-Student-Centered Coaching), podcast hosts (Chrissy Beltran-Buzzing with Ms. B, Nicole Turner-Simply Instructional Coaching, Steve Barkley-Ponders Out Loud, Katie Ritter-Restart Recharge), practitioners (Sherry St. Clair-Coaching Redefined/Intentional Instructional Moves 2024, Kathy Perret-#EduCoach co-founder/Compassionate Coaching, Jessica Johnson-WI Principal of Year/Coach Approach), equity-focused voices (Tonya Ward Singer-Courageous Literacy/EL Excellence), literacy coaching specialists (Gravity Goldberg-Mindsets & Moves), and trust/impact researchers (Kristin Anderson-Brilliance Project/Visible Learning). Many niche specialists (Joellen Killion, Jan Hasbrouck, Vicki Collet, Nicole Turner, Kristin Anderson) have minimal social media presence but are deep domain experts.
+
+## Courage & Vulnerability in Leadership — 2026-03-25
+- People: 17 (16 new, 1 returning)
+- Returning names: Brené Brown
+- Slug: courage-vulnerability-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-30 via customScheduled
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars)
+- Issues: None. 16 of 17 people are new to the database. Brené Brown is the only returning name — she is THE defining figure for courage and vulnerability in leadership. Strong mix of academics (Detert-UVA, Beerel-Routledge 2025), pioneer practitioners (Treasurer-Giant Leap, Solomon-Courageous Leadership Institute), bestselling authors (Morgan-Leading with Vulnerability, Holiday-Courage Is Calling, Hurt/Dye-Courageous Cultures), science of bravery experts (Schulman-USMC/MAPP), women's courage advocates (Caprino-Finding Brave, Warrell-5 books), international voices (Warrell-Australia, Gibbings-Australia, Kull-Sweden, McQueen-UK, Hopkinson-UK, Beerel-UK), and framework creators (Sebaly-Spine of a Leader, McQueen-BRAVE). Many niche specialists (Detert, Treasurer, Solomon, Kull, Beerel, Sebaly) have minimal social media presence but are deep domain experts.
+
+## Nonprofit Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: nonprofit-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-03 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-05-03 due to daily limit)
+- Issues: None. All 17 people are new to the database. Strong mix of nonprofit sector pioneers (Joan Garry - former GLAAD CEO/#1 nonprofit podcast, Beth Kanter - Fast Company most influential woman in tech, Vu Le - Nonprofit AF 56K IG), fundraising specialists (Mallory Erickson - Power Partners Formula/60K fundraisers trained, Claire Axelrad - AFP Outstanding Professional, Rhea Wong - major gifts, Kishshana Palmer - SPARK Framework/CFRE, Dana Snyder - monthly giving), podcast hosts (Rob Harter - Nonprofit Leadership Podcast 30yr, Patton McDowell - Your Path to Nonprofit Leadership, Tosha Anderson - A Modern Nonprofit, Jon McCoy & Becky Endicott - We Are For Good 400+ eps, Julia Campbell - Nonprofit Nation, Brooke Richie-Babbage - Nonprofit Mastermind), academics (David Renz - Jossey-Bass Handbook editor), and board governance experts (Dennis C. Miller - 5 books/40yr). Many niche nonprofit specialists (Patton McDowell, Tosha Anderson, Dennis C. Miller, David Renz, Jon McCoy, Becky Endicott) have minimal social media presence outside LinkedIn but are deep domain experts.
