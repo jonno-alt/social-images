@@ -284,3 +284,82 @@
 - Total Buffer posts: ~351 (90 + 89 + 82 + 90)
 - Total batches: 4
 - Series rotation: all 6 series at 6-7 stories each
+
+## Run #5 - 2026-03-25
+
+**Timestamp:** 2026-03-25T09:00:00Z (19:00 AEST)
+**Stories Created:** 10 (Stories #41-50)
+**Batch Size:** 10 (default)
+
+### Stories in This Batch
+
+| # | Series | Type | Hook | Slug |
+|---|--------|------|------|------|
+| 41 | The Moment They Saw It | TRUE | Best-selling pizza chain. Worst pizza in America. | dominos-worst-pizza-turnaround |
+| 42 | The Moment They Saw It | FICTIONAL | Great strategy deck. Dead team behind it. | great-strategy-dead-team |
+| 43 | The Cost of Getting It Wrong | TRUE | They laughed at the pitch. Then went bankrupt. | blockbuster-laughed-netflix-bankrupt |
+| 44 | The Cost of Getting It Wrong | FICTIONAL | Saved $2 million. Lost $20 million. | saved-two-million-lost-twenty |
+| 45 | The Team That Looks Fine But Isn't | TRUE | Worth $28 billion. Missing $2 billion. | wirecard-missing-billions |
+| 46 | The Team That Looks Fine But Isn't | FICTIONAL | Zero incidents reported. Nobody felt safe. | zero-incidents-nobody-safe |
+| 47 | The Meeting That Changed Everything | TRUE | He banned slides. The thinking got better. | bezos-banned-slides-better-thinking |
+| 48 | The Meeting That Changed Everything | FICTIONAL | The loudest voice went silent. Everything changed. | loudest-voice-went-silent |
+| 49 | The Leader Who Thought It Was a People Problem | TRUE | They blamed the drivers. 124 people died. | gm-blamed-drivers-124-died |
+| 50 | The Question That Changed Everything | TRUE | He talked about safety. Investors ran for the exit. | oneill-alcoa-safety-investors-ran |
+
+### Decisions Made
+
+- Prioritized series with fewest stories (Moment They Saw It, Cost of Getting It Wrong at 6 each) for 2 stories each, then 2 each for Team/Meeting, 1 each for Leader/Question.
+- TRUE stories researched: Domino's Pizza, Blockbuster/Netflix, Wirecard, Amazon/Bezos, GM ignition switch, Paul O'Neill/Alcoa.
+- FICTIONAL stories set in: corporate (strategy deck, restructure), school (safety reporting), nonprofit (silent founder).
+- All series now at 8-9 stories. Next type for all is FICTIONAL for series with 5 TRUE, TRUE for balanced series.
+
+### GitHub
+
+- Repository: jonno-alt/social-images
+- Commit: aaa3177a
+- 250 files added: 10 stories x (8 slides x 3 sizes + 1 video) = 250 assets
+
+### Buffer Posts by Platform
+
+| Platform | Posts | Mode | Notes |
+|----------|-------|------|-------|
+| LinkedIn | 10 | addToQueue | Square images, all 8 slides |
+| Facebook | 10 | addToQueue | Square images, all 8 slides |
+| Instagram | 10 | addToQueue | Portrait images, all 8 slides |
+| Threads | 10 | addToQueue | Square images, all 8 slides |
+| X/Twitter | 10 | addToQueue | Square slides 1,4,5,8 |
+| Google Business | 10 | addToQueue | Square slide 1, whats_new type |
+| Bluesky | 10 | addToQueue | Square slides 1,4,5,8 |
+| TikTok | 10 | customScheduled | Vertical video, Mar 26 - Apr 7, 10am AEST |
+| YouTube | 1 | customScheduled | Story #44 only. Daily limit (10) hit. 9 remaining need retry. |
+| Pinterest | 0 | SKIPPED | No boards configured |
+| **Total** | **81** | | 9 YouTube posts pending retry |
+
+### Quality Gates
+
+- All 10 stories: 8 slides each, all 3 sizes produce 8 PNGs each (240 total verified)
+- Cover slides visually checked: brand colors correct, text within margins, footer zone clear
+- Videos: ~32 seconds each, 1080x1920, libx264
+- Hook lengths: all under 55 characters
+- No text overlap with footer zone
+
+### Errors and Recovery
+
+1. **Buffer 429 rate limit:** Hit after ~40 rapid API calls. Waited 2 minutes, resumed successfully.
+2. **YouTube daily limit (10):** Buffer allows only 10 YouTube post creations per day. Previous runs used the quota. Only Story #44 YouTube post succeeded. 9 remaining YouTube posts need retry next session.
+3. **TikTok daily limit (25):** Hit for first 3 stories. Retried with later dates (Apr 5-7) and all succeeded.
+
+### Items for Review
+
+- **9 YouTube posts need scheduling:** Stories #41-43, #45-50 YouTube posts could not be created due to daily limit. These need retry in the next session.
+- Pinterest remains skipped (no boards configured).
+- TikTok posts staggered Mar 26 - Apr 7 via customScheduled.
+
+### Running Totals
+
+- Total stories created: 50
+- Total Buffer posts scheduled this run: 81 (9 YouTube pending)
+- Total carousel assets on GitHub: 1,250 (1,200 PNGs + 50 videos)
+- Series coverage: All 6 series at 8-9 stories each.
+
+---
