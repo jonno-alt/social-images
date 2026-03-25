@@ -35,3 +35,12 @@
 - **Status:** Researched - pending Gemini
 - **Notes:** Brisbane city-level associations. The Brisbane association landscape is heavily penetrated — 12 major associations skipped due to prior contact, many with recent Mar 2026 drafts from previous batch outreach runs. Only 1 CONFIRMED email (CCF Qld from official website), 5 FALLBACK (generic inboxes). Gemini should verify CEO direct emails for all FALLBACK targets. Targets: Committee for Brisbane, UDIA Queensland, Master Builders Queensland, QMCA, CCF Queensland, QTLC. Master Builders CEO Paul Bidwell has announced resignation effective May 2026. Brisbane associations segment likely near exhaustion — recommend moving to Perth or Brisbane conference producers next.
 - **Output file:** research-ready-2026-03-25-run6.md
+
+## Run: 2026-03-25 Run 7 (Automated — Research Phase Only)
+
+- **Segment:** Professional and industry associations in Australia (national)
+- **Targets researched:** 6 valid
+- **Targets skipped:** 20 (AuSAE contacted 2024-2026, Governance Institute draft Mar 2026, TTF draft Mar 2026, AIM sent Mar 2026, AICD drafts Mar 2026, Ai Group sent Nov 2024, Minerals Council sent 2022, ACCI sent 2024, AHRI sent Mar 2026, Property Council sent Mar 2026, CPA Australia sent Mar 2026, NFF draft Mar 2026, ICA sent Mar 2026, ALC draft Mar 2026, Consult Australia sent Mar 2026, ARA drafts Mar 2026, RCSA draft Mar 2026, AIIA sent Mar 2026, ABA sent 2024, HIA sent Mar 2026)
+- **Status:** Researched - pending Gemini
+- **Notes:** National-level peak bodies. This segment is heavily penetrated — 20 major national associations already contacted, mostly in the Mar 2026 batch outreach wave. All 6 new targets have FALLBACK generic inbox emails only (comms@, info@, afgc@, contact@). Gemini should attempt to discover CEO direct emails for all targets. Targets: BCA (Bran Black), FSC (Blake Briggs), AFGC (Colm Maguire), FCA (Jay Westbury), COSBOA (Skye Cappuccio), IPA (Adrian Dwyer). National associations segment near exhaustion — recommend moving to NZ associations or Australian state-level segments next.
+- **Output file:** research-ready-2026-03-25-run7.md
