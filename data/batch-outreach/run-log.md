@@ -44,3 +44,12 @@
 - **Status:** Researched - pending Gemini
 - **Notes:** National-level peak bodies. This segment is heavily penetrated — 20 major national associations already contacted, mostly in the Mar 2026 batch outreach wave. All 6 new targets have FALLBACK generic inbox emails only (comms@, info@, afgc@, contact@). Gemini should attempt to discover CEO direct emails for all targets. Targets: BCA (Bran Black), FSC (Blake Briggs), AFGC (Colm Maguire), FCA (Jay Westbury), COSBOA (Skye Cappuccio), IPA (Adrian Dwyer). National associations segment near exhaustion — recommend moving to NZ associations or Australian state-level segments next.
 - **Output file:** research-ready-2026-03-25-run7.md
+
+## Run: 2026-03-25 Run 8 (Automated — Research Phase Only)
+
+- **Segment:** Professional and industry associations in New Zealand
+- **Targets researched:** 6 valid
+- **Targets skipped:** 5 (BusinessNZ sent Mar 2026, IoD NZ multiple emails 2024-2026, Infrastructure NZ sent Mar 2026, Property Council NZ active relationship 2025-2026, Civil Contractors NZ sent Mar 2026)
+- **Status:** Researched - pending Gemini
+- **Notes:** NZ national-level associations. First NZ segment processed. 2 CONFIRMED emails (TIA Rebecca Ingram from official team page, Retail NZ Carolyn Young from official team page). 2 HIGH (Hospitality NZ role-based ceo@ email from official site, NZGBC Andrew Eagles inferred from firstname.lastname@ pattern of colleagues). 2 FALLBACK generic inboxes (Cooperative Business NZ info@, FGC admin@) — Gemini should verify CEO direct emails for these. NZ association landscape is less penetrated than AU — good pipeline for further waves. Targets: TIA (Rebecca Ingram), Hospitality NZ (Kristy Phillips), Retail NZ (Carolyn Young), NZGBC (Andrew Eagles), Cooperative Business NZ (Saya Wahrlich), FGC (Raewyn Bleakley).
+- **Output file:** research-ready-2026-03-25-run8.md
