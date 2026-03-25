@@ -293,3 +293,76 @@
 - handle-database.xlsx: 7 new people added
 - carousel-log.xlsx: 7 new rows added
 - run-log.md: This entry appended
+
+## Overcome Loneliness at the Top — 2026-03-25
+
+### Run Summary
+- Trigger: Scheduled task (carousel-build-and-schedule)
+- Input: https://www.consultclarity.org/post/overcome-loneliness-at-the-top
+- Topic: 15 Proven Ways to Overcome Loneliness at the Top
+- Footer role: "Leadership Team Facilitator | Keynote Speaker | Author" (default)
+
+### Carousels Built (7 total, 164 files)
+1. loneliness-external-support (7 slides: cover + 5 content + CTA)
+2. loneliness-honest-culture (7 slides)
+3. loneliness-unique-pressures (7 slides)
+4. loneliness-personal-wellbeing (7 slides)
+5. loneliness-daily-habits (7 slides)
+6. loneliness-mistakes (7 slides)
+7. loneliness-30-day-plan (7 slides)
+
+Each carousel built in 3 sizes (square 1080x1080, portrait 1080x1350, vertical 1080x1920) plus Pinterest pin (1000x1500). All 7 videos built (1080x1920, 4s/slide, h264 CRF 23, 30fps). All 164 files uploaded to GitHub (jonno-alt/social-images) via Contents API.
+
+GitHub folder pattern: carousels/loneliness-{name}-2026-03-25/
+
+### Buffer Scheduling Summary
+- LinkedIn: 7/7 scheduled (Mar 31 queue) — Post IDs: 69c3b7a3dc7f763f71a4d4d0, 69c3b848dc7f763f71a4d6db, 69c3b8d4ecfc8d3950f50d06, 69c3b952dc7f763f71a4d9e0, 69c3b9aedc7f763f71a4db87, 69c3ba06ecfc8d3950f51432, 69c3b980dc7f763f71a4dfc3
+- Facebook: 7/7 scheduled (Apr 2 queue) — Post IDs: 69c3b7a9ecfc8d3950f50a4c, 69c3b84fecfc8d3950f50b5b, 69c3b8dcdc7f763f71a4d84e, 69c3b959ecfc8d3950f50e6e, 69c3b9b5ecfc8d3950f51135, 69c3ba0cdc7f763f71a4e0f2, 69c3b981dc7f763f71a4dfe9
+- Instagram: 7/7 scheduled (Apr 2 queue) — Post IDs: 69c3b7c0dc7f763f71a4d535, 69c3b858dc7f763f71a4d70e, 69c3b8e3ecfc8d3950f50d60, 69c3b960dc7f763f71a4da2b, 69c3b9bcdc7f763f71a4dbf4, 69c3ba13dc7f763f71a4e129, 69c3b983ecfc8d3950f512a8
+- Threads: 7/7 scheduled (Apr 2 queue) — Post IDs: 69c3b7d2ecfc8d3950f50acd, 69c3b866ecfc8d3950f50bc7, 69c3b8f2dc7f763f71a4d8a3, 69c3b96edc7f763f71a4da80, 69c3b9cbecfc8d3950f511ae, 69c3ba1bdc7f763f71a4e18a, 69c3ba2eecfc8d3950f515db
+- X/Twitter: 7/7 scheduled (Apr 2 queue) — Post IDs: 69c3b7dadc7f763f71a4d594, 69c3b86fdc7f763f71a4d761, 69c3b8fbecfc8d3950f50db0, 69c3b976ecfc8d3950f50ecd, 69c3b9d4ecfc8d3950f511f3, 69c3ba23ecfc8d3950f51551, 69c3ba2fdc7f763f71a4e34d
+- Google Business: 7/7 scheduled (Apr 2 queue) — Post IDs: 69c3b7e2ecfc8d3950f50b06, 69c3b87adc7f763f71a4d793, 69c3b905dc7f763f71a4d8e5, 69c3b97eecfc8d3950f50f14, 69c3b9dcdc7f763f71a4dc50, 69c3ba2aecfc8d3950f51594, 69c3ba4becfc8d3950f51655
+- YouTube: 7/7 scheduled (Apr 6-10 customScheduled) — Post IDs: 69c3b7ecdc7f763f71a4d5ea, 69c3b884ecfc8d3950f50b68, 69c3b90fecfc8d3950f50dfc, 69c3b988dc7f763f71a4dac4, 69c3b9e5ecfc8d3950f51255, 69c3ba32dc7f763f71a4e38f, 69c3ba4decfc8d3950f51682
+- Bluesky: 7/7 scheduled (Apr 2 queue) — Post IDs: 69c3b7f6ecfc8d3950f50b3e, 69c3b88edc7f763f71a4d7e2, 69c3b919dc7f763f71a4d93d, 69c3b992ecfc8d3950f50f65, 69c3b9efdc7f763f71a4dc91, 69c3ba3becfc8d3950f515b4, 69c3ba4cdc7f763f71a4e3d0
+- TikTok: 7/7 scheduled (Apr 5-6 customScheduled) — Post IDs: 69c3ba89ecfc8d3950f51855, 69c3ba96dc7f763f71a4e585, 69c3ba98dc7f763f71a4e5ab, 69c3ba99ecfc8d3950f518b8, 69c3baa7ecfc8d3950f51922, 69c3baa9dc7f763f71a4e5d4, 69c3baaaecfc8d3950f51958
+- Pinterest: SKIPPED (no boards configured)
+
+Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
+
+### Handle Research
+- 4 people with verified handles (from blog content research):
+  - Chester Elton: X @chesterelton, IG @chesterelton (VERIFIED)
+  - Ed Batista: X @edbatista (VERIFIED)
+  - Vivek Murthy: X @vivabornerthy (VERIFIED)
+  - Julianne Holt-Lunstad: X @jholtlunstad (LIKELY)
+- 3 people researched with no verifiable handles found:
+  - Nick Jonsson, Morra Aarons-Mele, Jerry Colonna
+- Note: This carousel set is a tips/framework article (not a thought-leader listicle), so tagging is lighter than usual. No people are featured on individual slides.
+
+### Errors and Warnings
+- WebFetch on Wix site (consultclarity.org) returned JS/CSS instead of content. Used Chrome browser MCP to extract rendered blog text.
+- Git clone timed out. Switched to GitHub Contents API (curl-based) for all uploads.
+- Initial Python urllib upload failed after ~12 files (ConnectionRefusedError). Rewrote using curl subprocess with 0.5s rate limiting and retries. All 164 files uploaded successfully with 0 failures.
+- TikTok daily limit (25 posts) hit on first attempt. Deferred to Apr 5-6 via customScheduled mode.
+- YouTube daily limit (10 posts) managed by spreading across Apr 6-10 via customScheduled mode.
+
+### Native Action Items Pending
+- [ ] X/Twitter: Add photo tags natively to all 7 posts after publishing (up to 10 per post)
+- [ ] YouTube: Edit descriptions in YouTube Studio to make @mentions clickable
+- [ ] Instagram: Verify all photo tags applied correctly on all 7 posts
+- [ ] Facebook: Add personal profile tags for people without Pages
+- [ ] TikTok: Review and update captions natively after videos publish (placeholder captions used)
+
+### Decisions Made
+- Topic: "Overcome Loneliness at the Top" selected as next "Not Started" row in content-calendar.xlsx
+- 7 carousels mapped to the blog's major sections (external support, honest culture, unique pressures, personal wellbeing, daily habits, mistakes, 30-day plan)
+- Footer: Default "Leadership Team Facilitator | Keynote Speaker | Author" (no school/education keywords)
+- YouTube: Apr 6-10 selected (spreading 1-2 per day to stay under 10-post daily limit)
+- TikTok: Apr 5-6 selected via customScheduled (daily limit blocked addToQueue for earlier dates)
+- Tagging: Light tagging across platforms (blog is a tips article, not a thought-leader listicle)
+
+### Files Updated
+- content-calendar.xlsx: Row marked "Carousel Created"
+- handle-database.xlsx: 4 new people added (Chester Elton, Ed Batista, Vivek Murthy, Julianne Holt-Lunstad)
+- carousel-log.xlsx: 7 new rows added
+- run-log.md: This entry appended
