@@ -1,0 +1,28 @@
+{
+  "category": "speech-pathology",
+  "category_name": "Speech Pathology / Speech-Language Pathology",
+  "last_updated": "2026-03-25T14:00:00Z",
+  "total_drafted": 12,
+  "total_researched": 20,
+  "sub_types_completed": ["Speech pathology (general)"],
+  "sub_types_remaining": ["Paediatric speech pathology", "Swallowing/dysphagia", "Fluency/stuttering", "Augmentative and alternative communication"],
+  "current_sub_type": "Paediatric speech pathology",
+  "current_scope": "international",
+  "current_country": "Australia",
+  "associations": [
+    {"name": "SPA", "full_name": "Speech Pathology Australia", "country": "Australia", "scope": "national", "sub_type": "Speech pathology (general)", "email_verified": "office@speechpathologyaustralia.org.au", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National peak body Australia"},
+    {"name": "ASHA", "full_name": "American Speech-Language-Hearing Association", "country": "USA", "scope": "national", "sub_type": "Speech pathology (general)", "email_verified": "actioncenter@asha.org", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body USA, 200k+ members"},
+    {"name": "RCSLT", "full_name": "Royal College of Speech and Language Therapists", "country": "UK", "scope": "national", "sub_type": "Speech pathology (general)", "email_verified": "info@rcslt.org", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body UK"},
+    {"name": "SAC", "full_name": "Speech-Language and Audiology Canada", "country": "Canada", "scope": "national", "sub_type": "Speech pathology (general)", "email_verified": "contact@sac-oac.ca", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body Canada"},
+    {"name": "NZSTA", "full_name": "New Zealand Speech-Language Therapists' Association", "country": "New Zealand", "scope": "national", "sub_type": "Speech pathology (general)", "email_verified": "admin@speechtherapy.org.nz", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body NZ"},
+    {"name": "CSHA", "full_name": "California Speech-Language-Hearing Association", "country": "USA", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "csha@csha.org", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "CA state association"},
+    {"name": "TSHA", "full_name": "Texas Speech-Language-Hearing Association", "country": "USA", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "staff@txsha.org", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "TX state association"},
+    {"name": "NYSSLHA", "full_name": "New York State Speech-Language-Hearing Association", "country": "USA", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "nysslha@nysslha.org", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "NY state association"},
+    {"name": "FLASHA", "full_name": "Florida Association of Speech-Language Pathologists and Audiologists", "country": "USA", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "flasha@flasha.org", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "FL state association"},
+    {"name": "NCSHLA", "full_name": "North Carolina Speech, Hearing and Language Association", "country": "USA", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "info@ncshla.org", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "NC state association"},
+    {"name": "PSHA", "full_name": "Pennsylvania Speech-Language-Hearing Association", "country": "USA", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "psha@psha.org", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "PA state association"},
+    {"name": "ACSLPA", "full_name": "Alberta College of Speech-Language Pathologists and Audiologists", "country": "Canada", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "registration@acslpa.ca", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "Alberta regulatory body"},
+    {"name": "OSLA", "full_name": "Ontario Association of Speech-Language Pathologists and Audiologists", "country": "Canada", "scope": "state", "sub_type": "Speech pathology (general)", "email_verified": "mail@osla.on.ca", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "Ontario professional association"},
+    {"name": "SALTS_NO_EMAIL", "full_name": "Speech and Language Therapy Singapore", "country": "Singapore", "scope": "national", "sub_type": "Speech pathology (general)", "email_verified": null, "email_source": null, "draft_created": false, "draft_date": null, "status": "no_email_found", "notes": "Contact form only on website"}
+  ]
+}
