@@ -109,7 +109,7 @@
         "Oral health therapists",
         "Dental practice managers"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 7,
@@ -124,7 +124,7 @@
         "Community paramedicine",
         "Ambulance officers/services"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 8,
@@ -139,7 +139,7 @@
         "Health IT/digital health",
         "Telehealth"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 9,
@@ -154,7 +154,7 @@
         "Dementia care",
         "Retirement living"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 10,
@@ -192,7 +192,7 @@
         "Deputy/assistant principals",
         "International school leaders"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 12,
