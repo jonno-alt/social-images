@@ -1,0 +1,44 @@
+{
+  "category": "health-information-management",
+  "category_name": "Health Information Management / Health IT",
+  "last_updated": "2026-03-25T14:33:12Z",
+  "total_drafted": 2,
+  "total_researched": 10,
+  "sub_types_completed": [],
+  "sub_types_remaining": [
+    "Health information management (general)",
+    "Health informatics",
+    "Clinical coding",
+    "Health IT/digital health",
+    "Telehealth"
+  ],
+  "current_sub_type": "Health information management (general)",
+  "current_scope": "international",
+  "current_country": "Australia",
+  "associations": [
+    {
+      "name": "IFHIMA",
+      "full_name": "International Federation of Health Information Management Associations",
+      "country": "International",
+      "scope": "international",
+      "sub_type": "Health information management (general)",
+      "email_verified": "contact@ifhima.org",
+      "email_source": "ifhima.org/contact-us",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    },
+    {
+      "name": "AHIMA",
+      "full_name": "American Health Information Management Association",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Health information management (general)",
+      "email_verified": "contact@ahima.org",
+      "email_source": "ahima.org/contact",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    }
+  ]
+}
