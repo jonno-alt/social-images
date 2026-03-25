@@ -1,0 +1,56 @@
+{
+  "category": "paramedicine-ems",
+  "category_name": "Paramedicine / EMS",
+  "last_updated": "2026-03-25T14:33:09Z",
+  "total_drafted": 3,
+  "total_researched": 10,
+  "sub_types_completed": [],
+  "sub_types_remaining": [
+    "Paramedicine/paramedics (general)",
+    "Emergency medical technicians (EMT)",
+    "Flight paramedics/aeromedical",
+    "Community paramedicine",
+    "Ambulance officers/services"
+  ],
+  "current_sub_type": "Paramedicine/paramedics (general)",
+  "current_scope": "national",
+  "current_country": "USA",
+  "associations": [
+    {
+      "name": "NAEMT",
+      "full_name": "National Association of EMTs",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Paramedicine/paramedics (general)",
+      "email_verified": "info@naemt.org",
+      "email_source": "naemt.org contact page",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    },
+    {
+      "name": "ACP",
+      "full_name": "Australasian College of Paramedicine",
+      "country": "Australia",
+      "scope": "national",
+      "sub_type": "Paramedicine/paramedics (general)",
+      "email_verified": "info@acp.edu.au",
+      "email_source": "acp.edu.au contact page",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    },
+    {
+      "name": "PAC",
+      "full_name": "Paramedic Association of Canada",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Paramedicine/paramedics (general)",
+      "email_verified": "contact-us@paramedic.ca",
+      "email_source": "paramedic.ca/contact-us-2",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    }
+  ]
+}
