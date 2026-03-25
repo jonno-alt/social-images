@@ -547,3 +547,57 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Hashtag limits respected: PASS (LinkedIn 0, IG 5, TikTok 3, YT 4, X 1, FB 3, Threads 1 topic, Bluesky 0, Google 0)
 - Alt text on every image: PASS
 - Post length within platform limits: PASS
+
+## Podcast Rec: Craig Groeschel Leadership Podcast — 2026-03-26
+- **Trigger**: Scheduled (automated run)
+- **Topic**: Podcast Rec: Craig Groeschel Leadership Podcast (Row 22 in content calendar)
+- **Source**: No blog URL. Researched podcast via web search.
+- **Carousels Built**: 3
+  - Why Listen to Craig Groeschel (8 slides)
+  - 5 Key Themes from Craig Groeschel (7 slides)
+  - 3 Reasons to Subscribe (6 slides)
+- **Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920), Pinterest Pin (1000x1500)
+- **Videos**: 3 MP4s (vertical, 4s/slide, h264 CRF 23, 30fps, no audio)
+- **GitHub folder**: carousels/craig-groeschel-podcast-2026-03-26/
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+
+### Scheduling Summary
+| Platform | Carousel 1 | Carousel 2 | Carousel 3 | Notes |
+|----------|-----------|-----------|-----------|-------|
+| LinkedIn | Scheduled (addToQueue) | Scheduled | Scheduled | @Craig Groeschel tag |
+| Facebook | Scheduled | Scheduled | Scheduled | @Craig Groeschel Page tag |
+| Instagram | Scheduled | Scheduled | Scheduled | Photo tags + caption @craiggroeschel @life.church |
+| Threads | Scheduled | Scheduled | Scheduled | @craiggroeschel |
+| X/Twitter | Scheduled | Scheduled | Scheduled | @craiggroeschel, max 4 images |
+| Google Business | Scheduled | Scheduled | Scheduled | 1 image, learn_more button |
+| TikTok | Scheduled (Mar 31) | Scheduled (Mar 31) | Scheduled (Mar 31) | Hit daily limit, used customScheduled |
+| YouTube | Scheduled (Mar 28) | Scheduled (Mar 29) | Scheduled (Apr 11) | customScheduled, hit limits on several dates |
+| Bluesky | Scheduled | Scheduled | Scheduled | No hashtags, link attachment |
+| Pinterest | SKIPPED | SKIPPED | SKIPPED | No boards configured |
+
+### Handle Research
+- **Craig Groeschel**: Instagram @craiggroeschel (VERIFIED), Facebook Page craiggroeschel (VERIFIED), TikTok @craiggroeschel (VERIFIED), X/Twitter @craiggroeschel (VERIFIED, possibly inactive), YouTube @craiggroeschel (VERIFIED), Threads @craiggroeschel (LIKELY), Bluesky NOT FOUND
+- **Life.Church**: Instagram @life.church (VERIFIED), Facebook life.church (VERIFIED), TikTok @lifechurch (VERIFIED), YouTube @life.church (VERIFIED)
+
+### Decisions Made
+1. No blog URL for this topic. Created content from web research on the podcast.
+2. Used default footer role (not school/WG topic).
+3. Kept TikTok captions under 150 chars (Path 1, only 1 person featured).
+4. YouTube scheduled across 3 different days due to 10-post daily limits.
+5. Pinterest skipped per skill rules (no boards configured).
+6. No em dashes used. No "ranked" language. All CTAs include jonno@consultclarity.org.
+
+### Errors and Warnings
+- TikTok daily limit (25 posts) hit for current dates. Scheduled all 3 on March 31 AEST.
+- YouTube daily limit (10 posts) hit for March 31 through April 10. Carousel 3 scheduled on April 11.
+
+### Native Action Items
+- **X/Twitter**: Add photo tags to images after publishing (Craig Groeschel)
+- **YouTube**: Edit @mentions in YouTube Studio to make them clickable
+- **Instagram**: Verify photo tags on @craiggroeschel and @life.church applied correctly
+- **Facebook**: No personal profile tags needed (Craig Groeschel has a Page)
+
+### Excel Files Updated
+- content-calendar.xlsx: Row 22 marked "Carousel Created"
+- handle-database.xlsx: Added Craig Groeschel (row 78), Life.Church (row 79)
+- carousel-log.xlsx: Added 3 new carousel entries
