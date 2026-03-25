@@ -223,3 +223,13 @@
 - YouTube scheduled: 2026-03-28 via customScheduled
 - TikTok path: 2 (placeholder under 150 chars, scheduled 2026-04-01 via customScheduled due to daily limit)
 - Issues: TikTok daily limit hit (25 posts/day), rescheduled to April 1. YouTube daily limit hit for Mar 25-27, scheduled for Mar 28.
+
+## Principal Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: principal-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-28 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-28 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 28. YouTube also scheduled for April 28 (latest available slot). All 17 people are new to the database. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of award-winning principals (Sheninger-NASSP Digital Principal, Carter-NASSP Digital Principal, Cattani-NASSP 2025-26 National Principal of Year, Thomas-EL-national chess champion coach), foundational researchers (Robinson-Student-Centered Leadership/AERA Fellow, Harris-distributed leadership/ICSEI Past President), bestselling authors (Muhammad-Transforming School Culture/Global Gurus Top 30, Johnson-Global Gurus #3/20+ books, Couros-The Innovator's Mindset, DeWitt-Corwin Press/EdWeek), podcast hosts (Jones-Transformative Principal longest-running, Parker-Principal Matters 1.5M downloads, Cattani-Proud Principals, Netolicky-The Edu Salon, Harrigan-School Leader's Podcast, Baeder-Principal Center Radio), content creators (Brooks-1.1M TikTok/957K IG), and international voices (Netolicky-Australia, Robinson-New Zealand, Harris-Wales/UK).
