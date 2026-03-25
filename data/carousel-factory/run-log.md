@@ -363,3 +363,87 @@
 - Series coverage: All 6 series at 8-9 stories each.
 
 ---
+
+## Run #6 - 2026-03-25
+
+**Timestamp:** 2026-03-25T10:54:00Z (20:54 AEST)
+**Stories Created:** 10 (Stories #51-60)
+**Batch Size:** 10 (default)
+
+### Stories in This Batch
+
+| # | Series | Type | Hook | Slug |
+|---|--------|------|------|------|
+| 51 | The Leader Who Thought It Was a People Problem | FICT | Four project managers. Same broken project. | four-pms-same-broken-project |
+| 52 | The Question That Changed Everything | FICT | She asked who benefits. Silence. | asked-who-benefits-silence |
+| 53 | The Moment They Saw It | TRUE | Nine months of perfection. One wrong unit. | mars-orbiter-one-wrong-unit |
+| 54 | The Cost of Getting It Wrong | TRUE | Offered $44 billion. They said no. | yahoo-said-no-to-44-billion |
+| 55 | The Team That Looks Fine But Isn't | FICT | Five-star reviews. Five resignations. | five-star-reviews-five-resignations |
+| 56 | The Meeting That Changed Everything | FICT | The intern spoke. The room froze. | intern-spoke-room-froze |
+| 57 | The Leader Who Thought It Was a People Problem | TRUE | Zero injuries recorded. Eleven people died. | bp-zero-injuries-eleven-died |
+| 58 | The Question That Changed Everything | TRUE | Right question. Wrong answer. 800,000 customers left. | netflix-right-question-wrong-answer |
+| 59 | The Moment They Saw It | FICT | Dashboard was green. Clients were gone. | dashboard-green-clients-gone |
+| 60 | The Cost of Getting It Wrong | FICT | They cut training first. Then wondered why. | cut-training-wondered-why |
+
+### Decisions Made
+
+- Sixth run. Loaded story-tracker.xlsx from GitHub (50 stories from Runs #1-5).
+- Prioritized series 3-6 (fewest at 8 each) for stories 51-54, then series 1-2 (9 each) for 55-56, then back to 3-6 for 57-60.
+- TRUE stories: NASA Mars Climate Orbiter (1999, metric/imperial), Yahoo/Microsoft (2008, $44.6B rejected), BP Deepwater Horizon (2010, systemic safety failure), Netflix Qwikster (2011, right question wrong answer).
+- FICTIONAL stories set in: SaaS company (project scope), nonprofit board (purpose), corporate performance reviews (psychological safety), marketing agency (intern perspective), consulting firm (vanity metrics), hospital network (training cuts).
+- Type split: 4 TRUE + 6 FICTIONAL.
+
+### GitHub
+
+- Repository: jonno-alt/social-images
+- Pushed via GitHub Git Data API (no clone, disk space limited)
+- 5 commits (2 stories per commit): 7164f9e7, 2398c94d, a3dfd25e, 9af65f90, b6130c7a
+- 250 files added: 10 stories x (8 slides x 3 sizes + 1 video)
+
+### Buffer Posts by Platform
+
+| Platform | Posts | Mode | Notes |
+|----------|-------|------|-------|
+| LinkedIn | 10 | addToQueue | Portrait images, all 8 slides |
+| Facebook | 10 | addToQueue | Portrait images, all 8 slides |
+| Instagram | 10 | addToQueue | Portrait images, all 8 slides |
+| Threads | 10 | addToQueue | Square images, all 8 slides |
+| X/Twitter | 9 | addToQueue | Square slides 1,4,5,8. Story 56 had duplicate error (1 failed) |
+| Google Business | 10 | addToQueue | Square slide 1, whats_new type |
+| Bluesky | 10 | addToQueue | Square slides 1,4,5,8 |
+| TikTok | 10 | customScheduled | Daily limit hit. Staggered Apr 8-16, 10:00 AEST |
+| YouTube | 10 | customScheduled | Daily limit hit. Staggered Apr 20-28, 10:00 AEST |
+| Pinterest | 0 | SKIPPED | No boards configured |
+| **Total** | **89** | | 1 failed (X/Twitter Story 56 duplicate) |
+
+### Quality Gates
+
+- All 10 stories: 8 slides each, 3 sizes (square/portrait/vertical), video ~32s
+- Cover slides visually verified: brand colors correct (cream #f5f1eb, red #b42b2b, navy #1e2d3d)
+- Content slides: text readable, within margins, footer zone clear
+- Vertical slides: content within TikTok safe zone (y=400 to y=1770)
+- Hook text under 50 characters (all pass)
+- Body text at or above 48px minimum
+
+### Errors and Recovery
+
+1. TikTok daily limit (25 posts/day): Hit on Story 51. Switched to customScheduled for all 10, staggered Apr 8-16.
+2. YouTube daily limit (10 posts/day): Hit on Story 51. Switched to customScheduled for all 10, staggered Apr 20-28.
+3. X/Twitter duplicate error on Story 56 (intern-spoke-room-froze): Post text may have been too similar to another. 1 of 90 posts failed.
+
+### Items for Review
+
+- Story 56 X/Twitter post needs manual scheduling or retry.
+- Pinterest remains skipped (no boards configured).
+- TikTok posts staggered Apr 8-16.
+- YouTube posts staggered Apr 20-28.
+
+### Running Totals
+
+- Total stories created: 60
+- Total Buffer posts scheduled this run: 89 (1 X/Twitter failed)
+- Total Buffer posts all time: ~521
+- Total carousel assets on GitHub: 1,500 (1,440 PNGs + 60 videos)
+- Series coverage: All 6 series at 10-11 stories each (balanced).
+
+---
