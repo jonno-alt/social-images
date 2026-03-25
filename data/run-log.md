@@ -193,3 +193,13 @@
 - YouTube scheduled: 2026-04-20 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-20 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 20. All 17 people are new to the database. Strong mix of foundational researchers (Maslach-MBI creator, Leiter-40yr researcher), bestselling authors (Nagoski-Stress Cycle, Moss-Burnout Epidemic, Davis-Beating Burnout at Work, Jiménez-The Burnout Fix, Biali Haas-The Resilient Life, Malesic-End of Burnout, Murray-Burnout Solution), podcast hosts (Donovan-FRIED top 1%, Bonner-Black Girl Burnout, Randall-Burnout Recovery 244 eps), content creators (Sarai Marie-3M TikTok, Nesdoly-TEDx), practitioners (Spencer-UK Six Signals, Montañez-Forbes columnist), and international voices (Murray-Ireland, Spencer-UK, Leiter-Australia, Nesdoly-Canada, Konjedic-Slovenia, Montañez-lived UK/South Korea/Japan/USA).
+
+## First-Time Managers — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: first-time-managers
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-21 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-21 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 21. One GitHub upload failed on first attempt (vertical/slide_03.png connection refused), succeeded on retry. All 17 people are new to the database. Strong mix of foundational researchers (Linda Hill-Harvard, Herminia Ibarra-LBS), definitive book authors (Jim McCormick-The First-Time Manager 500K copies, Camille Fournier-The Manager's Path, Scott Jeffrey Miller-Everyone Deserves a Great Manager), new manager coaching specialists (Ramona Shaw, Lia Garvin, Jen Dary, Kim Nicol, Lara Hogan), podcast hosts (Mark Horstman-Manager Tools 1.4M/month, Mamie Kanfer Stewart-The Modern Manager), corporate leaders (Dr. Tacy Byham-DDI CEO, Molly Graham-ex-Facebook/Google), and practical authors (David Burkus, Wanda Wallace, Mary Abbajay).
