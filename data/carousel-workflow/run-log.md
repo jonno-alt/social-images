@@ -366,3 +366,42 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - handle-database.xlsx: 4 new people added (Chester Elton, Ed Batista, Vivek Murthy, Julianne Holt-Lunstad)
 - carousel-log.xlsx: 7 new rows added
 - run-log.md: This entry appended
+
+## Caring Hurts: The Hidden Cost of Leadership — 2026-03-25
+- Trigger: Scheduled (content calendar row 19)
+- Blog URL: https://www.consultclarity.org/post/caring-hurts-leadership
+- Topic: Caring leadership, boundaries, accountability
+- Carousels built: 4
+  - why-caring-hurts (8 slides)
+  - signs-1-to-5 (7 slides)
+  - signs-6-to-10 (7 slides)
+  - caring-that-builds (8 slides)
+- Total slides: 30 (across 3 sizes = 90 PNGs + 4 Pinterest pins)
+- Videos: 4 vertical MP4s
+- GitHub: https://github.com/jonno-alt/social-images/tree/main/carousels/caring-hurts-leadership-2026-03-25
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+- Posts scheduled: 36 total (4 carousels x 9 platforms, Pinterest skipped)
+- YouTube scheduling:
+  - Carousels 1-2: March 31 via customScheduled
+  - Carousel 3: April 15 via customScheduled (March 31 - April 9 all at 10-post daily limit)
+  - Carousel 4: April 15 via customScheduled
+- TikTok path: Path 1 (all captions under 150 chars)
+- Handle research: 9 people referenced in blog. 4 already in database (Kim Scott, Patrick Lencioni, Brene Brown, Simon Sinek). 5 new entries added (Henry Cloud, John Townsend, Tania Singer, David Morrison, Edwin Friedman). Tania Singer and David Morrison have no social media. Edwin Friedman deceased 1996.
+- Verified handles used for tagging:
+  - Kim Scott: X @kimballscott, IG @kimmalonescott
+  - Patrick Lencioni: X @patricklencioni, IG @patricklencioniofficial, TikTok @patricklencioniofficial
+  - Brene Brown: X @BreneBrown, IG @brenebrown, TikTok @brenebrown
+  - Simon Sinek: X @simonsinek, IG @simonsinek, Threads @simonsinek, TikTok @simonsinek
+  - Henry Cloud: X @DrHenryCloud, FB @DrHenryCloud
+  - John Townsend: X @drjohntownsend
+- Errors/warnings:
+  - X/Twitter carousel 3 first attempt exceeded 280 chars, shortened successfully
+  - YouTube March 31 hit 10-post daily limit for carousel 3, rescheduled to April 15
+  - YouTube April 1-9 also at daily limits, used April 15 for carousels 3-4
+- Quality gates: All passed. No em dashes, no "ranked"/"rating" language, no fabricated claims, alt text on all images, CTA includes jonno@consultclarity.org on all slides.
+- Native action items pending:
+  - X/Twitter: Add photo tags natively to all 4 posts after publishing
+  - Facebook: Add personal profile tags for people without Pages (most referenced people)
+  - YouTube: Re-enter @mentions in YouTube Studio to make them clickable
+  - Instagram: Verify photo tags applied correctly on all 4 posts
+- Excel files updated: content-calendar.xlsx, handle-database.xlsx, carousel-log.xlsx
