@@ -405,3 +405,71 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
   - YouTube: Re-enter @mentions in YouTube Studio to make them clickable
   - Instagram: Verify photo tags applied correctly on all 4 posts
 - Excel files updated: content-calendar.xlsx, handle-database.xlsx, carousel-log.xlsx
+
+## Leaders Eat Last (Book Rec) — 2026-03-26
+
+**Run timestamp**: 2026-03-26T00:20:00+10:00
+**Trigger**: Scheduled (automated run)
+**Topic/Input**: Book Rec: Leaders Eat Last by Simon Sinek (Row 20 in content-calendar, no blog URL)
+
+### Carousels Built
+| Carousel | Slides | Slug |
+|----------|--------|------|
+| Why Read Leaders Eat Last | 8 | why-read-leaders-eat-last |
+| The Circle of Safety | 8 | circle-of-safety |
+| The 4 Chemicals of Leadership | 8 | four-chemicals-of-leadership |
+| Key Lessons from Leaders Eat Last | 8 | key-lessons-leaders-eat-last |
+
+**Image sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920), Pin (1000x1500)
+**Videos**: 4 vertical MP4s (1080x1920, 4s/slide, h264 CRF 23, 30fps)
+**GitHub folder**: carousels/leaders-eat-last-2026-03-26/
+
+### Decisions Made
+- No blog URL existed for this entry; content was created from the book's key concepts
+- Split into 4 carousels: overview, Circle of Safety concept, 4 chemicals framework, key lessons
+- Footer role line: "Author | Keynote Speaker" (book topic)
+- Simon Sinek is the only person tagged (book author)
+- TikTok Path 1 used (only 1 person featured, under 150 chars)
+- YouTube scheduled via customScheduled mode on separate days to avoid 10-post daily limit
+- Pinterest skipped (no boards configured)
+
+### Buffer Scheduling Results
+| Platform | Carousel 1 | Carousel 2 | Carousel 3 | Carousel 4 |
+|----------|-----------|-----------|-----------|-----------|
+| LinkedIn | OK (Apr 1) | OK (Apr 1) | OK (Apr 1) | OK (Apr 1) |
+| Facebook | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) |
+| Instagram | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) |
+| Threads | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) |
+| X/Twitter | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) |
+| Google Business | OK (Apr 3) | OK (Apr 3) | OK (Apr 4) | OK (Apr 4) |
+| TikTok | OK (Mar 29) | OK (Mar 29) | OK (Mar 29) | OK (Mar 29) |
+| YouTube | OK (Mar 29) | OK (Apr 12) | OK (Apr 13) | OK (Apr 14) |
+| Bluesky | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) | OK (Apr 3) |
+| Pinterest | SKIPPED | SKIPPED | SKIPPED | SKIPPED |
+
+**Total posts scheduled**: 36/36 (9 platforms x 4 carousels)
+
+### Handle Research Summary
+- Simon Sinek: Already in database (verified 2026-03-24, updated to 2026-03-26)
+- Handles used: X/Twitter (@simonsinek), Instagram (@simonsinek), YouTube (Simon Sinek), LinkedIn (@Simon Sinek)
+- No TikTok, Threads, Bluesky, or Facebook Page handles found for Sinek
+
+### Errors or Warnings
+- YouTube: March 30 and April 5-6 at daily limit (10 posts). Scheduled C2 on Apr 12, C3 on Apr 13, C4 on Apr 14
+- No other errors
+
+### Native Action Items Pending
+- **X/Twitter**: Add Simon Sinek as photo tag on all 4 posts after publishing
+- **YouTube**: Edit description in YouTube Studio to make @Simon Sinek clickable (all 4 videos)
+- **Instagram**: Verify photo tag on @simonsinek applied correctly (all 4 posts)
+
+### Excel Files Updated
+- content-calendar.xlsx: Row 20 marked "Carousel Created" with date, carousel names, slide counts
+- carousel-log.xlsx: 4 new rows added
+- handle-database.xlsx: Simon Sinek verify date updated to 2026-03-26
+
+### Output Files
+- 96 PNG images (4 carousels x 3 sizes x 8 slides)
+- 4 pin images (1000x1500)
+- 4 MP4 videos
+- All pushed to GitHub: jonno-alt/social-images/carousels/leaders-eat-last-2026-03-26/
