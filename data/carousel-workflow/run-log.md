@@ -601,3 +601,79 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - content-calendar.xlsx: Row 22 marked "Carousel Created"
 - handle-database.xlsx: Added Craig Groeschel (row 78), Life.Church (row 79)
 - carousel-log.xlsx: Added 3 new carousel entries
+
+## Testimonial: Kathy Dickson, CEO ASBA — 2026-03-26
+
+### Run Details
+- **Trigger**: Scheduled (automated run)
+- **Input**: Content calendar row "Testimonial: Kathy Dickson, CEO ASBA" (no blog URL)
+- **Topic type**: Testimonial / case study
+
+### Research Summary
+- Kathy Dickson is CEO of ASBA (Association of School Business Administrators)
+- ASBA 2025 National Conference held in Darwin, nearly 700 delegates
+- Jonno White ran a Working Genius Assessment session
+- 93.75% of delegates rated the session excellent
+- Kathy Dickson described the conference as "a resounding success"
+- No specific testimonial quote from Kathy Dickson about Jonno was found online, so no quotes were fabricated
+- Content was built around verified facts: the conference, the session, and the 93.75% rating
+
+### Carousels Built
+1. **asba-working-genius-in-action** (7 slides) - The conference experience and what happened
+2. **asba-93-percent-rated-excellent** (7 slides) - Why 93.75% rated it excellent (4 reasons)
+3. **asba-what-school-leaders-took-away** (7 slides) - 5 practical Working Genius takeaways
+
+### Decisions Made
+- Footer role: "Certified Working Genius Facilitator | Author" (topic involves schools + Working Genius)
+- No testimonial quote fabricated (only used verified facts)
+- Tagged @ASBALtd on Facebook (VERIFIED page)
+- Tagged @patricklencioni on X and @patricklencioniofficial on IG (from handle database)
+- Kathy Dickson has LinkedIn only (personal profile, cannot tag via API)
+
+### Scheduling Results
+- **LinkedIn**: 3 posts scheduled (all 3 carousels) - queued for Apr 2
+- **Facebook**: 3 posts scheduled - queued for Apr 5
+- **Instagram**: 3 posts scheduled (portrait) - queued for Apr 5
+- **Threads**: 3 posts scheduled - queued for Apr 4-5
+- **X/Twitter**: 3 posts scheduled (4 images each) - queued for Apr 5
+- **Google Business**: 3 posts scheduled (1 image each, learn_more button) - queued for Apr 5
+- **Bluesky**: 3 posts scheduled (4 images each) - queued for Apr 5
+- **TikTok**: FAILED - Buffer daily creation limit reached (25 posts/day)
+- **YouTube**: FAILED - Buffer daily creation limit reached (10 posts/day)
+- **Pinterest**: SKIPPED - No boards configured
+
+### Posts Scheduled: 21/27 (7 platforms x 3 carousels)
+
+### Handle Research
+- ASBA Limited: Facebook @ASBALtd (VERIFIED). Added to database.
+- Kathy Dickson: LinkedIn only. Added to database.
+- Patrick Lencioni: Already in database. Used on IG, X.
+
+### Errors / Warnings
+- TikTok hit daily Buffer creation limit (25 posts already created today)
+- YouTube hit daily Buffer creation limit (10 posts already created today)
+- consultclarity.org returns raw JS/CSS via WebFetch (Wix site), could not extract testimonials page content
+- No specific Kathy Dickson testimonial quote found; content built from verified conference facts
+
+### Items Flagged for Jonno's Review
+- No direct testimonial quote from Kathy Dickson was found. Consider reaching out to Kathy for a quote to add to future posts.
+- TikTok: 3 videos need manual scheduling via Buffer or TikTok app
+- YouTube: 3 videos need manual scheduling via Buffer (suggested dates: Apr 6-8)
+
+### Native Action Items Pending
+- Facebook: No personal profile tags needed (ASBA is a page)
+- X/Twitter: Add photo tags natively after publishing
+- TikTok: Schedule 3 videos manually (hit daily limit)
+- YouTube: Schedule 3 videos manually (hit daily limit); re-enter @mentions in YouTube Studio
+- Instagram: Verify @patricklencioniofficial photo tags applied correctly
+
+### Excel Files Updated
+- content-calendar.xlsx: Marked "Carousel Created" with carousel names and slide counts
+- carousel-log.xlsx: Added 3 rows (one per carousel)
+- handle-database.xlsx: Added ASBA Limited and Kathy Dickson
+
+### Output Files
+- 63 PNG images (3 carousels x 7 slides x 3 sizes)
+- 3 MP4 videos (one per carousel)
+- 3 Pinterest pins
+- All uploaded to GitHub: jonno-alt/social-images
