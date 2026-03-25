@@ -1,19 +1,18 @@
 {
   "category": "pharmacy",
   "category_name": "Pharmacy / Pharmacists",
-  "last_updated": "2026-03-25T14:33:52Z",
-  "total_drafted": 29,
-  "total_researched": 44,
+  "last_updated": "2026-03-26T10:00:00Z",
+  "total_drafted": 33,
+  "total_researched": 50,
   "sub_types_completed": [
     "Pharmacy (general)",
     "Hospital pharmacy",
     "Community pharmacy",
-    "Clinical pharmacy"
-  ],
-  "sub_types_remaining": [
+    "Clinical pharmacy",
     "Pharmacy technicians"
   ],
-  "current_sub_type": "Pharmacy technicians",
+  "sub_types_remaining": [],
+  "current_sub_type": "COMPLETED",
   "current_scope": "international",
   "current_country": "Australia",
   "associations": [
@@ -391,6 +390,58 @@
       "draft_created": true,
       "draft_date": "2026-03-25",
       "status": "drafted"
+    },
+    {
+      "name": "APTUK",
+      "full_name": "Association of Pharmacy Technicians UK",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Pharmacy technicians",
+      "email_verified": "secretary@aptuk.org",
+      "email_source": "https://www.aptuk.org/about/contact-us",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
+    },
+    {
+      "name": "CAPT",
+      "full_name": "Canadian Association of Pharmacy Technicians",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Pharmacy technicians",
+      "email_verified": "info@capt.ca",
+      "email_source": "https://capt.ca/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
+    },
+    {
+      "name": "PSNZ_PACT",
+      "full_name": "Pharmaceutical Society of NZ - Pharmacy Technicians",
+      "country": "New Zealand",
+      "scope": "national",
+      "sub_type": "Pharmacy technicians",
+      "email_verified": "pact@psnz.org.nz",
+      "email_source": "https://www.psnz.org.nz/technicians",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
+    },
+    {
+      "name": "PSS",
+      "full_name": "Pharmaceutical Society of Singapore",
+      "country": "Singapore",
+      "scope": "national",
+      "sub_type": "Pharmacy technicians",
+      "email_verified": "admin@pss.org.sg",
+      "email_source": "https://pss.org.sg/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
     }
   ]
 }
