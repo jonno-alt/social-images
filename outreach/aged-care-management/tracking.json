@@ -1,0 +1,68 @@
+{
+  "category": "aged-care-management",
+  "category_name": "Aged Care / Long-Term Care Management",
+  "last_updated": "2026-03-25T14:33:10Z",
+  "total_drafted": 4,
+  "total_researched": 15,
+  "sub_types_completed": [],
+  "sub_types_remaining": [
+    "Aged care/senior living (general)",
+    "Residential aged care",
+    "Home care/community care",
+    "Dementia care",
+    "Retirement living"
+  ],
+  "current_sub_type": "Aged care/senior living (general)",
+  "current_scope": "national",
+  "current_country": "Australia",
+  "associations": [
+    {
+      "name": "NCA_UK",
+      "full_name": "National Care Association",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Aged care/senior living (general)",
+      "email_verified": "info@nationalcareassociation.org.uk",
+      "email_source": "nationalcareassociation.org.uk/contact-us",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    },
+    {
+      "name": "CHA",
+      "full_name": "Catholic Health Australia",
+      "country": "Australia",
+      "scope": "national",
+      "sub_type": "Aged care/senior living (general)",
+      "email_verified": "contact@cha.org.au",
+      "email_source": "cha.org.au/contact",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    },
+    {
+      "name": "CE",
+      "full_name": "Care England",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Aged care/senior living (general)",
+      "email_verified": "info@careengland.org.uk",
+      "email_source": "careengland.org.uk/contact-us",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    },
+    {
+      "name": "ASC",
+      "full_name": "Alzheimer Society of Canada",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Dementia care",
+      "email_verified": "info@alzheimer.ca",
+      "email_source": "alzheimer.ca/en/contact-us",
+      "draft_created": true,
+      "draft_date": "2026-03-25",
+      "status": "drafted"
+    }
+  ]
+}
