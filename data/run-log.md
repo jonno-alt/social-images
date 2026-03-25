@@ -233,3 +233,13 @@
 - YouTube scheduled: 2026-04-28 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-28 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 28. YouTube also scheduled for April 28 (latest available slot). All 17 people are new to the database. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of award-winning principals (Sheninger-NASSP Digital Principal, Carter-NASSP Digital Principal, Cattani-NASSP 2025-26 National Principal of Year, Thomas-EL-national chess champion coach), foundational researchers (Robinson-Student-Centered Leadership/AERA Fellow, Harris-distributed leadership/ICSEI Past President), bestselling authors (Muhammad-Transforming School Culture/Global Gurus Top 30, Johnson-Global Gurus #3/20+ books, Couros-The Innovator's Mindset, DeWitt-Corwin Press/EdWeek), podcast hosts (Jones-Transformative Principal longest-running, Parker-Principal Matters 1.5M downloads, Cattani-Proud Principals, Netolicky-The Edu Salon, Harrigan-School Leader's Podcast, Baeder-Principal Center Radio), content creators (Brooks-1.1M TikTok/957K IG), and international voices (Netolicky-Australia, Robinson-New Zealand, Harris-Wales/UK).
+
+## Courage & Vulnerability in Leadership — 2026-03-25
+- People: 17 (16 new, 1 returning)
+- Returning names: Brené Brown
+- Slug: courage-vulnerability-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-30 via customScheduled
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars)
+- Issues: None. 16 of 17 people are new to the database. Brené Brown is the only returning name — she is THE defining figure for courage and vulnerability in leadership. Strong mix of academics (Detert-UVA, Beerel-Routledge 2025), pioneer practitioners (Treasurer-Giant Leap, Solomon-Courageous Leadership Institute), bestselling authors (Morgan-Leading with Vulnerability, Holiday-Courage Is Calling, Hurt/Dye-Courageous Cultures), science of bravery experts (Schulman-USMC/MAPP), women's courage advocates (Caprino-Finding Brave, Warrell-5 books), international voices (Warrell-Australia, Gibbings-Australia, Kull-Sweden, McQueen-UK, Hopkinson-UK, Beerel-UK), and framework creators (Sebaly-Spine of a Leader, McQueen-BRAVE). Many niche specialists (Detert, Treasurer, Solomon, Kull, Beerel, Sebaly) have minimal social media presence but are deep domain experts.
