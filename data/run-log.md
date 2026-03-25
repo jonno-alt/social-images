@@ -323,3 +323,13 @@
 - YouTube scheduled: 2026-04-10 via customScheduled (earlier dates at daily limit)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars, customScheduled 2026-04-05)
 - Issues: TikTok and YouTube both hit daily scheduling limits on first attempts. TikTok scheduled for April 5, YouTube for April 10. All 17 people are genuine meeting culture specialists — mix of meeting science researchers (Rogelberg, Allen, Kreamer, Hinds), authors of meeting-specific books (Pittampalli, Reed, Axtell, Ferguson, McGeorge, Herold, Allcott, Chapman, Stewart), async-first advocates (Fried, Lavingia), and meeting facilitation practitioners (Keith, Green). Good international diversity: McGeorge (Australia), Allcott (UK), Chapman (UK). Many niche specialists have limited social media presence — handles concentrated on X/Twitter.
+
+## Leadership in Healthcare — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: leadership-in-healthcare
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-28 via customScheduled (daily limit reached for earlier dates)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars, scheduled 2026-03-29 via customScheduled due to daily limit)
+- Issues: TikTok daily limit (25) reached for 2026-03-26 and 2026-03-27, scheduled for 2026-03-29. YouTube daily limit (10) reached for 2026-03-27, scheduled for 2026-03-28. Rose Sherman, Tim Porter-O'Grady, Kay Kennedy, Karl Pister, and Lisa Miller have minimal social media presence. Many healthcare leadership specialists are more active on LinkedIn than other platforms.
