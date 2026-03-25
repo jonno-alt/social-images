@@ -1,0 +1,21 @@
+{
+  "category": "occupational-therapy",
+  "category_name": "Occupational Therapy",
+  "last_updated": "2026-03-25T14:00:00Z",
+  "total_drafted": 6,
+  "total_researched": 12,
+  "sub_types_completed": ["Occupational therapy (general)"],
+  "sub_types_remaining": ["Paediatric OT", "Mental health OT", "Hand therapy", "Rehabilitation OT"],
+  "current_sub_type": "Paediatric OT",
+  "current_scope": "international",
+  "current_country": "Australia",
+  "associations": [
+    {"name": "WFOT", "full_name": "World Federation of Occupational Therapists", "country": "International", "scope": "international", "sub_type": "Occupational therapy (general)", "email_verified": "info@wfot.org", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "Global umbrella body for OT"},
+    {"name": "OTA", "full_name": "Occupational Therapy Australia", "country": "Australia", "scope": "national", "sub_type": "Occupational therapy (general)", "email_verified": "info@otaus.com.au", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National peak body Australia"},
+    {"name": "OTNZ", "full_name": "Occupational Therapy New Zealand", "country": "New Zealand", "scope": "national", "sub_type": "Occupational therapy (general)", "email_verified": "admin@otnz.co.nz", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National peak body NZ"},
+    {"name": "RCOT", "full_name": "Royal College of Occupational Therapists", "country": "UK", "scope": "national", "sub_type": "Occupational therapy (general)", "email_verified": "enquiries@rcot.co.uk", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body UK"},
+    {"name": "AOTA", "full_name": "American Occupational Therapy Association", "country": "USA", "scope": "national", "sub_type": "Occupational therapy (general)", "email_verified": "contactus@aota.org", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body USA, 200k+ members"},
+    {"name": "CAOT", "full_name": "Canadian Association of Occupational Therapists", "country": "Canada", "scope": "national", "sub_type": "Occupational therapy (general)", "email_verified": "info@caot.ca", "email_source": "Official website contact page", "draft_created": true, "draft_date": "2026-03-25", "status": "drafted", "notes": "National body Canada"},
+    {"name": "SAOT_NO_EMAIL", "full_name": "Singapore Association of Occupational Therapists", "country": "Singapore", "scope": "national", "sub_type": "Occupational therapy (general)", "email_verified": null, "email_source": null, "draft_created": false, "draft_date": null, "status": "no_email_found", "notes": "No public general email found on official website"}
+  ]
+}
