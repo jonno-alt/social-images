@@ -283,3 +283,13 @@
 - YouTube scheduled: 2026-05-04 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-05-04 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for May 4. All 17 people are new to the database. Strong mix of academics (Kirby-100+ papers, Doyle-Birkbeck Professor/BPS, Praslova-Thinkers50/first autistic HBR author, Bruyère-Cornell/120+ publications), practitioners (Thompson-Uptimize/Salesforce/JPMorgan, Riddle-NITW/SAP/Dell, Grainger-300+ talks/BBC/UN, Griggs-Made By Dyslexia, Sinclair-TEDx), content creators (McCabe-How to ADHD 2M YouTube, Rivera-NeuroDivergent Rebel 273K FB, Jones-Aspie World 700K+, Whitmarsh-AuDHD Boss podcast, Kircher-Morris-Neurodiversity Podcast), advocates (Moss-first openly autistic FL attorney), and entrepreneurs (Kumar-Mentra/Forbes 30 Under 30). Good international coverage: UK (Kirby, Smith, Doyle, Thompson, Grainger, Griggs, Jones), US (Praslova, McCabe, Rivera, Moss, Riddle, Kircher-Morris, Sinclair, Whitmarsh, Kumar, Bruyère).
+
+## Working Genius — 2026-03-26
+- People: 17 (16 new, 1 returning)
+- Returning names: Patrick Lencioni
+- Slug: working-genius
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-05 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-05-05 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for May 5. Patrick Lencioni is the only returning name — he is THE creator of Working Genius. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of Table Group core team (Lencioni, Thompson, Noble, Matt Lencioni), certification program leaders (Bissell - Director of global certification, Self - Master Facilitator), specialist practitioners (Arnold - high-stakes meetings, Podany - higher education, Ervin - workplace culture, Goodwin - higher ed culture change, Lewis - communication coaching, Bultema - ministry/nonprofit, McIntee - drama-free teams, Collett - AI/WG bridge), and international voices (Fairhead - UK/Global Leadership Network, Harrod - Wichita KS, Winkler - Pennsylvania). Most niche WG facilitators have minimal social media presence outside LinkedIn — this is a practitioner/facilitator community rather than a content creator community.
