@@ -583,3 +583,65 @@
 - Total stories: 80
 - Total Buffer posts (all time): ~640 (estimated)
 - GitHub carousels: 80 stories, 3 sizes each
+
+## Run #9 - 2026-03-26
+
+**Timestamp:** 2026-03-26T06:00:00+10:00 (AEST)
+**Stories Created:** 10 (Stories #81-90)
+**Batch Size:** 10 (default)
+
+### Stories in This Batch
+
+| # | Series | Type | Hook | Slug |
+|---|--------|------|------|------|
+| 81 | The Moment They Saw It | FICTIONAL | Perfect strategy. Wrong problem. | perfect-strategy-wrong-problem |
+| 82 | The Cost of Getting It Wrong | FICTIONAL | Promoted the star. Lost the team. | promoted-star-lost-team |
+| 83 | The Team That Looks Fine But Isn't | TRUE | 30 divisions competed. Zero served customers. | sears-30-divisions-zero-customers |
+| 84 | The Meeting That Changed Everything | TRUE | Laid off 1,900 people. They thanked him. | chesky-laid-off-thanked-him |
+| 85 | The Leader Who Thought It Was a People Problem | FICTIONAL | Five teachers quit. Blamed all five. | five-teachers-blamed-all-five |
+| 86 | The Question That Changed Everything | FICTIONAL | Asked why. Nobody had an answer. | asked-why-nobody-answered |
+| 87 | The Moment They Saw It | TRUE | $3.4B in revenue. A dead end ahead. | adobe-billions-dead-end |
+| 88 | The Cost of Getting It Wrong | TRUE | Called it a toy. It killed his company. | blackberry-called-it-toy |
+| 89 | The Team That Looks Fine But Isn't | FICTIONAL | Meetings on time. Nothing decided. | meetings-on-time-nothing-decided |
+| 90 | The Meeting That Changed Everything | FICTIONAL | Cancelled the meeting. Output doubled. | cancelled-meeting-output-doubled |
+
+### Decisions
+- Series selection: "The Moment They Saw It" and "The Cost of Getting It Wrong" had fewest stories (13 each), so received priority. All 6 series received stories to balance rotation.
+- TRUE/FICTIONAL alternation: 4 TRUE + 6 FICTIONAL, maintaining balance per series.
+- TRUE stories researched via web search: Sears (internal division competition), Airbnb/Chesky (COVID layoffs), Adobe (Creative Cloud pivot), BlackBerry (iPhone dismissal).
+
+### GitHub
+- **Commit:** b41f3908 (via Git Data API, not git clone)
+- **Method:** Used GitHub Git Data API (blobs/trees/commits) because social-images repo too large for clone on ephemeral VM (disk space constraint).
+- **Files pushed:** 240 PNGs (8 slides x 3 sizes x 10 stories) + 10 vertical MP4 videos.
+
+### Buffer Posts (90 total, 9 platforms x 10 stories)
+- LinkedIn: 10 posts (addToQueue)
+- Facebook: 10 posts (addToQueue)
+- Instagram: 10 posts (addToQueue, portrait images)
+- Threads: 10 posts (addToQueue)
+- X/Twitter: 10 posts (addToQueue, slides 1/4/5/8)
+- Google Business: 10 posts (addToQueue, slide 1 only)
+- Bluesky: 10 posts (addToQueue, slides 1/4/5/8)
+- TikTok: 10 posts (customScheduled, daily limit hit, staggered Apr 2-11 at 10:00 AEST)
+- YouTube: 10 posts (customScheduled, daily limit hit, staggered Apr 20-29 at 10:00 AEST)
+- Pinterest: SKIPPED (no boards configured)
+
+### Quality Gates
+- All 240 PNGs rendered (8 slides x 3 sizes x 10 stories)
+- All 10 vertical videos created (~32 seconds each)
+- Visual check passed on sample cover slides (portrait, square, vertical)
+- No text overflow detected
+- All hooks under 55 characters
+
+### Errors
+- GitHub clone failed (disk space) - resolved by using Git Data API
+- TikTok addToQueue daily limit (25 posts) - switched to customScheduled
+- YouTube addToQueue daily limit (10 posts) - switched to customScheduled with far-future dates
+- Story 90 TikTok text too long (>150 chars) - shortened and retried successfully
+
+### Running Totals
+- **Total stories:** 90 (Runs 1-9)
+- **Total Buffer posts:** ~810 (estimated 9 platforms x 90 stories)
+- **Series balance:** ~15 stories per series
+- **Research Cache:** 48 entries
