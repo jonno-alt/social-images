@@ -48,7 +48,7 @@
         "Hand therapy",
         "Rehabilitation OT"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 3,
@@ -63,7 +63,7 @@
         "Fluency/stuttering",
         "Augmentative and alternative communication"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 4,
@@ -78,7 +78,7 @@
         "Clinical pharmacy",
         "Pharmacy technicians"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 5,
@@ -93,7 +93,7 @@
         "Radiation therapy",
         "MRI technology"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 6,
