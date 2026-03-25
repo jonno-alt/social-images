@@ -213,3 +213,13 @@
 - YouTube scheduled: 2026-03-27 via customScheduled
 - TikTok path: 2 (Buffer placeholder under 150 chars, scheduled 2026-04-05 due to daily limit)
 - Issues: TikTok daily limit hit (25 posts/day), rescheduled to April 5. YouTube daily limit hit (10 posts/day on March 25), rescheduled to March 27. 3 GitHub image uploads initially failed but all resolved on retry.
+
+## Authentic Leadership — 2026-03-25
+- People: 16 (16 new, 0 returning)
+- Returning names: none
+- Slug: authentic-leadership
+- Slides: 18 (cover + 16 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-28 via customScheduled
+- TikTok path: 2 (placeholder under 150 chars, scheduled 2026-04-01 via customScheduled due to daily limit)
+- Issues: TikTok daily limit hit (25 posts/day), rescheduled to April 1. YouTube daily limit hit for Mar 25-27, scheduled for Mar 28.
