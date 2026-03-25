@@ -163,3 +163,13 @@
 - YouTube scheduled: 2026-04-10 via customScheduled
 - TikTok path: 2 (placeholder caption, customScheduled 2026-04-05 due to daily limit)
 - Issues: TikTok daily limit reached (25 posts/day); scheduled for April 5 instead. Buffer rate limit 429 encountered during YouTube queue check; resolved after waiting.
+
+## Decision Making — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: decision-making
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-08 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-08 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 8. All 17 people are new to the database. Strong mix of Nobel laureates (Richard Thaler), Nudge co-authors (Cass Sunstein), pioneering researchers (Gary Klein-NDM, Gerd Gigerenzer-heuristics, Philip Tetlock-superforecasting, Baruch Fischhoff-risk communication, Sheena Iyengar-choice overload), Decision Intelligence founders (Cassie Kozyrkov, Lorien Pratt), content creators with massive reach (Shane Parrish-35M podcast downloads, Melina Palmer-1M+ podcast downloads, Phill Agnew-UK #1 marketing podcast), applied practitioners (Annie Duke-poker/decision strategy, Michael Mauboussin-investing, Gleb Tsipursky-cognitive bias), and rationality advocates (Julia Galef, Katy Milkman). Good international coverage: Germany (Gigerenzer), South Africa/US (Kozyrkov), UK (Agnew), Canada/US (Parrish, Tetlock).
