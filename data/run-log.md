@@ -133,3 +133,13 @@
 - YouTube scheduled: 2026-04-10 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-10 due to daily limit)
 - Issues: TikTok daily limit reached, used customScheduled. Education footer variant used ("Certified Working Genius Facilitator | Author"). All 15 people are new to the database. Strong mix of viral educators (Carey Arensberg 486K, Gabe Dannenbring 1.6M TikTok, Jamie Gilbert 1M+ TikTok, Cassie Stephens 362K IG), framework creators (Doug Lemov - Teach Like a Champion, Esther Wojcicki - TRICK, Zaretta Hammond - Ready for Rigor), SEL specialists (Peyton Curley, Ms. Bo, Becky Jo Oglesby), and education content platforms (Jennifer Gonzalez - Cult of Pedagogy, CJ Reynolds, Catlin Tucker).
+
+## Women in Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: women-in-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-11 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-11 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled. All 17 people are new to the database. Strong mix of Global Gurus #1 women's leadership expert (Sally Helgesen), viral content creators (Shadé Zahrai 2M IG, Selena Rezvani 500K+, Luvvie Ajayi Jones 1.2M+), groundbreaking researchers (Siri Chilazi, Kweilin Ellingrud), corporate trailblazers (Carla Harris - Morgan Stanley, Deepa Purushothaman - ex-Deloitte partner, Jennifer McCollum - Catalyst CEO), authors focused specifically on women's advancement (Tiffany Dufu, Ruchika Tulshyan Malhotra, Dr. Michelle P. King, Julia Boorstin, Majo Molfino), global advocates (Laura Liswood - Council of Women World Leaders), and Australian voices (Shadé Zahrai, Annemarie Cross, Louise Thompson-UK).
