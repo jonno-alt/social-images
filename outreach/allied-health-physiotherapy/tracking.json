@@ -1,22 +1,21 @@
 {
   "category": "allied-health-physiotherapy",
   "category_name": "Allied Health / Physiotherapy / Physical Therapy",
-  "last_updated": "2026-03-25T14:33:48Z",
-  "total_drafted": 53,
-  "total_researched": 70,
+  "last_updated": "2026-03-26T10:00:00Z",
+  "total_drafted": 58,
+  "total_researched": 80,
   "sub_types_completed": [
     "Physiotherapy / Physical Therapy (general)",
     "Sports physiotherapy",
     "Paediatric physiotherapy",
     "Musculoskeletal physiotherapy",
-    "Neurological physiotherapy"
-  ],
-  "sub_types_remaining": [
+    "Neurological physiotherapy",
     "Cardiorespiratory physiotherapy",
     "Aquatic physiotherapy",
     "Women's/pelvic health physiotherapy"
   ],
-  "current_sub_type": "Cardiorespiratory physiotherapy",
+  "sub_types_remaining": [],
+  "current_sub_type": "COMPLETED",
   "current_scope": "international",
   "current_country": "Australia",
   "associations": [
@@ -848,6 +847,71 @@
       "draft_created": true,
       "draft_date": "2026-03-25",
       "status": "drafted"
+    },
+    {
+      "name": "AAPT",
+      "full_name": "Academy of Aquatic Physical Therapy",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Aquatic physiotherapy",
+      "email_verified": "admin@aquaticpt.org",
+      "email_source": "https://aquaticpt.org/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": "APTA division"
+    },
+    {
+      "name": "APTA_CVP2",
+      "full_name": "Academy of Cardiovascular and Pulmonary Physical Therapy",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Cardiorespiratory physiotherapy",
+      "email_verified": "cvp@aptacvp.org",
+      "email_source": "https://www.aptacvp.org/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
+    },
+    {
+      "name": "PRHD",
+      "full_name": "Pelvic and Reproductive Health Division (CPA)",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Women's/pelvic health physiotherapy",
+      "email_verified": "contact@pelvicandreproductivehealth.ca",
+      "email_source": "https://physiotherapy.ca/divisions/pelvicandreproductivehealth/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": "CPA division"
+    },
+    {
+      "name": "CPA_CARDIO",
+      "full_name": "CPA Cardiorespiratory Division",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Cardiorespiratory physiotherapy",
+      "email_verified": "cardioresp@physiotherapy.ca",
+      "email_source": "https://physiotherapy.ca/divisions/cardiorespiratory/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": "CPA division"
+    },
+    {
+      "name": "POGP2",
+      "full_name": "Pelvic, Obstetric and Gynaecological Physiotherapy",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Women's/pelvic health physiotherapy",
+      "email_verified": "info@thepogp.co.uk",
+      "email_source": "https://thepogp.co.uk/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": "CSP professional network"
     }
   ]
 }
