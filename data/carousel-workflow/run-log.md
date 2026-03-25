@@ -225,3 +225,71 @@
   - LinkedIn: No additional native posting needed
 - Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
 - Output files: All images and videos pushed to GitHub at jonno-alt/social-images
+
+## How Sleep Affects Leadership — 2026-03-25
+
+- **Trigger**: Scheduled (automatic)
+- **Blog Post**: "25 Proven Tips: How Sleep Affects Your Leadership"
+- **URL**: https://www.consultclarity.org/post/how-sleep-affects-leadership
+- **Carousels Built**: 7
+  - sleep-leadership-stats: 8 slides (The Science Behind Sleep and Leadership)
+  - sleep-protect-your-window: 6 slides (Protect Your Sleep Window)
+  - sleep-manage-your-inputs: 6 slides (Manage Your Inputs for Better Sleep)
+  - sleep-environment-and-light: 8 slides (Optimise Your Environment and Light)
+  - sleep-stress-and-rumination: 6 slides (Handle Stress and Rumination)
+  - sleep-culture-and-recovery: 8 slides (Sleep as a Leadership Culture Signal)
+  - sleep-mistakes-leaders-make: 7 slides (5 Sleep Mistakes Leaders Make)
+- **Total slides**: 49
+- **Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+- **Videos**: 7 MP4 files (vertical, 4s/slide, h264)
+- **Pinterest pins**: 7 (1000x1500)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+
+### Scheduling Summary
+- **LinkedIn**: 7/7 scheduled (addToQueue)
+- **Facebook**: 7/7 scheduled (addToQueue)
+- **Instagram**: 7/7 scheduled (addToQueue, portrait images, photo tags on slide 1)
+- **Threads**: 7/7 scheduled (addToQueue)
+- **X/Twitter**: 7/7 scheduled (addToQueue, 4 images each)
+- **Google Business**: 7/7 scheduled (addToQueue, 1 image, learn_more button)
+- **Bluesky**: 7/7 scheduled (addToQueue, linkAttachment to blog)
+- **YouTube**: 7/7 scheduled (customScheduled, 6 on Mar 30, 1 on Mar 31)
+- **TikTok**: 0/7 — HIT DAILY LIMIT (25 posts). All 7 need manual scheduling.
+- **Pinterest**: 0/7 — SKIPPED (no boards configured)
+- **Total posts scheduled**: 56/70
+
+### Handle Research
+- 7 new people added to handle-database.xlsx
+- Christopher M. Barnes: X @chris24barnes (LIKELY)
+- Dr. Els van der Helm: X @elsonsleep, IG @drelsvanderhelm (LIKELY)
+- Dr. Sophie Bostock: X @drsophiebostock, IG @drsophiebostock, Threads @drsophiebostock, YT @drsophiebostock (LIKELY)
+- Matthew Walker: X @sleepdiplomat, IG @drmattwalker, Threads @sleepdiplomat, FB @sleepdiplomat (VERIFIED)
+- Dr. Shelby Harris: X @SleepDocShelby, IG @SleepDocShelby, TikTok @sleepdocshelby (VERIFIED)
+- Arianna Huffington: X @ariannahuff, IG @ariannahuff, Threads @ariannahuff, Bluesky @ariannahuff.bsky.social, FB AriannaHuffington (VERIFIED)
+- Nick Littlehales: X @SportSleepCoach, IG @sportsleepcoach, YT @sportsleepcoach, FB sportsleepcoach (LIKELY)
+
+### Errors and Warnings
+- TikTok: Daily limit of 25 posts reached. All 7 TikTok posts need manual scheduling.
+- YouTube: Mar 30 filled (10 posts). Carousel 7 scheduled for Mar 31 instead.
+- Bluesky carousel 3: First attempt failed (image fetch Bad Gateway). Retry with fewer images succeeded.
+
+### Native Action Items Pending
+- [ ] TikTok: Schedule all 7 videos manually (daily limit blocked Buffer scheduling)
+- [ ] X/Twitter: Add photo tags natively to all 7 posts after publishing (up to 10 per post)
+- [ ] YouTube: Edit descriptions in YouTube Studio to make @mentions clickable
+- [ ] Instagram: Verify all photo tags applied correctly on all 7 posts
+- [ ] Facebook: Add personal profile tags for people without Pages
+
+### Decisions Made
+- Topic: "How Sleep Affects Leadership" selected as next "Not Started" row in content-calendar.xlsx
+- 7 carousels mapped to the blog's major sections (stats, sleep window, inputs, environment/light, stress, culture, mistakes)
+- Footer: Default "Leadership Team Facilitator | Keynote Speaker | Author" (no school/education keywords)
+- YouTube: March 30 selected (3 existing posts, room for 7 more). Carousel 7 overflow to March 31.
+- Tagging: 7 sleep experts from the blog's "Notable Practitioners" section tagged across all platforms
+- Blog post is a tips article (not thought-leader listicle), so tagging is lighter than usual
+
+### Files Updated
+- content-calendar.xlsx: Row marked "Carousel Created"
+- handle-database.xlsx: 7 new people added
+- carousel-log.xlsx: 7 new rows added
+- run-log.md: This entry appended
