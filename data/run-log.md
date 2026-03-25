@@ -203,3 +203,13 @@
 - YouTube scheduled: 2026-04-21 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-21 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 21. One GitHub upload failed on first attempt (vertical/slide_03.png connection refused), succeeded on retry. All 17 people are new to the database. Strong mix of foundational researchers (Linda Hill-Harvard, Herminia Ibarra-LBS), definitive book authors (Jim McCormick-The First-Time Manager 500K copies, Camille Fournier-The Manager's Path, Scott Jeffrey Miller-Everyone Deserves a Great Manager), new manager coaching specialists (Ramona Shaw, Lia Garvin, Jen Dary, Kim Nicol, Lara Hogan), podcast hosts (Mark Horstman-Manager Tools 1.4M/month, Mamie Kanfer Stewart-The Modern Manager), corporate leaders (Dr. Tacy Byham-DDI CEO, Molly Graham-ex-Facebook/Google), and practical authors (David Burkus, Wanda Wallace, Mary Abbajay).
+
+## Feedback Culture — 2026-03-25
+- People: 17 (15 new, 2 returning)
+- Returning names: Sheila Heen, Kim Scott
+- Slug: feedback-culture
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-27 via customScheduled
+- TikTok path: 2 (Buffer placeholder under 150 chars, scheduled 2026-04-05 due to daily limit)
+- Issues: TikTok daily limit hit (25 posts/day), rescheduled to April 5. YouTube daily limit hit (10 posts/day on March 25), rescheduled to March 27. 3 GitHub image uploads initially failed but all resolved on retry.
