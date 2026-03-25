@@ -473,3 +473,77 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - 4 pin images (1000x1500)
 - 4 MP4 videos
 - All pushed to GitHub: jonno-alt/social-images/carousels/leaders-eat-last-2026-03-26/
+
+## My Team Nods But Nothing Changes - 2026-03-26
+
+**Run timestamp**: 2026-03-26 (scheduled run)
+**Trigger**: Scheduled automatic run
+**Topic/Input**: "My Team Nods But Nothing Changes" (Pain Point category, no blog URL)
+
+### Carousels Built
+1. **5 Signs Your Team Is Nodding, Not Committing** - 7 slides (cover + 5 content + CTA)
+2. **Why Teams Agree But Don't Act** - 8 slides (cover + 6 content + CTA)
+3. **How to Move From Nodding to Doing** - 8 slides (cover + 6 content + CTA)
+
+### Decisions Made
+- **No blog URL**: Content calendar entry had no URL. Created original carousel content based on topic title and category (Pain Point).
+- **3 carousels**: Structured as problem identification, root cause analysis, and practical solutions.
+- **No people to tag**: This is a concept/pain point post, not a thought leader listicle. No handle research needed.
+- **Footer role**: Default "Leadership Team Facilitator | Keynote Speaker | Author" (topic does not match school/WG/offsite/strategic plan specialisms).
+- **Pinterest skipped**: No boards configured on Buffer.
+
+### Posts Scheduled (27 total across 9 platforms x 3 carousels)
+
+| Platform | C1 Status | C2 Status | C3 Status |
+|----------|-----------|-----------|-----------|
+| LinkedIn | Scheduled (addToQueue) | Scheduled | Scheduled |
+| Facebook | Scheduled (addToQueue) | Scheduled | Scheduled |
+| Instagram | Scheduled (addToQueue, portrait) | Scheduled | Scheduled |
+| Threads | Scheduled (addToQueue) | Scheduled | Scheduled |
+| X/Twitter | Scheduled (4 images max) | Scheduled | Scheduled |
+| Google Business | Scheduled (1 image, learn_more) | Scheduled | Scheduled |
+| TikTok | Scheduled (customScheduled Apr 1) | Scheduled (Apr 2) | Scheduled (Apr 3) |
+| YouTube | Scheduled (customScheduled Mar 28) | Scheduled (Mar 29) | Scheduled (May 8) |
+| Bluesky | Scheduled (addToQueue, no hashtags) | Scheduled | Scheduled |
+| Pinterest | SKIPPED (no boards) | SKIPPED | SKIPPED |
+
+### YouTube Scheduling Notes
+- C1: 2026-03-28 (customScheduled)
+- C2: 2026-03-29 (customScheduled)
+- C3: 2026-05-08 (customScheduled) - earlier dates hit 10-post daily limits
+
+### TikTok Scheduling Notes
+- All 3 used Path 1 (direct Buffer, under 150 chars) since no people to tag
+- C1: Apr 1, C2: Apr 2, C3: Apr 3 (customScheduled to avoid daily limits)
+
+### Handle Research Summary
+- No handle research performed (pain point topic with no featured people)
+
+### Errors/Warnings
+- GitHub image upload: 13/75 failed on first attempt due to intermittent connection errors. All 13 succeeded on retry. Final: 75/75 uploaded.
+- TikTok daily limit hit initially; resolved by using customScheduled with future dates.
+- YouTube daily limit hit for multiple dates; C3 scheduled to May 8 as workaround.
+- Disk space ran critically low during image generation (9.3GB/9.8GB used). Freed 1.4GB by removing partial git clone.
+
+### Native Action Items
+- None required (no people to tag on any platform)
+
+### Excel Files Updated
+- content-calendar.xlsx: Marked "My Team Nods But Nothing Changes" as "Carousel Created"
+- carousel-log.xlsx: Added 3 rows for the 3 carousels
+- handle-database.xlsx: No changes (no new handles)
+
+### Output Files
+- 75 images uploaded to GitHub (3 carousels x 3 sizes x 7-8 slides + 3 pins)
+- 3 videos uploaded to GitHub
+- GitHub folder: https://github.com/jonno-alt/social-images/tree/main/carousels/my-team-nods-but-nothing-changes-2026-03-26/
+
+### Quality Gates
+- No em dashes: PASS
+- No "ranked"/"rating" language: PASS
+- No fabricated claims: PASS
+- CTA includes jonno@consultclarity.org: PASS on all posts
+- Footer role matches topic: PASS (default role)
+- Hashtag limits respected: PASS (LinkedIn 0, IG 5, TikTok 3, YT 4, X 1, FB 3, Threads 1 topic, Bluesky 0, Google 0)
+- Alt text on every image: PASS
+- Post length within platform limits: PASS
