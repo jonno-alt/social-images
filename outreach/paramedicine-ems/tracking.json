@@ -1,9 +1,9 @@
 {
   "category": "paramedicine-ems",
   "category_name": "Paramedicine / EMS",
-  "last_updated": "2026-03-25T14:33:09Z",
-  "total_drafted": 3,
-  "total_researched": 10,
+  "last_updated": "2026-03-26T10:00:00Z",
+  "total_drafted": 7,
+  "total_researched": 16,
   "sub_types_completed": [],
   "sub_types_remaining": [
     "Paramedicine/paramedics (general)",
@@ -51,6 +51,58 @@
       "draft_created": true,
       "draft_date": "2026-03-25",
       "status": "drafted"
+    },
+    {
+      "name": "NAEMT",
+      "full_name": "National Association of Emergency Medical Technicians",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Emergency medical technicians (EMT)",
+      "email_verified": "membership@naemt.org",
+      "email_source": "https://www.naemt.org/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
+    },
+    {
+      "name": "ACP",
+      "full_name": "Australasian College of Paramedicine",
+      "country": "Australia",
+      "scope": "national",
+      "sub_type": "Paramedicine/paramedics (general)",
+      "email_verified": "admin@paramedics.org",
+      "email_source": "https://paramedics.org/contact",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
+    },
+    {
+      "name": "CoP_UK",
+      "full_name": "College of Paramedics UK",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Paramedicine/paramedics (general)",
+      "email_verified": "enquiries@collegeofparamedics.co.uk",
+      "email_source": "https://collegeofparamedics.co.uk/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": "Charity registered"
+    },
+    {
+      "name": "PAC",
+      "full_name": "Paramedic Association of Canada",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Paramedicine/paramedics (general)",
+      "email_verified": "info@paramedic.ca",
+      "email_source": "https://paramedic.ca/contact-us-2/",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted",
+      "notes": ""
     }
   ]
 }
