@@ -303,3 +303,13 @@
 - YouTube scheduled: 2026-05-06 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-05-06 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for May 6. Threads first attempt exceeded 500 chars, shortened to use last names only. Education footer variant used ("Certified Working Genius Facilitator | Author"). All 17 people are new to the database. Strong mix of Global Gurus ranked experts (Tina Boogren #5 Education), podcast hosts (Angela Watson-9M downloads, Chase Mielke-Educator Happy Hour, Meg Durham-School of Wellbeing, Adrienne Hornby-Well-Led Schools, Ellen Ronalds Keene-119 episodes, Charlie Burley-Rewriting Wellbeing, Kari Vogelgesang-Educator Wellness), UK specialists (Adrian Bethune-Teachappy/Dalai Lama, Charlie Burley-47K IG, Emma Kell-Those That Can/TEDx), Australian voices (Daniela Falecki-7000 educators, Meg Durham, Adrienne Hornby-60+ schools, Ellen Ronalds Keene, Faye McCallum-Alby Jones Gold Medal), framework creators (Julie Schmidt Hasson-Teacher Recharge, Mandy Froehlich-Human Sustainability), academics (Faye McCallum-Adelaide, Kari Vogelgesang-Iowa, Jenny Grant Rankin-2 doctorates/Fulbright), and Solution Tree wellness leaders (Boogren, Kanold-HEART!/IPPY Gold). Prof. Faye McCallum and Dr. Kari Vogelgesang have minimal social media presence but are deep domain experts.
+
+## Strengths-Based Leadership — 2026-03-26
+- People: 17 (16 new, 1 returning)
+- Returning names: Marcus Buckingham
+- Slug: strengths-based-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 7/8 (YouTube saved as draft due to daily limit; Pinterest skipped)
+- YouTube: saved as draft (ID: 69c439c92af55555f071384d) — daily scheduling limit reached
+- TikTok path: 2 (placeholder caption under 150 chars, customScheduled 2026-04-05)
+- Issues: YouTube hit Buffer daily limit even on future dates — saved as draft for manual scheduling. TikTok also hit daily limit, resolved by scheduling to April 5.
