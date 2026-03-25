@@ -153,3 +153,13 @@
 - YouTube scheduled: 2026-04-05 via customScheduled
 - TikTok path: Path 2 (>10 people, Buffer video URL failed — needs manual upload)
 - Issues: TikTok video could not be scheduled via Buffer (video URL 404 despite being accessible). /sessions filesystem was at 100% capacity; images generated to /tmp instead. Video uploaded to GitHub successfully via Python requests.
+
+## Inclusive Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: inclusive-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-10 via customScheduled
+- TikTok path: 2 (placeholder caption, customScheduled 2026-04-05 due to daily limit)
+- Issues: TikTok daily limit reached (25 posts/day); scheduled for April 5 instead. Buffer rate limit 429 encountered during YouTube queue check; resolved after waiting.
