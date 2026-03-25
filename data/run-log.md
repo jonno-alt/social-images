@@ -293,3 +293,13 @@
 - YouTube scheduled: 2026-05-05 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-05-05 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for May 5. Patrick Lencioni is the only returning name — he is THE creator of Working Genius. Education footer variant used ("Certified Working Genius Facilitator | Author"). Strong mix of Table Group core team (Lencioni, Thompson, Noble, Matt Lencioni), certification program leaders (Bissell - Director of global certification, Self - Master Facilitator), specialist practitioners (Arnold - high-stakes meetings, Podany - higher education, Ervin - workplace culture, Goodwin - higher ed culture change, Lewis - communication coaching, Bultema - ministry/nonprofit, McIntee - drama-free teams, Collett - AI/WG bridge), and international voices (Fairhead - UK/Global Leadership Network, Harrod - Wichita KS, Winkler - Pennsylvania). Most niche WG facilitators have minimal social media presence outside LinkedIn — this is a practitioner/facilitator community rather than a content creator community.
+
+## Teacher Wellbeing — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: teacher-wellbeing
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-06 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-05-06 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for May 6. Threads first attempt exceeded 500 chars, shortened to use last names only. Education footer variant used ("Certified Working Genius Facilitator | Author"). All 17 people are new to the database. Strong mix of Global Gurus ranked experts (Tina Boogren #5 Education), podcast hosts (Angela Watson-9M downloads, Chase Mielke-Educator Happy Hour, Meg Durham-School of Wellbeing, Adrienne Hornby-Well-Led Schools, Ellen Ronalds Keene-119 episodes, Charlie Burley-Rewriting Wellbeing, Kari Vogelgesang-Educator Wellness), UK specialists (Adrian Bethune-Teachappy/Dalai Lama, Charlie Burley-47K IG, Emma Kell-Those That Can/TEDx), Australian voices (Daniela Falecki-7000 educators, Meg Durham, Adrienne Hornby-60+ schools, Ellen Ronalds Keene, Faye McCallum-Alby Jones Gold Medal), framework creators (Julie Schmidt Hasson-Teacher Recharge, Mandy Froehlich-Human Sustainability), academics (Faye McCallum-Adelaide, Kari Vogelgesang-Iowa, Jenny Grant Rankin-2 doctorates/Fulbright), and Solution Tree wellness leaders (Boogren, Kanold-HEART!/IPPY Gold). Prof. Faye McCallum and Dr. Kari Vogelgesang have minimal social media presence but are deep domain experts.
