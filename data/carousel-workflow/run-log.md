@@ -660,3 +660,45 @@ Tessa Brock, Glenn Birkelev, RHR International, KPMG, Wharton Executive Educatio
 - 4 Pinterest pins
 - 4 MP4 videos
 - 28 Buffer posts scheduled
+
+## Steps After Working Genius - 2026-03-25
+- **Trigger**: Scheduled automated run
+- **Blog Post**: https://www.consultclarity.org/post/steps-after-working-genius
+- **Blog Title**: 21 Practical Steps After Working Genius With Your Team
+- **Carousels Built**: 5
+  - Your First Week After Working Genius (7 slides)
+  - Month One: Build the Foundation (8 slides)
+  - Redesign How Your Team Works (8 slides)
+  - Make Working Genius Stick (8 slides)
+  - Build a Working Genius Culture (7 slides)
+- **Total Slides**: 38 (across 3 sizes each = 114 images + 5 pins + 5 videos)
+- **Footer Role**: Certified Working Genius Facilitator | Author | Keynote Speaker
+- **Posts Scheduled**: 45 total (5 carousels x 9 platforms)
+  - LinkedIn: 5 posts (addToQueue)
+  - Facebook: 5 posts (addToQueue)
+  - Instagram: 5 posts (addToQueue, portrait, @patricklencioniofficial photo tag)
+  - Threads: 5 posts (addToQueue)
+  - X/Twitter: 5 posts (addToQueue, 4 images max)
+  - Google Business: 5 posts (addToQueue, 1 image, learn_more button)
+  - TikTok: 5 videos (customScheduled Mar 31-Apr 1, daily limit hit initially)
+  - YouTube: 5 videos (customScheduled Mar 31-Apr 4, one per day)
+  - Bluesky: 5 posts (addToQueue, 4 images, link attachment)
+  - Pinterest: SKIPPED (no boards configured)
+- **Handle Research**: Minimal for this post (instructional, not a listicle). Patrick Lencioni already in database.
+- **Decisions Made**:
+  - Topic is Working Genius so used "Certified Working Genius Facilitator | Author" footer
+  - Blog post is instructional (not a listicle), so no new people to tag
+  - Tagged @patricklencioniofficial on Instagram (photo tag + caption mention)
+  - TikTok hit 25-post daily limit, used customScheduled for Mar 31+
+  - YouTube uses customScheduled (1 per day) to stay under 10/day limit
+  - Used Path 1 for TikTok (under 150 chars, no featured people to list)
+- **Native Action Items**:
+  - Instagram: Verify @patricklencioniofficial photo tags applied correctly
+  - X/Twitter: No photo tags needed (no featured people)
+  - YouTube: Re-enter @PatrickLencioniOfficial in YouTube Studio for clickable mention
+  - Facebook: No personal profile tags needed
+  - TikTok: No native caption needed (Path 1 used)
+- **Errors/Warnings**:
+  - TikTok daily limit hit on first attempt (25 posts/day). Resolved via customScheduled.
+  - Wix site (consultclarity.org) returned raw JS/CSS on WebFetch. Content reconstructed from web search results.
+- **Excel Files Updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx (no new handles)
