@@ -1,9 +1,9 @@
 {
   "category": "school-principals",
   "category_name": "School Principals / Headteachers",
-  "last_updated": "2026-03-26T10:00:00Z",
-  "total_drafted": 27,
-  "total_researched": 38,
+  "last_updated": "2026-03-26T12:00:00Z",
+  "total_drafted": 40,
+  "total_researched": 53,
   "sub_types_completed": [
     "Principals (general/public/government schools)",
     "Catholic school principals",
@@ -12,15 +12,15 @@
     "Christian school leaders (general)",
     "International school leaders",
     "Secondary/high school principals",
-    "Primary/elementary school principals"
-  ],
-  "sub_types_remaining": [
+    "Primary/elementary school principals",
     "Adventist school leaders",
     "Islamic school leaders",
-    "Jewish school leaders",
+    "Jewish school leaders"
+  ],
+  "sub_types_remaining": [
     "Deputy/assistant principals"
   ],
-  "current_sub_type": "Adventist school leaders",
+  "current_sub_type": "Deputy/assistant principals",
   "current_scope": "international",
   "current_country": "Australia",
   "associations": [
@@ -372,6 +372,162 @@
       "draft_date": "2026-03-26",
       "status": "drafted",
       "notes": ""
+    },
+    {
+      "name": "ASA",
+      "full_name": "Adventist Schools Australia",
+      "country": "Australia",
+      "scope": "national",
+      "sub_type": "Adventist school leaders",
+      "email_verified": "darylmurdoch@adventist.org.au",
+      "email_source": "Official Adventist education website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "ADNZ",
+      "full_name": "Adventist Education New Zealand",
+      "country": "New Zealand",
+      "scope": "national",
+      "sub_type": "Adventist school leaders",
+      "email_verified": "dancarrasco@adventist.org.nz",
+      "email_source": "Official Adventist education website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "NAD-Ed",
+      "full_name": "North American Division Education",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Adventist school leaders",
+      "email_verified": "dennisplubell@nadadventist.org",
+      "email_source": "Official NAD website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "ADCA",
+      "full_name": "Adventist Education Canada",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Adventist school leaders",
+      "email_verified": "education@adventist.ca",
+      "email_source": "Official Adventist website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "ADUK",
+      "full_name": "Adventist Education UK",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Adventist school leaders",
+      "email_verified": "education@adventist.uk",
+      "email_source": "Official Adventist UK website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "CISNA",
+      "full_name": "Council of Islamic Schools in North America",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Islamic school leaders",
+      "email_verified": "admin@cisnausa.org",
+      "email_source": "Official CISNA website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "ISLA",
+      "full_name": "Islamic Schools League of America",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Islamic school leaders",
+      "email_verified": "info@theisla.org",
+      "email_source": "Official ISLA website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "AMS-UK",
+      "full_name": "Association of Muslim Schools UK",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Islamic school leaders",
+      "email_verified": "info@ams-uk.org",
+      "email_source": "Official AMS UK website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "BJE-NSW",
+      "full_name": "Board of Jewish Education NSW",
+      "country": "Australia",
+      "scope": "state",
+      "sub_type": "Jewish school leaders",
+      "email_verified": "info@bje.nsw.edu.au",
+      "email_source": "Official BJE website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "ACJS",
+      "full_name": "Australian Council of Jewish Schools",
+      "country": "Australia",
+      "scope": "national",
+      "sub_type": "Jewish school leaders",
+      "email_verified": "christine.shaw@acjs.edu.au",
+      "email_source": "Official ACJS website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "AJDS",
+      "full_name": "Association of Jewish Day Schools Montreal",
+      "country": "Canada",
+      "scope": "regional",
+      "sub_type": "Jewish school leaders",
+      "email_verified": "info@ajdsmontreal.org",
+      "email_source": "Official AJDS website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "JEP",
+      "full_name": "Jewish Education Project",
+      "country": "USA",
+      "scope": "regional",
+      "sub_type": "Jewish school leaders",
+      "email_verified": "info@jewishedproject.org",
+      "email_source": "Official JEP website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "SPD-Ed",
+      "full_name": "SDA South Pacific Division Education",
+      "country": "Australia",
+      "scope": "regional",
+      "sub_type": "Adventist school leaders",
+      "email_verified": "davidmcclintock@adventist.org.au",
+      "email_source": "Official Adventist website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
     }
   ]
 }
