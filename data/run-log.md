@@ -143,3 +143,13 @@
 - YouTube scheduled: 2026-04-11 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-11 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled. All 17 people are new to the database. Strong mix of Global Gurus #1 women's leadership expert (Sally Helgesen), viral content creators (Shadé Zahrai 2M IG, Selena Rezvani 500K+, Luvvie Ajayi Jones 1.2M+), groundbreaking researchers (Siri Chilazi, Kweilin Ellingrud), corporate trailblazers (Carla Harris - Morgan Stanley, Deepa Purushothaman - ex-Deloitte partner, Jennifer McCollum - Catalyst CEO), authors focused specifically on women's advancement (Tiffany Dufu, Ruchika Tulshyan Malhotra, Dr. Michelle P. King, Julia Boorstin, Majo Molfino), global advocates (Laura Liswood - Council of Women World Leaders), and Australian voices (Shadé Zahrai, Annemarie Cross, Louise Thompson-UK).
+
+## Remote Team Leadership — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: remote-team-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 7/8 (TikTok needs manual video upload; Pinterest skipped)
+- YouTube scheduled: 2026-04-05 via customScheduled
+- TikTok path: Path 2 (>10 people, Buffer video URL failed — needs manual upload)
+- Issues: TikTok video could not be scheduled via Buffer (video URL 404 despite being accessible). /sessions filesystem was at 100% capacity; images generated to /tmp instead. Video uploaded to GitHub successfully via Python requests.
