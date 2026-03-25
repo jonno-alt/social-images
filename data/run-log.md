@@ -313,3 +313,13 @@
 - YouTube: saved as draft (ID: 69c439c92af55555f071384d) — daily scheduling limit reached
 - TikTok path: 2 (placeholder caption under 150 chars, customScheduled 2026-04-05)
 - Issues: YouTube hit Buffer daily limit even on future dates — saved as draft for manual scheduling. TikTok also hit daily limit, resolved by scheduling to April 5.
+
+## Meeting Culture — 2026-03-26
+- People: 17 (16 new, 1 returning)
+- Returning names: Mamie Kanfer Stewart
+- Slug: meeting-culture
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-10 via customScheduled (earlier dates at daily limit)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars, customScheduled 2026-04-05)
+- Issues: TikTok and YouTube both hit daily scheduling limits on first attempts. TikTok scheduled for April 5, YouTube for April 10. All 17 people are genuine meeting culture specialists — mix of meeting science researchers (Rogelberg, Allen, Kreamer, Hinds), authors of meeting-specific books (Pittampalli, Reed, Axtell, Ferguson, McGeorge, Herold, Allcott, Chapman, Stewart), async-first advocates (Fried, Lavingia), and meeting facilitation practitioners (Keith, Green). Good international diversity: McGeorge (Australia), Allcott (UK), Chapman (UK). Many niche specialists have limited social media presence — handles concentrated on X/Twitter.
