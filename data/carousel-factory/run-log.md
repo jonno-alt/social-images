@@ -529,3 +529,57 @@
 - Series coverage: All 6 series have 12 stories each.
 
 ---
+
+## Run #8 - 2026-03-26
+
+**Stories Created:** 10 (Stories 71-80)
+**Type Split:** 4 FICTIONAL + 6 TRUE
+**Series:** All 6 series (2 stories each for series 1-4, 1 story each for series 5-6)
+
+### Stories
+| # | Series | Type | Hook |
+|---|--------|------|------|
+| 71 | The Team That Looks Fine But Isn't | FICTIONAL | Retention was 96%. Nobody was staying by choice. |
+| 72 | The Meeting That Changed Everything | FICTIONAL | She cancelled the agenda. The truth came out. |
+| 73 | The Leader Who Thought It Was a People Problem | FICTIONAL | Three principals. Five years. Same complaints. |
+| 74 | The Question That Changed Everything | FICTIONAL | He asked what to stop. Nobody could answer. |
+| 75 | The Moment They Saw It | TRUE | The alarm went off. Nobody looked. (Target 2013) |
+| 76 | The Cost of Getting It Wrong | TRUE | $6 billion in debt. Then they blamed Amazon. (Toys R Us) |
+| 77 | The Team That Looks Fine But Isn't | TRUE | 12,000 stores open. $300 million was fake. (Luckin Coffee) |
+| 78 | The Meeting That Changed Everything | TRUE | Losing $1 million a day. He called it a burning platform. (LEGO) |
+| 79 | The Leader Who Thought It Was a People Problem | TRUE | Blamed one developer. 87 million were exposed. (Facebook/Cambridge Analytica) |
+| 80 | The Question That Changed Everything | TRUE | Better milkshake. Same sales. Wrong question. (Christensen JTBD) |
+
+### GitHub
+- Commit: cfd526c3
+- All 10 stories pushed to jonno-alt/social-images/carousels/
+- 3 sizes (square, portrait, vertical) + vertical video per story
+
+### Buffer Scheduling (80/90 posts)
+- LinkedIn: 10/10
+- Facebook: 10/10
+- Instagram: 10/10 (portrait images)
+- Threads: 10/10
+- X/Twitter: 10/10
+- Google Business: 10/10
+- Bluesky: 10/10
+- TikTok: 10/10 (3 addToQueue, 7 customScheduled Apr 2-8)
+- YouTube: 0/10 (daily creation limit hit from previous runs, all 10 failed)
+- Pinterest: SKIPPED (no boards configured)
+
+### Quality Gates
+- All 10 stories: 8 slides each, 3 sizes, 8 PNGs per size
+- All 10 videos: ~32 seconds each
+- Visual check: covers readable, brand colors correct, footers present
+
+### Errors
+- YouTube: Daily creation limit (10 posts/day across all scheduling modes). All 10 YouTube posts failed. Flagged for manual review or next-day retry.
+- TikTok: Daily limit hit after 3 posts. Remaining 7 scheduled via customScheduled (Apr 2-8, 10am AEST).
+
+### Items for Manual Review
+- 10 YouTube posts need to be scheduled manually or retried tomorrow
+
+### Running Totals
+- Total stories: 80
+- Total Buffer posts (all time): ~640 (estimated)
+- GitHub carousels: 80 stories, 3 sizes each
