@@ -173,3 +173,13 @@
 - YouTube scheduled: 2026-04-08 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-08 due to daily limit)
 - Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 8. All 17 people are new to the database. Strong mix of Nobel laureates (Richard Thaler), Nudge co-authors (Cass Sunstein), pioneering researchers (Gary Klein-NDM, Gerd Gigerenzer-heuristics, Philip Tetlock-superforecasting, Baruch Fischhoff-risk communication, Sheena Iyengar-choice overload), Decision Intelligence founders (Cassie Kozyrkov, Lorien Pratt), content creators with massive reach (Shane Parrish-35M podcast downloads, Melina Palmer-1M+ podcast downloads, Phill Agnew-UK #1 marketing podcast), applied practitioners (Annie Duke-poker/decision strategy, Michael Mauboussin-investing, Gleb Tsipursky-cognitive bias), and rationality advocates (Julia Galef, Katy Milkman). Good international coverage: Germany (Gigerenzer), South Africa/US (Kozyrkov), UK (Agnew), Canada/US (Parrish, Tetlock).
+
+## Leadership Communication — 2026-03-25
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: leadership-communication
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-12 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-12 due to daily limit)
+- Issues: TikTok daily limit (25 posts) reached, used customScheduled for April 12. All 17 people are new to the database. Strong mix of academics (Abrahams-Stanford, Lyon-SUNY, Men-UF, Mirivel-UALR), Hall of Fame speakers (Booher-50 books, Duarte-Resonate), bestselling authors (Gallo-Talk Like TED, Van Edwards-Captivate, Wilding-Managing Up, Schwartzberg-Get to the Point, Ungerböck-22 Talk SHIFTs), viral content creators (Vinh Giang-6M IG/1.3M TikTok, Alex Lyon-500K YouTube, Conor Neill-230K YouTube), behind-the-scenes coaches (Briar Goldberg-TED Director of Speaker Coaching), podcast hosts (Abrahams-Think Fast Talk Smart, Camacho-Speak Up #3 worldwide, Ndlela-Speaking & Communicating), and international voices (Giang-Australia, Neill-Ireland/Spain, Ossai-Nigeria, Ndlela-South Africa, Mirivel-France/US). Good Global Gurus representation (Booher, Ossai #7).
