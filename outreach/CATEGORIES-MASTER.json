@@ -1,0 +1,489 @@
+{
+  "version": 2,
+  "last_updated": "2026-03-25",
+  "countries_for_state_city": [
+    "Australia",
+    "New Zealand",
+    "USA",
+    "Canada",
+    "UK",
+    "Singapore"
+  ],
+  "scope_levels": [
+    "international",
+    "national",
+    "state",
+    "city"
+  ],
+  "instructions": "Work through categories in order. For each category, research ALL sub-types listed before moving to the next category. For each sub-type, search at global/international level, then national level for each country, then state/province level, then major city level. Only do state/city for AU, NZ, USA, Canada, UK, Singapore.",
+  "categories": [
+    {
+      "id": 1,
+      "slug": "allied-health-physiotherapy",
+      "name": "Allied Health / Physiotherapy / Physical Therapy",
+      "sector_label": "physiotherapy and allied health",
+      "member_type": "physiotherapy and allied health",
+      "sub_types": [
+        "Physiotherapy / Physical Therapy (general)",
+        "Sports physiotherapy",
+        "Paediatric physiotherapy",
+        "Musculoskeletal physiotherapy",
+        "Neurological physiotherapy",
+        "Cardiorespiratory physiotherapy",
+        "Aquatic physiotherapy",
+        "Women's/pelvic health physiotherapy"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 2,
+      "slug": "occupational-therapy",
+      "name": "Occupational Therapy",
+      "sector_label": "occupational therapy",
+      "member_type": "occupational therapy",
+      "sub_types": [
+        "Occupational therapy (general)",
+        "Paediatric OT",
+        "Mental health OT",
+        "Hand therapy",
+        "Rehabilitation OT"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 3,
+      "slug": "speech-pathology",
+      "name": "Speech Pathology / Speech-Language Pathology",
+      "sector_label": "speech pathology",
+      "member_type": "speech pathology and communication",
+      "sub_types": [
+        "Speech pathology (general)",
+        "Paediatric speech pathology",
+        "Swallowing/dysphagia",
+        "Fluency/stuttering",
+        "Augmentative and alternative communication"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 4,
+      "slug": "pharmacy",
+      "name": "Pharmacy / Pharmacists",
+      "sector_label": "pharmacy",
+      "member_type": "pharmacy",
+      "sub_types": [
+        "Pharmacy (general)",
+        "Hospital pharmacy",
+        "Community pharmacy",
+        "Clinical pharmacy",
+        "Pharmacy technicians"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 5,
+      "slug": "radiology-medical-imaging",
+      "name": "Radiology / Medical Imaging Technologists",
+      "sector_label": "radiology and medical imaging",
+      "member_type": "radiology and medical imaging",
+      "sub_types": [
+        "Radiography/radiologic technology (general)",
+        "Sonography/ultrasound",
+        "Nuclear medicine",
+        "Radiation therapy",
+        "MRI technology"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 6,
+      "slug": "dental",
+      "name": "Dental / Dental Hygienists",
+      "sector_label": "dental",
+      "member_type": "dental",
+      "sub_types": [
+        "Dentistry (general)",
+        "Dental hygienists",
+        "Dental assistants",
+        "Dental therapists",
+        "Oral health therapists",
+        "Dental practice managers"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 7,
+      "slug": "paramedicine-ems",
+      "name": "Paramedicine / EMS",
+      "sector_label": "paramedicine and emergency medical services",
+      "member_type": "paramedicine and pre-hospital care",
+      "sub_types": [
+        "Paramedicine/paramedics (general)",
+        "Emergency medical technicians (EMT)",
+        "Flight paramedics/aeromedical",
+        "Community paramedicine",
+        "Ambulance officers/services"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 8,
+      "slug": "health-information-management",
+      "name": "Health Information Management / Health IT",
+      "sector_label": "health information management and health IT",
+      "member_type": "health information and health technology",
+      "sub_types": [
+        "Health information management (general)",
+        "Health informatics",
+        "Clinical coding",
+        "Health IT/digital health",
+        "Telehealth"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 9,
+      "slug": "aged-care-management",
+      "name": "Aged Care / Long-Term Care Management",
+      "sector_label": "aged care and senior living",
+      "member_type": "aged care and senior living",
+      "sub_types": [
+        "Aged care/senior living (general)",
+        "Residential aged care",
+        "Home care/community care",
+        "Dementia care",
+        "Retirement living"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 10,
+      "slug": "healthcare-executives",
+      "name": "Hospital Administration / Healthcare Executives",
+      "sector_label": "healthcare leadership and hospital administration",
+      "member_type": "healthcare executive and hospital administration",
+      "sub_types": [
+        "Healthcare executives (general)",
+        "Hospital administrators/CEOs",
+        "Health service managers",
+        "Healthcare quality/safety",
+        "Healthcare finance/CFOs",
+        "Medical practice managers"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 11,
+      "slug": "school-principals",
+      "name": "School Principals / Headteachers",
+      "sector_label": "school leadership and education",
+      "member_type": "school leadership",
+      "sub_types": [
+        "Principals (general/public/government schools)",
+        "Catholic school principals",
+        "Independent/private school principals",
+        "Adventist school leaders",
+        "Lutheran school leaders",
+        "Christian school leaders (general)",
+        "Islamic school leaders",
+        "Jewish school leaders",
+        "Secondary/high school principals",
+        "Primary/elementary school principals",
+        "Deputy/assistant principals",
+        "International school leaders"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 12,
+      "slug": "school-business-managers",
+      "name": "School Business Managers / Bursars",
+      "sector_label": "school business management",
+      "member_type": "school business management",
+      "sub_types": [
+        "School business managers (general)",
+        "School bursars (UK)",
+        "School finance officers",
+        "Independent school business managers",
+        "Catholic school business managers"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 13,
+      "slug": "early-childhood-education",
+      "name": "Early Childhood Education Directors",
+      "sector_label": "early childhood education",
+      "member_type": "early childhood education",
+      "sub_types": [
+        "Early childhood education (general)",
+        "Childcare centre directors",
+        "Kindergarten/preschool directors",
+        "Family day care",
+        "Out of school hours care (OSHC)"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 14,
+      "slug": "special-education",
+      "name": "Special Education Administrators",
+      "sector_label": "special education",
+      "member_type": "special education",
+      "sub_types": [
+        "Special education administrators/directors",
+        "Inclusive education leaders",
+        "Disability education",
+        "Gifted education"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 15,
+      "slug": "higher-education",
+      "name": "Higher Education / University Administration",
+      "sector_label": "higher education",
+      "member_type": "higher education and university administration",
+      "sub_types": [
+        "University administrators (general)",
+        "Academic registrars",
+        "Student services/affairs",
+        "University business officers",
+        "Research administrators",
+        "TAFE/community college administrators"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 16,
+      "slug": "fire-service",
+      "name": "Fire Service Leadership",
+      "sector_label": "fire and emergency services",
+      "member_type": "fire service",
+      "sub_types": [
+        "Fire officers/chiefs (general)",
+        "Volunteer fire service",
+        "Fire prevention/investigation",
+        "Emergency management"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 17,
+      "slug": "law-enforcement",
+      "name": "Law Enforcement / Police Leadership",
+      "sector_label": "law enforcement and policing",
+      "member_type": "law enforcement and policing",
+      "sub_types": [
+        "Police leadership/executives (general)",
+        "Police associations/unions",
+        "Criminal justice administrators",
+        "Police women associations"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 18,
+      "slug": "local-government",
+      "name": "Local Government Management",
+      "sector_label": "local government",
+      "member_type": "local government management",
+      "sub_types": [
+        "Local government managers/CEOs (general)",
+        "City/council managers",
+        "Local government professionals",
+        "Town clerks"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 19,
+      "slug": "public-works",
+      "name": "Public Works / Utilities Management",
+      "sector_label": "public works and utilities",
+      "member_type": "public works and utilities",
+      "sub_types": [
+        "Public works directors",
+        "Water/wastewater management",
+        "Roads/transport management",
+        "Utilities management"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 20,
+      "slug": "corrections",
+      "name": "Corrections / Justice Services",
+      "sector_label": "corrections and justice services",
+      "member_type": "corrections and justice services",
+      "sub_types": [
+        "Corrections officers/administrators",
+        "Probation/parole officers",
+        "Juvenile justice",
+        "Prison management"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 21,
+      "slug": "hr-people-culture",
+      "name": "HR / People and Culture",
+      "sector_label": "human resources and people management",
+      "member_type": "human resources and people management",
+      "sub_types": [
+        "HR (general)",
+        "Learning and development",
+        "Organisational development",
+        "Compensation and benefits",
+        "Recruitment/talent acquisition",
+        "Employee relations",
+        "Diversity, equity and inclusion",
+        "Workplace health and safety/OH&S"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 22,
+      "slug": "accounting-cpa",
+      "name": "Accounting / CPA Associations",
+      "sector_label": "accounting and finance",
+      "member_type": "accounting and finance",
+      "sub_types": [
+        "Accounting/CPA (general)",
+        "Chartered accountants",
+        "Management accountants",
+        "Public sector accountants",
+        "Bookkeepers",
+        "Tax professionals"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 23,
+      "slug": "project-management",
+      "name": "Project Management",
+      "sector_label": "project management",
+      "member_type": "project management",
+      "sub_types": [
+        "Project management (general/PMI)",
+        "Agile/Scrum",
+        "Construction project management",
+        "IT project management",
+        "Program management"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 24,
+      "slug": "supply-chain-procurement",
+      "name": "Supply Chain / Procurement",
+      "sector_label": "supply chain and procurement",
+      "member_type": "supply chain and procurement",
+      "sub_types": [
+        "Supply chain management (general)",
+        "Procurement/purchasing",
+        "Logistics",
+        "Warehousing/distribution",
+        "Government procurement"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 25,
+      "slug": "real-estate-property",
+      "name": "Real Estate / Property Management",
+      "sector_label": "real estate and property management",
+      "member_type": "real estate and property",
+      "sub_types": [
+        "Real estate agents/realtors (general)",
+        "Property managers",
+        "Commercial real estate",
+        "Strata/body corporate management",
+        "Real estate institute (state chapters)"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 26,
+      "slug": "engineering",
+      "name": "Engineering",
+      "sector_label": "engineering",
+      "member_type": "engineering",
+      "sub_types": [
+        "Engineering (general/peak bodies)",
+        "Civil engineering",
+        "Structural engineering",
+        "Mechanical engineering",
+        "Electrical engineering",
+        "Chemical engineering",
+        "Environmental engineering",
+        "Mining engineering",
+        "Biomedical engineering",
+        "Software/computer engineering (IEEE etc.)"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 27,
+      "slug": "architecture",
+      "name": "Architecture / Building Design",
+      "sector_label": "architecture and building design",
+      "member_type": "architecture and building design",
+      "sub_types": [
+        "Architecture (general)",
+        "Landscape architecture",
+        "Interior design/architecture",
+        "Urban planning",
+        "Building design"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 28,
+      "slug": "construction-management",
+      "name": "Construction Management",
+      "sector_label": "construction management",
+      "member_type": "construction management",
+      "sub_types": [
+        "Construction management (general)",
+        "Builders associations",
+        "Quantity surveyors/cost estimators",
+        "Construction safety",
+        "Subcontractor associations"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 29,
+      "slug": "facilities-management",
+      "name": "Facilities Management / Healthcare Engineering",
+      "sector_label": "facilities management",
+      "member_type": "facilities management",
+      "sub_types": [
+        "Facilities management (general)",
+        "Healthcare engineering/facilities",
+        "Property/building maintenance",
+        "Corporate real estate",
+        "Workplace management"
+      ],
+      "status": "not_started"
+    },
+    {
+      "id": 30,
+      "slug": "information-technology",
+      "name": "Information Technology / Cybersecurity",
+      "sector_label": "information technology and cybersecurity",
+      "member_type": "information technology",
+      "sub_types": [
+        "IT (general/peak bodies)",
+        "Cybersecurity/information security",
+        "IT governance (ISACA etc.)",
+        "CIOs/IT executives",
+        "Data/analytics professionals",
+        "Cloud computing",
+        "IT service management (ITIL etc.)"
+      ],
+      "status": "not_started"
+    }
+  ]
+}
