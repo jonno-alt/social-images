@@ -227,3 +227,60 @@
 - Total Buffer posts: 261 (90 + 82 + 89)
 - Total GitHub assets: 750 (720 PNGs + 30 videos)
 - Series coverage: All 6 series have 5 stories each (balanced).
+
+## Run #4 - Batch 4 (Stories 31-40) - 2026-03-25
+
+**Stories created:** 10 (Stories 31-40)
+**Type split:** 6 FICTIONAL + 4 TRUE
+**GitHub commit:** f25aa8a
+
+### Stories in this batch:
+| # | Series | Type | Hook | Slug |
+|---|--------|------|------|------|
+| 31 | The Team That Looks Fine But Isn't | FICT | Engagement was at 94%. Nobody was engaged. | engagement-94-nobody-engaged |
+| 32 | The Meeting That Changed Everything | FICT | The CEO talked for 55 minutes. Then asked for input. | ceo-talked-55-minutes |
+| 33 | The Leader Who Thought It Was a People Problem | FICT | Three new hires. Same role. All quit within a year. | three-hires-same-role-all-quit |
+| 34 | The Question That Changed Everything | FICT | She asked one question. Half the room started crying. | one-question-half-room-crying |
+| 35 | The Moment They Saw It | FICT | Two departments. Same data. Opposite conclusions. | same-data-opposite-conclusions |
+| 36 | The Cost of Getting It Wrong | FICT | They celebrated the launch. Nobody mentioned the risk. | celebrated-launch-ignored-risk |
+| 37 | The Team That Looks Fine But Isn't | TRUE | Every manager had a plan. Fire the bottom 10%. | ge-rank-and-yank-fire-bottom |
+| 38 | The Meeting That Changed Everything | TRUE | Every advisor said strike. The president left the room. | jfk-excomm-left-the-room |
+| 39 | The Leader Who Thought It Was a People Problem | TRUE | The engineers said no. Management said launch. | challenger-engineers-said-no |
+| 40 | The Question That Changed Everything | TRUE | Intel was dying. One question saved it. | grove-intel-one-question-saved |
+
+### Buffer scheduling:
+- Total posts: 90 (10 stories x 9 platforms)
+- LinkedIn: 10/10 (addToQueue)
+- Facebook: 10/10 (addToQueue)
+- Instagram: 10/10 (addToQueue, portrait images)
+- Threads: 10/10 (addToQueue)
+- X/Twitter: 10/10 (addToQueue, 4 images each)
+- Google Business: 10/10 (addToQueue, 1 image each)
+- Bluesky: 10/10 (addToQueue, 4 images each)
+- TikTok: 10/10 (customScheduled, Apr 1-10, daily limits)
+- YouTube: 10/10 (customScheduled, Apr 1-10, daily limits)
+- Pinterest: SKIPPED (no boards configured)
+
+### Quality gates:
+- All 10 stories: 8 slides each, 3 sizes (square/portrait/vertical), video ~32s
+- Text does not overlap footer zone
+- Hook text under 55 characters
+- Brand colors verified (cream #f5f1eb, red #b42b2b, navy #1e2d3d)
+
+### Decisions made:
+- All 6 series had equal story counts (5 each), so one FICTIONAL per series first, then 4 TRUE for first 4 series
+- TRUE stories: GE rank-and-yank, JFK Cuban Missile Crisis ExComm, NASA Challenger, Intel/Andy Grove
+- FICTIONAL stories set in: SaaS company, logistics company, nonprofit, school, insurance company, school district
+- TikTok/YouTube daily limits hit immediately, switched to customScheduled (staggered Apr 1-10)
+- One rate limit pause (2 min wait) during Story 40 scheduling, recovered successfully
+
+### Errors:
+- TikTok addToQueue limit (25/day) hit on Story 31, switched to customScheduled
+- YouTube addToQueue limit (10/day) hit on Story 31, switched to customScheduled
+- Buffer 429 rate limit during Story 40, waited 2 minutes, retried successfully
+
+### Running totals:
+- Total stories: 40
+- Total Buffer posts: ~351 (90 + 89 + 82 + 90)
+- Total batches: 4
+- Series rotation: all 6 series at 6-7 stories each
