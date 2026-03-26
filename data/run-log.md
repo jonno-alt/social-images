@@ -445,3 +445,13 @@
 - YouTube scheduled: 2026-05-12 via customScheduled
 - TikTok path: 2 (customScheduled 2026-04-01 due to 25/day limit)
 - Issues: First GitHub push appeared to succeed but files were 404 (rate limiting). Re-uploaded with pacing successfully.
+
+## Leadership Podcasters — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: none
+- Slug: leadership-podcasters
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-13 via customScheduled
+- TikTok path: 2 (customScheduled 2026-04-02 due to 25/day limit)
+- Issues: None
