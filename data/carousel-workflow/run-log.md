@@ -742,3 +742,34 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - carousel-log.xlsx: Added 4 new carousel entries
 - run-log.md: This entry
 
+
+
+## Topic 1 of 4: The 5 Dysfunctions of a Team Explained - 2026-03-26
+- **Trigger**: Scheduled task (carousel-build-and-schedule)
+- **Topic type**: Framework
+- **Carousels built**: 4
+  - 5-dysfunctions-overview (9 slides)
+  - 5-dysfunctions-trust-conflict (8 slides)
+  - 5-dysfunctions-commitment-results (9 slides)
+  - 5-dysfunctions-action-plan (8 slides)
+- **Total slides**: 34 (3 sizes each = 102 images)
+- **Videos**: 4 (all under 60 seconds)
+- **Pins**: 4
+- **Posts scheduled**: 36 (4 carousels x 9 platforms)
+  - LinkedIn: 4 posts (addToQueue)
+  - Facebook: 4 posts (addToQueue)
+  - Instagram: 4 posts (addToQueue, portrait images)
+  - Threads: 4 posts (addToQueue)
+  - X/Twitter: 4 posts (addToQueue, 4 images each)
+  - Google Business: 4 posts (addToQueue, 1 image each, learn_more button)
+  - TikTok: 4 posts (customScheduled May 13-16, video only)
+  - YouTube: 4 posts (customScheduled May 1-4, video only)
+  - Bluesky: 4 posts (addToQueue, 4 images each)
+  - Pinterest: Skipped (no boards)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Decisions**: No blog URL, researched Lencioni framework via web search. Created 4 carousels covering overview, trust/conflict, commitment/results, and action plan.
+- **Handle research**: N/A (framework explainer, no people featured)
+- **GitHub folder**: carousels/five-dysfunctions-2026-03-26/
+- **Errors**: 1 file failed GitHub upload (SHA conflict on vertical/trust-conflict slide 5), non-critical
+- **Native action items**: None (no people tags needed)
+- **Daily counts after this topic**: TikTok May 13-16 (1/day), YouTube May 1-4 (varies)
