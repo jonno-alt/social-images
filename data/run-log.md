@@ -478,3 +478,16 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - Issues: 10 GitHub uploads failed on first attempt (connection refused), 9 resolved on retry, 1 resolved on second retry. EdTech is a niche community with higher-than-usual cross-platform overlap — the same educators tend to be active across Instagram, TikTok, YouTube, and X. Strong roster includes EdTech Magazine influencers (Vicki Davis, Monica Burns, Matt Miller, Ken Shelton), ISTE leaders (Richard Culatta), Google innovators (Alice Keeler, Kasey Bell), and Bluesky early adopters (Alice Keeler, Lance Eaton).
+## Positive Psychology in Leadership — 2026-03-26
+- People: 22
+- Total unique people across all platforms: 22
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8, X=8, YT=12, GBiz=cover-only, Bluesky=2
+- Returning names: None (all 22 are new to database)
+- Cross-platform overlap: ~40% (core researchers like Kaufman, Rubin, Kashdan appear across most platforms)
+- Slug: positive-psychology-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-22 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-12 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- Issues: 13 GitHub uploads failed on first attempt (connection refused), all resolved on retry with 2-second delays. Research community with strong academic presence — Seligman, Csikszentmihalyi, Fredrickson are foundational figures. Many practitioners (McQuaid, Zhivotovskaya, Miller) have stronger Instagram/TikTok presence than X/Twitter. Bluesky roster is thin (only Kaufman and Kashdan confirmed).
