@@ -1454,3 +1454,22 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Tags**: @BreneBrown on X, @brenebrown on Instagram/Threads/TikTok
 - **Errors**: 1 file (slide_01 square) failed initial GitHub upload, re-uploaded successfully
 - **Native action items**: None
+
+## Topic 4: Service: Board Offsite for Nonprofits - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Service: Board Offsite for Nonprofits (Topic 4 of 4)
+- **Note**: Tim Chalmers testimonial row (Row 51) skipped — no content found online. Moved to Row 52.
+- **Carousels built**: 2
+  - board-offsite-why (8 slides)
+  - board-offsite-5-signs (7 slides)
+- **Videos**: 2 (one per carousel, vertical 1080x1920)
+- **Pinterest pins**: 2 (1000x1500)
+- **Platforms scheduled**: 9/9
+- **YouTube**: Scheduled May 6-7 (customScheduled)
+- **TikTok**: Scheduled Jun 17-18 (customScheduled)
+- **Pinterest**: Skipped (no boards)
+- **Footer role**: Leadership Team Facilitator | Author (nonprofit topic)
+- **Handle research**: N/A (service topic, no people tagged)
+- **Errors**: 18 of 49 GitHub uploads failed first attempt (rate limiting). All recovered on retry with 1-3s delays.
+- **Native action items**: None
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
