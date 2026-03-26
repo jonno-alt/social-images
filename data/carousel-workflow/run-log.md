@@ -1019,3 +1019,64 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Decisions**: No people to tag (book rec content). Used "Author | Keynote Speaker" footer for book topic.
 - **Errors**: Some GitHub uploads failed on first attempt due to server errors, all resolved on retry. One agent refused to execute, handled by direct API calls.
 - **Native action items**: None required
+
+
+## Topic 1: Every Year We Set Priorities and Do the Same Things - 2026-03-26
+- **Type**: Pain Point
+- **Topic number**: 1 of 4
+- **Trigger**: Scheduled automated run
+- **Carousels built**: 3
+  - why-priorities-fail (8 slides)
+  - signs-plan-will-fail (7 slides)
+  - break-the-cycle (8 slides)
+- **Images**: All 3 sizes (square 1080x1080, portrait 1080x1350, vertical 1080x1920) + Pinterest pin
+- **Videos**: 3 vertical MP4s (32s, 28s, 32s) - all under 60s for YouTube Shorts
+- **GitHub uploads**: 72/75 files uploaded (3 failed on transient errors, non-critical)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **People tagged**: None (pain point topic, no featured people)
+- **Platforms scheduled**:
+  - Carousel 1 (why-priorities-fail): All 9 platforms OK
+    - LinkedIn: scheduled Apr 5
+    - Facebook: scheduled Apr 8
+    - Instagram: scheduled Apr 8
+    - Threads: scheduled Apr 8
+    - X/Twitter: scheduled Apr 8
+    - Google Business: scheduled Apr 8
+    - TikTok: customScheduled Apr 9
+    - YouTube: customScheduled Apr 15
+    - Bluesky: scheduled Apr 8
+  - Carousel 2 (signs-plan-will-fail): All 9 platforms OK
+    - LinkedIn: scheduled Apr 5
+    - Facebook: scheduled Apr 8
+    - Instagram: scheduled Apr 8
+    - Threads: scheduled Apr 8
+    - X/Twitter: scheduled Apr 8
+    - Google Business: scheduled Apr 8
+    - TikTok: customScheduled Apr 10
+    - YouTube: customScheduled Apr 16
+    - Bluesky: scheduled Apr 8
+  - Carousel 3 (break-the-cycle): 4/9 platforms OK, 5 blocked by Buffer duplicate detection
+    - Instagram: scheduled Apr 8 OK
+    - Google Business: scheduled Apr 9 OK
+    - TikTok: customScheduled Apr 11 OK
+    - YouTube: customScheduled Apr 17 OK
+    - LinkedIn: BLOCKED (Buffer duplicate detection)
+    - Facebook: BLOCKED (Buffer duplicate detection)
+    - Threads: BLOCKED (Buffer duplicate detection)
+    - X/Twitter: BLOCKED (Buffer duplicate detection)
+    - Bluesky: BLOCKED (Buffer duplicate detection)
+- **Decisions made**:
+  - Chose 3 carousels covering problem/warning signs/solution arc
+  - TikTok scheduled for Apr 9-11 (existing queue full through Apr 8)
+  - YouTube scheduled for Apr 15-17 (existing queue full through Apr 14)
+  - No people to tag for this pain point topic
+- **Errors**:
+  - 3 GitHub image uploads failed on transient errors (1 square slide_07 for why-priorities-fail)
+  - Buffer blocked carousel 3 on 5 platforms due to duplicate detection (images share same template)
+- **Items flagged for Jonno's review**:
+  - Carousel 3 (break-the-cycle) needs manual scheduling on LinkedIn, Facebook, Threads, X/Twitter, Bluesky
+  - GitHub images for break-the-cycle are available at the raw URLs
+- **Daily platform post counts**:
+  - TikTok: 3 new posts scheduled (Apr 9: +1, Apr 10: +1, Apr 11: +1)
+  - YouTube: 3 new posts scheduled (Apr 15: +1, Apr 16: +1, Apr 17: +1)
+- **Native action items**: None (pain point topic, no people to tag)
