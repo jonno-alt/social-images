@@ -674,3 +674,15 @@
 - TikTok scheduled: 2026-05-28 via customScheduled (daily limit hit, future date used)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: TikTok daily limit reached, scheduled for future date. Niche topic limits unique people count.
+
+## Innovation Leadership — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 16
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Rita McGrath (1 returning name from database)
+- Cross-platform overlap: Moderate (specialized niche)
+- Slug: innovation-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-31 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-29 via customScheduled
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: None
