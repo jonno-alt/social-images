@@ -559,3 +559,16 @@
 - Total unique people in handle database: 822
 - Action needed: Add new topics to the Topics Queue sheet with Status = "QUEUED" to resume scheduled runs.
 - Session ended with no posts created.
+
+## Storytelling in Leadership — 2026-03-26 (Topic 1 of 4)
+- Total unique people across all platforms: 32
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Carmine Gallo (IG, TikTok, X, YT), Nancy Duarte (YT, GBiz)
+- Cross-platform overlap: ~35% (acceptable for niche topic)
+- Slug: storytelling-in-leadership
+- Posts scheduled: 7/8 (YouTube saved as draft — daily limit exceeded across all dates)
+- YouTube: Saved as draft (Buffer daily limit of 10 scheduled posts exceeded)
+- TikTok scheduled: 2026-03-30 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
+- Issues: YouTube Buffer limit of 10 scheduled posts reached across ALL dates. Saved as draft for manual scheduling. Some GitHub image uploads failed on first attempt, retried successfully.
