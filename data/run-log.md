@@ -696,3 +696,13 @@
 - TikTok scheduled: 2026-05-30 via customScheduled (Path 2)
 - Issues: X/Twitter first attempt timed out but post went through; confirmed via list_posts
 - Handles note: Most accountability experts have limited social media presence; Sam Silverstein (@samsilverstein IG, samsilversteininc FB), Cy Wakeman (@cywakeman multi-platform), Brian Moran (@12weekyear IG), Hernani Alves (@HernaniJAlves X), Michael King (@michaelkingjrofficial IG) were the main verified handles
+
+## Leadership & AI — 2026-03-27
+- People: 12 (8 new, 2 returning: Ethan Mollick, Cassie Kozyrkov; 1 returning from earlier: Rasmus Hougaard)
+- Slug: leadership-and-ai
+- Slides: 14 max (cover + 12 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-02 via customScheduled
+- TikTok scheduled: 2026-05-31 via customScheduled (Path 2)
+- Issues: None — all 8 platforms scheduled cleanly
+- Key people: Geoff Woods (The AI-Driven Leader), Noelle Russell (#1 Agentic AI Leader), Ethan Mollick (Co-Intelligence), Cassie Kozyrkov (Google's Chief Decision Scientist), Karim Lakhani & Marco Iansiti (Harvard, Competing in the Age of AI), Rasmus Hougaard (More Human), Azeem Azhar (Exponential View), Paul Daugherty (Accenture CTO), Steve Brown (AI Futurist), Marek Kowalkiewicz (QUT, Australia), Ian Khan (AIRS framework)
