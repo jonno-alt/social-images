@@ -854,3 +854,18 @@
 - Videos: 2 (TikTok, YouTube)
 - GitHub uploads: 76/76 successful
 - Issues: Buffer 429 rate limit after scheduling Topics 1-2. Recovered after ~5 min wait. All 8 platforms scheduled successfully.
+
+## Employee Engagement — 2026-03-27 (Topic 4 of 4)
+- Total unique people across all platforms: 15
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all 15 are new to the database)
+- New handles added: 16 (Marcus Buckingham has both X and IG handles)
+- Cross-platform overlap: ~40% (employee engagement has strong crossover between Gallup/strengths experts)
+- Slug: employee-engagement
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-13 via customScheduled (56sec, under 60sec)
+- TikTok scheduled: 2026-06-22 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (0 retries needed)
+- Issues: None. All 8 platforms scheduled successfully.
