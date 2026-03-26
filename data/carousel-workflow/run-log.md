@@ -1527,3 +1527,23 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Errors: None
 - Native action items: None (no people to tag)
 - Excel files updated: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 3 of 4: Book Rec: Atomic Habits by James Clear — 2026-03-27
+- Type: Book Rec
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - atomic-habits-book-rec (8 slides)
+  - 4-laws-behaviour-change (8 slides)
+- Footer role: Author | Keynote Speaker
+- People featured: James Clear (tagged on X, Instagram, Threads, TikTok, YouTube)
+- Handle research: James Clear handles verified - @JamesClear (X), @jamesclear (IG, TikTok, Threads)
+- Platforms scheduled: 18 posts total (2 carousels x 9 platforms, Pinterest skipped)
+  - TikTok: customScheduled April 5-6
+  - YouTube: customScheduled April 22-23
+  - All others: addToQueue
+- Videos: 2 MP4s (32s each)
+- GitHub uploads: 52 files (all succeeded)
+- Errors: None
+- Native action items: None
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
