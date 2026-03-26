@@ -405,3 +405,13 @@
 - YouTube scheduled: 2026-05-10 via customScheduled
 - TikTok path: Path 2 (>10 people roster but placeholder caption under 150 chars, customScheduled 2026-05-10)
 - Issues: None. This is a niche but passionate community. Susan Cain is THE defining figure. Strong mix of pioneering authors (Cain-Quiet, Kahnweiler-Introverted Leader, Pollard-Introvert's Edge, Helgoe-Introvert Power, Dembling-Introvert's Way, Buelow-Introvert Entrepreneur, Granneman-Secret Lives), community builders (Granneman-Introvert Dear 7M+, Chung-Introvert Spring 7M+), podcast hosts (Hall-Quiet and Strong, Weinger-Introverted Leader, Hopkins-Introvert Leader, Orozco-Introverts Talking Business), coaches (Kaufmann-Global Coaching Hall of Fame, Chaka-Career Introvert, Yeung-PhD psychologist), and international voices (Yeo-Australia, Yeung-UK, Pollard-Australia, Chaka-international). Many handles are LIKELY rather than VERIFIED due to the niche nature of the introvert leadership space.
+
+## Design Thinking in Leadership — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: design-thinking-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-10 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-04-10)
+- Issues: Posts were scheduled in a prior run that crashed before updating tracking files. This run recovered by detecting existing scheduled posts, deleting one duplicate Instagram post, and updating all tracking files. Images and video already on GitHub from prior run. Roster: Tim Brown, David Kelley, Tom Kelley, Jeanne Liedtka, Jake Knapp, Jonathan Courtney, Chris Pacione, Suzanne Gibbs Howard, Soren Kaplan, Lee-Sean Huang, Darin Eich, Stacy Neier Beran, Nicole Dessain, Mia Blume, Sandy Speicher, Eli Woolery, Jeremy Utley. All 17 people new to database. Strong mix of IDEO pioneers (Brown, D. Kelley, T. Kelley, Speicher, Gibbs Howard), Stanford d.school leaders (D. Kelley, Woolery, Utley), academics (Liedtka-Darden, Kaplan-USC, Neier Beran-Loyola), Design Sprint methodology (Knapp, Courtney-AJ&Smart), framework creators (Pacione-LUMA), content creators (Courtney-YouTube, Woolery-podcast), HR/design practitioners (Dessain, Blume), and social innovation (Huang-Foossa, Eich).
