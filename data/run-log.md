@@ -634,3 +634,17 @@
 - TikTok scheduled: 2026-04-11 via customScheduled (path 2, placeholder under 150 chars)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: Google Business image initially failed to upload (GitHub 409 conflict then 422), required manual SHA resolution. 6 of 76 image uploads failed initially (retried GBP cover successfully).
+
+## Topic 3: Empathy in Leadership
+- **Date**: 2026-03-26
+- **Unique people across platforms**: 25
+- **New handles added**: 17
+- **Returning handles**: Rasmus Hougaard, Jacqueline Carter (from database)
+- **Platforms posted**: 8/8 (FB, IG, TikTok, Threads, X, YT, GBiz, Bluesky)
+- **Images generated**: 90
+- **Videos generated**: 2 (TikTok 56s, YouTube 56s)
+- **GitHub uploads**: 92/92 successful
+- **TikTok scheduled**: May 26, 2026
+- **YouTube scheduled**: May 28, 2026
+- **Other platforms**: Queue-based scheduling (early April 2026)
+- **Notable**: Strong roster with major names (Brené Brown, Adam Grant, Satya Nadella, Daniel Goleman, Simon Sinek). Good diversity across researchers, CEOs, authors, and content creators.
