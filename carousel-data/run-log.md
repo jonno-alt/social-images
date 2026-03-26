@@ -1081,3 +1081,20 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Bluesky:** 3 carousels (square) - Apr 4-6
 
 ### Status: COMPLETE (27/27 posts scheduled)
+
+### Topic 3: Working Genius: 6 Types That Energise or Drain You
+- **Date**: 2026-03-27
+- **Category**: Framework
+- **Row**: 46
+- **Carousels Built**: 3
+  1. 6-types-of-working-genius (8 slides) — Overview of WIDGET: Wonder, Invention, Discernment, Galvanizing, Enablement, Tenacity
+  2. why-your-team-feels-stuck (8 slides) — How genius gaps cause team dysfunction
+  3. genius-competency-frustration (8 slides) — Understanding your 2 geniuses, 2 competencies, 2 frustrations
+- **Sizes**: square (1080x1080), portrait (1080x1350), vertical (1080x1920)
+- **Pinterest Pins**: 3 (1000x1500)
+- **Videos**: 3 (1080x1920, ~0.4-0.5 MB each)
+- **Posts Scheduled**: 27 (3 carousels × 9 platforms)
+- **Footer Role**: Certified Working Genius Facilitator | Author
+- **GitHub Path**: carousel-output/working-genius-6-types-2026-03-27/
+- **TikTok**: customScheduled April 13-14 (budget management)
+- **YouTube**: customScheduled April 17-18 (budget management)
