@@ -1004,3 +1004,18 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Handle research**: N/A (no people featured)
 - **Native action items**: None required
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+## Topic 2: Book Rec - Radical Candor by Kim Scott - 2026-03-26
+- **Trigger**: Scheduled automated run
+- **Topic**: Book Rec: Radical Candor by Kim Scott
+- **Carousels built**: 3 (radical-candor-why-read: 8, radical-candor-four-quadrants: 8, radical-candor-in-practice: 8)
+- **Total slides**: 24 across 3 carousels
+- **Videos**: 3 (32 seconds each)
+- **Footer role**: Author | Keynote Speaker
+- **GitHub folder**: carousels/radical-candor-2026-03-26/
+- **Platforms scheduled**: All 9
+- **TikTok schedule**: Apr 1-2 (customScheduled)
+- **YouTube schedule**: Apr 19-21 (customScheduled)
+- **Decisions**: No people to tag (book rec content). Used "Author | Keynote Speaker" footer for book topic.
+- **Errors**: Some GitHub uploads failed on first attempt due to server errors, all resolved on retry. One agent refused to execute, handled by direct API calls.
+- **Native action items**: None required
