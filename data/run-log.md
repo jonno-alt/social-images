@@ -863,3 +863,17 @@
 - TikTok scheduled: 2026-06-22 via customScheduled (from previous run)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: Same as above — completed remaining 6 platforms from crashed previous run.
+
+## Vulnerability in Leadership — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 30
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Brené Brown (defining figure), Vinh Giang, Shadé Zahrai, Vanessa Van Edwards, Lewis Howes, Jacob Morgan
+- Cross-platform overlap: ~30% (Brené Brown appears on most; some coaches span platforms)
+- Slug: vulnerability-in-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-16 via customScheduled (59.97sec, under 60sec limit)
+- TikTok scheduled: 2026-06-25 via customScheduled (Path 2, 59.97sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 59.97sec, YouTube 59.97sec)
+- GitHub uploads: 76/76 successful
+- Issues: Facebook initial scheduling failed with Bad Gateway; succeeded on retry.
