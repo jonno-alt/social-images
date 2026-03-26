@@ -1349,3 +1349,35 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Native action items: None
 - Issues: Threads first attempt for Carousel 1 got "Bad Gateway" from GitHub CDN. Retry succeeded with fewer images.
 - Excel files updated: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 1: Working Genius: 6 Types That Energise or Drain You - 2026-03-27
+- **Trigger**: Scheduled run
+- **Topic**: Working Genius: 6 Types That Energise or Drain You (Topic 1 of 4)
+- **Carousels built**: wg-6-types (8 slides), wg-genius-or-frustration (8 slides), wg-transforms-teams (8 slides)
+- **Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+- **Videos**: 3 videos (32s each, under 60s limit)
+- **Pinterest pin**: Built
+- **GitHub upload**: 76 files uploaded, 0 failed
+- **Platforms scheduled**: 9/9 (Pinterest skipped as always)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue, portrait images, photo tags on @patricklencioniofficial)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue, 4 images each)
+  - Google Business: 3 posts (addToQueue, 1 image each, learn_more button)
+  - TikTok: 3 posts (customScheduled Apr 6-8, video only)
+  - YouTube: 3 posts (customScheduled Apr 15-17, video only) - earlier dates full
+  - Bluesky: 3 posts (addToQueue, 4 images each, no hashtags)
+- **Handles used**: Patrick Lencioni (already in database, verified 2026-03-24)
+- **Footer role**: Certified Working Genius Facilitator | Author | Keynote Speaker
+- **Decisions**: 
+  - Built 3 carousels covering the 6 types, genius/competency/frustration distinction, and team transformation
+  - YouTube scheduled Apr 15-17 because daily limits reached through Apr 10+
+  - TikTok scheduled Apr 6-8 to avoid daily limit issues
+- **Native action items**:
+  - YouTube: Re-enter @mentions in YouTube Studio for all 3 videos
+  - X/Twitter: Add photo tags natively on all 3 posts
+  - Instagram: Verify photo tags applied correctly
+- **Errors**: YouTube daily limit reached for Apr 6-10, successfully scheduled for Apr 15-17
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
