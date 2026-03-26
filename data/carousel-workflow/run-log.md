@@ -929,3 +929,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 
 **Notes**: Actual Michael Quach testimonial quote not found online. Built carousels around verified facts about Redlands College (QLD independent school) and Working Genius engagement. Flagged for Jonno to add actual quote natively. Buffer had intermittent "Failed to fetch image dimensions" errors with 7+ images - resolved by using max 4 images per post.
 **Footer Role**: Certified Working Genius Facilitator | Author
+
+## Run: 2026-03-26 (Session 2 - Topic 3)
+
+**Topic**: Service: Working Genius Workshop for Schools (Row 31)
+**Status**: ✅ Complete
+**Carousels Built**: 3
+1. schools-wg-why (7 slides) - Why every school needs Working Genius
+2. schools-wg-how (6 slides) - How a Working Genius workshop works
+3. schools-wg-transform (6 slides) - Transform your school team
+
+**Images Generated**: 3 sizes (square, portrait, vertical) + Pinterest pins for each carousel
+**Videos Generated**: 3 (one per carousel, 1080x1920, h264)
+**GitHub Upload**: All 63 files uploaded to carousels/schools-working-genius-2026-03-26/
+**Buffer Scheduling**: All 3 carousels scheduled to 9 platforms each (27 total posts)
+- LinkedIn: Apr 4 (queue)
+- Facebook: Apr 7-8 (queue)
+- Instagram: Apr 7-8 (queue)
+- Threads: Apr 7 (queue)
+- X/Twitter: Apr 7 (queue)
+- Google Business: Apr 8 (queue)
+- Bluesky: Apr 7 (queue)
+- TikTok: May 21-23 (custom scheduled)
+- YouTube: Apr 21-23 (custom scheduled)
+
+**Notes**: Buffer intermittent "Failed to fetch image dimensions" errors on freshly uploaded GitHub images - resolved on retry. Bluesky 300-char limit enforced. TikTok 429 rate limit on video fetch - resolved on retry.
+**Footer Role**: Certified Working Genius Facilitator | Author
