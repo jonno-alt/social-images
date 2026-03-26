@@ -955,3 +955,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 
 **Notes**: Buffer intermittent "Failed to fetch image dimensions" errors on freshly uploaded GitHub images - resolved on retry. Bluesky 300-char limit enforced. TikTok 429 rate limit on video fetch - resolved on retry.
 **Footer Role**: Certified Working Genius Facilitator | Author
+
+## Run: 2026-03-26 (Session 2 - Topic 4)
+
+**Topic**: What Actually Happens in a Working Genius Session (Row 32)
+**Status**: ✅ Complete
+**Carousels Built**: 3
+1. wg-session-inside (7 slides) - Behind-the-scenes look at a Working Genius session
+2. wg-session-moments (7 slides) - 5 breakthrough moments that happen every time
+3. wg-session-book (5 slides) - Book a Working Genius session CTA
+
+**Images Generated**: 3 sizes (square, portrait, vertical) + Pinterest pins for each carousel
+**Videos Generated**: 3 (one per carousel, 1080x1920, h264)
+**GitHub Upload**: All 63 files uploaded to carousels/wg-session-inside-2026-03-26/
+**Buffer Scheduling**: All 3 carousels scheduled to 9 platforms each (27 total posts)
+- LinkedIn: Apr 4 (queue)
+- Facebook: Apr 8 (queue)
+- Instagram: Apr 8 (queue)
+- Threads: Apr 7 (queue)
+- X/Twitter: Apr 8 (queue)
+- Google Business: Apr 8 (queue)
+- Bluesky: Apr 7-8 (queue)
+- TikTok: May 24-26 (custom scheduled)
+- YouTube: Apr 24-26 (custom scheduled)
+
+**Notes**: All scheduling succeeded without errors this round.
+**Footer Role**: Leadership Team Facilitator | Keynote Speaker | Author
