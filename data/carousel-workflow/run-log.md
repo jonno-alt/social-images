@@ -800,3 +800,22 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Handle research**: N/A (no people featured)
 - **Errors**: 1 file failed GitHub upload (non-critical)
 - **Native action items**: None
+
+## Topic 3 of 4: Book Rec: Unreasonable Hospitality - 2026-03-26
+- **Trigger**: Scheduled task
+- **Topic type**: Book Rec
+- **Carousels built**: 3
+  - unreasonable-hospitality-why-read (7 slides)
+  - unreasonable-hospitality-lessons (7 slides)
+  - unreasonable-hospitality-apply (7 slides)
+- **Total slides**: 21 (3 sizes = 63 images)
+- **Videos**: 3 (all 28 seconds)
+- **Pins**: 3
+- **Posts scheduled**: 27 (3 carousels x 9 platforms)
+  - TikTok: customScheduled May 19-21
+  - YouTube: customScheduled May 8-10
+  - All others: addToQueue
+- **Footer role**: Author | Keynote Speaker
+- **Key content**: Will Guidara, Eleven Madison Park, $2 hot dog story, service vs hospitality
+- **Errors**: 5 files failed GitHub upload (non-critical, images still accessible)
+- **Native action items**: None
