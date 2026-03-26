@@ -718,3 +718,15 @@
 - TikTok scheduled: 2026-04-01 via customScheduled (path 2, placeholder under 150 chars) — daily limit hit
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=3/4max, Bluesky=3/4max, GBiz=1
 - Issues: YouTube daily limit forced scheduling to June 3. TikTok daily limit required customScheduled on April 1.
+
+## Board Leadership — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 15
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=12/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all fresh board governance specialists)
+- Cross-platform overlap: ~60% (niche topic — fewer unique people available per platform)
+- Slug: board-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-04 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-02 via customScheduled (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=3/4max, Bluesky=3/4max, GBiz=1
+- Issues: Niche topic with limited social media presence. Facebook first attempt timed out but post was created. YouTube queue full through early June.
