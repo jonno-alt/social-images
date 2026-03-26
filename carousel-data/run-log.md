@@ -1098,3 +1098,20 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **GitHub Path**: carousel-output/working-genius-6-types-2026-03-27/
 - **TikTok**: customScheduled April 13-14 (budget management)
 - **YouTube**: customScheduled April 17-18 (budget management)
+
+### Topic 4: The Five Dysfunctions of a Team (Summary)
+- **Date**: 2026-03-27
+- **Category**: Blog
+- **Row**: 47
+- **Carousels Built**: 3
+  1. five-dysfunctions-overview (8 slides) — The 5 dysfunctions pyramid: trust, conflict, commitment, accountability, results
+  2. signs-team-dysfunctional (8 slides) — How to spot dysfunction: boring meetings, revisited decisions, no accountability, turf wars, gossip
+  3. building-cohesive-team (8 slides) — How to overcome each dysfunction and build a healthy team
+- **Sizes**: square (1080x1080), portrait (1080x1350), vertical (1080x1920)
+- **Pinterest Pins**: 3 (1000x1500)
+- **Videos**: 3 (1080x1920, ~0.4 MB each)
+- **Posts Scheduled**: 27 (3 carousels × 9 platforms)
+- **Footer Role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **GitHub Path**: carousel-output/five-dysfunctions-team-2026-03-27/
+- **TikTok**: customScheduled April 14-15 (budget management)
+- **YouTube**: customScheduled April 18-19 (budget management)
