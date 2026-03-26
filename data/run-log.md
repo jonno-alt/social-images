@@ -539,3 +539,16 @@
 - TikTok scheduled: 2026-04-06 via customScheduled (Path 2)
 - Image counts: FB=10/10, IG=10/10, Threads=16/20, X=4/4, Bluesky=4/4, GBiz=1
 - Issues: None. All uploads and scheduling successful.
+
+## Leadership Book Authors 2024-2025 — 2026-03-26 (Topic 1 of 1)
+- Total unique people across all platforms: 25
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=12/18max, X=8, YT=12(prior run), GBiz=6, Bluesky=5
+- Returning names: None (0 returning — all 25 are new to the database)
+- Cross-platform overlap: Moderate (~40% appear on 2+ platforms, expected for topic-specific book authors)
+- Slug: leadership-book-authors-2024-2025
+- Posts scheduled: 8/8 (Pinterest skipped, YouTube from prior partial run)
+- YouTube scheduled: 2026-05-27 via customScheduled (prior run, duration under 60sec)
+- TikTok scheduled: 2026-05-23 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Sources: Thinkers50 Top 10 2025, Next Big Idea Club Top 15 2024, NBIC 11 Best 2025
+- Issues: Instagram first attempt failed (userTags format issue), succeeded on retry without userTags. YouTube post already existed from prior partial run — reused. Video created for TikTok only (60 sec).
