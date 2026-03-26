@@ -415,3 +415,33 @@
 - YouTube scheduled: 2026-04-10 via customScheduled
 - TikTok path: Path 2 (>10 people, customScheduled 2026-04-10)
 - Issues: Posts were scheduled in a prior run that crashed before updating tracking files. This run recovered by detecting existing scheduled posts, deleting one duplicate Instagram post, and updating all tracking files. Images and video already on GitHub from prior run. Roster: Tim Brown, David Kelley, Tom Kelley, Jeanne Liedtka, Jake Knapp, Jonathan Courtney, Chris Pacione, Suzanne Gibbs Howard, Soren Kaplan, Lee-Sean Huang, Darin Eich, Stacy Neier Beran, Nicole Dessain, Mia Blume, Sandy Speicher, Eli Woolery, Jeremy Utley. All 17 people new to database. Strong mix of IDEO pioneers (Brown, D. Kelley, T. Kelley, Speicher, Gibbs Howard), Stanford d.school leaders (D. Kelley, Woolery, Utley), academics (Liedtka-Darden, Kaplan-USC, Neier Beran-Loyola), Design Sprint methodology (Knapp, Courtney-AJ&Smart), framework creators (Pacione-LUMA), content creators (Courtney-YouTube, Woolery-podcast), HR/design practitioners (Dessain, Blume), and social innovation (Huang-Foossa, Eich).
+
+## Middle Management — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: middle-management
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-11 via customScheduled
+- TikTok path: Path 2 (>10 people, customScheduled 2026-05-11)
+- Issues: Disk space at 100% on /sessions mount — generated images in /tmp instead. All 17 people new to database. Strong mix of definitive book authors (Mautz-Leading from the Middle, Field/Hancock/Schaninger-Power to the Middle McKinsey, Tulgan-Art of Being Indispensable, Giulioni-Help Them Grow, Geisler-Work Happy, Lipman-Type B Manager, Baldoni-Lead Your Boss, Lauritsen-Unlocking High Performance, Tinline-Outstanding Middle Manager, Auger-Dominguez-Inclusion Revolution), platform builders (Lew-Canopy/Know Your Team), podcast hosts (Petty-Art of Managing), coaches (Hirsch-middle manager change, McAlpine-NZ, Halpern-political intelligence). International voices: McAlpine (New Zealand), Tinline (UK). Most niche middle management specialists have limited social media presence outside LinkedIn.
+
+## Middle Management — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: none
+- Slug: middle-management
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-11 via customScheduled
+- TikTok path: 2
+- Issues: Tracking update delayed due to session compaction
+
+## Facilitation & Workshop Design — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: none
+- Slug: facilitation-workshop-design
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-12 via customScheduled
+- TikTok path: 2 (customScheduled 2026-04-01 due to 25/day limit)
+- Issues: First GitHub push appeared to succeed but files were 404 (rate limiting). Re-uploaded with pacing successfully.
