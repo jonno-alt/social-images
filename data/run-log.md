@@ -610,3 +610,15 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
 - Issues: 1 YouTube slide failed GitHub upload (non-critical, video uploaded successfully). All 8 platforms scheduled without errors.
+
+## Team Alignment — 2026-03-26 (Topic 1 of 4)
+- Total unique people across all platforms: 21
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Keith Ferrazzi (X/Twitter and YouTube only)
+- Cross-platform overlap: Higher than ideal (~40-50% between some platforms) due to niche topic — 21 total unique people
+- Slug: team-alignment
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-12 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-10 via customScheduled (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok and YouTube daily limits reached for earlier dates, pushed to April 10 and April 12 respectively. Topic is niche (OKR/alignment specialists) so cross-platform overlap is higher than ideal. 20 of 21 people are new to the database.
