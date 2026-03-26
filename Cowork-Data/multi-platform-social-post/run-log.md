@@ -836,3 +836,40 @@
 ### Issues
 - Threads/X text had to be shortened for character limits (500/280)
 - TikTok/YouTube used customScheduled to avoid daily limits
+
+---
+
+## Topic 3: Leadership Presence
+**Run Date:** 2026-03-27
+**Priority:** 65
+
+### Rosters
+- **Facebook (8):** Sylvia Ann Hewlett, Caroline Goyder, Olivia Fox Cabane, Belle Linda Halpern, Harrison Monarth, Joel Schwartzberg, Sheryl Sandberg, Amy Cuddy
+- **Instagram (8):** Diane Craig, Kristi Hedges, Carol Kinsey Goman, Sally Helgesen, Muriel Maignan Wilkins, Anett Grant, Lauren Sergy, Beverly Howard
+- **TikTok (12):** Vanessa Van Edwards*, Jefferson Fisher*, Simon Sinek, Jocko Willink, Andrew Huberman, Vusi Thembekwayo, Michael Gervais, Tasha Eurich, Ali Abdaal, Jay Acunzo, Victoria Labalme, Scott Edinger
+- **Threads (15):** Daniel Goleman, Susan David, Tara Mohr, Vernice Armour, Peter Guber, Arianna Huffington, John Neffinger, Melody Wilding, Vanessa Patrick, Ron Heifetz, Brandon Smith, Roberta Matuson, Bill George, Frances Frei, Anne Morriss
+- **X/Twitter (8):** Jim Collins, Amy Edmondson, John Maxwell, Connson Locke, Joseph Grenny, Heidi Grant, Patrick Lencioni, Robin Sharma
+- **YouTube (12):** Tony Robbins, Brian Tracy, Les Brown, Mel Robbins, Gary Vaynerchuk, Marie Forleo, Tom Bilyeu, Ed Mylett, Dan Pink, Patrice Washington, Chris Do, (cover+CTA)
+- **Google Business (7):** Sylvia Ann Hewlett, Olivia Fox Cabane, Harrison Monarth, Amy Cuddy, Caroline Goyder, Joel Schwartzberg, Belle Linda Halpern
+- **Bluesky (4):** Sylvia Ann Hewlett, Caroline Goyder, Amy Cuddy, Olivia Fox Cabane
+
+*=returning from previous topics
+
+### Stats
+- New handles added: 30 (many names already in database from cross-platform overlap)
+- Images generated: 74 (FB:10, IG:10, TikTok:14, Threads:17, X:4, YT:14, GBiz:1, Bluesky:4)
+- Videos: 2 (TikTok 352KB/60s, YouTube 372KB/60s)
+- GitHub uploads: 76 (74 images + 2 videos), 0 errors
+
+### Buffer Scheduling
+- Facebook: addToQueue → 2026-04-11T00:02:00Z (post ID: 69c582da20f76613b72d1500)
+- Instagram: addToQueue → 2026-04-11T08:02:00Z (post ID: 69c582db7c3be86dbd85948d)
+- Threads: addToQueue → 2026-04-10T19:02:00Z (post ID: 69c582f420f76613b72d1572)
+- X/Twitter: addToQueue → 2026-04-11T02:02:00Z (post ID: 69c582f57c3be86dbd8594e5)
+- Google Business: addToQueue → 2026-04-11T04:02:00Z (post ID: 69c582f620f76613b72d1598)
+- Bluesky: addToQueue → 2026-04-11T03:02:00Z (post ID: 69c582f720f76613b72d15be)
+- TikTok: customScheduled → 2026-04-21T02:00:00Z (post ID: 69c583027c3be86dbd85950b)
+- YouTube: customScheduled → 2026-05-04T23:00:00Z (post ID: 69c583067c3be86dbd859531)
+
+### Issues
+- None. All uploads and scheduling succeeded on first attempt.
