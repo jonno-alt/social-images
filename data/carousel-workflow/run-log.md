@@ -1109,3 +1109,81 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 
 **Issues:** None. All 9 platforms scheduled successfully for both carousels.
 **Pinterest:** Skipped (no boards configured)
+
+---
+
+## Run: 2026-03-26 Session (Topic 3 — SKIPPED)
+
+**Topic:** Testimonial: Brett Bleakley, Livingstone Christian School
+**Status:** SKIPPED
+**Reason:** No testimonial content found online. Brett Bleakley could not be located via web search at Livingstone Christian College (QLD) or any other institution. No blog URL provided. Testimonial text needed from internal records for manual creation.
+
+---
+
+## Run: 2026-03-26 Session (Topic 3 Replacement: Keynote Speaking)
+
+**Topic:** Service: Keynote Speaking for Conferences
+**Carousels Created:** 2
+- keynote-speaking-service (8 slides) — 6 keynote topics overview
+- why-book-jonno (7 slides) — 5 reasons conference organisers choose Jonno
+
+**Image Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 2 (one per carousel, portrait 1080x1350, 4s/slide)
+**GitHub Folder:** carousels/keynote-speaking-2026-03-26/
+**Total Files Uploaded:** 47
+
+**Platforms Scheduled (both carousels):**
+- LinkedIn: addToQueue (Apr 5)
+- Facebook: addToQueue (Apr 8-9)
+- Instagram: addToQueue (Apr 9)
+- Threads: addToQueue (Apr 8)
+- X/Twitter: addToQueue (Apr 8)
+- Google Business: addToQueue (Apr 9) — learn_more button
+- Bluesky: addToQueue (Apr 8)
+- TikTok: customScheduled (Apr 14-15)
+- YouTube: customScheduled (Apr 19-20)
+
+**Issues:** Facebook carousel 1 timed out but was confirmed scheduled via duplicate detection error.
+**Pinterest:** Skipped (no boards configured)
+
+---
+
+## Run: 2026-03-26 Session (Topic 4: Executive Team Dysfunction)
+
+**Topic:** Signs Your Executive Team is Dysfunctional
+**Carousels Created:** 2
+- exec-team-dysfunction (9 slides) — 7 signs of a dysfunctional executive team
+- fix-dysfunctional-team (7 slides) — 5 steps from dysfunction to high performance
+
+**Image Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 2 (one per carousel, portrait 1080x1350, 4s/slide)
+**GitHub Folder:** carousels/exec-team-dysfunction-2026-03-26/
+**Total Files Uploaded:** 50
+
+**Platforms Scheduled (both carousels):**
+- LinkedIn: addToQueue (Apr 5)
+- Facebook: addToQueue (Apr 9)
+- Instagram: addToQueue (Apr 9)
+- Threads: addToQueue (Apr 8)
+- X/Twitter: addToQueue (Apr 8-9)
+- Google Business: addToQueue (Apr 9) — learn_more button
+- Bluesky: addToQueue (Apr 8)
+- TikTok: customScheduled (Apr 15-17)
+- YouTube: customScheduled (Apr 21-23)
+
+**Issues:** None. All 9 platforms scheduled successfully for both carousels.
+**Pinterest:** Skipped (no boards configured)
+
+---
+
+## Session Summary: 2026-03-26
+
+**Topics Processed:** 4 (3 completed + 1 skipped)
+**Total Carousels Created:** 6
+**Total Slides Generated:** 46 (8+7+8+7+9+7)
+**Total Files Uploaded to GitHub:** 146
+**Total Buffer Posts Scheduled:** 54 (6 carousels × 9 platforms)
+**Platforms:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky, TikTok, YouTube
+**Pinterest:** Skipped all (no boards configured)
+**Content Calendar Items Updated:** 4 (rows 36, 37, 38, 40)
+**Carousel Log Entries Added:** 6
