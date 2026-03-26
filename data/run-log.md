@@ -943,3 +943,17 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful (9 retries)
 - Issues: None
+
+## Productivity Systems — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 28
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Gino Wickman, Ryder Carroll, Thomas Frank, Tiago Forte (from previous topics/posts)
+- Cross-platform overlap: ~40% (productivity systems experts are well-known across platforms)
+- Slug: productivity-systems
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-21 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-29 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: None
