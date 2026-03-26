@@ -1473,3 +1473,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: 18 of 49 GitHub uploads failed first attempt (rate limiting). All recovered on retry with 1-3s delays.
 - **Native action items**: None
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 1 of 4: The Pre-Brief Zoom Call That Creates 80% of the Value — 2026-03-27
+- Type: Behind the Scenes
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - pre-brief-call (8 slides)
+  - 5-questions-before-offsite (8 slides)
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+- People featured: None (behind-the-scenes content about Jonno's process)
+- Handle research: Not needed
+- Platforms scheduled: 9/9 (Pinterest skipped as always)
+  - LinkedIn: addToQueue (both carousels)
+  - Facebook: addToQueue (both carousels)
+  - Instagram: addToQueue, portrait images (both carousels)
+  - Threads: addToQueue (both carousels)
+  - X/Twitter: addToQueue, 4 images each (both carousels)
+  - Google Business: addToQueue, 1 image each, learn_more button (both carousels)
+  - TikTok: customScheduled April 1 and April 2 (both carousels)
+  - YouTube: customScheduled April 20 (both carousels, queue very full through April 15)
+  - Bluesky: addToQueue, 4 images each (both carousels)
+- Videos: 2 MP4s (32s each, 8 slides x 4s)
+- GitHub uploads: 52 files (all succeeded)
+- Errors: YouTube daily limit hit for April 1-11. Scheduled for April 20.
+- Native action items: None (no people to tag)
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
