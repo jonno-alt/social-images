@@ -1581,3 +1581,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - No connection found between Emily Hynes and Jonno White/Clarity Group online
 - Marked as "Skipped" per workflow rule: "Only use real testimonials. Never fabricate."
 - Recommend: Jonno to provide the testimonial text directly for future processing
+
+## Topic 2 of 4: Podcast Rec: The John Maxwell Leadership Podcast — 2026-03-27
+- Type: Podcast Rec
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - maxwell-podcast-why-listen (8 slides)
+  - maxwell-podcast-key-themes (8 slides)
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+- People featured: John Maxwell (tagged on X @JohnCMaxwell, Instagram @johncmaxwell)
+- Handle research: John Maxwell - X/Twitter VERIFIED, Instagram VERIFIED, TikTok VERIFIED, YouTube VERIFIED. No Bluesky or Threads confirmed.
+- Platforms scheduled: 9/9 (Pinterest skipped as always)
+  - LinkedIn: addToQueue (both carousels)
+  - Facebook: addToQueue (both carousels)
+  - Instagram: addToQueue, portrait images (both carousels)
+  - Threads: addToQueue, square images (both carousels)
+  - X/Twitter: addToQueue, 4 square images each (both carousels)
+  - Google Business: addToQueue, 1 image each, learn_more button (both carousels)
+  - Bluesky: addToQueue, 4 square images each, linkAttachment (both carousels)
+  - TikTok: customScheduled Jun 20-21 (video only, caption under 150 chars)
+  - YouTube: customScheduled Jun 11-12 (video only, category 22)
+- Videos: 2 MP4s (32s each, 8 slides x 4s)
+- Pinterest pins: 2 (1000x1500)
+- GitHub uploads: 52 files to carousels/maxwell-podcast-2026-03-27/ (all succeeded)
+- Errors: Buffer 429 rate limit hit during Carousel 2 scheduling (Instagram, Threads, X/Twitter). Resolved after session context compaction gave enough cooldown time. All posts scheduled successfully on retry.
+- Native action items: X/Twitter photo tags for @JohnCMaxwell, Instagram photo tag verification
+- Excel files updated: content-calendar.xlsx (row 57), carousel-log.xlsx (2 rows), handle-database.xlsx (John Maxwell added)
