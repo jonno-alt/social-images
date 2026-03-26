@@ -1329,3 +1329,23 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Native action items: None (no social tags to add natively)
 - Issues: Wix site (consultclarity.org) returns raw JS/CSS, could not extract testimonial text. Used podcast summaries and public information instead.
 - Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
+
+## Service: Executive Coaching for Leaders - 2026-03-27
+- Type: Service promotion (no blog URL)
+- Topic number: 2 of 4
+- Carousels built: 3
+  1. why-leaders-need-a-coach (8 slides)
+  2. what-coaching-looks-like (8 slides)
+  3. cost-of-no-coach (8 slides)
+- Image sizes: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920, Pinterest pin 1000x1500
+- Videos: 3 vertical MP4s (32sec each)
+- Footer role: "Leadership Coach | Author"
+- GitHub folder: carousels/service-executive-coaching-2026-03-27/
+- Posts scheduled: 24 total (3 carousels x 8 platforms, Pinterest skipped)
+- YouTube scheduled: 2026-04-14, 2026-04-15, 2026-04-16 via customScheduled
+- TikTok scheduled: 2026-04-12 via customScheduled (3 posts spread across day)
+- Handle research: N/A (service promo, no people featured)
+- Decisions: Built 3 carousels covering the value proposition (why), the process (what), and the cost of inaction. No people tagged. Content based on verified Consult Clarity service descriptions.
+- Native action items: None
+- Issues: Threads first attempt for Carousel 1 got "Bad Gateway" from GitHub CDN. Retry succeeded with fewer images.
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
