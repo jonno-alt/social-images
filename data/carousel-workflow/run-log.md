@@ -903,3 +903,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: YouTube daily limit hit on Apr 1 and Apr 2. Resolved by scheduling Apr 15-17.
 - **Native action items**: None (no personal profile tags needed)
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+## Run: 2026-03-26 (Session 2 - Topic 2 continued)
+
+**Topic**: Testimonial: Michael Quach, Redlands College (Row 30)
+**Status**: ✅ Complete
+**Carousels Built**: 3
+1. redlands-wg-overview (7 slides) - Overview of Working Genius at Redlands College
+2. redlands-wg-discoveries (7 slides) - The six types of Working Genius discoveries
+3. redlands-wg-book-session (6 slides) - Book a Working Genius session CTA
+
+**Images Generated**: 3 sizes (square, portrait, vertical) + Pinterest pins for each carousel
+**Videos Generated**: 3 (one per carousel, 1080x1920, h264)
+**GitHub Upload**: All files uploaded to carousels/redlands-working-genius-2026-03-26/
+**Buffer Scheduling**: All 3 carousels scheduled to 9 platforms each (27 total posts)
+- LinkedIn: Apr 4 (queue)
+- Facebook: Apr 7 (queue)
+- Instagram: Apr 7 (queue)
+- Threads: Apr 7 (queue)
+- X/Twitter: Apr 7 (queue)
+- Google Business: Apr 8 (queue)
+- Bluesky: Apr 7 (queue)
+- TikTok: May 18-20 (custom scheduled - avoid daily limits)
+- YouTube: Apr 18-20 (custom scheduled - avoid daily limits)
+
+**Notes**: Actual Michael Quach testimonial quote not found online. Built carousels around verified facts about Redlands College (QLD independent school) and Working Genius engagement. Flagged for Jonno to add actual quote natively. Buffer had intermittent "Failed to fetch image dimensions" errors with 7+ images - resolved by using max 4 images per post.
+**Footer Role**: Certified Working Genius Facilitator | Author
