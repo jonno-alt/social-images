@@ -2,8 +2,8 @@
   "category": "school-principals",
   "category_name": "School Principals / Headteachers",
   "last_updated": "2026-03-26T12:00:00Z",
-  "total_drafted": 40,
-  "total_researched": 53,
+  "total_drafted": 48,
+  "total_researched": 78,
   "sub_types_completed": [
     "Principals (general/public/government schools)",
     "Catholic school principals",
@@ -15,13 +15,12 @@
     "Primary/elementary school principals",
     "Adventist school leaders",
     "Islamic school leaders",
-    "Jewish school leaders"
-  ],
-  "sub_types_remaining": [
+    "Jewish school leaders",
     "Deputy/assistant principals"
   ],
-  "current_sub_type": "Deputy/assistant principals",
-  "current_scope": "international",
+  "sub_types_remaining": [],
+  "current_sub_type": "completed",
+  "current_scope": "completed",
   "current_country": "Australia",
   "associations": [
     {
@@ -525,6 +524,102 @@
       "sub_type": "Adventist school leaders",
       "email_verified": "davidmcclintock@adventist.org.au",
       "email_source": "Official Adventist website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "VCSSDPA",
+      "full_name": "Victorian Catholic Secondary Schools Deputy Principals Association",
+      "country": "Australia",
+      "scope": "state",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "secretary@vcssdpa.com",
+      "email_source": "Official website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "ASCL",
+      "full_name": "Association of School and College Leaders",
+      "country": "UK",
+      "scope": "national",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "info@ascl.org.uk",
+      "email_source": "Official ASCL website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "OPC",
+      "full_name": "Ontario Principals Council",
+      "country": "Canada",
+      "scope": "state",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "admin@principals.ca",
+      "email_source": "Official OPC website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "CPCO",
+      "full_name": "Catholic Principals Council of Ontario",
+      "country": "Canada",
+      "scope": "state",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "info@cpco.on.ca",
+      "email_source": "Official CPCO website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "AHDS",
+      "full_name": "Association of Headteachers and Deputes in Scotland",
+      "country": "UK",
+      "scope": "state",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "info@ahds.org.uk",
+      "email_source": "Official AHDS website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "SLS",
+      "full_name": "School Leaders Scotland",
+      "country": "UK",
+      "scope": "state",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "info@sls-scotland.org.uk",
+      "email_source": "Official SLS website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "APS",
+      "full_name": "Academy of Principals Singapore",
+      "country": "Singapore",
+      "scope": "national",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "admin@aps.sg",
+      "email_source": "Official APS website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "CAP",
+      "full_name": "Canadian Association of Principals",
+      "country": "Canada",
+      "scope": "national",
+      "sub_type": "Deputy/assistant principals",
+      "email_verified": "info@cdnprincipals.com",
+      "email_source": "Official CAP website",
       "draft_created": true,
       "draft_date": "2026-03-26",
       "status": "drafted"
