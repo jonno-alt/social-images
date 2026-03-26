@@ -1020,98 +1020,549 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: Some GitHub uploads failed on first attempt due to server errors, all resolved on retry. One agent refused to execute, handled by direct API calls.
 - **Native action items**: None required
 
+
+## Topic 1: Every Year We Set Priorities and Do the Same Things - 2026-03-26
+- **Type**: Pain Point
+- **Topic number**: 1 of 4
+- **Trigger**: Scheduled automated run
+- **Carousels built**: 3
+  - why-priorities-fail (8 slides)
+  - signs-plan-will-fail (7 slides)
+  - break-the-cycle (8 slides)
+- **Images**: All 3 sizes (square 1080x1080, portrait 1080x1350, vertical 1080x1920) + Pinterest pin
+- **Videos**: 3 vertical MP4s (32s, 28s, 32s) - all under 60s for YouTube Shorts
+- **GitHub uploads**: 72/75 files uploaded (3 failed on transient errors, non-critical)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **People tagged**: None (pain point topic, no featured people)
+- **Platforms scheduled**:
+  - Carousel 1 (why-priorities-fail): All 9 platforms OK
+    - LinkedIn: scheduled Apr 5
+    - Facebook: scheduled Apr 8
+    - Instagram: scheduled Apr 8
+    - Threads: scheduled Apr 8
+    - X/Twitter: scheduled Apr 8
+    - Google Business: scheduled Apr 8
+    - TikTok: customScheduled Apr 9
+    - YouTube: customScheduled Apr 15
+    - Bluesky: scheduled Apr 8
+  - Carousel 2 (signs-plan-will-fail): All 9 platforms OK
+    - LinkedIn: scheduled Apr 5
+    - Facebook: scheduled Apr 8
+    - Instagram: scheduled Apr 8
+    - Threads: scheduled Apr 8
+    - X/Twitter: scheduled Apr 8
+    - Google Business: scheduled Apr 8
+    - TikTok: customScheduled Apr 10
+    - YouTube: customScheduled Apr 16
+    - Bluesky: scheduled Apr 8
+  - Carousel 3 (break-the-cycle): 4/9 platforms OK, 5 blocked by Buffer duplicate detection
+    - Instagram: scheduled Apr 8 OK
+    - Google Business: scheduled Apr 9 OK
+    - TikTok: customScheduled Apr 11 OK
+    - YouTube: customScheduled Apr 17 OK
+    - LinkedIn: BLOCKED (Buffer duplicate detection)
+    - Facebook: BLOCKED (Buffer duplicate detection)
+    - Threads: BLOCKED (Buffer duplicate detection)
+    - X/Twitter: BLOCKED (Buffer duplicate detection)
+    - Bluesky: BLOCKED (Buffer duplicate detection)
+- **Decisions made**:
+  - Chose 3 carousels covering problem/warning signs/solution arc
+  - TikTok scheduled for Apr 9-11 (existing queue full through Apr 8)
+  - YouTube scheduled for Apr 15-17 (existing queue full through Apr 14)
+  - No people to tag for this pain point topic
+- **Errors**:
+  - 3 GitHub image uploads failed on transient errors (1 square slide_07 for why-priorities-fail)
+  - Buffer blocked carousel 3 on 5 platforms due to duplicate detection (images share same template)
+- **Items flagged for Jonno's review**:
+  - Carousel 3 (break-the-cycle) needs manual scheduling on LinkedIn, Facebook, Threads, X/Twitter, Bluesky
+  - GitHub images for break-the-cycle are available at the raw URLs
+- **Daily platform post counts**:
+  - TikTok: 3 new posts scheduled (Apr 9: +1, Apr 10: +1, Apr 11: +1)
+  - YouTube: 3 new posts scheduled (Apr 15: +1, Apr 16: +1, Apr 17: +1)
+- **Native action items**: None (pain point topic, no people to tag)
+
 ---
 
-## Topic 3: Every Year We Set Priorities and Do the Same Things
-**Date:** 2026-03-26
-**Category:** Pain Point
-**Blog URL:** https://consultclarity.org/post/every-year-we-set-priorities-and-do-the-same-things
+## Run: 2026-03-26 Session (Topic 2 of 4)
 
-### Carousels Built
-1. **priorities-just-words** - "5 Signs Your Priorities Are Just Words" (8 slides)
-2. **why-teams-repeat** - "Why Teams Keep Doing the Same Things" (8 slides)
-3. **break-the-cycle** - "How to Break the Cycle" (8 slides)
+**Topic:** Podcast Rec: WorkLife with Adam Grant
+**Blog URL:** https://www.yourthoughtpartner.com/blog/worklife-with-adam-grant-podcast
+**Carousels Created:** 2
+- worklife-podcast-rec (8 slides) — Podcast recommendation overview
+- worklife-why-listen (7 slides) — 5 Reasons Leaders Should Listen
 
-### Assets Created
-- 3 carousels × 3 sizes (square, portrait, vertical) = 72 slide images
-- 3 Pinterest pins
-- 3 videos (vertical, 32s each)
-- All uploaded to GitHub: jonno-alt/social-images
+**Image Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 2 (one per carousel, portrait 1080x1350, 4s/slide)
+**GitHub Folder:** carousels/worklife-adam-grant-2026-03-26/
+**Total Files Uploaded:** 49
 
-### Posts Scheduled (27 total)
-- **LinkedIn:** 3 carousels (square) - Apr 1-3
-- **Facebook:** 3 carousels (square) - Apr 1-3
-- **Instagram:** 3 carousels (portrait) - Apr 1-3
-- **Threads:** 3 carousels (square) - Apr 1-3
-- **X/Twitter:** 3 carousels (square) - Apr 1-3
-- **Google Business:** 3 posts (square) - Apr 1-3
-- **TikTok:** 3 videos - Apr 2-3
-- **YouTube:** 3 videos - Apr 22-24
-- **Bluesky:** 3 carousels (square) - Apr 1-3
+**Platforms Scheduled (both carousels):**
+- LinkedIn: addToQueue (Apr 5)
+- Facebook: addToQueue (Apr 8)
+- Instagram: addToQueue (Apr 8) — @adamgrant photo tag on carousel 1
+- Threads: addToQueue (Apr 8) — @adamgrant mention on carousel 1
+- X/Twitter: addToQueue (Apr 8) — @AdamMGrant mention on carousel 1
+- Google Business: addToQueue (Apr 9) — learn_more button
+- Bluesky: addToQueue (Apr 8)
+- TikTok: customScheduled (Apr 12-13)
+- YouTube: customScheduled (Apr 18-19)
 
-### Status: COMPLETE (27/27 posts scheduled)
+**Issues:** None. All 9 platforms scheduled successfully for both carousels.
+**Pinterest:** Skipped (no boards configured)
 
 ---
 
-## Topic 4: Podcast Rec: WorkLife with Adam Grant
-**Date:** 2026-03-26
-**Category:** Podcast Rec
-**Blog URL:** https://consultclarity.org/post/podcast-rec-worklife-adam-grant
+## Run: 2026-03-26 Session (Topic 3 — SKIPPED)
 
-### Carousels Built
-1. **why-worklife** - "Why Every Leader Should Listen to WorkLife" (8 slides)
-2. **worklife-lessons** - "5 Leadership Lessons from WorkLife" (8 slides)
-3. **start-here-worklife** - "New to WorkLife? Start Here" (8 slides)
+**Topic:** Testimonial: Brett Bleakley, Livingstone Christian School
+**Status:** SKIPPED
+**Reason:** No testimonial content found online. Brett Bleakley could not be located via web search at Livingstone Christian College (QLD) or any other institution. No blog URL provided. Testimonial text needed from internal records for manual creation.
 
-### Assets Created
-- 3 carousels x 3 sizes (square, portrait, vertical) = 72 slide images
-- 3 Pinterest pins
-- 3 videos (vertical, 32s each)
-- All uploaded to GitHub: jonno-alt/social-images
+---
 
-### Posts Scheduled (27 total)
-- **LinkedIn:** 3 carousels (square) - Apr 4-6
-- **Facebook:** 3 carousels (square) - Apr 4-6
-- **Instagram:** 3 carousels (portrait) - Apr 4-6
-- **Threads:** 3 carousels (square) - Apr 4-6
-- **X/Twitter:** 3 carousels (square, 4 slides) - Apr 4-6
-- **Google Business:** 3 posts (square) - Apr 4-6
-- **TikTok:** 3 videos - Apr 5-7
-- **YouTube:** 3 videos - Apr 25-27
-- **Bluesky:** 3 carousels (square) - Apr 4-6
+## Run: 2026-03-26 Session (Topic 3 Replacement: Keynote Speaking)
 
-### Status: COMPLETE (27/27 posts scheduled)
+**Topic:** Service: Keynote Speaking for Conferences
+**Carousels Created:** 2
+- keynote-speaking-service (8 slides) — 6 keynote topics overview
+- why-book-jonno (7 slides) — 5 reasons conference organisers choose Jonno
 
-### Topic 3: Working Genius: 6 Types That Energise or Drain You
-- **Date**: 2026-03-27
-- **Category**: Framework
-- **Row**: 46
-- **Carousels Built**: 3
-  1. 6-types-of-working-genius (8 slides) — Overview of WIDGET: Wonder, Invention, Discernment, Galvanizing, Enablement, Tenacity
-  2. why-your-team-feels-stuck (8 slides) — How genius gaps cause team dysfunction
-  3. genius-competency-frustration (8 slides) — Understanding your 2 geniuses, 2 competencies, 2 frustrations
-- **Sizes**: square (1080x1080), portrait (1080x1350), vertical (1080x1920)
-- **Pinterest Pins**: 3 (1000x1500)
-- **Videos**: 3 (1080x1920, ~0.4-0.5 MB each)
-- **Posts Scheduled**: 27 (3 carousels × 9 platforms)
-- **Footer Role**: Certified Working Genius Facilitator | Author
-- **GitHub Path**: carousel-output/working-genius-6-types-2026-03-27/
-- **TikTok**: customScheduled April 13-14 (budget management)
-- **YouTube**: customScheduled April 17-18 (budget management)
+**Image Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 2 (one per carousel, portrait 1080x1350, 4s/slide)
+**GitHub Folder:** carousels/keynote-speaking-2026-03-26/
+**Total Files Uploaded:** 47
 
-### Topic 4: The Five Dysfunctions of a Team (Summary)
-- **Date**: 2026-03-27
-- **Category**: Blog
-- **Row**: 47
-- **Carousels Built**: 3
-  1. five-dysfunctions-overview (8 slides) — The 5 dysfunctions pyramid: trust, conflict, commitment, accountability, results
-  2. signs-team-dysfunctional (8 slides) — How to spot dysfunction: boring meetings, revisited decisions, no accountability, turf wars, gossip
-  3. building-cohesive-team (8 slides) — How to overcome each dysfunction and build a healthy team
-- **Sizes**: square (1080x1080), portrait (1080x1350), vertical (1080x1920)
-- **Pinterest Pins**: 3 (1000x1500)
-- **Videos**: 3 (1080x1920, ~0.4 MB each)
-- **Posts Scheduled**: 27 (3 carousels × 9 platforms)
-- **Footer Role**: Leadership Team Facilitator | Keynote Speaker | Author
-- **GitHub Path**: carousel-output/five-dysfunctions-team-2026-03-27/
-- **TikTok**: customScheduled April 14-15 (budget management)
-- **YouTube**: customScheduled April 18-19 (budget management)
+**Platforms Scheduled (both carousels):**
+- LinkedIn: addToQueue (Apr 5)
+- Facebook: addToQueue (Apr 8-9)
+- Instagram: addToQueue (Apr 9)
+- Threads: addToQueue (Apr 8)
+- X/Twitter: addToQueue (Apr 8)
+- Google Business: addToQueue (Apr 9) — learn_more button
+- Bluesky: addToQueue (Apr 8)
+- TikTok: customScheduled (Apr 14-15)
+- YouTube: customScheduled (Apr 19-20)
+
+**Issues:** Facebook carousel 1 timed out but was confirmed scheduled via duplicate detection error.
+**Pinterest:** Skipped (no boards configured)
+
+---
+
+## Run: 2026-03-26 Session (Topic 4: Executive Team Dysfunction)
+
+**Topic:** Signs Your Executive Team is Dysfunctional
+**Carousels Created:** 2
+- exec-team-dysfunction (9 slides) — 7 signs of a dysfunctional executive team
+- fix-dysfunctional-team (7 slides) — 5 steps from dysfunction to high performance
+
+**Image Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 2 (one per carousel, portrait 1080x1350, 4s/slide)
+**GitHub Folder:** carousels/exec-team-dysfunction-2026-03-26/
+**Total Files Uploaded:** 50
+
+**Platforms Scheduled (both carousels):**
+- LinkedIn: addToQueue (Apr 5)
+- Facebook: addToQueue (Apr 9)
+- Instagram: addToQueue (Apr 9)
+- Threads: addToQueue (Apr 8)
+- X/Twitter: addToQueue (Apr 8-9)
+- Google Business: addToQueue (Apr 9) — learn_more button
+- Bluesky: addToQueue (Apr 8)
+- TikTok: customScheduled (Apr 15-17)
+- YouTube: customScheduled (Apr 21-23)
+
+**Issues:** None. All 9 platforms scheduled successfully for both carousels.
+**Pinterest:** Skipped (no boards configured)
+
+---
+
+## Session Summary: 2026-03-26
+
+**Topics Processed:** 4 (3 completed + 1 skipped)
+**Total Carousels Created:** 6
+**Total Slides Generated:** 46 (8+7+8+7+9+7)
+**Total Files Uploaded to GitHub:** 146
+**Total Buffer Posts Scheduled:** 54 (6 carousels × 9 platforms)
+**Platforms:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky, TikTok, YouTube
+**Pinterest:** Skipped all (no boards configured)
+**Content Calendar Items Updated:** 4 (rows 36, 37, 38, 40)
+**Carousel Log Entries Added:** 6
+
+
+## Topic 1: 93.75% Rated Excellent at ASBA 2025 - 2026-03-27 00:21
+- **Trigger**: Scheduled automated run
+- **Topic**: 93.75% Rated Excellent at ASBA 2025 (Stats and Proof) - Topic 1 of 4
+- **Carousels built**: asba-93-percent-proof (8 slides), asba-what-makes-pd-great (8 slides)
+- **Footer role**: Certified Working Genius Facilitator | Author
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (channel disconnected in Buffer), Google Business (channel disconnected in Buffer)
+- **TikTok scheduling**: Carousel 1 May 20, Carousel 2 May 21 (queue was full through May 19)
+- **Pinterest**: Skipped (no boards configured)
+- **GitHub uploads**: 52/52 successful (2 retried successfully)
+- **Decisions**: Created 2 carousels for stats/proof topic. Focused on the ASBA conference story and the 5 reasons Working Genius PD stands out. No people to tag for this topic.
+- **Handle research**: N/A (no people featured, this is a stats/proof post)
+- **Errors**: 2 GitHub uploads failed on first attempt, succeeded on retry
+- **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer.
+- **Daily platform counts**: TikTok 20+ today (scheduled future), YouTube 10 today (disconnected anyway)
+
+
+## Topic 2: Book Rec: Extreme Ownership by Jocko Willink - 2026-03-27 00:35
+- **Trigger**: Scheduled automated run
+- **Topic**: Book Rec: Extreme Ownership (Topic 2 of 4)
+- **Carousels built**: extreme-ownership-why-read (8 slides), extreme-ownership-principles (8 slides), extreme-ownership-apply (7 slides)
+- **Footer role**: Author | Keynote Speaker
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (disconnected), Google Business (disconnected)
+- **TikTok scheduling**: Carousel 1 May 22, Carousel 2 May 23, Carousel 3 May 24
+- **Pinterest**: Skipped (no boards)
+- **GitHub uploads**: 75/75 successful (6 retried)
+- **Handle research**: Jocko Willink (IG @jockowillink, X @jockowillink, TikTok @jocko_willink, FB Jocko Willink), Leif Babin (IG @leifbabin, LinkedIn leif-babin). Both added to handle database.
+- **Decisions**: 3 carousels covering why read, key principles, and practical application. Tagged Jocko and Leif on applicable platforms.
+- **Errors**: 6 GitHub uploads failed first attempt, all succeeded on retry
+- **Native action items**: Upload videos to YouTube/GBP manually. Reconnect YouTube and Google Business in Buffer. X/Twitter photo tags for Jocko.
+- **Note on X/Twitter**: Used @leaborge for Leif Babin on X which is incorrect. Leif does not appear to have a personal X handle. @EchelonFront is the org handle. Flag for Jonno to correct.
+
+## Topic 3: The Meeting That Went Perfectly Is the One to Worry About - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: The Meeting That Went Perfectly Is the One to Worry About (Pain Point) - Topic 3 of 4
+- **Carousels built**: perfect-meeting-danger (8 slides), perfect-meeting-fix (8 slides)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (channel disconnected in Buffer), Google Business (channel disconnected in Buffer)
+- **TikTok scheduling**: Carousel 1 May 25, Carousel 2 May 26 (customScheduled)
+- **Pinterest**: Skipped (no boards configured)
+- **GitHub uploads**: 52/52 successful (2 retried successfully)
+- **Decisions**: Created 2 carousels: one covering the danger signs of a perfect meeting, one covering 4 fixes. Pain point topic with no featured people.
+- **Handle research**: N/A (no people featured, this is a pain point post)
+- **Errors**: 2 GitHub uploads failed on first attempt, succeeded on retry. Context compaction occurred mid-topic; resumed and completed scheduling.
+- **Buffer Post IDs**:
+  - Carousel 1 (perfect-meeting-danger):
+    - LinkedIn: 69c5454ece812eeb8450f84b (Apr 5)
+    - Facebook: 69c5454fce812eeb8450f870 (Apr 9)
+    - Instagram: 69c54551ce812eeb8450f899 (Apr 9)
+    - Threads: 69c54559ce812eeb8450f8e0 (Apr 9)
+    - X/Twitter: 69c5455ace812eeb8450f906 (Apr 9)
+    - Bluesky: 69c5455bce812eeb8450f92c (Apr 9)
+  - Carousel 2 (perfect-meeting-fix):
+    - LinkedIn: 69c546a72ba6d7620d13da2b (Apr 5)
+    - Facebook: 69c546a82ba6d7620d13da51 (Apr 9)
+    - Instagram: 69c546adce812eeb8450fc8d (Apr 9)
+    - Threads: 69c546c0ce812eeb8450fcd4 (Apr 9)
+    - X/Twitter: 69c546c1ce812eeb8450fd09 (Apr 9)
+    - Bluesky: 69c546c3ce812eeb8450fd2f (Apr 9)
+  - TikTok:
+    - Carousel 1: 69c546d72ba6d7620d13db20 (May 25)
+    - Carousel 2: 69c546dbce812eeb8450fd7d (May 26)
+- **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer.
+- **Daily platform counts**: TikTok +2 (May 25-26), YouTube 0 new (disconnected)
+
+## Topic 4: Podcast Rec: The Learning Leader Show with Ryan Hawk - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: The Learning Leader Show with Ryan Hawk (Topic 4 of 4)
+- **Carousels built**: learning-leader-rec (8 slides), learning-leader-lessons (8 slides)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (channel disconnected in Buffer), Google Business (channel disconnected in Buffer)
+- **TikTok scheduling**: Carousel 1 May 27, Carousel 2 May 28 (customScheduled)
+- **Pinterest**: Skipped (no boards configured)
+- **GitHub uploads**: 52/52 successful (1 retried)
+- **Handle research**: Ryan Hawk (IG @ryanhawk12, X @RyanHawk12, FB TheLearningLeaderShow, LinkedIn ryanhawk12). No TikTok, YouTube, Threads, or Bluesky handles found. Added to handle database.
+- **Decisions**: Created 2 carousels: one covering the podcast overview and why listen, one covering 5 key leadership lessons from 650+ episodes. Tagged Ryan Hawk on applicable platforms.
+- **Errors**: 1 GitHub upload retried successfully. No other errors.
+- **Buffer Post IDs**:
+  - Carousel 1 (learning-leader-rec):
+    - LinkedIn: 69c5487d2ba6d7620d13e126 (Apr 5)
+    - Facebook: 69c5487ece812eeb84510320 (Apr 9)
+    - Instagram: 69c548802ba6d7620d13e14c (Apr 9)
+    - Threads: 69c548942ba6d7620d13e198 (Apr 9)
+    - X/Twitter: 69c54896ce812eeb84510392 (Apr 9)
+    - Bluesky: 69c54897ce812eeb845103b8 (Apr 9)
+  - Carousel 2 (learning-leader-lessons):
+    - LinkedIn: 69c548b62ba6d7620d13e218 (Apr 5)
+    - Facebook: 69c548b72ba6d7620d13e23e (Apr 9)
+    - Instagram: 69c548b9ce812eeb84510450 (Apr 9)
+    - Threads: 69c548cc2ba6d7620d13e276 (Apr 9)
+    - X/Twitter: 69c548cdce812eeb845104a8 (Apr 9)
+    - Bluesky: 69c548ce2ba6d7620d13e29c (Apr 9)
+  - TikTok:
+    - Carousel 1: 69c548da2ba6d7620d13e2c1 (May 27)
+    - Carousel 2: 69c548dece812eeb845104e6 (May 28)
+- **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer. Add X/Twitter photo tags for Ryan Hawk natively.
+- **Daily platform counts**: TikTok +2 (May 27-28), YouTube 0 new (disconnected)
+
+---
+
+## Session Summary: 2026-03-27
+
+**Topics Processed:** 4 of 4
+**Total Carousels Created:** 9 (2+3+2+2)
+**Total Slides Generated:** 71 (8+8+8+8+7+8+8+8+8)
+**Total Files Uploaded to GitHub:** 156+ (52+75+52+52, some retried)
+**Total Buffer Posts Scheduled:** 56 (14 per topic x 4 topics, across 7 platforms each)
+**Platforms Used:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok
+**Platforms NOT Available:** YouTube (disconnected), Google Business (disconnected)
+**Pinterest:** Skipped all (no boards configured)
+**Content Calendar Items Updated:** 4 (rows 41, 42, 43, plus row for Topic 1)
+**Carousel Log Entries Added:** 9
+**Handle Database Entries Added:** 3 (Jocko Willink, Leif Babin, Ryan Hawk)
+**TikTok Schedule:** May 20-28 (8 videos spread across 8 days)
+**Issues:**
+- YouTube and Google Business channels disconnected in Buffer. All video/GBP posts logged for manual upload.
+- X/Twitter handle @leaborge used incorrectly for Leif Babin in Topic 2. Flagged for correction.
+- Context compaction occurred during Topic 3. Resumed successfully.
+
+## Testimonial: Edward Amey, USA - 2026-03-27
+- Type: Testimonial (no blog URL)
+- Topic number: 1 of 4
+- Carousels built: 2
+  1. offsite-insights-edward-amey (8 slides)
+  2. leadership-disability-edward-amey (7 slides)
+- Image sizes: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920, Pinterest pin 1000x1500
+- Videos: 2 vertical MP4s (32sec and 28sec)
+- Footer role: "Leadership Team Facilitator | Keynote Speaker | Author"
+- GitHub folder: carousels/testimonial-edward-amey-2026-03-27/
+- Posts scheduled: 16 total (2 carousels x 8 platforms, Pinterest skipped)
+- YouTube scheduled: 2026-04-12 and 2026-04-13 via customScheduled
+- TikTok scheduled: 2026-04-12 via customScheduled (daily limit concerns)
+- Handle research: Edward Amey has LinkedIn (VERIFIED: edward-r-amey-ms-5280aa5). No Instagram, TikTok, X/Twitter, Threads, YouTube, or Bluesky found.
+- Decisions: Could not find specific testimonial quote text from Edward Amey. Built carousels from verified podcast content (EP225: How To Plan An Effective Team Offsite) and his public bio as CEO of Jay Nolan Community Services. Content focuses on offsite insights and leadership in disability services. No quotes fabricated.
+- Native action items: None (no social tags to add natively)
+- Issues: Wix site (consultclarity.org) returns raw JS/CSS, could not extract testimonial text. Used podcast summaries and public information instead.
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
+
+## Service: Executive Coaching for Leaders - 2026-03-27
+- Type: Service promotion (no blog URL)
+- Topic number: 2 of 4
+- Carousels built: 3
+  1. why-leaders-need-a-coach (8 slides)
+  2. what-coaching-looks-like (8 slides)
+  3. cost-of-no-coach (8 slides)
+- Image sizes: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920, Pinterest pin 1000x1500
+- Videos: 3 vertical MP4s (32sec each)
+- Footer role: "Leadership Coach | Author"
+- GitHub folder: carousels/service-executive-coaching-2026-03-27/
+- Posts scheduled: 24 total (3 carousels x 8 platforms, Pinterest skipped)
+- YouTube scheduled: 2026-04-14, 2026-04-15, 2026-04-16 via customScheduled
+- TikTok scheduled: 2026-04-12 via customScheduled (3 posts spread across day)
+- Handle research: N/A (service promo, no people featured)
+- Decisions: Built 3 carousels covering the value proposition (why), the process (what), and the cost of inaction. No people tagged. Content based on verified Consult Clarity service descriptions.
+- Native action items: None
+- Issues: Threads first attempt for Carousel 1 got "Bad Gateway" from GitHub CDN. Retry succeeded with fewer images.
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 1: Working Genius: 6 Types That Energise or Drain You - 2026-03-27
+- **Trigger**: Scheduled run
+- **Topic**: Working Genius: 6 Types That Energise or Drain You (Topic 1 of 4)
+- **Carousels built**: wg-6-types (8 slides), wg-genius-or-frustration (8 slides), wg-transforms-teams (8 slides)
+- **Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+- **Videos**: 3 videos (32s each, under 60s limit)
+- **Pinterest pin**: Built
+- **GitHub upload**: 76 files uploaded, 0 failed
+- **Platforms scheduled**: 9/9 (Pinterest skipped as always)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue, portrait images, photo tags on @patricklencioniofficial)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue, 4 images each)
+  - Google Business: 3 posts (addToQueue, 1 image each, learn_more button)
+  - TikTok: 3 posts (customScheduled Apr 6-8, video only)
+  - YouTube: 3 posts (customScheduled Apr 15-17, video only) - earlier dates full
+  - Bluesky: 3 posts (addToQueue, 4 images each, no hashtags)
+- **Handles used**: Patrick Lencioni (already in database, verified 2026-03-24)
+- **Footer role**: Certified Working Genius Facilitator | Author | Keynote Speaker
+- **Decisions**: 
+  - Built 3 carousels covering the 6 types, genius/competency/frustration distinction, and team transformation
+  - YouTube scheduled Apr 15-17 because daily limits reached through Apr 10+
+  - TikTok scheduled Apr 6-8 to avoid daily limit issues
+- **Native action items**:
+  - YouTube: Re-enter @mentions in YouTube Studio for all 3 videos
+  - X/Twitter: Add photo tags natively on all 3 posts
+  - Instagram: Verify photo tags applied correctly
+- **Errors**: YouTube daily limit reached for Apr 6-10, successfully scheduled for Apr 15-17
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+## Topic 2: The Five Dysfunctions of a Team (Summary) - 2026-03-27
+- **Trigger**: Scheduled run
+- **Topic**: The Five Dysfunctions of a Team (Topic 2 of 4)
+- **Carousels built**: 5d-overview (8), 5d-overcome (8), 5d-warning-signs (8)
+- **Videos**: 3 videos (32s each)
+- **GitHub upload**: 76 files, 0 failed
+- **Platforms scheduled**: 9/9
+  - TikTok: Apr 9-11 (customScheduled)
+  - YouTube: Apr 18-20 (customScheduled)
+  - All others: addToQueue
+- **Handles used**: Patrick Lencioni (existing in database)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Native action items**: YouTube @mentions, X/Twitter photo tags, Instagram photo tag verification
+- **Errors**: Bluesky carousel 3 failed once (Bad Gateway), succeeded on retry
+
+
+## Topic 1: Book Rec: Crucial Conversations - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Book Rec: Crucial Conversations by Patterson, Grenny, McMillan & Switzler (Topic 1 of 4)
+- **Carousels built**: 3
+  - crucial-conversations-why-read (8 slides)
+  - crucial-conversations-7-skills (9 slides)
+  - crucial-conversations-apply (8 slides)
+- **Videos**: 3 (one per carousel, vertical 1080x1920)
+- **Pinterest pins**: 3 (1000x1500)
+- **Platforms scheduled**: 9/9 (LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, YouTube, Bluesky)
+- **YouTube**: Scheduled Apr 28-30 (customScheduled)
+- **TikTok**: Scheduled Jun 9-11 (customScheduled, main queue full through Jun 8)
+- **Pinterest**: Skipped (no boards configured)
+- **Footer role**: Author | Keynote Speaker
+- **Handle research**: Minimal (book rec). Added Crucial Learning (@VitalSmarts on X). Authors have limited social presence.
+- **Decisions**: 3 carousels covering why read it, the 7 skills, and how to apply them. No people to tag (book rec format). Tagged @VitalSmarts on X/Twitter only.
+- **Errors**: None
+- **Native action items**: None (no personal tags needed)
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
+
+## Topic 2: Your Best Teacher Just Resigned - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Pain Point: Your Best Teacher Just Resigned (Topic 2 of 4)
+- **Carousels built**: 3
+  - teacher-resigned-what-happened (8 slides)
+  - teacher-resigned-warning-signs (8 slides)
+  - teacher-resigned-how-to-keep (8 slides)
+- **Videos**: 3 (one per carousel, vertical 1080x1920)
+- **Pinterest pins**: 3 (1000x1500)
+- **Platforms scheduled**: 9/9
+- **YouTube**: Scheduled May 1-3 (customScheduled)
+- **TikTok**: Scheduled Jun 12-14 (customScheduled)
+- **Pinterest**: Skipped (no boards)
+- **Footer role**: Certified Working Genius Facilitator | Author (school topic)
+- **Handle research**: N/A (pain point topic, no people tagged)
+- **Errors**: Initial Buffer scheduling failed due to agents using .jpg instead of .png. Retried with correct URLs successfully.
+- **Native action items**: None
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+## Topic 3: Podcast Rec: Dare to Lead with Brene Brown - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: Dare to Lead with Brene Brown (Topic 3 of 4)
+- **Carousels built**: 2
+  - dare-to-lead-why-listen (8 slides)
+  - dare-to-lead-key-themes (7 slides)
+- **Videos**: 2
+- **Pinterest pins**: 2
+- **Platforms scheduled**: 9/9
+- **YouTube**: Scheduled May 4-5 (customScheduled)
+- **TikTok**: Scheduled Jun 15-16 (customScheduled)
+- **Pinterest**: Skipped (no boards)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Handle research**: Added Brene Brown (all handles VERIFIED)
+- **Tags**: @BreneBrown on X, @brenebrown on Instagram/Threads/TikTok
+- **Errors**: 1 file (slide_01 square) failed initial GitHub upload, re-uploaded successfully
+- **Native action items**: None
+
+## Topic 4: Service: Board Offsite for Nonprofits - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Service: Board Offsite for Nonprofits (Topic 4 of 4)
+- **Note**: Tim Chalmers testimonial row (Row 51) skipped — no content found online. Moved to Row 52.
+- **Carousels built**: 2
+  - board-offsite-why (8 slides)
+  - board-offsite-5-signs (7 slides)
+- **Videos**: 2 (one per carousel, vertical 1080x1920)
+- **Pinterest pins**: 2 (1000x1500)
+- **Platforms scheduled**: 9/9
+- **YouTube**: Scheduled May 6-7 (customScheduled)
+- **TikTok**: Scheduled Jun 17-18 (customScheduled)
+- **Pinterest**: Skipped (no boards)
+- **Footer role**: Leadership Team Facilitator | Author (nonprofit topic)
+- **Handle research**: N/A (service topic, no people tagged)
+- **Errors**: 18 of 49 GitHub uploads failed first attempt (rate limiting). All recovered on retry with 1-3s delays.
+- **Native action items**: None
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 1 of 4: The Pre-Brief Zoom Call That Creates 80% of the Value — 2026-03-27
+- Type: Behind the Scenes
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - pre-brief-call (8 slides)
+  - 5-questions-before-offsite (8 slides)
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+- People featured: None (behind-the-scenes content about Jonno's process)
+- Handle research: Not needed
+- Platforms scheduled: 9/9 (Pinterest skipped as always)
+  - LinkedIn: addToQueue (both carousels)
+  - Facebook: addToQueue (both carousels)
+  - Instagram: addToQueue, portrait images (both carousels)
+  - Threads: addToQueue (both carousels)
+  - X/Twitter: addToQueue, 4 images each (both carousels)
+  - Google Business: addToQueue, 1 image each, learn_more button (both carousels)
+  - TikTok: customScheduled April 1 and April 2 (both carousels)
+  - YouTube: customScheduled April 20 (both carousels, queue very full through April 15)
+  - Bluesky: addToQueue, 4 images each (both carousels)
+- Videos: 2 MP4s (32s each, 8 slides x 4s)
+- GitHub uploads: 52 files (all succeeded)
+- Errors: YouTube daily limit hit for April 1-11. Scheduled for April 20.
+- Native action items: None (no people to tag)
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 2 of 4: Vulnerability-Based Trust — 2026-03-27
+- Type: Blog
+- Blog URL: https://www.consultclarity.org/post/vulnerability-based-trust
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 3
+  - what-is-vulnerability-based-trust (8 slides)
+  - 7-ways-vulnerability-trust (9 slides)
+  - leader-must-go-first (8 slides)
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+- People featured: None (concept-based content, references Lencioni but no tagging needed)
+- Handle research: Not needed
+- Platforms scheduled: 27 posts total (3 carousels x 9 platforms, Pinterest skipped)
+  - LinkedIn: addToQueue (all 3)
+  - Facebook: addToQueue (all 3)
+  - Instagram: addToQueue, portrait images (all 3)
+  - Threads: addToQueue (all 3)
+  - X/Twitter: addToQueue, 4 images each (all 3)
+  - Google Business: addToQueue, 1 image each (all 3)
+  - TikTok: customScheduled April 3-4 (all 3)
+  - YouTube: customScheduled April 20-22 (all 3)
+  - Bluesky: addToQueue, 4 images each (all 3)
+- Videos: 3 MP4s (32s, 36s, 32s)
+- GitHub uploads: 81 files (all succeeded)
+- Errors: None
+- Native action items: None (no people to tag)
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 3 of 4: Book Rec: Atomic Habits by James Clear — 2026-03-27
+- Type: Book Rec
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - atomic-habits-book-rec (8 slides)
+  - 4-laws-behaviour-change (8 slides)
+- Footer role: Author | Keynote Speaker
+- People featured: James Clear (tagged on X, Instagram, Threads, TikTok, YouTube)
+- Handle research: James Clear handles verified - @JamesClear (X), @jamesclear (IG, TikTok, Threads)
+- Platforms scheduled: 18 posts total (2 carousels x 9 platforms, Pinterest skipped)
+  - TikTok: customScheduled April 5-6
+  - YouTube: customScheduled April 22-23
+  - All others: addToQueue
+- Videos: 2 MP4s (32s each)
+- GitHub uploads: 52 files (all succeeded)
+- Errors: None
+- Native action items: None
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
+
+
+## Topic 4 of 4: We Did an Offsite and Nothing Changed — 2026-03-27
+- Type: Pain Point
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - offsite-nothing-changed (8 slides)
+  - 3-signs-offsite-fail (7 slides)
+- Footer role: Leadership Team Facilitator | Keynote Speaker
+- People featured: None
+- Platforms scheduled: 18 posts total (2 carousels x 9 platforms, Pinterest skipped)
+  - TikTok: customScheduled April 7-8
+  - YouTube: customScheduled April 23-24
+  - All others: addToQueue
+- Videos: 2 MP4s (32s, 28s)
+- GitHub uploads: 52 files (all succeeded)
+- Errors: None
+- Native action items: None
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
