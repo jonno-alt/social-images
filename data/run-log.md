@@ -465,3 +465,16 @@
 - YouTube scheduled: 2026-04-12 via customScheduled (all closer dates at 10-post limit)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars, scheduled 2026-03-31 via customScheduled due to daily limit)
 - Issues: TikTok daily limit (25) hit, moved to 2026-03-31. YouTube daily limit (10) hit on all dates through 2026-04-08, moved to 2026-04-12. All 17 people are new to the database — zero returning names.
+
+## EdTech Leadership — 2026-03-26 (Topic 1 of 4)
+- Total unique people across all platforms: 33
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=10, YT=12, GBiz=7, Bluesky=6
+- Returning names: None (all 33 are new to database)
+- Cross-platform overlap: ~45% (some key figures like Vicki Davis, Matt Miller, Monica Burns appear on most platforms — expected for niche edtech community)
+- Slug: edtech-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-21 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-07 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- Issues: 10 GitHub uploads failed on first attempt (connection refused), 9 resolved on retry, 1 resolved on second retry. EdTech is a niche community with higher-than-usual cross-platform overlap — the same educators tend to be active across Instagram, TikTok, YouTube, and X. Strong roster includes EdTech Magazine influencers (Vicki Davis, Monica Burns, Matt Miller, Ken Shelton), ISTE leaders (Richard Culatta), Google innovators (Alice Keeler, Kasey Bell), and Bluesky early adopters (Alice Keeler, Lance Eaton).
