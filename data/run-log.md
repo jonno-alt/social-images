@@ -784,3 +784,16 @@
 - Videos: 2 (TikTok 55sec, YouTube 55sec)
 - GitHub uploads: 76/76 successful (0 retries needed)
 - Issues: Facebook, Threads, X/Twitter saved as drafts (Buffer duplicate detection). Strong roster featuring Conscious Capitalism pioneers (John Mackey, Raj Sisodia), purpose-driven CEOs (Hubert Joly, Paul Polman, Howard Schultz, Bob Iger), and Purpose Economy expert Aaron Hurst.
+
+## Coaching for Performance — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 43
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=6
+- Returning names: Shadé Zahrai (TikTok), Cheryl Thompson (TikTok), Bill Eckstrom (X), Myles Downey (X, Bluesky), Ramona Shaw (YouTube)
+- Cross-platform overlap: <5% between main 6 platforms (FB, IG, TikTok, Threads, X, YT have 0% overlap). GBiz and Bluesky draw from main rosters.
+- Slug: coaching-for-performance
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-20 via customScheduled (all closer dates hit 10-post daily limit)
+- TikTok scheduled: 2026-04-07 via customScheduled (daily limit 25 reached for today)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Video duration: TikTok=56sec, YouTube=59.97sec (under 60sec limit)
+- Issues: YouTube daily limit hit on all dates tried through April 12. Successfully scheduled for April 20. TikTok daily limit (25) also reached.
