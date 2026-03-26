@@ -1396,3 +1396,24 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
 - **Native action items**: YouTube @mentions, X/Twitter photo tags, Instagram photo tag verification
 - **Errors**: Bluesky carousel 3 failed once (Bad Gateway), succeeded on retry
+
+
+## Topic 1: Book Rec: Crucial Conversations - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Book Rec: Crucial Conversations by Patterson, Grenny, McMillan & Switzler (Topic 1 of 4)
+- **Carousels built**: 3
+  - crucial-conversations-why-read (8 slides)
+  - crucial-conversations-7-skills (9 slides)
+  - crucial-conversations-apply (8 slides)
+- **Videos**: 3 (one per carousel, vertical 1080x1920)
+- **Pinterest pins**: 3 (1000x1500)
+- **Platforms scheduled**: 9/9 (LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, YouTube, Bluesky)
+- **YouTube**: Scheduled Apr 28-30 (customScheduled)
+- **TikTok**: Scheduled Jun 9-11 (customScheduled, main queue full through Jun 8)
+- **Pinterest**: Skipped (no boards configured)
+- **Footer role**: Author | Keynote Speaker
+- **Handle research**: Minimal (book rec). Added Crucial Learning (@VitalSmarts on X). Authors have limited social presence.
+- **Decisions**: 3 carousels covering why read it, the 7 skills, and how to apply them. No people to tag (book rec format). Tagged @VitalSmarts on X/Twitter only.
+- **Errors**: None
+- **Native action items**: None (no personal tags needed)
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
