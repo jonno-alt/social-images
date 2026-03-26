@@ -1,0 +1,24 @@
+{
+  "category": "special-education",
+  "category_name": "Special Education Administrators",
+  "last_updated": "2026-03-26T12:00:00Z",
+  "total_drafted": 10,
+  "total_researched": 30,
+  "sub_types_completed": ["Special education administrators/directors", "Inclusive education leaders", "Disability education", "Gifted education"],
+  "sub_types_remaining": [],
+  "current_sub_type": "completed",
+  "current_scope": "completed",
+  "current_country": "completed",
+  "associations": [
+    {"name": "nasen", "full_name": "National Association for Special Educational Needs", "country": "UK", "scope": "national", "sub_type": "Special education administrators/directors", "email_verified": "welcome@nasen.org.uk", "email_source": "Official nasen website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "AASE", "full_name": "Australian Association of Special Education", "country": "Australia", "scope": "national", "sub_type": "Special education administrators/directors", "email_verified": "office@aase.edu.au", "email_source": "Official AASE website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "NASET", "full_name": "National Association of Special Education Teachers", "country": "USA", "scope": "national", "sub_type": "Special education administrators/directors", "email_verified": "contactus@naset.org", "email_source": "Official NASET website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "NAGC", "full_name": "National Association for Gifted Children", "country": "USA", "scope": "national", "sub_type": "Gifted education", "email_verified": "nagc@nagc.org", "email_source": "Official NAGC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "LDA", "full_name": "Learning Difficulties Australia", "country": "Australia", "scope": "national", "sub_type": "Disability education", "email_verified": "enquiries@ldaustralia.org", "email_source": "Official LDA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "QAGTC", "full_name": "Queensland Association for Gifted and Talented Children", "country": "Australia", "scope": "state", "sub_type": "Gifted education", "email_verified": "office@qagtc.org.au", "email_source": "Official QAGTC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "SPELD NZ", "full_name": "SPELD New Zealand", "country": "New Zealand", "scope": "national", "sub_type": "Disability education", "email_verified": "nationaloffice@speld.org.nz", "email_source": "Official SPELD NZ website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "BDA", "full_name": "British Dyslexia Association", "country": "UK", "scope": "national", "sub_type": "Disability education", "email_verified": "info@bdadyslexia.org.uk", "email_source": "Official BDA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "AEP", "full_name": "Association of Educational Psychologists", "country": "UK", "scope": "national", "sub_type": "Special education administrators/directors", "email_verified": "enquiries@aep.org.uk", "email_source": "Official AEP website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "WCGTC", "full_name": "World Council for Gifted and Talented Children", "country": "International", "scope": "international", "sub_type": "Gifted education", "email_verified": "headquarters@world-gifted.org", "email_source": "Official WCGTC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"}
+  ]
+}
