@@ -1436,3 +1436,21 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: Initial Buffer scheduling failed due to agents using .jpg instead of .png. Retried with correct URLs successfully.
 - **Native action items**: None
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+## Topic 3: Podcast Rec: Dare to Lead with Brene Brown - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: Dare to Lead with Brene Brown (Topic 3 of 4)
+- **Carousels built**: 2
+  - dare-to-lead-why-listen (8 slides)
+  - dare-to-lead-key-themes (7 slides)
+- **Videos**: 2
+- **Pinterest pins**: 2
+- **Platforms scheduled**: 9/9
+- **YouTube**: Scheduled May 4-5 (customScheduled)
+- **TikTok**: Scheduled Jun 15-16 (customScheduled)
+- **Pinterest**: Skipped (no boards)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Handle research**: Added Brene Brown (all handles VERIFIED)
+- **Tags**: @BreneBrown on X, @brenebrown on Instagram/Threads/TikTok
+- **Errors**: 1 file (slide_01 square) failed initial GitHub upload, re-uploaded successfully
+- **Native action items**: None
