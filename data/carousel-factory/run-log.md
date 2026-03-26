@@ -645,3 +645,62 @@
 - **Total Buffer posts:** ~810 (estimated 9 platforms x 90 stories)
 - **Series balance:** ~15 stories per series
 - **Research Cache:** 48 entries
+
+## Run 10 - 2026-03-26
+
+**Stories Created:** 10 (Stories 91-100)
+**Type Mix:** 4 FICTIONAL + 6 TRUE
+**GitHub Commit:** 44181924 (Git Data API, 5 batches of 2 stories each)
+
+### Stories
+| # | Series | Type | Hook |
+|---|--------|------|------|
+| 91 | The Leader Who Thought It Was a People Problem | FICT | Replaced half the team. Same results. |
+| 92 | The Question That Changed Everything | FICT | One question. Twelve silent faces. |
+| 93 | The Moment They Saw It | FICT | Record fundraising year. Staff in tears. |
+| 94 | The Cost of Getting It Wrong | FICT | Saved $2M. Lost every senior leader. |
+| 95 | The Team That Looks Fine But Isn't | TRUE | Invented the future. Let others sell it. |
+| 96 | The Meeting That Changed Everything | TRUE | Called it a crazy idea. It saved Disney. |
+| 97 | The Leader Who Thought It Was a People Problem | TRUE | Ranked every employee. Lost the best ones. |
+| 98 | The Question That Changed Everything | TRUE | Laid off a third. The rest got better. |
+| 99 | The Moment They Saw It | TRUE | Everyone wrote it off. He walked the floor. |
+| 100 | The Cost of Getting It Wrong | TRUE | Stock up 600%. Then it all collapsed. |
+
+### Buffer Scheduling
+- 90 posts total (9 platforms x 10 stories)
+- LinkedIn: 10 posts (addToQueue)
+- Facebook: 10 posts (addToQueue)
+- Instagram: 10 posts (addToQueue, portrait images)
+- Threads: 10 posts (addToQueue)
+- X/Twitter: 10 posts (addToQueue)
+- Google Business: 10 posts (addToQueue)
+- Bluesky: 10 posts (addToQueue)
+- TikTok: 10 posts (customScheduled Apr 12-21, daily limit)
+- YouTube: 10 posts (customScheduled Apr 30 - May 9, daily limit)
+- Pinterest: SKIPPED (no boards configured)
+
+### Quality Gates
+- All 10 stories: 8 slides each, 3 sizes (240 PNGs total)
+- All 10 videos: ~32 seconds each
+- Visual check passed on cover slides
+- Git push via Git Data API (regular push failed due to concurrent remote updates)
+
+### Issues
+- GitHub CDN intermittent 502/503 during Buffer scheduling (Instagram/Threads/Twitter retries for story 92)
+- Buffer 429 rate limit hit, resolved after 2-minute wait
+- Git push race condition with concurrent remote updates, resolved via Git Data API
+
+### TRUE Story Research
+- Xerox PARC (1970s-1979): GUI, mouse, Ethernet invention; Jobs visit Dec 1979
+- Disney/Iger (2005-2006): Pixar acquisition for $7.4B; "crazy idea" phone call
+- Microsoft/Ballmer (2000s-2013): Stack ranking system; abandoned under Nadella
+- Netflix/Hastings (2001): Keeper Test origin; dot-com layoffs
+- Best Buy/Joly (2012): Renew Blue turnaround; store floor first week
+- Peloton/Foley (2020-2022): 600% stock rise, demand collapse, 2,800 layoffs
+
+### Running Totals
+- Total stories: 100
+- Total Buffer posts: ~900 (estimated across all runs)
+- All 6 series now at 17 stories each (9 TRUE, 8 FICTIONAL)
+- Next story number: 101
+- **MILESTONE: Story #100 reached!**
