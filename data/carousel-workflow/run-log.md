@@ -1677,3 +1677,33 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Content calendar rows processed**: 56 (Topic 1 offsite), 57 (Topic 2 Maxwell podcast), 58 (Skipped - Emily Hynes testimonial not found), 59 (Topic 3 strategic planning), 60 (Topic 4 Step Up book milestone)
 - **Handle database additions**: John Maxwell (row 88)
 - **Data files pushed to GitHub**: 4 times (once after each topic completion)
+
+
+## Topic 1: Tips for Your First Year as Principal - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Tips for Your First Year as Principal (Topic 1 of 4)
+- **Type**: Blog (no URL, researched from web)
+- **Carousels built**: 3
+  - build-relationships-first: 8 slides
+  - avoid-common-mistakes: 8 slides
+  - lead-instruction-with-confidence: 8 slides
+- **Footer role**: Certified Working Genius Facilitator | Author (school topic)
+- **Platforms scheduled**: 9/9 (Pinterest always skipped)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue)
+  - Google Business: 3 posts (addToQueue)
+  - Bluesky: 3 posts (addToQueue)
+  - TikTok: 3 posts (customScheduled Mar 31)
+  - YouTube: 3 posts (customScheduled Apr 26-28)
+- **YouTube note**: Mar 27-Apr 9 fully booked (10+/day). Scheduled for Apr 26-28.
+- **TikTok note**: Mar 27 had 20+ posts. Scheduled for Mar 31.
+- **Handle research**: No people featured (advice content, not thought leader list)
+- **No tagging required**
+- **Decisions**: Created 3 carousels from 3 natural sections of first-year principal advice. Used school-specific footer role line. All slides under 10 (8 each). Videos under 60s (32s each).
+- **Errors**: YouTube limit hit on Mar 31, Apr 1-5. Pushed to Apr 26-28.
+- **Items for Jonno**: None
+- **Native action items**: None (no tags needed)
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
