@@ -1426,3 +1426,60 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 
 **Handles:** No authors found in handle database (Patterson, Grenny, McMillan, Switzler)
 **Errors:** 3 GitHub SHA race conditions on initial upload, all resolved on retry. X/Twitter and Bluesky text exceeded char limits on first attempt, shortened and resubmitted.
+
+---
+
+## Run: 2026-03-27 — Topic 4 of 4: Your Best Teacher Just Resigned
+
+**Row:** 49 | **Category:** Pain Point
+**Carousels Built:** 3
+1. `best-teacher-resigned-warning-signs` — 6 slides (5 warning signs, 75% stat from Gallup, stay conversation advice)
+2. `best-teacher-resigned-why-they-leave` — 6 slides (60% career growth stat, 5 real reasons, ASCD quote, $10-20K hidden cost)
+3. `best-teacher-resigned-how-to-keep` — 7 slides (relationships, voice, growth pathways, protect time, 2/3 nobody asked stat)
+
+**Sizes:** square 1080×1080, portrait 1080×1350, vertical 1080×1920
+**Pins:** 3 (1000×1500)
+**Videos:** 3 (square MP4, 4s/slide, h264 CRF 23, 30fps)
+
+**GitHub:** All 63 files uploaded to `jonno-alt/social-images/carousels/best-teacher-resigned/`
+
+**Buffer Scheduling (27 posts = 3 carousels × 9 platforms):**
+- LinkedIn: 3 posts queued (Apr 6)
+- Facebook: 3 posts queued (Apr 10)
+- Instagram: 3 posts queued (Apr 10)
+- Threads: 3 posts queued (Apr 10)
+- Google Business: 3 posts queued (Apr 10)
+- X/Twitter: 3 posts queued (Apr 10)
+- Bluesky: 3 posts queued (Apr 10)
+- TikTok: 3 videos custom-scheduled (Apr 15, 16, 17)
+- YouTube: 3 videos custom-scheduled (Apr 24, 25, 26)
+
+**Handles:** N/A (pain point topic, no specific authors)
+**Errors:** 7 GitHub SHA race conditions on initial upload, all resolved on retry.
+
+---
+
+## Session Summary: 2026-03-27 Run Complete
+
+**Topics Processed:** 4 of 4
+**Total Carousels Built:** 12 (3 per topic)
+**Total Slides Created:** ~78 slides across 3 sizes each = ~234 unique images + 12 pins + 12 videos
+**Total Posts Scheduled:** 108 (12 carousels × 9 platforms)
+**Total Files Uploaded to GitHub:** ~258
+
+### Topic Breakdown:
+1. **Working Genius** (Row 46) — 3 carousels, 27 posts
+2. **Five Dysfunctions of a Team** (Row 47) — 3 carousels, 27 posts
+3. **Crucial Conversations** (Row 48) — 3 carousels, 27 posts
+4. **Your Best Teacher Just Resigned** (Row 49) — 3 carousels, 27 posts
+
+### Platform Distribution:
+- LinkedIn: 12 posts (Apr 6)
+- Facebook: 12 posts (Apr 10)
+- Instagram: 12 posts (Apr 10)
+- Threads: 12 posts (Apr 10)
+- Google Business: 12 posts (Apr 10)
+- X/Twitter: 12 posts (Apr 10)
+- Bluesky: 12 posts (Apr 10)
+- TikTok: 12 videos (Apr 6-17)
+- YouTube: 12 videos (Apr 15-26)
