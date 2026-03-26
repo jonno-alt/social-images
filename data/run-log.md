@@ -742,3 +742,15 @@
 - TikTok scheduled: 2026-06-05 via customScheduled (Path 2, placeholder under 150 chars)
 - Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: Facebook, Threads, and X/Twitter hit Buffer duplicate detection ("posted that one recently") - saved as drafts. This appears to be a Buffer-level anti-spam feature. Instagram, GBiz, Bluesky, TikTok, YouTube all scheduled successfully.
+
+## Leadership Development Programs — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 35
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Kevin Eikenberry, Kirstin Ferguson, Whitney Johnson, Vanessa Van Edwards, Gary Vaynerchuk, Mel Robbins (6 from prev topics)
+- Cross-platform overlap: ~20%
+- Slug: leadership-development-programs
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-06 via customScheduled (56sec, under 60sec)
+- TikTok scheduled: 2026-06-06 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Same Buffer duplicate detection on FB/Threads/X — saved as drafts.
