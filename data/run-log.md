@@ -797,3 +797,15 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Video duration: TikTok=56sec, YouTube=59.97sec (under 60sec limit)
 - Issues: YouTube daily limit hit on all dates tried through April 12. Successfully scheduled for April 20. TikTok daily limit (25) also reached.
+
+## Influence Without Authority — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 23
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Jefferson Fisher (IG, TikTok), Shade Zahrai (IG), Kindra Hall (IG), Vanessa Van Edwards (TikTok, YT), Phill Agnew (TikTok), Vinh Giang (YT)
+- Cross-platform overlap: ~40% (core experts like Dorie Clark, Chris Voss, Zoe Chance appear on 4+ platforms due to niche topic)
+- Slug: influence-without-authority
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-25 via customScheduled (52.6sec, under 60sec limit) — queue heavily packed through early April
+- TikTok scheduled: 2026-04-05 via customScheduled (daily limit reached for today)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Facebook and Threads initial posts hit duplicate detection (images from previous session attempt at same GitHub URLs). Resolved with cache-busting query params. TikTok daily limit (25) reached — scheduled for April 5. YouTube daily limit (10) reached for all dates through mid-April — scheduled for April 25.
