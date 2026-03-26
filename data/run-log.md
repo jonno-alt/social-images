@@ -517,3 +517,14 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=12/20max, X=4/4max, Bluesky=4/4max, GBiz=1 (cover only + CTA)
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - Issues: GitHub uploads had zero failures (72/72). Succession planning is a niche consultant/author community — most figures are LinkedIn-primary with limited presence on visual platforms (TikTok, Instagram). Ram Charan is standout with verified X and Instagram handles. Many figures (Rothwell, Tichy, Fernandez-Araoz) are primarily known through books and consulting rather than social media.
+
+## Cross-Cultural Leadership — 2026-03-26 (Topic 1 of 3)
+- Total unique people across all platforms: 15
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Erin Meyer, Hortense le Gentil, Tsedal Neeley (3 total)
+- Slug: cross-cultural-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-25 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-05 via customScheduled (daily limit reached, Path 2)
+- Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1
+- Issues: TikTok daily limit hit. Scheduled for April 5.
