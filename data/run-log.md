@@ -333,3 +333,39 @@
 - YouTube scheduled: 2026-03-28 via customScheduled (daily limit reached for earlier dates)
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars, scheduled 2026-03-29 via customScheduled due to daily limit)
 - Issues: TikTok daily limit (25) reached for 2026-03-26 and 2026-03-27, scheduled for 2026-03-29. YouTube daily limit (10) reached for 2026-03-27, scheduled for 2026-03-28. Rose Sherman, Tim Porter-O'Grady, Kay Kennedy, Karl Pister, and Lisa Miller have minimal social media presence. Many healthcare leadership specialists are more active on LinkedIn than other platforms.
+
+## Church Leadership — 2026-03-26
+- Platform rosters:
+  - Instagram: 15 people (Groeschel, Furtick, Nieuwhof, Shirer, Robertson Huff, Caine, Giglio, Lusko, Wilkerson Jr, Veach, Allen, Tate, Villodas, Batterson, Daniels)
+  - Threads: 10 people (subset of Instagram roster)
+  - TikTok: 12 people (Eze, Groeschel, M. Todd, Mike Jr, Furtick, Wilkerson Jr, Robertson Huff, Veach, Lusko, Collier, Tate, J. Smith)
+  - YouTube: 13 people (Groeschel, Nieuwhof, A. Stanley, Furtick, T.D. Jakes, M. Todd, T. Evans, F. Chan, Giglio, Laurie, Shirer, Batterson, Platt)
+  - X/Twitter: 15 people (Nieuwhof, A. Stanley, Stetzer, Groeschel, Greear, Chandler, Goff, Catron, Joiner, Batterson, Collier, Daniels, Comer, Villodas, Harper)
+  - Facebook: 13 people (Groeschel, A. Stanley, Furtick, Shirer, T. Evans, Caine, Giglio, Laurie, Allen, ChurchLeaders, Batterson, TerKeurst, Goff)
+  - Bluesky: 6 people (Stetzer, Nieuwhof, Goff, Villodas, Comer, Greear)
+- Total unique people: 36 (35 new, 1 returning: Craig Groeschel)
+- Cross-platform overlap: Groeschel on 6 platforms, Batterson on 5, Nieuwhof on 4, Furtick on 4, Shirer on 3, Giglio on 3 — each platform has >60% unique names
+- Slug: church-leadership
+- Videos: 2 (TikTok + YouTube)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-09 via customScheduled
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars, customScheduled 2026-05-07)
+- Issues: One YouTube image (07-michael-todd.png) got 409 conflict on GitHub upload — likely already existed. All other 98 images and 2 videos uploaded successfully. Bluesky roster smaller (6 people) due to limited church leader adoption. Strong diversity across platforms: TikTok features Jerry Eze (2.2M), Pastor Mike Jr (2.4M), and Judah Smith who don't appear on other rosters. YouTube features T.D. Jakes (1.79M subs) and Francis Chan who are YouTube-specific. X/Twitter features Ed Stetzer, Matt Chandler, Jenni Catron, and Lisa Harper as platform-specific voices.
+
+## Church Leadership — 2026-03-26
+- Platform rosters:
+  - Instagram: 15 people (Groeschel, Furtick, Nieuwhof, Shirer, Robertson Huff, Caine, Giglio, Lusko, Wilkerson Jr, Veach, Allen, Tate, Villodas, Batterson, Daniels)
+  - Threads: 10 people (subset of Instagram roster)
+  - TikTok: 12 people (Eze, Groeschel, M. Todd, Mike Jr, Furtick, Wilkerson Jr, Robertson Huff, Veach, Lusko, Collier, Tate, J. Smith)
+  - YouTube: 13 people (Groeschel, Nieuwhof, A. Stanley, Furtick, T.D. Jakes, M. Todd, T. Evans, F. Chan, Giglio, Laurie, Shirer, Batterson, Platt)
+  - X/Twitter: 15 people (Nieuwhof, A. Stanley, Stetzer, Groeschel, Greear, Chandler, Goff, Catron, Joiner, Batterson, Collier, Daniels, Comer, Villodas, Harper)
+  - Facebook: 13 people (Groeschel, A. Stanley, Furtick, Shirer, T. Evans, Caine, Giglio, Laurie, Allen, ChurchLeaders, Batterson, TerKeurst, Goff)
+  - Bluesky: 6 people (Stetzer, Nieuwhof, Goff, Villodas, Comer, Greear)
+- Total unique people: 36 (35 new, 1 returning: Craig Groeschel)
+- Cross-platform overlap: Groeschel on 6 platforms, Batterson on 5, Nieuwhof on 4, Furtick on 4 -- each platform has >60% unique names
+- Slug: church-leadership
+- Videos: 2 (TikTok + YouTube)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-09 via customScheduled
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars, customScheduled 2026-05-07)
+- Issues: One YouTube image (07-michael-todd.png) got 409 conflict on GitHub upload. Bluesky roster smaller (6 people) due to limited church leader adoption. Strong TikTok-native creators (Jerry Eze 2.2M, Pastor Mike Jr 2.4M) not on other platforms.
