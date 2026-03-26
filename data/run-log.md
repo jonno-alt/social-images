@@ -369,3 +369,21 @@
 - YouTube scheduled: 2026-05-09 via customScheduled
 - TikTok path: Path 2 (>10 people, placeholder under 150 chars, customScheduled 2026-05-07)
 - Issues: One YouTube image (07-michael-todd.png) got 409 conflict on GitHub upload. Bluesky roster smaller (6 people) due to limited church leader adoption. Strong TikTok-native creators (Jerry Eze 2.2M, Pastor Mike Jr 2.4M) not on other platforms.
+
+## Sports Leadership & Coaching — 2026-03-26
+- Platform rosters:
+  - Instagram: 16 people (J.P. Nerbun, Brett Ledbetter, Becky Burleigh, Gabriel Deieno, Alan Stein Jr.)
+  - Threads: 12 people (subset of Instagram)
+  - TikTok: 12 people (Dr. Patrick Cohn, Eric Thomas, Coach Pain, Ed Mylett, Kwame Brown)
+  - YouTube: 13 people (Brett Ledbetter, Dr. Jerry Lynch, Michael Lombardi, Joe Daniel, Bo Hanson)
+  - X/Twitter: 16 people (Michael Lombardi, Dr. Jim Afremow, Nate Sanderson)
+  - Facebook: 14 people (Positive Coaching Alliance, Proactive Coaching, Way of Champions)
+  - Bluesky: 8 people (subset of X)
+- Total unique people: 42 (34 new, 1 returning)
+- Cross-platform overlap: 5 people on 3+ rosters (J.P. Nerbun, Alan Stein Jr., Tim Elmore, Brett Ledbetter, Ed Mylett)
+- Slug: sports-leadership-coaching
+- Videos: 2 (TikTok + YouTube)
+- Posts scheduled: 8/8
+- YouTube scheduled: 2026-03-28 via customScheduled
+- TikTok path: 2 (placeholder, scheduled 2026-03-30)
+- Issues: TikTok daily limit hit, scheduled for Mar 30
