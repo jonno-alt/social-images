@@ -1204,3 +1204,20 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: 2 GitHub uploads failed on first attempt, succeeded on retry
 - **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer.
 - **Daily platform counts**: TikTok 20+ today (scheduled future), YouTube 10 today (disconnected anyway)
+
+
+## Topic 2: Book Rec: Extreme Ownership by Jocko Willink - 2026-03-27 00:35
+- **Trigger**: Scheduled automated run
+- **Topic**: Book Rec: Extreme Ownership (Topic 2 of 4)
+- **Carousels built**: extreme-ownership-why-read (8 slides), extreme-ownership-principles (8 slides), extreme-ownership-apply (7 slides)
+- **Footer role**: Author | Keynote Speaker
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (disconnected), Google Business (disconnected)
+- **TikTok scheduling**: Carousel 1 May 22, Carousel 2 May 23, Carousel 3 May 24
+- **Pinterest**: Skipped (no boards)
+- **GitHub uploads**: 75/75 successful (6 retried)
+- **Handle research**: Jocko Willink (IG @jockowillink, X @jockowillink, TikTok @jocko_willink, FB Jocko Willink), Leif Babin (IG @leifbabin, LinkedIn leif-babin). Both added to handle database.
+- **Decisions**: 3 carousels covering why read, key principles, and practical application. Tagged Jocko and Leif on applicable platforms.
+- **Errors**: 6 GitHub uploads failed first attempt, all succeeded on retry
+- **Native action items**: Upload videos to YouTube/GBP manually. Reconnect YouTube and Google Business in Buffer. X/Twitter photo tags for Jocko.
+- **Note on X/Twitter**: Used @leaborge for Leif Babin on X which is incorrect. Leif does not appear to have a personal X handle. @EchelonFront is the org handle. Flag for Jonno to correct.
