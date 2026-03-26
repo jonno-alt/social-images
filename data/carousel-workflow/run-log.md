@@ -1547,3 +1547,37 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Errors: None
 - Native action items: None
 - Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
+
+
+## We Did an Offsite and Nothing Changed (Pain Point) - 2026-03-27
+- **Topic 1 of 4** | Trigger: scheduled
+- **Input**: Content calendar row 56 "We Did an Offsite and Nothing Changed" (Pain Point, no blog URL)
+- **Carousels built**: 2
+  1. offsite-why-nothing-changed (8 slides: cover + 6 content + CTA)
+  2. offsite-how-to-stick (8 slides: cover + 6 content + CTA)
+- **Image sizes**: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920, Pinterest pin 1000x1500
+- **Videos**: 2 vertical MP4s (1080x1920, 4s/slide, h264 CRF 23, 30fps)
+- **Footer role**: "Leadership Team Facilitator | Author" (keyword: offsite)
+- **GitHub folder**: carousels/offsite-pain-point-2026-03-27/
+- **Total files**: 52 (16 square + 16 portrait + 16 vertical + 2 pins + 2 videos)
+- **Posts scheduled**: 18 total (2 carousels x 9 platforms, Pinterest skipped)
+  - LinkedIn: addToQueue, square images, 8 slides each
+  - Facebook: addToQueue, square images, 8 slides each
+  - Instagram: addToQueue, portrait images, 8 slides each
+  - Threads: addToQueue, square images, 8 slides each
+  - X/Twitter: addToQueue, square images, 4 slides each
+  - Google Business: addToQueue, 1 square image each
+  - TikTok: customScheduled 2026-04-01 (today over limit at 20+ posts)
+  - YouTube: Carousel 1 customScheduled 2026-03-29, Carousel 2 customScheduled 2026-04-20 (many dates at 10-post limit)
+  - Bluesky: addToQueue, 4 square images each
+- **Decisions**: No blog URL, researched offsite failure patterns via web search. Content draws on Jonno's expertise as offsite facilitator. No people to tag (pain point topic, not a listicle).
+- **Handle research**: N/A (no featured people)
+- **Errors**: YouTube Carousel 2 hit 10-post daily limit on Mar 31, Apr 4, Apr 7, Apr 11. Successfully scheduled for Apr 20.
+- **Native action items**: None (no personal profile tags needed)
+- **Excel files updated**: content-calendar.xlsx (row 56 Carousel Created, row 58 Skipped), carousel-log.xlsx (2 new rows)
+
+### Emily Hynes Testimonial (Row 58) - SKIPPED
+- Could not find any testimonial quote from Emily Hynes via web search
+- No connection found between Emily Hynes and Jonno White/Clarity Group online
+- Marked as "Skipped" per workflow rule: "Only use real testimonials. Never fabricate."
+- Recommend: Jonno to provide the testimonial text directly for future processing
