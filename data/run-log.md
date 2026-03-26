@@ -769,3 +769,18 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful (1 retry for SHA conflict)
 - Issues: Facebook, Threads, X/Twitter saved as drafts (Buffer duplicate detection). Facebook slide_01 needed SHA retry on GitHub upload.
+
+## Purpose-Driven Leadership — 2026-03-27 (Topic 4 of 4)
+- Total unique people across all platforms: 27
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all 27 are new to the database)
+- New handles added: 26 (Ed Mylett appeared across multiple platforms but counted once)
+- Cross-platform overlap: ~35% (purpose-driven leadership has strong crossover between mainstream leaders)
+- Slug: purpose-driven-leadership
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-08 via customScheduled (55sec, under 60sec)
+- TikTok scheduled: 2026-06-08 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, TikTok=14, Threads=17/20max, X=4/4max, YT=14, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 55sec, YouTube 55sec)
+- GitHub uploads: 76/76 successful (0 retries needed)
+- Issues: Facebook, Threads, X/Twitter saved as drafts (Buffer duplicate detection). Strong roster featuring Conscious Capitalism pioneers (John Mackey, Raj Sisodia), purpose-driven CEOs (Hubert Joly, Paul Polman, Howard Schultz, Bob Iger), and Purpose Economy expert Aaron Hurst.
