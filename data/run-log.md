@@ -648,3 +648,17 @@
 - **YouTube scheduled**: May 28, 2026
 - **Other platforms**: Queue-based scheduling (early April 2026)
 - **Notable**: Strong roster with major names (Brené Brown, Adam Grant, Satya Nadella, Daniel Goleman, Simon Sinek). Good diversity across researchers, CEOs, authors, and content creators.
+
+## Topic 4: Data-Driven Leadership
+- **Date**: 2026-03-26
+- **Unique people across platforms**: 24
+- **New handles added**: 21
+- **Returning handles**: Cassie Kozyrkov, Josh Bersin, Laszlo Bock
+- **Platforms posted**: 8/8 (FB, IG, TikTok, Threads, X, YT, GBiz, Bluesky)
+- **Images generated**: 90
+- **Videos generated**: 2 (TikTok 56s, YouTube 56s)
+- **GitHub uploads**: 92/92 successful
+- **TikTok scheduled**: May 27, 2026
+- **YouTube scheduled**: May 29, 2026
+- **Other platforms**: Queue-based scheduling (early April 2026)
+- **Notable**: Strong roster spanning data science, people analytics, and evidence-based management. Includes former US Chief Data Scientist (DJ Patil), Google's former Chief Decision Scientist (Cassie Kozyrkov), and analytics pioneers (Davenport, Marr, Silver).
