@@ -754,3 +754,18 @@
 - TikTok scheduled: 2026-06-06 via customScheduled (Path 2)
 - Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: Same Buffer duplicate detection on FB/Threads/X — saved as drafts.
+
+## Emotionally Intelligent Teams — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 23
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Shade Zahrai, Dr. Julie Smith, Jay Shetty, Dr. Nicole LePera, Vanessa Van Edwards, Mel Robbins, Nedra Glover Tawwab, Vex King, Dr. Ramani Durvasula, Sadhguru, Dr. Becky Kennedy, Mark Manson (many returning from previous EQ/wellness topics)
+- New handles added: 19
+- Cross-platform overlap: ~30% (EQ topic has strong social media representation)
+- Slug: emotionally-intelligent-teams
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-07 via customScheduled (56sec, under 60sec)
+- TikTok scheduled: 2026-06-07 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, TikTok=14, Threads=17/20max, X=4/4max, YT=14, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (1 retry for SHA conflict)
+- Issues: Facebook, Threads, X/Twitter saved as drafts (Buffer duplicate detection). Facebook slide_01 needed SHA retry on GitHub upload.
