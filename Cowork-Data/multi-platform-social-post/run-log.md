@@ -873,3 +873,40 @@
 
 ### Issues
 - None. All uploads and scheduling succeeded on first attempt.
+
+---
+
+## Topic 4: Organizational Agility
+**Run Date:** 2026-03-27
+**Priority:** 60
+
+### Rosters
+- **Facebook (8):** Aaron De Smet, Satya Nadella, Carol Dweck, Peter Senge, John Kotter, Indra Nooyi, Ray Dalio, Reed Hastings
+- **Instagram (8):** Jez Humble, Jurgen Appelo, Mike Cottmeyer, Karen Martin, Mike Rother, David Marquet, Frederic Laloux, David Snowden
+- **TikTok (12):** Vanessa Van Edwards*, Jefferson Fisher*, Tim Ferriss, Cal Newport, James Clear, Jay Shetty, Eric Ries, Seth Godin, Alex Osterwalder, Steve Blank, Naval Ravikant, David Goggins
+- **Threads (15):** Stanley McChrystal, Gary Hamel, Rita McGrath, Lisa Bodell, Charlene Li, Amy Webb, Margaret Heffernan, Tsedal Neeley, Whitney Johnson, Erin Meyer, Darrell Rigby, Eric McNulty, George Westerman, Michelle McQuaid, Tamara Erickson
+- **X/Twitter (2):** Henry Mintzberg, Dave Ulrich
+- **YouTube (12):** Bob Iger, Jeff Bezos, Henrik Kniberg, Marty Cagan, Gene Kim, Jeff Sutherland, Simon Wardley, Nicole Forsgren, Marc Benioff, Sundar Pichai, Dean Leffingwell, Martin Fowler
+- **Google Business (7):** Aaron De Smet, Satya Nadella, John Kotter, Peter Senge, Ray Dalio, Reed Hastings, Indra Nooyi
+- **Bluesky (2):** Carol Dweck, Peter Senge
+
+*=returning from previous topics
+
+### Stats
+- New handles added: 37
+- Images generated: 74 (FB:10, IG:10, TikTok:14, Threads:17, X:4, YT:14, GBiz:1, Bluesky:4)
+- Videos: 2 (TikTok 400KB/60s, YouTube 372KB/60s)
+- GitHub uploads: 76 (74 images + 2 videos), 0 errors
+
+### Buffer Scheduling
+- Facebook: addToQueue → 2026-04-11T01:01:00Z (post ID: 69c584c520f76613b72d20df)
+- Instagram: addToQueue → 2026-04-11T09:01:00Z (post ID: 69c584c77c3be86dbd859f1f)
+- Threads: addToQueue → 2026-04-10T19:45:00Z (post ID: 69c584de20f76613b72d21c0)
+- X/Twitter: addToQueue → 2026-04-11T03:01:00Z (post ID: 69c584df7c3be86dbd859f79)
+- Google Business: addToQueue → 2026-04-11T05:01:00Z (post ID: 69c584e020f76613b72d21e6)
+- Bluesky: addToQueue → 2026-04-11T03:45:00Z (post ID: 69c584e17c3be86dbd859f9f)
+- TikTok: customScheduled → 2026-04-28T02:00:00Z (post ID: 69c584ec7c3be86dbd859fea)
+- YouTube: customScheduled → 2026-05-11T23:00:00Z (post ID: 69c584f07c3be86dbd85a010)
+
+### Issues
+- None. All uploads and scheduling succeeded on first attempt.
