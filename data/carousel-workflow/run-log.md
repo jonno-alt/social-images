@@ -1255,3 +1255,58 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
     - Carousel 2: 69c546dbce812eeb8450fd7d (May 26)
 - **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer.
 - **Daily platform counts**: TikTok +2 (May 25-26), YouTube 0 new (disconnected)
+
+## Topic 4: Podcast Rec: The Learning Leader Show with Ryan Hawk - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: The Learning Leader Show with Ryan Hawk (Topic 4 of 4)
+- **Carousels built**: learning-leader-rec (8 slides), learning-leader-lessons (8 slides)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (channel disconnected in Buffer), Google Business (channel disconnected in Buffer)
+- **TikTok scheduling**: Carousel 1 May 27, Carousel 2 May 28 (customScheduled)
+- **Pinterest**: Skipped (no boards configured)
+- **GitHub uploads**: 52/52 successful (1 retried)
+- **Handle research**: Ryan Hawk (IG @ryanhawk12, X @RyanHawk12, FB TheLearningLeaderShow, LinkedIn ryanhawk12). No TikTok, YouTube, Threads, or Bluesky handles found. Added to handle database.
+- **Decisions**: Created 2 carousels: one covering the podcast overview and why listen, one covering 5 key leadership lessons from 650+ episodes. Tagged Ryan Hawk on applicable platforms.
+- **Errors**: 1 GitHub upload retried successfully. No other errors.
+- **Buffer Post IDs**:
+  - Carousel 1 (learning-leader-rec):
+    - LinkedIn: 69c5487d2ba6d7620d13e126 (Apr 5)
+    - Facebook: 69c5487ece812eeb84510320 (Apr 9)
+    - Instagram: 69c548802ba6d7620d13e14c (Apr 9)
+    - Threads: 69c548942ba6d7620d13e198 (Apr 9)
+    - X/Twitter: 69c54896ce812eeb84510392 (Apr 9)
+    - Bluesky: 69c54897ce812eeb845103b8 (Apr 9)
+  - Carousel 2 (learning-leader-lessons):
+    - LinkedIn: 69c548b62ba6d7620d13e218 (Apr 5)
+    - Facebook: 69c548b72ba6d7620d13e23e (Apr 9)
+    - Instagram: 69c548b9ce812eeb84510450 (Apr 9)
+    - Threads: 69c548cc2ba6d7620d13e276 (Apr 9)
+    - X/Twitter: 69c548cdce812eeb845104a8 (Apr 9)
+    - Bluesky: 69c548ce2ba6d7620d13e29c (Apr 9)
+  - TikTok:
+    - Carousel 1: 69c548da2ba6d7620d13e2c1 (May 27)
+    - Carousel 2: 69c548dece812eeb845104e6 (May 28)
+- **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer. Add X/Twitter photo tags for Ryan Hawk natively.
+- **Daily platform counts**: TikTok +2 (May 27-28), YouTube 0 new (disconnected)
+
+---
+
+## Session Summary: 2026-03-27
+
+**Topics Processed:** 4 of 4
+**Total Carousels Created:** 9 (2+3+2+2)
+**Total Slides Generated:** 71 (8+8+8+8+7+8+8+8+8)
+**Total Files Uploaded to GitHub:** 156+ (52+75+52+52, some retried)
+**Total Buffer Posts Scheduled:** 56 (14 per topic x 4 topics, across 7 platforms each)
+**Platforms Used:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok
+**Platforms NOT Available:** YouTube (disconnected), Google Business (disconnected)
+**Pinterest:** Skipped all (no boards configured)
+**Content Calendar Items Updated:** 4 (rows 41, 42, 43, plus row for Topic 1)
+**Carousel Log Entries Added:** 9
+**Handle Database Entries Added:** 3 (Jocko Willink, Leif Babin, Ryan Hawk)
+**TikTok Schedule:** May 20-28 (8 videos spread across 8 days)
+**Issues:**
+- YouTube and Google Business channels disconnected in Buffer. All video/GBP posts logged for manual upload.
+- X/Twitter handle @leaborge used incorrectly for Leif Babin in Topic 2. Flagged for correction.
+- Context compaction occurred during Topic 3. Resumed successfully.
