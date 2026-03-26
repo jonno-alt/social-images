@@ -1707,3 +1707,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Items for Jonno**: None
 - **Native action items**: None (no tags needed)
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 2: Book Rec: Hidden Potential by Adam Grant - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Book Rec: Hidden Potential by Adam Grant (Topic 2 of 4)
+- **Type**: Book Rec (no blog URL)
+- **Carousels built**: 3
+  - why-read-hidden-potential: 8 slides
+  - key-ideas-hidden-potential: 7 slides
+  - apply-hidden-potential: 7 slides
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: 9/9 (Pinterest always skipped)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue, @adamgrant photo tagged)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue, @AdamMGrant mentioned)
+  - Google Business: 3 posts (addToQueue)
+  - Bluesky: 3 posts (addToQueue)
+  - TikTok: 3 posts (customScheduled Apr 1)
+  - YouTube: 3 posts (customScheduled Apr 29, 30, May 1)
+- **Handle research**: Adam Grant - X: @AdamMGrant (VERIFIED), IG: @adamgrant (VERIFIED), LinkedIn: adammgrant (VERIFIED)
+- **Decisions**: Created 3 carousels: overview, key ideas, practical application. Default footer role (not school-specific).
+- **Errors**: None
+- **Native action items**: None
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
