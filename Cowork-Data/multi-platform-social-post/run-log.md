@@ -798,115 +798,59 @@
 - Video duration: TikTok=56sec, YouTube=59.97sec (under 60sec limit)
 - Issues: YouTube daily limit hit on all dates tried through April 12. Successfully scheduled for April 20. TikTok daily limit (25) also reached.
 
----
+## Influence Without Authority — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 23
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Jefferson Fisher (IG, TikTok), Shade Zahrai (IG), Kindra Hall (IG), Vanessa Van Edwards (TikTok, YT), Phill Agnew (TikTok), Vinh Giang (YT)
+- Cross-platform overlap: ~40% (core experts like Dorie Clark, Chris Voss, Zoe Chance appear on 4+ platforms due to niche topic)
+- Slug: influence-without-authority
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-25 via customScheduled (52.6sec, under 60sec limit) — queue heavily packed through early April
+- TikTok scheduled: 2026-04-05 via customScheduled (daily limit reached for today)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Facebook and Threads initial posts hit duplicate detection (images from previous session attempt at same GitHub URLs). Resolved with cache-busting query params. TikTok daily limit (25) reached — scheduled for April 5. YouTube daily limit (10) reached for all dates through mid-April — scheduled for April 25.
 
-## Topic 2: Influence Without Authority
-**Run Date:** 2026-03-27
-**Priority:** 70
+## Leadership Presence — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 27
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Sylvia Ann Hewlett, Harrison Monarth, Tom Cox, Hortense le Gentil, Anett Grant, Vanessa Van Edwards (6 returning from previous posts)
+- New handles added: 16
+- Cross-platform overlap: ~35% (presence/gravitas topic has crossover between executive coaches)
+- Slug: leadership-presence
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-10 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-19 via customScheduled (Path 2)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: None
 
-### Rosters
-- **Facebook (8):** Allan Cohen, David Bradford, Bob Burg, Zoe Chance, Jonah Berger, Chris Voss, Dorie Clark, Nick Morgan
-- **Instagram (8):** Fotini Iconomopoulos, Terri Trespicio, Jayson Gaignard, Francesca Gino, Nir Eyal, Heather Hansen, Jordan Harbinger, Michael Pantalon
-- **TikTok (12):** Vanessa Van Edwards*, Jefferson Fisher*, G. Richard Shell, Deepak Malhotra, William Ury, Linda Babcock, Sheila Heen, Roger Fisher, Stuart Diamond, Daniel Shapiro, Kwame Christian, Lara Hogan
-- **Threads (15):** Roger Martin, Amy Jen Su, Dolly Chugh, Todd Davis, Meredith Fineman, Hal Gregersen, John Baldoni, Andy Molinsky, Debra Benton, Michelle Tillis Lederman, Mark Goulston, Judith Humphrey, Nancy Duarte, Kevin Sharer, Bob Cialdini
-- **X/Twitter (8):** Adam Galinsky, Jay Conger, Jeffrey Pfeffer, Herminia Ibarra, Tanya Menon, Deborah Gruenfeld, Adam Grant, Brian Uzzi
-- **YouTube (12):** Simon Lancaster, Alex Lyon, Charisma on Command, Vinh Giang, Noah Zandan, Karen Eber, Matt Abrahams, Linda Hill, Chris Anderson, David McRaney, Julian Treasure, Conor Neill
-- **Google Business (7):** Robert Cialdini, Allan Cohen, Chris Voss, Zoe Chance, Dorie Clark, Jonah Berger, Bob Burg
-- **Bluesky (6):** Zoe Chance, Jonah Berger, Dorie Clark, Allan Cohen, Bob Burg, Nick Morgan
+## Organizational Agility — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 16
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all 16 are new to the database)
+- New handles added: 16
+- Cross-platform overlap: ~50% (niche agile topic has smaller pool of well-known experts)
+- Slug: organizational-agility
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-11 via customScheduled (56sec, under 60sec)
+- TikTok scheduled: 2026-06-20 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: None
 
-*=returning from previous topics
-
-### Stats
-- Total unique people: ~65
-- Returning names: 2 (Vanessa Van Edwards, Jefferson Fisher on TikTok)
-- New handles added: 41
-- Images generated: 74 (FB:10, IG:10, TikTok:14, Threads:17, X:4, YT:14, GBiz:1, Bluesky:4)
-- Videos: 2 (TikTok 508KB/60s, YouTube 488KB/60s)
-
-### Buffer Scheduling
-- Facebook: addToQueue → 2026-04-10T21:15:00Z (post ID: 69c580337c3be86dbd857b04)
-- Instagram: addToQueue → 2026-04-11T05:01:00Z (post ID: 69c5803520f76613b72cff26)
-- Threads: addToQueue → 2026-04-10T16:01:00Z (post ID: 69c5805d7c3be86dbd857b98)
-- X/Twitter: addToQueue → 2026-04-10T23:01:00Z (post ID: 69c5805e20f76613b72cffd7)
-- Google Business: addToQueue → 2026-04-11T01:01:00Z (post ID: 69c5806a7c3be86dbd857bd5)
-- Bluesky: addToQueue → 2026-04-11T00:01:00Z (post ID: 69c5806b7c3be86dbd857c0f)
-- TikTok: customScheduled → 2026-04-14T02:00:00Z (post ID: 69c5807520f76613b72d0030)
-- YouTube: customScheduled → 2026-04-27T23:00:00Z (post ID: 69c580797c3be86dbd857ce0)
-
-### Issues
-- Threads/X text had to be shortened for character limits (500/280)
-- TikTok/YouTube used customScheduled to avoid daily limits
-
----
-
-## Topic 3: Leadership Presence
-**Run Date:** 2026-03-27
-**Priority:** 65
-
-### Rosters
-- **Facebook (8):** Sylvia Ann Hewlett, Caroline Goyder, Olivia Fox Cabane, Belle Linda Halpern, Harrison Monarth, Joel Schwartzberg, Sheryl Sandberg, Amy Cuddy
-- **Instagram (8):** Diane Craig, Kristi Hedges, Carol Kinsey Goman, Sally Helgesen, Muriel Maignan Wilkins, Anett Grant, Lauren Sergy, Beverly Howard
-- **TikTok (12):** Vanessa Van Edwards*, Jefferson Fisher*, Simon Sinek, Jocko Willink, Andrew Huberman, Vusi Thembekwayo, Michael Gervais, Tasha Eurich, Ali Abdaal, Jay Acunzo, Victoria Labalme, Scott Edinger
-- **Threads (15):** Daniel Goleman, Susan David, Tara Mohr, Vernice Armour, Peter Guber, Arianna Huffington, John Neffinger, Melody Wilding, Vanessa Patrick, Ron Heifetz, Brandon Smith, Roberta Matuson, Bill George, Frances Frei, Anne Morriss
-- **X/Twitter (8):** Jim Collins, Amy Edmondson, John Maxwell, Connson Locke, Joseph Grenny, Heidi Grant, Patrick Lencioni, Robin Sharma
-- **YouTube (12):** Tony Robbins, Brian Tracy, Les Brown, Mel Robbins, Gary Vaynerchuk, Marie Forleo, Tom Bilyeu, Ed Mylett, Dan Pink, Patrice Washington, Chris Do, (cover+CTA)
-- **Google Business (7):** Sylvia Ann Hewlett, Olivia Fox Cabane, Harrison Monarth, Amy Cuddy, Caroline Goyder, Joel Schwartzberg, Belle Linda Halpern
-- **Bluesky (4):** Sylvia Ann Hewlett, Caroline Goyder, Amy Cuddy, Olivia Fox Cabane
-
-*=returning from previous topics
-
-### Stats
-- New handles added: 30 (many names already in database from cross-platform overlap)
-- Images generated: 74 (FB:10, IG:10, TikTok:14, Threads:17, X:4, YT:14, GBiz:1, Bluesky:4)
-- Videos: 2 (TikTok 352KB/60s, YouTube 372KB/60s)
-- GitHub uploads: 76 (74 images + 2 videos), 0 errors
-
-### Buffer Scheduling
-- Facebook: addToQueue → 2026-04-11T00:02:00Z (post ID: 69c582da20f76613b72d1500)
-- Instagram: addToQueue → 2026-04-11T08:02:00Z (post ID: 69c582db7c3be86dbd85948d)
-- Threads: addToQueue → 2026-04-10T19:02:00Z (post ID: 69c582f420f76613b72d1572)
-- X/Twitter: addToQueue → 2026-04-11T02:02:00Z (post ID: 69c582f57c3be86dbd8594e5)
-- Google Business: addToQueue → 2026-04-11T04:02:00Z (post ID: 69c582f620f76613b72d1598)
-- Bluesky: addToQueue → 2026-04-11T03:02:00Z (post ID: 69c582f720f76613b72d15be)
-- TikTok: customScheduled → 2026-04-21T02:00:00Z (post ID: 69c583027c3be86dbd85950b)
-- YouTube: customScheduled → 2026-05-04T23:00:00Z (post ID: 69c583067c3be86dbd859531)
-
-### Issues
-- None. All uploads and scheduling succeeded on first attempt.
-
----
-
-## Topic 4: Organizational Agility
-**Run Date:** 2026-03-27
-**Priority:** 60
-
-### Rosters
-- **Facebook (8):** Aaron De Smet, Satya Nadella, Carol Dweck, Peter Senge, John Kotter, Indra Nooyi, Ray Dalio, Reed Hastings
-- **Instagram (8):** Jez Humble, Jurgen Appelo, Mike Cottmeyer, Karen Martin, Mike Rother, David Marquet, Frederic Laloux, David Snowden
-- **TikTok (12):** Vanessa Van Edwards*, Jefferson Fisher*, Tim Ferriss, Cal Newport, James Clear, Jay Shetty, Eric Ries, Seth Godin, Alex Osterwalder, Steve Blank, Naval Ravikant, David Goggins
-- **Threads (15):** Stanley McChrystal, Gary Hamel, Rita McGrath, Lisa Bodell, Charlene Li, Amy Webb, Margaret Heffernan, Tsedal Neeley, Whitney Johnson, Erin Meyer, Darrell Rigby, Eric McNulty, George Westerman, Michelle McQuaid, Tamara Erickson
-- **X/Twitter (2):** Henry Mintzberg, Dave Ulrich
-- **YouTube (12):** Bob Iger, Jeff Bezos, Henrik Kniberg, Marty Cagan, Gene Kim, Jeff Sutherland, Simon Wardley, Nicole Forsgren, Marc Benioff, Sundar Pichai, Dean Leffingwell, Martin Fowler
-- **Google Business (7):** Aaron De Smet, Satya Nadella, John Kotter, Peter Senge, Ray Dalio, Reed Hastings, Indra Nooyi
-- **Bluesky (2):** Carol Dweck, Peter Senge
-
-*=returning from previous topics
-
-### Stats
-- New handles added: 37
-- Images generated: 74 (FB:10, IG:10, TikTok:14, Threads:17, X:4, YT:14, GBiz:1, Bluesky:4)
-- Videos: 2 (TikTok 400KB/60s, YouTube 372KB/60s)
-- GitHub uploads: 76 (74 images + 2 videos), 0 errors
-
-### Buffer Scheduling
-- Facebook: addToQueue → 2026-04-11T01:01:00Z (post ID: 69c584c520f76613b72d20df)
-- Instagram: addToQueue → 2026-04-11T09:01:00Z (post ID: 69c584c77c3be86dbd859f1f)
-- Threads: addToQueue → 2026-04-10T19:45:00Z (post ID: 69c584de20f76613b72d21c0)
-- X/Twitter: addToQueue → 2026-04-11T03:01:00Z (post ID: 69c584df7c3be86dbd859f79)
-- Google Business: addToQueue → 2026-04-11T05:01:00Z (post ID: 69c584e020f76613b72d21e6)
-- Bluesky: addToQueue → 2026-04-11T03:45:00Z (post ID: 69c584e17c3be86dbd859f9f)
-- TikTok: customScheduled → 2026-04-28T02:00:00Z (post ID: 69c584ec7c3be86dbd859fea)
-- YouTube: customScheduled → 2026-05-11T23:00:00Z (post ID: 69c584f07c3be86dbd85a010)
-
-### Issues
-- None. All uploads and scheduling succeeded on first attempt.
+## Difficult Conversations — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 15
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Jefferson Fisher (from Influence Without Authority), Amy Gallo, Sheila Heen, Kim Scott (from previous topics)
+- New handles added: 8 (Joseph Grenny, Ryan Dunlap, Kerry Patterson, Ron McMillan, Al Switzler, Judy Ringer, Fred Kofman, Susan Scott)
+- Cross-platform overlap: ~45% (difficult conversations is a focused niche with strong overlap between experts)
+- Slug: difficult-conversations
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-12 via customScheduled (under 60sec)
+- TikTok scheduled: 2026-06-21 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok, YouTube)
+- GitHub uploads: 76/76 successful
+- Issues: Buffer 429 rate limit after scheduling Topics 1-2. Recovered after ~5 min wait. All 8 platforms scheduled successfully.
