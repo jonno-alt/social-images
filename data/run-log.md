@@ -915,3 +915,17 @@
 - Action required: Add new topics to the Topics Queue sheet in handle-database.xlsx
 - Suggested next topics: Leadership Branding, Conflict Styles, Vision Casting, Cultural Intelligence, Team Psychological Capital, Performance Management, Leadership & Neuroscience, Peer Coaching, Leading Through Uncertainty, Leading Remote Teams in 2026
 - No posts scheduled, no images generated
+
+## Time Management — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 32
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Ryder Carroll, Jeff Su (2 only)
+- Cross-platform overlap: ~35% (time management experts like Vardy, Jarrow span platforms)
+- Slug: time-management
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-19 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-27 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (1 retry)
+- Issues: None
