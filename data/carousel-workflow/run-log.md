@@ -1310,3 +1310,22 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - YouTube and Google Business channels disconnected in Buffer. All video/GBP posts logged for manual upload.
 - X/Twitter handle @leaborge used incorrectly for Leif Babin in Topic 2. Flagged for correction.
 - Context compaction occurred during Topic 3. Resumed successfully.
+
+## Testimonial: Edward Amey, USA - 2026-03-27
+- Type: Testimonial (no blog URL)
+- Topic number: 1 of 4
+- Carousels built: 2
+  1. offsite-insights-edward-amey (8 slides)
+  2. leadership-disability-edward-amey (7 slides)
+- Image sizes: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920, Pinterest pin 1000x1500
+- Videos: 2 vertical MP4s (32sec and 28sec)
+- Footer role: "Leadership Team Facilitator | Keynote Speaker | Author"
+- GitHub folder: carousels/testimonial-edward-amey-2026-03-27/
+- Posts scheduled: 16 total (2 carousels x 8 platforms, Pinterest skipped)
+- YouTube scheduled: 2026-04-12 and 2026-04-13 via customScheduled
+- TikTok scheduled: 2026-04-12 via customScheduled (daily limit concerns)
+- Handle research: Edward Amey has LinkedIn (VERIFIED: edward-r-amey-ms-5280aa5). No Instagram, TikTok, X/Twitter, Threads, YouTube, or Bluesky found.
+- Decisions: Could not find specific testimonial quote text from Edward Amey. Built carousels from verified podcast content (EP225: How To Plan An Effective Team Offsite) and his public bio as CEO of Jay Nolan Community Services. Content focuses on offsite insights and leadership in disability services. No quotes fabricated.
+- Native action items: None (no social tags to add natively)
+- Issues: Wix site (consultclarity.org) returns raw JS/CSS, could not extract testimonial text. Used podcast summaries and public information instead.
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
