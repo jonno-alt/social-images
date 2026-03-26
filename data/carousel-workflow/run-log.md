@@ -1381,3 +1381,18 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
   - Instagram: Verify photo tags applied correctly
 - **Errors**: YouTube daily limit reached for Apr 6-10, successfully scheduled for Apr 15-17
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+## Topic 2: The Five Dysfunctions of a Team (Summary) - 2026-03-27
+- **Trigger**: Scheduled run
+- **Topic**: The Five Dysfunctions of a Team (Topic 2 of 4)
+- **Carousels built**: 5d-overview (8), 5d-overcome (8), 5d-warning-signs (8)
+- **Videos**: 3 videos (32s each)
+- **GitHub upload**: 76 files, 0 failed
+- **Platforms scheduled**: 9/9
+  - TikTok: Apr 9-11 (customScheduled)
+  - YouTube: Apr 18-20 (customScheduled)
+  - All others: addToQueue
+- **Handles used**: Patrick Lencioni (existing in database)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Native action items**: YouTube @mentions, X/Twitter photo tags, Instagram photo tag verification
+- **Errors**: Bluesky carousel 3 failed once (Bad Gateway), succeeded on retry
