@@ -1499,3 +1499,31 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Errors: YouTube daily limit hit for April 1-11. Scheduled for April 20.
 - Native action items: None (no people to tag)
 - Excel files updated: content-calendar.xlsx, carousel-log.xlsx
+
+
+## Topic 2 of 4: Vulnerability-Based Trust — 2026-03-27
+- Type: Blog
+- Blog URL: https://www.consultclarity.org/post/vulnerability-based-trust
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 3
+  - what-is-vulnerability-based-trust (8 slides)
+  - 7-ways-vulnerability-trust (9 slides)
+  - leader-must-go-first (8 slides)
+- Footer role: Leadership Team Facilitator | Keynote Speaker | Author
+- People featured: None (concept-based content, references Lencioni but no tagging needed)
+- Handle research: Not needed
+- Platforms scheduled: 27 posts total (3 carousels x 9 platforms, Pinterest skipped)
+  - LinkedIn: addToQueue (all 3)
+  - Facebook: addToQueue (all 3)
+  - Instagram: addToQueue, portrait images (all 3)
+  - Threads: addToQueue (all 3)
+  - X/Twitter: addToQueue, 4 images each (all 3)
+  - Google Business: addToQueue, 1 image each (all 3)
+  - TikTok: customScheduled April 3-4 (all 3)
+  - YouTube: customScheduled April 20-22 (all 3)
+  - Bluesky: addToQueue, 4 images each (all 3)
+- Videos: 3 MP4s (32s, 36s, 32s)
+- GitHub uploads: 81 files (all succeeded)
+- Errors: None
+- Native action items: None (no people to tag)
+- Excel files updated: content-calendar.xlsx, carousel-log.xlsx
