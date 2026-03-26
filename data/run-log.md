@@ -455,3 +455,13 @@
 - YouTube scheduled: 2026-05-13 via customScheduled
 - TikTok path: 2 (customScheduled 2026-04-02 due to 25/day limit)
 - Issues: None
+
+## Military to Civilian Leadership — 2026-03-26
+- People: 17 (17 new, 0 returning)
+- Returning names: None
+- Slug: military-to-civilian-leadership
+- Slides: 19 (cover + 17 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-12 via customScheduled (all closer dates at 10-post limit)
+- TikTok path: Path 2 (>10 people, placeholder under 150 chars, scheduled 2026-03-31 via customScheduled due to daily limit)
+- Issues: TikTok daily limit (25) hit, moved to 2026-03-31. YouTube daily limit (10) hit on all dates through 2026-04-08, moved to 2026-04-12. All 17 people are new to the database — zero returning names.
