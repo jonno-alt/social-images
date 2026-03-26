@@ -730,3 +730,15 @@
 - TikTok scheduled: 2026-04-02 via customScheduled (path 2, placeholder under 150 chars)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=3/4max, Bluesky=3/4max, GBiz=1
 - Issues: Niche topic with limited social media presence. Facebook first attempt timed out but post was created. YouTube queue full through early June.
+
+## Collaborative Leadership — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 33
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Keith Ferrazzi, David Burkus, Karie Kaufmann, Deborah Ancona, Craig Groeschel, Alex Lyon (6 total)
+- Cross-platform overlap: ~25% (mostly Keith Ferrazzi and Heidi Gardner across 3-4 platforms)
+- Slug: collaborative-leadership
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-05 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-05 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Facebook, Threads, and X/Twitter hit Buffer duplicate detection ("posted that one recently") - saved as drafts. This appears to be a Buffer-level anti-spam feature. Instagram, GBiz, Bluesky, TikTok, YouTube all scheduled successfully.
