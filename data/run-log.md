@@ -387,3 +387,21 @@
 - YouTube scheduled: 2026-03-28 via customScheduled
 - TikTok path: 2 (placeholder, scheduled 2026-03-30)
 - Issues: TikTok daily limit hit, scheduled for Mar 30
+
+## Introverted Leadership — 2026-03-26
+- Platform rosters:
+  - Instagram: 15 people (Susan Cain, Jennifer Kahnweiler, Jenn Granneman, Holley Gerth, Michaela Chung, Matthew Pollard, Vanessa Van Edwards, Tim Yeo, Dr Rob Yeung, Karie Kaufmann, Beth Buelow, Thea Orozco, David Hall, Janice Chaka, Edward Brown)
+  - Threads: 10 people (subset of Instagram)
+  - TikTok: 10 people (Vanessa Van Edwards, Matthew Pollard, Michaela Chung, Edward Brown, Thea Orozco, Dr Rob Yeung, Janice Chaka, Greg Weinger, Austin Hopkins, Tim Yeo)
+  - YouTube: 12 people (Susan Cain, Vanessa Van Edwards, Matthew Pollard, Michaela Chung, David Hall, Jennifer Kahnweiler, Beth Buelow, Austin Hopkins, Dr Rob Yeung, Greg Weinger, Laurie Helgoe, Nancy Ancowitz)
+  - X/Twitter: 15 people (Susan Cain, Jennifer Kahnweiler, Jenn Granneman, Matthew Pollard, Vanessa Van Edwards, Dr Rob Yeung, Beth Buelow, Laurie Helgoe, David Hall, Sophia Dembling, Nancy Ancowitz, Lisa Petrilli, Janice Chaka, Edward Brown, Tim Yeo)
+  - Facebook: 13 people/pages (Susan Cain, Introvert Dear, Jennifer Kahnweiler, Vanessa Van Edwards, Holley Gerth, Matthew Pollard, Introvert Nation, Michaela Chung, Dr Rob Yeung, Beth Buelow, Laurie Helgoe, Quiet and Strong, Introverted Leadership)
+  - Bluesky: 6 people (Susan Cain, Jenn Granneman, Matthew Pollard, Dr Rob Yeung, Beth Buelow, Sophia Dembling)
+- Total unique people: 20 (19 new, 1 returning: Vanessa Van Edwards)
+- Cross-platform overlap: Susan Cain on 7 platforms, Matthew Pollard on 7, Dr Rob Yeung on 7, Beth Buelow on 6 — each platform has >60% unique composition
+- Slug: introverted-leadership
+- Videos: 2 (TikTok + YouTube)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-10 via customScheduled
+- TikTok path: Path 2 (>10 people roster but placeholder caption under 150 chars, customScheduled 2026-05-10)
+- Issues: None. This is a niche but passionate community. Susan Cain is THE defining figure. Strong mix of pioneering authors (Cain-Quiet, Kahnweiler-Introverted Leader, Pollard-Introvert's Edge, Helgoe-Introvert Power, Dembling-Introvert's Way, Buelow-Introvert Entrepreneur, Granneman-Secret Lives), community builders (Granneman-Introvert Dear 7M+, Chung-Introvert Spring 7M+), podcast hosts (Hall-Quiet and Strong, Weinger-Introverted Leader, Hopkins-Introvert Leader, Orozco-Introverts Talking Business), coaches (Kaufmann-Global Coaching Hall of Fame, Chaka-Career Introvert, Yeung-PhD psychologist), and international voices (Yeo-Australia, Yeung-UK, Pollard-Australia, Chaka-international). Many handles are LIKELY rather than VERIFIED due to the niche nature of the introvert leadership space.
