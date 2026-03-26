@@ -877,3 +877,32 @@
 - Videos: 2 (TikTok 59.97sec, YouTube 59.97sec)
 - GitHub uploads: 76/76 successful
 - Issues: Facebook initial scheduling failed with Bad Gateway; succeeded on retry.
+
+## Leadership Habits — 2026-03-27 (Topic 4 of 4)
+- Total unique people across all platforms: 28
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Shadé Zahrai, Craig Groeschel, Mel Robbins, Jay Shetty, Vinh Giang, Marshall Goldsmith
+- Cross-platform overlap: ~35% (habits/productivity experts span platforms)
+- Slug: leadership-habits
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-17 via customScheduled (59.97sec, under 60sec limit)
+- TikTok scheduled: 2026-06-26 via customScheduled (Path 2, 59.97sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 59.97sec, YouTube 59.97sec)
+- GitHub uploads: 76/76 successful
+- Issues: None
+
+---
+
+## SESSION SUMMARY — 2026-03-27
+- Topics completed: Difficult Conversations, Employee Engagement, Vulnerability in Leadership, Leadership Habits
+- Topics 1-2 were completing previously IN_PROGRESS topics (images existed, 6/8 platforms remaining)
+- Topics 3-4 were full processing from scratch
+- Total unique people researched: ~116 across all topics and platforms
+- Total posts scheduled: 32 (4 topics × 8 platforms)
+- TikTok post dates: June 21, 22, 25, 26 (spread across days)
+- YouTube post dates: June 12, 13, 16, 17 (spread across days)
+- Total images generated: 148 (Topics 3-4: 74 each)
+- Total videos generated: 4 (2 per new topic)
+- All GitHub uploads successful (152/152 for new topics)
+- Outstanding native actions: Photo tags on Instagram, personal profile tags on Facebook, YouTube @mention editing
