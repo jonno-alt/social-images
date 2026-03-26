@@ -491,3 +491,29 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - Issues: 13 GitHub uploads failed on first attempt (connection refused), all resolved on retry with 2-second delays. Research community with strong academic presence — Seligman, Csikszentmihalyi, Fredrickson are foundational figures. Many practitioners (McQuaid, Zhivotovskaya, Miller) have stronger Instagram/TikTok presence than X/Twitter. Bluesky roster is thin (only Kaufman and Kashdan confirmed).
+## Systems Thinking — 2026-03-26
+- People: 12
+- Total unique people across all platforms: 12
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=10/20max, X=6 @mentions(2 featured), YT=12, GBiz=cover-only, Bluesky=2
+- Returning names: None (all 12 are new to database)
+- Cross-platform overlap: ~55% (small field — same core figures appear across most platforms. Many foundational thinkers like Senge, Meadows, Deming are deceased or pre-social media)
+- Slug: systems-thinking
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-23 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-13 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=12/20max, X=4/4max, Bluesky=4/4max, GBiz=1 (cover only + CTA)
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- Issues: Threads first attempt exceeded 500 chars, shortened successfully. Systems thinking field has significant challenge: many foundational figures (Donella Meadows d.2001, W. Edwards Deming d.1993, Russell Ackoff d.2009) are deceased/pre-social media. Leyla Acaroglu is standout active figure with 1.7M TikTok followers. GitHub uploads had zero failures this time (72/72).
+## Succession Planning — 2026-03-26
+- People: 12
+- Total unique people across all platforms: 12
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=10/20max, X=6 @mentions(2 featured), YT=12, GBiz=cover-only, Bluesky=2
+- Returning names: Marshall Goldsmith (1 returning from previous runs)
+- Cross-platform overlap: ~50% (niche HR/leadership topic — same core consultants and authors appear across platforms)
+- Slug: succession-planning
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-24 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-14 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=12/20max, X=4/4max, Bluesky=4/4max, GBiz=1 (cover only + CTA)
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- Issues: GitHub uploads had zero failures (72/72). Succession planning is a niche consultant/author community — most figures are LinkedIn-primary with limited presence on visual platforms (TikTok, Instagram). Ram Charan is standout with verified X and Instagram handles. Many figures (Rothwell, Tichy, Fernandez-Araoz) are primarily known through books and consulting rather than social media.
