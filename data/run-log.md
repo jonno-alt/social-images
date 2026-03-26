@@ -706,3 +706,15 @@
 - TikTok scheduled: 2026-05-31 via customScheduled (Path 2)
 - Issues: None — all 8 platforms scheduled cleanly
 - Key people: Geoff Woods (The AI-Driven Leader), Noelle Russell (#1 Agentic AI Leader), Ethan Mollick (Co-Intelligence), Cassie Kozyrkov (Google's Chief Decision Scientist), Karim Lakhani & Marco Iansiti (Harvard, Competing in the Age of AI), Rasmus Hougaard (More Human), Azeem Azhar (Exponential View), Paul Daugherty (Accenture CTO), Steve Brown (AI Futurist), Marek Kowalkiewicz (QUT, Australia), Ian Khan (AIRS framework)
+
+## Delegation — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 42
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=12/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Ramona Shaw (Threads, Bluesky), Dave Stachowiak (YouTube, GBiz), Tom Cox (TikTok), Dr. Carol Parker Walsh (Threads)
+- Cross-platform overlap: ~20% (within target of <30%)
+- Slug: delegation
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-03 via customScheduled (duration: 56sec, under 60sec limit) — queue was full, pushed to June
+- TikTok scheduled: 2026-04-01 via customScheduled (path 2, placeholder under 150 chars) — daily limit hit
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=3/4max, Bluesky=3/4max, GBiz=1
+- Issues: YouTube daily limit forced scheduling to June 3. TikTok daily limit required customScheduled on April 1.
