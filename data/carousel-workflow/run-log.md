@@ -1187,3 +1187,20 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 **Pinterest:** Skipped all (no boards configured)
 **Content Calendar Items Updated:** 4 (rows 36, 37, 38, 40)
 **Carousel Log Entries Added:** 6
+
+
+## Topic 1: 93.75% Rated Excellent at ASBA 2025 - 2026-03-27 00:21
+- **Trigger**: Scheduled automated run
+- **Topic**: 93.75% Rated Excellent at ASBA 2025 (Stats and Proof) - Topic 1 of 4
+- **Carousels built**: asba-93-percent-proof (8 slides), asba-what-makes-pd-great (8 slides)
+- **Footer role**: Certified Working Genius Facilitator | Author
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (channel disconnected in Buffer), Google Business (channel disconnected in Buffer)
+- **TikTok scheduling**: Carousel 1 May 20, Carousel 2 May 21 (queue was full through May 19)
+- **Pinterest**: Skipped (no boards configured)
+- **GitHub uploads**: 52/52 successful (2 retried successfully)
+- **Decisions**: Created 2 carousels for stats/proof topic. Focused on the ASBA conference story and the 5 reasons Working Genius PD stands out. No people to tag for this topic.
+- **Handle research**: N/A (no people featured, this is a stats/proof post)
+- **Errors**: 2 GitHub uploads failed on first attempt, succeeded on retry
+- **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer.
+- **Daily platform counts**: TikTok 20+ today (scheduled future), YouTube 10 today (disconnected anyway)
