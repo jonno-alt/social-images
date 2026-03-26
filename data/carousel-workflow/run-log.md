@@ -1633,3 +1633,47 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Errors: None
 - Native action items: None (no people to tag)
 - Excel files updated: content-calendar.xlsx (row 59), carousel-log.xlsx (2 rows)
+
+## Topic 4 of 4: 10,000+ Copies of Step Up or Step Out Sold Globally — 2026-03-27
+- Type: Stats and Proof
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - step-up-10k-milestone (8 slides) — The story and milestone celebration
+  - step-up-3-stages (8 slides) — The 3-stage system from the book
+- Footer role: Author | Keynote Speaker
+- People featured: None (author's own book)
+- Handle research: N/A
+- Platforms scheduled: 9/9 (Pinterest skipped as always)
+  - LinkedIn: addToQueue (both carousels)
+  - Facebook: addToQueue (both carousels)
+  - Instagram: addToQueue, portrait images (both carousels)
+  - Threads: addToQueue, square images (both carousels)
+  - X/Twitter: addToQueue, 4 square images each (both carousels)
+  - Google Business: addToQueue, 1 image each, learn_more button linking to store (both carousels)
+  - Bluesky: addToQueue, 4 square images each, linkAttachment to store (both carousels)
+  - TikTok: customScheduled Jun 24-25 (video only, caption under 150 chars)
+  - YouTube: customScheduled Jun 15-16 (video only, category 22)
+- Videos: 2 MP4s (32s each, 8 slides x 4s)
+- Pinterest pins: 2 (1000x1500)
+- GitHub uploads: 52 files to carousels/step-up-10k-2026-03-27/ (all succeeded)
+- Errors: None
+- Native action items: None
+- Excel files updated: content-calendar.xlsx (row 60), carousel-log.xlsx (2 rows)
+
+---
+
+## Session Summary — 2026-03-27
+- **Topics completed**: 4 of 4
+- **Total carousels built**: 8 (2 per topic)
+- **Total slides**: 64 (8 per carousel)
+- **Total images**: 192 (64 slides x 3 sizes) + 8 Pinterest pins = 200
+- **Total videos**: 8
+- **Total files uploaded to GitHub**: 208 (52 per topic x 4 topics)
+- **Total Buffer posts scheduled**: 72 (8 carousels x 9 platforms)
+- **Platforms**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky, TikTok, YouTube (Pinterest always skipped)
+- **TikTok scheduling**: Jun 20-25 (customScheduled, 1/day)
+- **YouTube scheduling**: Jun 11-16 (customScheduled, 1/day)
+- **Errors**: Buffer 429 rate limit during Topic 2 Carousel 2 (resolved after cooldown). carousel-log.xlsx GitHub push failed once (retry succeeded).
+- **Content calendar rows processed**: 56 (Topic 1 offsite), 57 (Topic 2 Maxwell podcast), 58 (Skipped - Emily Hynes testimonial not found), 59 (Topic 3 strategic planning), 60 (Topic 4 Step Up book milestone)
+- **Handle database additions**: John Maxwell (row 88)
+- **Data files pushed to GitHub**: 4 times (once after each topic completion)
