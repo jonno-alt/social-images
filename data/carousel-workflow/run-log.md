@@ -1607,3 +1607,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Errors: Buffer 429 rate limit hit during Carousel 2 scheduling (Instagram, Threads, X/Twitter). Resolved after session context compaction gave enough cooldown time. All posts scheduled successfully on retry.
 - Native action items: X/Twitter photo tags for @JohnCMaxwell, Instagram photo tag verification
 - Excel files updated: content-calendar.xlsx (row 57), carousel-log.xlsx (2 rows), handle-database.xlsx (John Maxwell added)
+
+## Topic 3 of 4: Service: Strategic Planning Facilitation — 2026-03-27
+- Type: Service
+- Trigger: Scheduled (carousel-build-and-schedule)
+- Carousels built: 2
+  - strategic-plan-why-facilitator (8 slides)
+  - strategic-plan-5-signs-dust (8 slides)
+- Footer role: Strategic Planning Facilitator | Author
+- People featured: None (service topic)
+- Handle research: N/A
+- Platforms scheduled: 9/9 (Pinterest skipped as always)
+  - LinkedIn: addToQueue (both carousels)
+  - Facebook: addToQueue (both carousels)
+  - Instagram: addToQueue, portrait images (both carousels)
+  - Threads: addToQueue, square images (both carousels)
+  - X/Twitter: addToQueue, 4 square images each (both carousels)
+  - Google Business: addToQueue, 1 image each, learn_more button (both carousels)
+  - Bluesky: addToQueue, 4 square images each, linkAttachment (both carousels)
+  - TikTok: customScheduled Jun 22-23 (video only, caption under 150 chars)
+  - YouTube: customScheduled Jun 13-14 (video only, category 22)
+- Videos: 2 MP4s (32s each, 8 slides x 4s)
+- Pinterest pins: 2 (1000x1500)
+- GitHub uploads: 52 files to carousels/strategic-plan-2026-03-27/ (all succeeded)
+- Errors: None
+- Native action items: None (no people to tag)
+- Excel files updated: content-calendar.xlsx (row 59), carousel-log.xlsx (2 rows)
