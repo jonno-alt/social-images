@@ -677,3 +677,68 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - 3 MP4 videos (one per carousel)
 - 3 Pinterest pins
 - All uploaded to GitHub: jonno-alt/social-images
+
+## Service: Leadership Team Offsite for Corporates - 2026-03-26
+
+**Trigger:** Scheduled task (carousel-build-and-schedule)
+**Input:** Content calendar row "Service: Leadership Team Offsite for Corporates" (no blog URL, service promotion)
+**Topic type:** Service promotion (not thought-leader listicle)
+
+### Carousels Built
+1. offsite-why-your-team-needs-one (8 slides: cover + 6 content + CTA)
+2. offsite-what-to-expect (8 slides: cover + 6 content + CTA)
+3. offsite-what-to-expect (8 slides: cover + 6 content + CTA)
+4. offsite-book-your-offsite (7 slides: cover + 5 content + CTA)
+
+### Sizes Built
+- Square: 1080x1080 (LinkedIn, Facebook, X/Twitter, Threads, Google Business, Bluesky)
+- Portrait: 1080x1350 (Instagram)
+- Vertical: 1080x1920 (video source, TikTok backup)
+- Pinterest pin: 1000x1500
+- Video: 1080x1920 MP4 (4 seconds per slide, h264 CRF 23)
+
+### GitHub Upload
+- Repository: jonno-alt/social-images
+- Folder: carousels/{name}-2026-03-26/
+- All images uploaded via GitHub Contents API (git push race condition with concurrent workflows)
+- Videos uploaded via file-based curl payload
+
+### Buffer Scheduling Results (36/36 posts scheduled)
+
+| Platform | Carousel 1 | Carousel 2 | Carousel 3 | Carousel 4 |
+|----------|-----------|-----------|-----------|-----------|
+| LinkedIn | 69c4b7d63f4faec7d431c640 | 69c4b7f23f4faec7d431c71e | 69c4b80e3f4faec7d431c7f3 | 69c4b82b3f4faec7d431c8a0 |
+| Facebook | 69c4b7d93f4faec7d431c666 | 69c4b7f53f4faec7d431c744 | 69c4b8117644e8b883c29bf2 | 69c4b82d7644e8b883c29caa |
+| Instagram | 69c4b7dd3f4faec7d431c68c | 69c4b7f93f4faec7d431c76a | 69c4b8157644e8b883c29c24 | 69c4b8313f4faec7d431c8c6 |
+| Threads | 69c4b7df3f4faec7d431c6b2 | 69c4b7fc7644e8b883c29b7d | 69c4b8173f4faec7d431c81e | 69c4b8327644e8b883c29cd0 |
+| X/Twitter | 69c4b7e17644e8b883c29aff | 69c4b7fd7644e8b883c29ba3 | 69c4b8193f4faec7d431c844 | 69c4b8343f4faec7d431c8ec |
+| Google Business | 69c4b7e37644e8b883c29b25 | 69c4b7ff3f4faec7d431c790 | 69c4b81b7644e8b883c29c56 | 69c4b8357644e8b883c29cf6 |
+| TikTok | 69c4b87f3f4faec7d431c9aa (May 8) | 69c4b88e7644e8b883c29e37 (May 9) | 69c4b8a53f4faec7d431ca33 (May 10) | 69c4b8b73f4faec7d431cac7 (May 11) |
+| YouTube | 69c4b88b3f4faec7d431c9d3 (Apr 11) | 69c4b8a27644e8b883c29e74 (Apr 12) | 69c4b8a77644e8b883c29ed0 (Apr 13) | 69c4b8b97644e8b883c29f2d (Apr 14) |
+| Bluesky | 69c4b7e83f4faec7d431c6f8 | 69c4b8043f4faec7d431c7c5 | 69c4b8203f4faec7d431c87a | 69c4b83b7644e8b883c29d24 |
+| Pinterest | Skipped (no boards) | Skipped | Skipped | Skipped |
+
+### Decisions Made
+- No blog URL available for this service topic, so content was created from web research about Jonno's offsite facilitation service
+- Footer role: "Leadership Team Facilitator | Keynote Speaker | Author" (offsite topic keyword match)
+- No people to tag (service promotion, not listicle)
+- YouTube scheduled Apr 11-14 (earlier dates at capacity)
+- TikTok scheduled May 8-11 (earlier dates at capacity, 25/day limit)
+- Pinterest skipped (no boards configured)
+- Git push failed due to concurrent workflows on same repo, used GitHub Contents API instead
+
+### Native Action Items
+- No native tagging actions needed (service promotion post, no people featured)
+- YouTube: Re-check video titles render correctly in YouTube Studio
+- TikTok: Verify video uploads process correctly
+
+### Errors/Warnings
+- Git push race condition: Another workflow was pushing to the same repo simultaneously. Resolved by switching to GitHub Contents API uploads
+- YouTube daily limit (10 posts/day): First attempt at Mar 28 rejected, used Apr 11 instead
+- TikTok daily limit (25 posts/day): Used customScheduled for May 8-11
+
+### Files Updated
+- content-calendar.xlsx: Marked "Service: Leadership Team Offsite for Corporates" as "Carousel Created"
+- carousel-log.xlsx: Added 4 new carousel entries
+- run-log.md: This entry
+
