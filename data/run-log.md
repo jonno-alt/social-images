@@ -572,3 +572,28 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
 - Issues: YouTube Buffer limit of 10 scheduled posts reached across ALL dates. Saved as draft for manual scheduling. Some GitHub image uploads failed on first attempt, retried successfully.
+
+## Ethical Leadership — 2026-03-26 (Topic 2 of 4)
+- Total unique people across all platforms: 28
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Bill George (FB), Alison Taylor (IG, Threads, X, Bluesky)
+- Slug: ethical-leadership
+- Posts scheduled: 6/8 (TikTok and YouTube require manual video upload — GitHub upload failed)
+- TikTok: MANUAL REQUIRED — video file failed to upload to GitHub. Video generated locally.
+- YouTube: MANUAL REQUIRED — video file failed to upload + Buffer daily limit. Video generated locally.
+- Image counts per platform: FB=9/10max, IG=9/10max, Threads=9/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec, generated locally)
+- Issues: GitHub upload intermittent failures (502/504 errors). Some images missing. TikTok and YouTube videos could not be uploaded to GitHub due to timeouts. Posts for those platforms need manual video upload.
+
+## Crisis Leadership — 2026-03-26 (Topic 3 of 4)
+- Total unique people across all platforms: 26
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: None (all new to database)
+- Cross-platform overlap: High (~77%) due to niche topic — crisis leadership has a smaller expert community
+- Slug: crisis-leadership
+- Posts scheduled: 8/8
+- YouTube scheduled: 2026-04-15 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-01 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
+- Issues: TikTok video initially failed (GitHub 429 rate limit), succeeded on retry. 1 YouTube slide failed upload but video uploaded successfully.
