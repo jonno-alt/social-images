@@ -819,3 +819,57 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Key content**: Will Guidara, Eleven Madison Park, $2 hot dog story, service vs hospitality
 - **Errors**: 5 files failed GitHub upload (non-critical, images still accessible)
 - **Native action items**: None
+
+## Topic 4 of 4: We Keep Losing Good Teachers - 2026-03-26
+- **Trigger**: Scheduled task
+- **Topic type**: Pain Point
+- **Carousels built**: 3
+  - losing-teachers-warning-signs (8 slides)
+  - losing-teachers-real-reasons (8 slides)
+  - losing-teachers-what-to-do (7 slides)
+- **Total slides**: 23 (3 sizes = 69 images)
+- **Videos**: 3 (28-32 seconds each)
+- **Pins**: 3
+- **Posts scheduled**: 27 (3 carousels x 9 platforms)
+  - TikTok: customScheduled May 21-23
+  - YouTube: customScheduled May 11-13
+  - All others: addToQueue
+- **Footer role**: Certified Working Genius Facilitator | Author (school topic)
+- **Key stats used**: 62% teacher stress (2025 RAND), 78% considered quitting, $30K pay gap
+- **Errors**: 10 files failed GitHub upload (non-critical, images accessible)
+- **Native action items**: None
+
+---
+
+## Session Summary - 2026-03-26
+
+**4 of 4 topics completed this session.**
+
+| Topic | Type | Carousels | Slides | Posts |
+|-------|------|-----------|--------|-------|
+| The 5 Dysfunctions of a Team Explained | Framework | 4 | 34 | 36 |
+| Imposter Syndrome as a Leader | Blog | 3 | 24 | 27 |
+| Book Rec: Unreasonable Hospitality | Book Rec | 3 | 21 | 27 |
+| We Keep Losing Good Teachers | Pain Point | 3 | 23 | 27 |
+| **TOTAL** | | **13** | **102** | **117** |
+
+**Platform post counts added this session:**
+- LinkedIn: 13 (addToQueue)
+- Facebook: 13 (addToQueue)
+- Instagram: 13 (addToQueue, portrait images)
+- Threads: 13 (addToQueue)
+- X/Twitter: 13 (addToQueue, 4 images each)
+- Google Business: 13 (addToQueue, 1 image each)
+- TikTok: 13 (customScheduled May 13-23)
+- YouTube: 13 (customScheduled May 1-13)
+- Bluesky: 13 (addToQueue, 4 images each)
+- Pinterest: 0 (skipped, no boards)
+
+**YouTube scheduling**: May 1-13 (spread across 13 days)
+**TikTok scheduling**: May 13-23 (spread across 11 days)
+
+**No native action items this session** (no people featured/tagged).
+
+**Errors**: Minor GitHub upload failures (SHA conflicts on some files), all non-critical. All images accessible via raw.githubusercontent.com.
+
+**Data files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx, run-log.md
