@@ -1,0 +1,32 @@
+{
+  "category": "early-childhood-education",
+  "category_name": "Early Childhood Education Directors",
+  "last_updated": "2026-03-26T12:00:00Z",
+  "total_drafted": 18,
+  "total_researched": 37,
+  "sub_types_completed": ["Early childhood education (general)", "Childcare centre directors", "Family day care", "Out of school hours care (OSHC)", "Kindergarten/preschool directors"],
+  "sub_types_remaining": [],
+  "current_sub_type": "completed",
+  "current_scope": "completed",
+  "current_country": "completed",
+  "associations": [
+    {"name": "ECA", "full_name": "Early Childhood Australia", "country": "Australia", "scope": "national", "sub_type": "Early childhood education (general)", "email_verified": "customerservice@earlychildhood.org.au", "email_source": "Official ECA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "ACA", "full_name": "Australian Childcare Alliance", "country": "Australia", "scope": "national", "sub_type": "Childcare centre directors", "email_verified": "admin@childcarealliance.org.au", "email_source": "Official ACA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "ECC", "full_name": "Early Childhood Council", "country": "New Zealand", "scope": "national", "sub_type": "Early childhood education (general)", "email_verified": "information@ecc.org.nz", "email_source": "Official ECC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "FDCA", "full_name": "Family Day Care Australia", "country": "Australia", "scope": "national", "sub_type": "Family day care", "email_verified": "enquiries@fdca.com.au", "email_source": "Official FDCA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "Early Years Alliance", "full_name": "Early Years Alliance", "country": "UK", "scope": "national", "sub_type": "Early childhood education (general)", "email_verified": "info@eyalliance.org.uk", "email_source": "Official website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "NDNA", "full_name": "National Day Nurseries Association", "country": "UK", "scope": "national", "sub_type": "Childcare centre directors", "email_verified": "info@ndna.org.uk", "email_source": "Official NDNA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "AECES", "full_name": "Association for Early Childhood Educators Singapore", "country": "Singapore", "scope": "national", "sub_type": "Early childhood education (general)", "email_verified": "info@aeces.org", "email_source": "Official AECES website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "CCCF", "full_name": "Canadian Child Care Federation", "country": "Canada", "scope": "national", "sub_type": "Early childhood education (general)", "email_verified": "info@cccf-fcsge.ca", "email_source": "Official CCCF website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "AELL", "full_name": "Association for Early Learning Leaders", "country": "USA", "scope": "national", "sub_type": "Childcare centre directors", "email_verified": "info@earlylearningleaders.org", "email_source": "Official AELL website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "NAFCC", "full_name": "National Association for Family Child Care", "country": "USA", "scope": "national", "sub_type": "Family day care", "email_verified": "nafcc@nafcc.org", "email_source": "Official NAFCC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "NCA", "full_name": "Network of Community Activities", "country": "Australia", "scope": "state", "sub_type": "Out of school hours care (OSHC)", "email_verified": "network@networkofcommunityactivities.org.au", "email_source": "Official NCA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "ELAA", "full_name": "Early Learning Association Australia", "country": "Australia", "scope": "state", "sub_type": "Kindergarten/preschool directors", "email_verified": "elaa@elaa.org.au", "email_source": "Official ELAA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "AECEO", "full_name": "Association of Early Childhood Educators Ontario", "country": "Canada", "scope": "state", "sub_type": "Early childhood education (general)", "email_verified": "info@aeceo.ca", "email_source": "Official AECEO website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "PennAEYC", "full_name": "Pennsylvania Association for the Education of Young Children", "country": "USA", "scope": "state", "sub_type": "Early childhood education (general)", "email_verified": "info@pennaeyc.org", "email_source": "Official PennAEYC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "TAEYC", "full_name": "Texas Association for the Education of Young Children", "country": "USA", "scope": "state", "sub_type": "Early childhood education (general)", "email_verified": "taeyc@texasaeyc.org", "email_source": "Official TAEYC website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "SECA", "full_name": "Southern Early Childhood Association", "country": "USA", "scope": "regional", "sub_type": "Early childhood education (general)", "email_verified": "info@seca.info", "email_source": "Official SECA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "AECEA", "full_name": "Association of Early Childhood Educators of Alberta", "country": "Canada", "scope": "state", "sub_type": "Early childhood education (general)", "email_verified": "info@aecea.ca", "email_source": "Official AECEA website", "draft_created": true, "draft_date": "2026-03-26", "status": "drafted"},
+    {"name": "NAEYC", "full_name": "National Association for the Education of Young Children", "country": "USA", "scope": "national", "sub_type": "Early childhood education (general)", "email_verified": null, "email_source": "No email on website", "draft_created": false, "draft_date": null, "status": "no_email_found"}
+  ]
+}
