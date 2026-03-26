@@ -662,3 +662,15 @@
 - **YouTube scheduled**: May 29, 2026
 - **Other platforms**: Queue-based scheduling (early April 2026)
 - **Notable**: Strong roster spanning data science, people analytics, and evidence-based management. Includes former US Chief Data Scientist (DJ Patil), Google's former Chief Decision Scientist (Cassie Kozyrkov), and analytics pioneers (Davenport, Marr, Silver).
+
+## Generational Leadership — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 17
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Tim Elmore (in database from previous posts)
+- Cross-platform overlap: High (niche topic with ~17 total specialists globally)
+- Slug: generational-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-30 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-28 via customScheduled (daily limit hit, future date used)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit reached, scheduled for future date. Niche topic limits unique people count.
