@@ -1221,3 +1221,37 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: 6 GitHub uploads failed first attempt, all succeeded on retry
 - **Native action items**: Upload videos to YouTube/GBP manually. Reconnect YouTube and Google Business in Buffer. X/Twitter photo tags for Jocko.
 - **Note on X/Twitter**: Used @leaborge for Leif Babin on X which is incorrect. Leif does not appear to have a personal X handle. @EchelonFront is the org handle. Flag for Jonno to correct.
+
+## Topic 3: The Meeting That Went Perfectly Is the One to Worry About - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: The Meeting That Went Perfectly Is the One to Worry About (Pain Point) - Topic 3 of 4
+- **Carousels built**: perfect-meeting-danger (8 slides), perfect-meeting-fix (8 slides)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Bluesky, TikTok (7/9)
+- **Platforms NOT scheduled**: YouTube (channel disconnected in Buffer), Google Business (channel disconnected in Buffer)
+- **TikTok scheduling**: Carousel 1 May 25, Carousel 2 May 26 (customScheduled)
+- **Pinterest**: Skipped (no boards configured)
+- **GitHub uploads**: 52/52 successful (2 retried successfully)
+- **Decisions**: Created 2 carousels: one covering the danger signs of a perfect meeting, one covering 4 fixes. Pain point topic with no featured people.
+- **Handle research**: N/A (no people featured, this is a pain point post)
+- **Errors**: 2 GitHub uploads failed on first attempt, succeeded on retry. Context compaction occurred mid-topic; resumed and completed scheduling.
+- **Buffer Post IDs**:
+  - Carousel 1 (perfect-meeting-danger):
+    - LinkedIn: 69c5454ece812eeb8450f84b (Apr 5)
+    - Facebook: 69c5454fce812eeb8450f870 (Apr 9)
+    - Instagram: 69c54551ce812eeb8450f899 (Apr 9)
+    - Threads: 69c54559ce812eeb8450f8e0 (Apr 9)
+    - X/Twitter: 69c5455ace812eeb8450f906 (Apr 9)
+    - Bluesky: 69c5455bce812eeb8450f92c (Apr 9)
+  - Carousel 2 (perfect-meeting-fix):
+    - LinkedIn: 69c546a72ba6d7620d13da2b (Apr 5)
+    - Facebook: 69c546a82ba6d7620d13da51 (Apr 9)
+    - Instagram: 69c546adce812eeb8450fc8d (Apr 9)
+    - Threads: 69c546c0ce812eeb8450fcd4 (Apr 9)
+    - X/Twitter: 69c546c1ce812eeb8450fd09 (Apr 9)
+    - Bluesky: 69c546c3ce812eeb8450fd2f (Apr 9)
+  - TikTok:
+    - Carousel 1: 69c546d72ba6d7620d13db20 (May 25)
+    - Carousel 2: 69c546dbce812eeb8450fd7d (May 26)
+- **Native action items**: Upload videos to YouTube manually. Post to Google Business manually. Reconnect YouTube and Google Business channels in Buffer.
+- **Daily platform counts**: TikTok +2 (May 25-26), YouTube 0 new (disconnected)
