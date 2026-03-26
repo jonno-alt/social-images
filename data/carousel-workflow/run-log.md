@@ -1080,3 +1080,32 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
   - TikTok: 3 new posts scheduled (Apr 9: +1, Apr 10: +1, Apr 11: +1)
   - YouTube: 3 new posts scheduled (Apr 15: +1, Apr 16: +1, Apr 17: +1)
 - **Native action items**: None (pain point topic, no people to tag)
+
+---
+
+## Run: 2026-03-26 Session (Topic 2 of 4)
+
+**Topic:** Podcast Rec: WorkLife with Adam Grant
+**Blog URL:** https://www.yourthoughtpartner.com/blog/worklife-with-adam-grant-podcast
+**Carousels Created:** 2
+- worklife-podcast-rec (8 slides) — Podcast recommendation overview
+- worklife-why-listen (7 slides) — 5 Reasons Leaders Should Listen
+
+**Image Sizes:** Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+**Videos:** 2 (one per carousel, portrait 1080x1350, 4s/slide)
+**GitHub Folder:** carousels/worklife-adam-grant-2026-03-26/
+**Total Files Uploaded:** 49
+
+**Platforms Scheduled (both carousels):**
+- LinkedIn: addToQueue (Apr 5)
+- Facebook: addToQueue (Apr 8)
+- Instagram: addToQueue (Apr 8) — @adamgrant photo tag on carousel 1
+- Threads: addToQueue (Apr 8) — @adamgrant mention on carousel 1
+- X/Twitter: addToQueue (Apr 8) — @AdamMGrant mention on carousel 1
+- Google Business: addToQueue (Apr 9) — learn_more button
+- Bluesky: addToQueue (Apr 8)
+- TikTok: customScheduled (Apr 12-13)
+- YouTube: customScheduled (Apr 18-19)
+
+**Issues:** None. All 9 platforms scheduled successfully for both carousels.
+**Pinterest:** Skipped (no boards configured)
