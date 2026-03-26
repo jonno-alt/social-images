@@ -773,3 +773,30 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: 1 file failed GitHub upload (SHA conflict on vertical/trust-conflict slide 5), non-critical
 - **Native action items**: None (no people tags needed)
 - **Daily counts after this topic**: TikTok May 13-16 (1/day), YouTube May 1-4 (varies)
+
+## Topic 2 of 4: Imposter Syndrome as a Leader - 2026-03-26
+- **Trigger**: Scheduled task (carousel-build-and-schedule)
+- **Topic type**: Blog
+- **Carousels built**: 3
+  - imposter-syndrome-signs (8 slides)
+  - imposter-syndrome-cost (8 slides)
+  - imposter-syndrome-overcome (8 slides)
+- **Total slides**: 24 (3 sizes = 72 images)
+- **Videos**: 3 (all 32 seconds, under 60s limit)
+- **Pins**: 3
+- **Posts scheduled**: 27 (3 carousels x 9 platforms)
+  - LinkedIn: 3 (addToQueue)
+  - Facebook: 3 (addToQueue)
+  - Instagram: 3 (addToQueue, portrait)
+  - Threads: 3 (addToQueue)
+  - X/Twitter: 3 (addToQueue, 4 images each)
+  - Google Business: 3 (addToQueue, 1 image each)
+  - TikTok: 3 (customScheduled May 17-19)
+  - YouTube: 3 (customScheduled May 5-7)
+  - Bluesky: 3 (addToQueue, 4 images each)
+  - Pinterest: Skipped
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Key stat used**: 71% of US CEOs experience imposter syndrome (Korn Ferry 2024)
+- **Handle research**: N/A (no people featured)
+- **Errors**: 1 file failed GitHub upload (non-critical)
+- **Native action items**: None
