@@ -622,3 +622,15 @@
 - TikTok scheduled: 2026-04-10 via customScheduled (path 2, placeholder under 150 chars)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: TikTok and YouTube daily limits reached for earlier dates, pushed to April 10 and April 12 respectively. Topic is niche (OKR/alignment specialists) so cross-platform overlap is higher than ideal. 20 of 21 people are new to the database.
+
+## Leadership Transitions — 2026-03-26 (Topic 2 of 4)
+- Total unique people across all platforms: 17
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Michael Watkins (FB/Threads/X/YT/GBiz), Herminia Ibarra (Threads/X/GBiz/Bluesky), Kelli Thompson (IG/TikTok/Threads), Muriel Wilkins (IG/Threads), Bill George (YT), Ram Charan (YT)
+- Cross-platform overlap: Moderate — 17 unique people, 11 new to database
+- Slug: leadership-transitions
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-13 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-11 via customScheduled (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Google Business image initially failed to upload (GitHub 409 conflict then 422), required manual SHA resolution. 6 of 76 image uploads failed initially (retried GBP cover successfully).
