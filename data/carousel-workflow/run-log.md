@@ -873,3 +873,33 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 **Errors**: Minor GitHub upload failures (SHA conflicts on some files), all non-critical. All images accessible via raw.githubusercontent.com.
 
 **Data files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx, run-log.md
+
+
+## Topic 1: Podcast Rec: HBR IdeaCast — 2026-03-26
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: HBR IdeaCast (Topic 1 of 4)
+- **Carousels built**: 3
+  - hbr-ideacast-why-listen (8 slides)
+  - hbr-ideacast-key-themes (7 slides)
+  - hbr-ideacast-reasons-subscribe (6 slides)
+- **Images**: 63 PNGs (21 square + 21 portrait + 21 vertical) + 3 Pinterest pins
+- **Videos**: 3 MP4s (32s, 28s, 24s) - all under 60s for YouTube Shorts
+- **GitHub**: All 69 files uploaded to carousels/hbr-ideacast-2026-03-26/
+- **Posts scheduled**: 27 total (3 carousels x 9 platforms)
+  - LinkedIn: 3 posts (addToQueue, Apr 4)
+  - Facebook: 3 posts (addToQueue, Apr 7)
+  - Instagram: 3 posts (addToQueue, Apr 7, portrait images, HBR photo tag)
+  - Threads: 3 posts (addToQueue, Apr 7)
+  - X/Twitter: 3 posts (addToQueue, Apr 7, 4 images each)
+  - Google Business: 3 posts (addToQueue, Apr 7, 1 image each, learn_more button)
+  - Bluesky: 3 posts (addToQueue, Apr 7, 4 images each)
+  - TikTok: 3 posts (customScheduled, May 15-17, video only)
+  - YouTube: 3 posts (customScheduled, Apr 15-17, video only)
+- **YouTube scheduling note**: Apr 1-2 hit 10/day limit. Scheduled for Apr 15-17.
+- **TikTok scheduling note**: 18 posts already on Mar 26. Scheduled for May 15-17.
+- **Handle research**: No people to tag (podcast rec, not thought leader list). HBR tagged on Instagram (@harvard_business_review) and X (@HarvardBiz).
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Decisions**: Used 3-carousel structure matching Craig Groeschel podcast rec format.
+- **Errors**: YouTube daily limit hit on Apr 1 and Apr 2. Resolved by scheduling Apr 15-17.
+- **Native action items**: None (no personal profile tags needed)
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
