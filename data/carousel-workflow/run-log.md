@@ -1733,3 +1733,29 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Errors**: None
 - **Native action items**: None
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
+
+
+## Topic 3: Talented Individually Dysfunctional Together - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Talented Individually Dysfunctional Together (Topic 3 of 4)
+- **Type**: Pain Point (no URL, researched from web)
+- **Carousels built**: 3
+  - signs-of-team-dysfunction: 9 slides
+  - root-causes-team-dysfunction: 7 slides
+  - fix-dysfunctional-team: 8 slides
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: 9/9 (Pinterest always skipped)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue)
+  - Google Business: 3 posts (addToQueue)
+  - Bluesky: 3 posts (addToQueue)
+  - TikTok: 3 posts (customScheduled Apr 2-3)
+  - YouTube: 3 posts (customScheduled May 2-4)
+- **Decisions**: Created 3 carousels: warning signs (7 signs), root causes (Lencioni's 5 dysfunctions), and solutions (6 steps). Pain point topic. Default footer role.
+- **Errors**: 2 Buffer posts failed with Bad Gateway on first attempt (retried successfully). Some GitHub uploads needed retry.
+- **GitHub uploads**: 78 files uploaded (all succeeded)
+- **Native action items**: None (no tags needed)
+- **Excel files updated**: content-calendar.xlsx (row 63), carousel-log.xlsx (3 rows)
