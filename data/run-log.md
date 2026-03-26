@@ -686,3 +686,13 @@
 - TikTok scheduled: 2026-05-29 via customScheduled
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: None
+
+## Accountability in Teams — 2026-03-27
+- People: 12 (12 new, 0 returning)
+- Slug: accountability-in-teams
+- Slides: 14 max (cover + 12 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-01 via customScheduled
+- TikTok scheduled: 2026-05-30 via customScheduled (Path 2)
+- Issues: X/Twitter first attempt timed out but post went through; confirmed via list_posts
+- Handles note: Most accountability experts have limited social media presence; Sam Silverstein (@samsilverstein IG, samsilversteininc FB), Cy Wakeman (@cywakeman multi-platform), Brian Moran (@12weekyear IG), Hernani Alves (@HernaniJAlves X), Michael King (@michaelkingjrofficial IG) were the main verified handles
