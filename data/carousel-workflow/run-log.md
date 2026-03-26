@@ -981,3 +981,26 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 
 **Notes**: All scheduling succeeded without errors this round.
 **Footer Role**: Leadership Team Facilitator | Keynote Speaker | Author
+
+
+## Topic 1: Leading Through Uncertainty - 2026-03-26
+- **Trigger**: Scheduled automated run
+- **Topic**: Leading Through Uncertainty (Blog)
+- **Blog URL**: https://www.consultclarity.org/post/leading-through-uncertainty
+- **Carousels built**: 4 (understanding-uncertainty: 8 slides, decision-making-uncertainty: 8 slides, communication-trust-uncertainty: 8 slides, resilience-adaptive-strategy: 8 slides)
+- **Total slides**: 32 across 4 carousels
+- **Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920)
+- **Videos**: 4 (32 seconds each, under 60s YouTube limit)
+- **Pins**: 4 (1000x1500)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **GitHub folder**: carousels/leading-through-uncertainty-2026-03-26/
+- **Platforms scheduled**: All 9 (LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, YouTube, Bluesky)
+- **Pinterest**: Skipped (no boards)
+- **TikTok schedule**: Mar 30-31 (customScheduled, 2 posts per day)
+- **YouTube schedule**: Apr 15-18 (customScheduled, 1 per day)
+- **Instagram**: All 8 slides per carousel (within 10-image limit)
+- **Decisions made**: No people to tag (framework/advice content, not listicle). Used default footer role. Blog content reconstructed from web search (Wix site returns raw JS).
+- **Errors**: 1 portrait slide failed GitHub upload on first attempt (server error), succeeded on retry. YouTube initially failed due to daily limit on earlier dates, succeeded with Apr 15+ dates.
+- **Handle research**: N/A (no people featured)
+- **Native action items**: None required
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
