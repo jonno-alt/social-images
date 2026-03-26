@@ -528,3 +528,14 @@
 - TikTok scheduled: 2026-04-05 via customScheduled (daily limit reached, Path 2)
 - Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1
 - Issues: TikTok daily limit hit. Scheduled for April 5.
+
+## Mindful Leadership — 2026-03-26 (Topic 2 of 3)
+- Total unique people across all platforms: 14
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=14/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all 14 are new to database)
+- Slug: mindful-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-26 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-06 via customScheduled (Path 2)
+- Image counts: FB=10/10, IG=10/10, Threads=16/20, X=4/4, Bluesky=4/4, GBiz=1
+- Issues: None. All uploads and scheduling successful.
