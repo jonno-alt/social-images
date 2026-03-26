@@ -1050,3 +1050,34 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Bluesky:** 3 carousels (square) - Apr 1-3
 
 ### Status: COMPLETE (27/27 posts scheduled)
+
+---
+
+## Topic 4: Podcast Rec: WorkLife with Adam Grant
+**Date:** 2026-03-26
+**Category:** Podcast Rec
+**Blog URL:** https://consultclarity.org/post/podcast-rec-worklife-adam-grant
+
+### Carousels Built
+1. **why-worklife** - "Why Every Leader Should Listen to WorkLife" (8 slides)
+2. **worklife-lessons** - "5 Leadership Lessons from WorkLife" (8 slides)
+3. **start-here-worklife** - "New to WorkLife? Start Here" (8 slides)
+
+### Assets Created
+- 3 carousels x 3 sizes (square, portrait, vertical) = 72 slide images
+- 3 Pinterest pins
+- 3 videos (vertical, 32s each)
+- All uploaded to GitHub: jonno-alt/social-images
+
+### Posts Scheduled (27 total)
+- **LinkedIn:** 3 carousels (square) - Apr 4-6
+- **Facebook:** 3 carousels (square) - Apr 4-6
+- **Instagram:** 3 carousels (portrait) - Apr 4-6
+- **Threads:** 3 carousels (square) - Apr 4-6
+- **X/Twitter:** 3 carousels (square, 4 slides) - Apr 4-6
+- **Google Business:** 3 posts (square) - Apr 4-6
+- **TikTok:** 3 videos - Apr 5-7
+- **YouTube:** 3 videos - Apr 25-27
+- **Bluesky:** 3 carousels (square) - Apr 4-6
+
+### Status: COMPLETE (27/27 posts scheduled)
