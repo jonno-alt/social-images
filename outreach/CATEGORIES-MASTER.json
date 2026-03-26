@@ -170,7 +170,7 @@
         "Healthcare finance/CFOs",
         "Medical practice managers"
       ],
-      "status": "in_progress"
+      "status": "completed"
     },
     {
       "id": 11,
@@ -192,7 +192,7 @@
         "Deputy/assistant principals",
         "International school leaders"
       ],
-      "status": "in_progress"
+      "status": "completed"
     },
     {
       "id": 12,
@@ -207,7 +207,7 @@
         "Independent school business managers",
         "Catholic school business managers"
       ],
-      "status": "not_started"
+      "status": "in_progress"
     },
     {
       "id": 13,
@@ -222,7 +222,7 @@
         "Family day care",
         "Out of school hours care (OSHC)"
       ],
-      "status": "not_started"
+      "status": "completed"
     },
     {
       "id": 14,
@@ -236,7 +236,7 @@
         "Disability education",
         "Gifted education"
       ],
-      "status": "not_started"
+      "status": "completed"
     },
     {
       "id": 15,
