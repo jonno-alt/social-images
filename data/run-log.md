@@ -839,3 +839,27 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful
 - Issues: None
+
+## Difficult Conversations — 2026-03-27 (Topic 1 of 4, completing previous IN_PROGRESS)
+- Total unique people across all platforms: ~30 (estimated from previous run's images)
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Sheila Heen, Kim Scott, Jefferson Fisher (from previous posts)
+- Cross-platform overlap: ~30% (core experts like Sheila Heen, Kim Scott appear on multiple platforms)
+- Slug: difficult-conversations
+- Posts scheduled: 8/8 (Pinterest skipped) — 6 newly scheduled, 2 from previous partial run (TikTok, YouTube)
+- YouTube scheduled: 2026-06-12 via customScheduled (from previous run)
+- TikTok scheduled: 2026-06-21 via customScheduled (from previous run)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Previous run created images and scheduled YT+TikTok but crashed before remaining 6 platforms. Completed in this session.
+
+## Employee Engagement — 2026-03-27 (Topic 2 of 4, completing previous IN_PROGRESS)
+- Total unique people across all platforms: ~30 (estimated from previous run's images)
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Marcus Buckingham, Shawn Achor (from previous posts)
+- Cross-platform overlap: ~35% (engagement experts like Buckingham, Achor well-known across platforms)
+- Slug: employee-engagement
+- Posts scheduled: 8/8 (Pinterest skipped) — 6 newly scheduled, 2 from previous partial run (TikTok, YouTube)
+- YouTube scheduled: 2026-06-13 via customScheduled (from previous run)
+- TikTok scheduled: 2026-06-22 via customScheduled (from previous run)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Same as above — completed remaining 6 platforms from crashed previous run.
