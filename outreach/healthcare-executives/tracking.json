@@ -1,21 +1,20 @@
 {
   "category": "healthcare-executives",
   "category_name": "Hospital Administration / Healthcare Executives",
-  "last_updated": "2026-03-26T10:00:00Z",
-  "total_drafted": 6,
-  "total_researched": 12,
+  "last_updated": "2026-03-26T12:00:00Z",
+  "total_drafted": 10,
+  "total_researched": 36,
   "sub_types_completed": [
     "Healthcare executives (general)",
     "Hospital administrators/CEOs",
     "Health service managers",
     "Healthcare finance/CFOs",
-    "Medical practice managers"
-  ],
-  "sub_types_remaining": [
+    "Medical practice managers",
     "Healthcare quality/safety"
   ],
-  "current_sub_type": "Healthcare quality/safety",
-  "current_scope": "international",
+  "sub_types_remaining": [],
+  "current_sub_type": "completed",
+  "current_scope": "completed",
   "current_country": "Australia",
   "associations": [
     {
@@ -173,6 +172,42 @@
       "draft_date": "",
       "status": "not_yet_researched",
       "notes": "To be researched next session"
+    },
+    {
+      "name": "ISQua",
+      "full_name": "International Society for Quality in Health Care",
+      "country": "International",
+      "scope": "international",
+      "sub_type": "Healthcare quality/safety",
+      "email_verified": "info@isqua.org",
+      "email_source": "Official ISQua website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "NAHQ",
+      "full_name": "National Association for Healthcare Quality",
+      "country": "USA",
+      "scope": "national",
+      "sub_type": "Healthcare quality/safety",
+      "email_verified": "info@nahq.org",
+      "email_source": "Official NAHQ website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
+    },
+    {
+      "name": "HQSS",
+      "full_name": "Healthcare Quality Society of Singapore",
+      "country": "Singapore",
+      "scope": "national",
+      "sub_type": "Healthcare quality/safety",
+      "email_verified": "secretariat@hqss.org",
+      "email_source": "Official HQSS website",
+      "draft_created": true,
+      "draft_date": "2026-03-26",
+      "status": "drafted"
     }
   ]
 }
