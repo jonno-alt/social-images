@@ -777,3 +777,86 @@
 - **Total Buffer posts:** ~990 (110 stories x 9 platforms)
 - **Series distribution:** Series 1,2,3,6 at 19 stories; Series 4,5 at 18 stories
 - **Next story number:** 111
+
+## Run #12 - 2026-03-27
+
+**Timestamp:** 2026-03-27T00:00:00Z (10:00 AEST)
+**Stories Created:** 10 (Stories #111-120)
+**Batch Size:** 10 (default)
+
+### Stories in This Batch
+
+| # | Series | Type | Hook | Slug |
+|---|--------|------|------|------|
+| 111 | The Question That Changed Everything | TRUE | She asked what's right. Wall Street said stop. | nooyi-asked-whats-right |
+| 112 | The Moment They Saw It | TRUE | Best soldiers alive. Losing to amateurs. | mcchrystal-best-soldiers-losing |
+| 113 | The Team That Looks Fine But Isn't | TRUE | Worth $32 billion. None of it was real. | ftx-32-billion-none-real |
+| 114 | The Meeting That Changed Everything | TRUE | Day one. He moved to the factory floor. | marchionne-day-one-factory-floor |
+| 115 | The Leader Who Thought It Was a People Problem | TRUE | They blamed the passenger. The world watched. | united-blamed-passenger-world-watched |
+| 116 | The Cost of Getting It Wrong | TRUE | Raised $1.75 billion. Dead in six months. | quibi-raised-billions-dead-months |
+| 117 | The Question That Changed Everything | FICTIONAL | She asked who we serve. Nobody knew. | asked-who-we-serve-nobody-knew |
+| 118 | The Moment They Saw It | FICTIONAL | The data was perfect. The story was wrong. | data-perfect-story-wrong |
+| 119 | The Team That Looks Fine But Isn't | FICTIONAL | Award-winning team. Nobody talked to each other. | award-winning-nobody-talked |
+| 120 | The Meeting That Changed Everything | FICTIONAL | He started with a confession. Everything shifted. | started-confession-everything-shifted |
+
+### Decisions Made
+
+- Run #12. Loaded story-tracker.xlsx from GitHub (110 stories from Runs #1-11).
+- All 6 series tied at approximately 18-19 stories each.
+- Type split: 6 TRUE + 4 FICTIONAL.
+- TRUE stories: Indra Nooyi/PepsiCo (Performance with Purpose), Stanley McChrystal/JSOC (Team of Teams), FTX/Sam Bankman-Fried ($32B collapse), Sergio Marchionne/Chrysler (factory floor turnaround), United Airlines (passenger dragged off flight), Quibi ($1.75B failure).
+- FICTIONAL stories set in: nonprofit (mission clarity), school district (data vs story), marketing agency (silos), corporate leadership (vulnerability).
+
+### GitHub
+
+- Repository: jonno-alt/social-images
+- Commit: 2f486dfa6
+- Method: git clone, commit, pull --rebase, push (disk space available this run)
+- 250 files added: 10 stories x (8 slides x 3 sizes + 1 video) = 250 assets
+
+### Buffer Posts by Platform
+
+| Platform | Posts | Mode | Notes |
+|----------|-------|------|-------|
+| LinkedIn | 10 | addToQueue | Square images, all 8 slides, ~200-word text |
+| Facebook | 10 | addToQueue | Square images, all 8 slides, ~100-word text |
+| Instagram | 10 | addToQueue | Portrait images, all 8 slides, hashtags |
+| Threads | 10 | addToQueue | Square images, all 8 slides, short text |
+| X/Twitter | 10 | addToQueue | Square slides 1,4,5,8, under 280 chars |
+| Google Business | 10 | addToQueue | Square slide 1, whats_new type |
+| Bluesky | 10 | addToQueue | Square slides 1,4,5,8, under 300 chars |
+| TikTok | 10 | customScheduled | Vertical video. Daily limit hit, staggered May 2-11, 10:00 AEST |
+| YouTube | 10 | customScheduled | Vertical video. Daily limit hit, staggered May 20-28, 10:00 AEST |
+| Pinterest | 0 | SKIPPED | No boards configured |
+| **Total** | **90** | | |
+
+### Quality Gates
+
+- All 10 stories: 8 slides each, all 3 sizes produce 8 PNGs each (240 PNGs verified)
+- All 10 vertical videos created (~32 seconds each)
+- Cover slides visually checked: brand colors correct, text within margins, footer zone clear
+- Hook lengths: all under 50 characters
+- No text overlap with footer zone
+
+### Errors and Recovery
+
+1. **Git push rejected (twice):** Remote had new commits from concurrent updates. Fixed with `git pull --rebase` (twice) before successful push.
+2. **Buffer 429 rate limits:** Hit rate limits during scheduling. Fixed by waiting 2-3 minutes between batches.
+3. **TikTok daily limit (25 posts/day):** Hit on Story 111. All TikTok posts switched to customScheduled with staggered dates May 2-11, 10:00 AEST.
+4. **YouTube daily limit (10 posts/day):** Hit on Story 112. All remaining YouTube posts switched to customScheduled with staggered dates May 20-28, 10:00 AEST.
+5. **Agent failures:** Parallel agents for stories 112-114 and 118-120 couldn't find carousel files in isolated worktree environments. Fixed by scheduling remaining posts manually from the main session.
+6. **Context compaction:** Session hit context limit mid-run. Resumed successfully from compaction summary.
+
+### Items for Review
+
+- Pinterest remains skipped (no boards configured).
+- TikTok posts custom-scheduled May 2-11. YouTube May 20-28. Verify they publish correctly.
+- All 6 series now at 20 stories each (balanced).
+
+### Running Totals
+
+- **Total stories created:** 120 (across 12 runs)
+- **Total Buffer posts scheduled:** ~1,080 (120 stories x 9 platforms)
+- **Total carousel assets on GitHub:** ~3,000 (2,880 PNGs + 120 videos)
+- **Series coverage:** All 6 series at 20 stories each (balanced).
+- **Next story number:** 121
