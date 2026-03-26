@@ -540,33 +540,299 @@
 - Image counts: FB=10/10, IG=10/10, Threads=16/20, X=4/4, Bluesky=4/4, GBiz=1
 - Issues: None. All uploads and scheduling successful.
 
+## Leadership Book Authors 2024-2025 — 2026-03-26 (Topic 1 of 1)
+- Total unique people across all platforms: 25
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=12/18max, X=8, YT=12(prior run), GBiz=6, Bluesky=5
+- Returning names: None (0 returning — all 25 are new to the database)
+- Cross-platform overlap: Moderate (~40% appear on 2+ platforms, expected for topic-specific book authors)
+- Slug: leadership-book-authors-2024-2025
+- Posts scheduled: 8/8 (Pinterest skipped, YouTube from prior partial run)
+- YouTube scheduled: 2026-05-27 via customScheduled (prior run, duration under 60sec)
+- TikTok scheduled: 2026-05-23 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Sources: Thinkers50 Top 10 2025, Next Big Idea Club Top 15 2024, NBIC 11 Best 2025
+- Issues: Instagram first attempt failed (userTags format issue), succeeded on retry without userTags. YouTube post already existed from prior partial run — reused. Video created for TikTok only (60 sec).
+
+## Session Run — 2026-03-26 (No Topics Available)
+- All 50 topics in the queue are DONE. No QUEUED topics remaining.
+- Total topics completed to date: 50
+- Total unique people in handle database: 822
+- Action needed: Add new topics to the Topics Queue sheet with Status = "QUEUED" to resume scheduled runs.
+- Session ended with no posts created.
+
+## Storytelling in Leadership — 2026-03-26 (Topic 1 of 4)
+- Total unique people across all platforms: 32
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Carmine Gallo (IG, TikTok, X, YT), Nancy Duarte (YT, GBiz)
+- Cross-platform overlap: ~35% (acceptable for niche topic)
+- Slug: storytelling-in-leadership
+- Posts scheduled: 7/8 (YouTube saved as draft — daily limit exceeded across all dates)
+- YouTube: Saved as draft (Buffer daily limit of 10 scheduled posts exceeded)
+- TikTok scheduled: 2026-03-30 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
+- Issues: YouTube Buffer limit of 10 scheduled posts reached across ALL dates. Saved as draft for manual scheduling. Some GitHub image uploads failed on first attempt, retried successfully.
+
+## Ethical Leadership — 2026-03-26 (Topic 2 of 4)
+- Total unique people across all platforms: 28
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Bill George (FB), Alison Taylor (IG, Threads, X, Bluesky)
+- Slug: ethical-leadership
+- Posts scheduled: 6/8 (TikTok and YouTube require manual video upload — GitHub upload failed)
+- TikTok: MANUAL REQUIRED — video file failed to upload to GitHub. Video generated locally.
+- YouTube: MANUAL REQUIRED — video file failed to upload + Buffer daily limit. Video generated locally.
+- Image counts per platform: FB=9/10max, IG=9/10max, Threads=9/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec, generated locally)
+- Issues: GitHub upload intermittent failures (502/504 errors). Some images missing. TikTok and YouTube videos could not be uploaded to GitHub due to timeouts. Posts for those platforms need manual video upload.
+
+## Crisis Leadership — 2026-03-26 (Topic 3 of 4)
+- Total unique people across all platforms: 26
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: None (all new to database)
+- Cross-platform overlap: High (~77%) due to niche topic — crisis leadership has a smaller expert community
+- Slug: crisis-leadership
+- Posts scheduled: 8/8
+- YouTube scheduled: 2026-04-15 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-01 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
+- Issues: TikTok video initially failed (GitHub 429 rate limit), succeeded on retry. 1 YouTube slide failed upload but video uploaded successfully.
+
+## Executive Presence — 2026-03-26 (Topic 4 of 4)
+- Total unique people across all platforms: 18
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: None (all new to database)
+- Cross-platform overlap: Higher overlap expected — executive presence is a coaching-heavy niche with significant cross-platform activity
+- Slug: executive-presence
+- Posts scheduled: 8/8
+- YouTube scheduled: 2026-04-22 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-02 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok=56sec, YouTube=56sec (both under 60sec)
+- Issues: 1 YouTube slide failed GitHub upload (non-critical, video uploaded successfully). All 8 platforms scheduled without errors.
+
+## Team Alignment — 2026-03-26 (Topic 1 of 4)
+- Total unique people across all platforms: 21
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Keith Ferrazzi (X/Twitter and YouTube only)
+- Cross-platform overlap: Higher than ideal (~40-50% between some platforms) due to niche topic — 21 total unique people
+- Slug: team-alignment
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-12 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-10 via customScheduled (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok and YouTube daily limits reached for earlier dates, pushed to April 10 and April 12 respectively. Topic is niche (OKR/alignment specialists) so cross-platform overlap is higher than ideal. 20 of 21 people are new to the database.
+
+## Leadership Transitions — 2026-03-26 (Topic 2 of 4)
+- Total unique people across all platforms: 17
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Michael Watkins (FB/Threads/X/YT/GBiz), Herminia Ibarra (Threads/X/GBiz/Bluesky), Kelli Thompson (IG/TikTok/Threads), Muriel Wilkins (IG/Threads), Bill George (YT), Ram Charan (YT)
+- Cross-platform overlap: Moderate — 17 unique people, 11 new to database
+- Slug: leadership-transitions
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-13 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-11 via customScheduled (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Google Business image initially failed to upload (GitHub 409 conflict then 422), required manual SHA resolution. 6 of 76 image uploads failed initially (retried GBP cover successfully).
+
+## Topic 3: Empathy in Leadership
+- **Date**: 2026-03-26
+- **Unique people across platforms**: 25
+- **New handles added**: 17
+- **Returning handles**: Rasmus Hougaard, Jacqueline Carter (from database)
+- **Platforms posted**: 8/8 (FB, IG, TikTok, Threads, X, YT, GBiz, Bluesky)
+- **Images generated**: 90
+- **Videos generated**: 2 (TikTok 56s, YouTube 56s)
+- **GitHub uploads**: 92/92 successful
+- **TikTok scheduled**: May 26, 2026
+- **YouTube scheduled**: May 28, 2026
+- **Other platforms**: Queue-based scheduling (early April 2026)
+- **Notable**: Strong roster with major names (Brené Brown, Adam Grant, Satya Nadella, Daniel Goleman, Simon Sinek). Good diversity across researchers, CEOs, authors, and content creators.
+
+## Topic 4: Data-Driven Leadership
+- **Date**: 2026-03-26
+- **Unique people across platforms**: 24
+- **New handles added**: 21
+- **Returning handles**: Cassie Kozyrkov, Josh Bersin, Laszlo Bock
+- **Platforms posted**: 8/8 (FB, IG, TikTok, Threads, X, YT, GBiz, Bluesky)
+- **Images generated**: 90
+- **Videos generated**: 2 (TikTok 56s, YouTube 56s)
+- **GitHub uploads**: 92/92 successful
+- **TikTok scheduled**: May 27, 2026
+- **YouTube scheduled**: May 29, 2026
+- **Other platforms**: Queue-based scheduling (early April 2026)
+- **Notable**: Strong roster spanning data science, people analytics, and evidence-based management. Includes former US Chief Data Scientist (DJ Patil), Google's former Chief Decision Scientist (Cassie Kozyrkov), and analytics pioneers (Davenport, Marr, Silver).
+
+## Generational Leadership — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 17
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Tim Elmore (in database from previous posts)
+- Cross-platform overlap: High (niche topic with ~17 total specialists globally)
+- Slug: generational-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-30 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-28 via customScheduled (daily limit hit, future date used)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit reached, scheduled for future date. Niche topic limits unique people count.
+
+## Innovation Leadership — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 16
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Rita McGrath (1 returning name from database)
+- Cross-platform overlap: Moderate (specialized niche)
+- Slug: innovation-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-05-31 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-05-29 via customScheduled
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: None
+
+## Accountability in Teams — 2026-03-27
+- People: 12 (12 new, 0 returning)
+- Slug: accountability-in-teams
+- Slides: 14 max (cover + 12 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-01 via customScheduled
+- TikTok scheduled: 2026-05-30 via customScheduled (Path 2)
+- Issues: X/Twitter first attempt timed out but post went through; confirmed via list_posts
+- Handles note: Most accountability experts have limited social media presence; Sam Silverstein (@samsilverstein IG, samsilversteininc FB), Cy Wakeman (@cywakeman multi-platform), Brian Moran (@12weekyear IG), Hernani Alves (@HernaniJAlves X), Michael King (@michaelkingjrofficial IG) were the main verified handles
+
+## Leadership & AI — 2026-03-27
+- People: 12 (8 new, 2 returning: Ethan Mollick, Cassie Kozyrkov; 1 returning from earlier: Rasmus Hougaard)
+- Slug: leadership-and-ai
+- Slides: 14 max (cover + 12 people + CTA)
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-02 via customScheduled
+- TikTok scheduled: 2026-05-31 via customScheduled (Path 2)
+- Issues: None — all 8 platforms scheduled cleanly
+- Key people: Geoff Woods (The AI-Driven Leader), Noelle Russell (#1 Agentic AI Leader), Ethan Mollick (Co-Intelligence), Cassie Kozyrkov (Google's Chief Decision Scientist), Karim Lakhani & Marco Iansiti (Harvard, Competing in the Age of AI), Rasmus Hougaard (More Human), Azeem Azhar (Exponential View), Paul Daugherty (Accenture CTO), Steve Brown (AI Futurist), Marek Kowalkiewicz (QUT, Australia), Ian Khan (AIRS framework)
+
+## Delegation — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 42
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=12/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Ramona Shaw (Threads, Bluesky), Dave Stachowiak (YouTube, GBiz), Tom Cox (TikTok), Dr. Carol Parker Walsh (Threads)
+- Cross-platform overlap: ~20% (within target of <30%)
+- Slug: delegation
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-03 via customScheduled (duration: 56sec, under 60sec limit) — queue was full, pushed to June
+- TikTok scheduled: 2026-04-01 via customScheduled (path 2, placeholder under 150 chars) — daily limit hit
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=3/4max, Bluesky=3/4max, GBiz=1
+- Issues: YouTube daily limit forced scheduling to June 3. TikTok daily limit required customScheduled on April 1.
+
+## Board Leadership — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 15
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=12/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all fresh board governance specialists)
+- Cross-platform overlap: ~60% (niche topic — fewer unique people available per platform)
+- Slug: board-leadership
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-04 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-04-02 via customScheduled (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=14/20max, X=3/4max, Bluesky=3/4max, GBiz=1
+- Issues: Niche topic with limited social media presence. Facebook first attempt timed out but post was created. YouTube queue full through early June.
+
+## Collaborative Leadership — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 33
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Keith Ferrazzi, David Burkus, Karie Kaufmann, Deborah Ancona, Craig Groeschel, Alex Lyon (6 total)
+- Cross-platform overlap: ~25% (mostly Keith Ferrazzi and Heidi Gardner across 3-4 platforms)
+- Slug: collaborative-leadership
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-05 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-05 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Facebook, Threads, and X/Twitter hit Buffer duplicate detection ("posted that one recently") - saved as drafts. This appears to be a Buffer-level anti-spam feature. Instagram, GBiz, Bluesky, TikTok, YouTube all scheduled successfully.
+
+## Leadership Development Programs — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 35
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Kevin Eikenberry, Kirstin Ferguson, Whitney Johnson, Vanessa Van Edwards, Gary Vaynerchuk, Mel Robbins (6 from prev topics)
+- Cross-platform overlap: ~20%
+- Slug: leadership-development-programs
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-06 via customScheduled (56sec, under 60sec)
+- TikTok scheduled: 2026-06-06 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Same Buffer duplicate detection on FB/Threads/X — saved as drafts.
+
+## Emotionally Intelligent Teams — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 23
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Shade Zahrai, Dr. Julie Smith, Jay Shetty, Dr. Nicole LePera, Vanessa Van Edwards, Mel Robbins, Nedra Glover Tawwab, Vex King, Dr. Ramani Durvasula, Sadhguru, Dr. Becky Kennedy, Mark Manson (many returning from previous EQ/wellness topics)
+- New handles added: 19
+- Cross-platform overlap: ~30% (EQ topic has strong social media representation)
+- Slug: emotionally-intelligent-teams
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-07 via customScheduled (56sec, under 60sec)
+- TikTok scheduled: 2026-06-07 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, TikTok=14, Threads=17/20max, X=4/4max, YT=14, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (1 retry for SHA conflict)
+- Issues: Facebook, Threads, X/Twitter saved as drafts (Buffer duplicate detection). Facebook slide_01 needed SHA retry on GitHub upload.
+
+## Purpose-Driven Leadership — 2026-03-27 (Topic 4 of 4)
+- Total unique people across all platforms: 27
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: None (all 27 are new to the database)
+- New handles added: 26 (Ed Mylett appeared across multiple platforms but counted once)
+- Cross-platform overlap: ~35% (purpose-driven leadership has strong crossover between mainstream leaders)
+- Slug: purpose-driven-leadership
+- Posts scheduled: 5/8 (FB, Threads, X saved as drafts due to Buffer duplicate detection)
+- YouTube scheduled: 2026-06-08 via customScheduled (55sec, under 60sec)
+- TikTok scheduled: 2026-06-08 via customScheduled (Path 2)
+- Image counts: FB=10/10max, IG=10/10max, TikTok=14, Threads=17/20max, X=4/4max, YT=14, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 55sec, YouTube 55sec)
+- GitHub uploads: 76/76 successful (0 retries needed)
+- Issues: Facebook, Threads, X/Twitter saved as drafts (Buffer duplicate detection). Strong roster featuring Conscious Capitalism pioneers (John Mackey, Raj Sisodia), purpose-driven CEOs (Hubert Joly, Paul Polman, Howard Schultz, Bob Iger), and Purpose Economy expert Aaron Hurst.
+
+## Coaching for Performance — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 43
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=6
+- Returning names: Shadé Zahrai (TikTok), Cheryl Thompson (TikTok), Bill Eckstrom (X), Myles Downey (X, Bluesky), Ramona Shaw (YouTube)
+- Cross-platform overlap: <5% between main 6 platforms (FB, IG, TikTok, Threads, X, YT have 0% overlap). GBiz and Bluesky draw from main rosters.
+- Slug: coaching-for-performance
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-04-20 via customScheduled (all closer dates hit 10-post daily limit)
+- TikTok scheduled: 2026-04-07 via customScheduled (daily limit 25 reached for today)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Video duration: TikTok=56sec, YouTube=59.97sec (under 60sec limit)
+- Issues: YouTube daily limit hit on all dates tried through April 12. Successfully scheduled for April 20. TikTok daily limit (25) also reached.
+
 ---
 
-## Run: 2026-03-26 — Topic 3: Leadership Book Authors 2024-2025
+## Topic 2: Influence Without Authority
+**Run Date:** 2026-03-27
+**Priority:** 70
 
-- **Run type**: Automated scheduled task (3 of 3)
-- **Topic**: Leadership Book Authors 2024-2025 (#50)
-- **Slug**: leadership-book-authors-2024-2025
-- **People featured**: 12 unique (8 new, 4 returning)
-- **New people**: Seth Godin, Charles Duhigg, Kirstin Ferguson, Karthik Ramanna, Alison Taylor, Chris Marquis, Hamilton Mann, Jeffrey Hull
-- **Returning people**: Anne Morriss, Frances Frei, Rasmus Hougaard, Julie Zhuo
-- **Platforms**: 8/8
-- **Posts scheduled**: 8/8 (Pinterest skipped)
-- **Buffer Post IDs**: FB=69c4f4db, IG=69c4f4dc, TikTok=69c4f507, Threads=69c4f4f8, YT=69c4f50a, GBiz=69c4f4f9, X=69c4f4f9, Bluesky=69c4f4fa
-- **YouTube scheduled**: 2026-05-27 via customScheduled (duration: 48sec, under 60sec limit)
-- **TikTok scheduled**: 2026-04-07 via customScheduled
-- **Image counts**: FB=10/10, IG=10/10, Threads=12/20, X=4/4, Bluesky=4/4, GBiz=1
-- **Issues**: GitHub 429 rate limit on some video URLs (retried successfully). TikTok daily limit required scheduling to April 7.
+### Rosters
+- **Facebook (8):** Allan Cohen, David Bradford, Bob Burg, Zoe Chance, Jonah Berger, Chris Voss, Dorie Clark, Nick Morgan
+- **Instagram (8):** Fotini Iconomopoulos, Terri Trespicio, Jayson Gaignard, Francesca Gino, Nir Eyal, Heather Hansen, Jordan Harbinger, Michael Pantalon
+- **TikTok (12):** Vanessa Van Edwards*, Jefferson Fisher*, G. Richard Shell, Deepak Malhotra, William Ury, Linda Babcock, Sheila Heen, Roger Fisher, Stuart Diamond, Daniel Shapiro, Kwame Christian, Lara Hogan
+- **Threads (15):** Roger Martin, Amy Jen Su, Dolly Chugh, Todd Davis, Meredith Fineman, Hal Gregersen, John Baldoni, Andy Molinsky, Debra Benton, Michelle Tillis Lederman, Mark Goulston, Judith Humphrey, Nancy Duarte, Kevin Sharer, Bob Cialdini
+- **X/Twitter (8):** Adam Galinsky, Jay Conger, Jeffrey Pfeffer, Herminia Ibarra, Tanya Menon, Deborah Gruenfeld, Adam Grant, Brian Uzzi
+- **YouTube (12):** Simon Lancaster, Alex Lyon, Charisma on Command, Vinh Giang, Noah Zandan, Karen Eber, Matt Abrahams, Linda Hill, Chris Anderson, David McRaney, Julian Treasure, Conor Neill
+- **Google Business (7):** Robert Cialdini, Allan Cohen, Chris Voss, Zoe Chance, Dorie Clark, Jonah Berger, Bob Burg
+- **Bluesky (6):** Zoe Chance, Jonah Berger, Dorie Clark, Allan Cohen, Bob Burg, Nick Morgan
 
-### Session Summary (3 topics total)
+*=returning from previous topics
 
-| Topic | People | New | Posts | Status |
-|-------|--------|-----|-------|--------|
-| Cross-Cultural Leadership (#48) | 15 | 12 | 8/8 | DONE |
-| Mindful Leadership (#49) | 14 | 14 | 8/8 | DONE |
-| Leadership Book Authors 2024-2025 (#50) | 12 | 8 | 8/8 | DONE |
-| **Totals** | **41** | **34** | **24/24** | **All DONE** |
+### Stats
+- Total unique people: ~65
+- Returning names: 2 (Vanessa Van Edwards, Jefferson Fisher on TikTok)
+- New handles added: 41
+- Images generated: 74 (FB:10, IG:10, TikTok:14, Threads:17, X:4, YT:14, GBiz:1, Bluesky:4)
+- Videos: 2 (TikTok 508KB/60s, YouTube 488KB/60s)
 
-- Total new handles added to database: 34
-- Database now contains 806 rows in Handles sheet
-- Topics Queue: 0 QUEUED topics remaining
+### Buffer Scheduling
+- Facebook: addToQueue → 2026-04-10T21:15:00Z (post ID: 69c580337c3be86dbd857b04)
+- Instagram: addToQueue → 2026-04-11T05:01:00Z (post ID: 69c5803520f76613b72cff26)
+- Threads: addToQueue → 2026-04-10T16:01:00Z (post ID: 69c5805d7c3be86dbd857b98)
+- X/Twitter: addToQueue → 2026-04-10T23:01:00Z (post ID: 69c5805e20f76613b72cffd7)
+- Google Business: addToQueue → 2026-04-11T01:01:00Z (post ID: 69c5806a7c3be86dbd857bd5)
+- Bluesky: addToQueue → 2026-04-11T00:01:00Z (post ID: 69c5806b7c3be86dbd857c0f)
+- TikTok: customScheduled → 2026-04-14T02:00:00Z (post ID: 69c5807520f76613b72d0030)
+- YouTube: customScheduled → 2026-04-27T23:00:00Z (post ID: 69c580797c3be86dbd857ce0)
+
+### Issues
+- Threads/X text had to be shortened for character limits (500/280)
+- TikTok/YouTube used customScheduled to avoid daily limits
