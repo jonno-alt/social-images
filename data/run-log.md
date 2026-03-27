@@ -995,3 +995,17 @@
 - **TikTok Schedule**: June 27-30, 2026
 - **Other Platforms**: Auto-queued by Buffer
 - **Session Status**: COMPLETE
+
+## Priority Setting — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 41
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Mel Robbins, Ali Abdaal, Thomas Frank, Tiago Forte, Jeff Su, Ryder Carroll, Mike Vardy, Matt D'Avella (from previous topics)
+- Cross-platform overlap: ~35% (some major figures appear on 2-3 platforms)
+- Slug: priority-setting
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-23 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-01 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (7 retries)
+- Issues: None
