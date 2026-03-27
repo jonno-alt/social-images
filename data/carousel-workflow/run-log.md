@@ -1898,3 +1898,28 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Pinterest**: Skipped (no boards)
 - **Errors**: 1 GitHub upload failed initially, succeeded on retry
 - **Native action items**: None
+
+## Topic 3: Book Rec: The Ideal Team Player
+**Date**: 2026-03-28
+**Carousels Built**: 3
+- ideal-team-player-why-read (8 slides)
+- ideal-team-player-missing-virtues (8 slides)
+- ideal-team-player-apply (8 slides)
+
+**Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920), Pinterest Pin (1000x1500)
+**Videos**: 3 (1080x1920, 32s each)
+**Total Files**: 78 (uploaded to GitHub)
+**GitHub Path**: carousels/ideal-team-player-2026-03-28/
+
+**Buffer Posts Scheduled**: 27
+- LinkedIn: 3 posts (queued ~Apr 11)
+- Facebook: 3 posts (queued ~Apr 17)
+- Instagram: 3 posts (queued ~Apr 16-17)
+- Threads: 3 posts (queued ~Apr 16-17)
+- X/Twitter: 3 posts (queued ~Apr 17)
+- Google Business: 3 posts (queued ~Apr 17)
+- TikTok: 3 posts (Jul 20-22, 2026)
+- YouTube: 3 posts (Jul 12-14, 2026)
+- Bluesky: 3 posts (queued ~Apr 17)
+
+**Status**: Complete
