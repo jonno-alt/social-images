@@ -1810,59 +1810,68 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Handle database additions**: Adam Grant (row 88, Topic 2), Dave Stachowiak (row 89, Topic 4)
 - **Data files pushed to GitHub**: 4 times (once after each topic completion)
 
-## Carousel Build & Schedule Run — 2026-03-27
+---
 
-### Overview
-- **Topics processed**: 4 (rows 66-69 from content-calendar.xlsx)
-- **Row 65 skipped**: Ian Cumming testimonial — text not found online, cannot fabricate
-- **Total carousels**: 8 (2 per topic)
-- **Total slides**: 61 (across all carousels)
-- **Total posts scheduled**: ~68 across 9 platforms
+## Run: 2026-03-27 (Session 2)
 
-### Topic 1: Service — School Leadership PD Day
-- Carousels: school-pd-day-reasons (7 slides), school-pd-day-agenda (8 slides)
-- Footer: "Certified Working Genius Facilitator | Author"
-- GitHub: carousels/school-leadership-pd-day-2026-03-27/
-- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
-- Posts: 18 (9 per carousel)
-- Issues: LinkedIn C2 failed with slide_02 CDN propagation error; retried without slide_02, succeeded. 3 GitHub uploads failed initially, retried successfully.
+**Topics processed (4):**
 
-### Topic 2: Framework — Step Up or Step Out
-- Carousels: step-up-framework (8 slides), step-up-signs (7 slides)
-- Footer: "Author | Keynote Speaker"
-- GitHub: carousels/step-up-or-step-out-framework-2026-03-27/
-- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
-- Posts: 18 (9 per carousel)
-- Issues: None
+### Topic 1: Service: School Leadership PD Day (Row 66)
+- **Carousels**: what-a-pd-day-looks-like (8 slides), why-book-jonno-pd-day (7 slides)
+- **Sizes**: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920
+- **Pin**: Created (1000x1500)
+- **Video**: Created (1080x1920 MP4, 4 sec/slide)
+- **Role line**: Certified Working Genius Facilitator | Author (school topic)
+- **GitHub folder**: carousels/school-leadership-pd-day-2026-03-27/
+- **Buffer scheduling**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky — all scheduled (Mar 31 - Apr 15)
+- **TikTok**: Scheduled Mar 31
+- **YouTube**: Scheduled Apr 25-26
 
-### Topic 3: Blog — The Personal Histories Exercise
-- Carousels: personal-histories-what (8 slides), personal-histories-why (7 slides)
-- Footer: "Leadership Team Facilitator | Keynote Speaker | Author"
-- GitHub: carousels/personal-histories-exercise-2026-03-27/
-- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
-- Posts: 18 (9 per carousel)
-- Issues: None
+### Topic 2: Step Up or Step Out: The Framework (Row 67)
+- **Carousels**: step-up-step-out-framework (8 slides), 5-signs-have-conversation (7 slides)
+- **Sizes**: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920
+- **Pin**: Created (1000x1500)
+- **Video**: Created (1080x1920 MP4, 4 sec/slide)
+- **Role line**: Leadership Team Facilitator | Author
+- **GitHub folder**: carousels/step-up-step-out-2026-03-27/
+- **Buffer scheduling**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky — all scheduled (Apr 1 - Apr 8)
+- **TikTok**: Scheduled Apr 3
+- **YouTube**: Scheduled Apr 23-24
 
-### Topic 4: Book Rec — The Ideal Team Player by Patrick Lencioni
-- Carousels: ideal-team-player-book (8 slides), ideal-team-player-missing (8 slides)
-- Footer: "Leadership Team Facilitator | Keynote Speaker | Author"
-- GitHub: carousels/ideal-team-player-book-rec-2026-03-27/
-- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
-- Posts: 18 (9 per carousel)
-- Issues: None
+### Topic 3: The Personal Histories Exercise (Row 68)
+- **Carousels**: build-trust-30-minutes (8 slides), how-to-run-personal-histories (7 slides)
+- **Sizes**: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920
+- **Pin**: Created (1000x1500)
+- **Video**: Created (1080x1920 MP4, 4 sec/slide)
+- **Role line**: Leadership Team Facilitator | Author
+- **GitHub folder**: carousels/personal-histories-exercise-2026-03-27/
+- **Buffer scheduling**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky — all scheduled (Apr 5 - Apr 12)
+- **TikTok**: Scheduled Apr 4
+- **YouTube**: Scheduled Apr 27-28
 
-### Scheduling Notes
-- TikTok: Mar 30 slots full (29 posts on Mar 29 UTC). Spread across Apr 4-15 UTC.
-- YouTube: Apr 6-9 rejected (max 10/day despite showing fewer). Moved to Apr 14-25.
-- All other platforms: addToQueue mode, auto-scheduled by Buffer.
+### Topic 4: Book Rec: The Ideal Team Player by Patrick Lencioni (Row 69)
+- **Carousels**: ideal-team-player-book (8 slides), are-you-ideal-team-player (7 slides)
+- **Sizes**: Square 1080x1080, Portrait 1080x1350, Vertical 1080x1920
+- **Pin**: Created (1000x1500)
+- **Video**: Created (1080x1920 MP4, 4 sec/slide)
+- **Role line**: Leadership Team Facilitator | Author
+- **GitHub folder**: carousels/ideal-team-player-book-rec-2026-03-27/
+- **Buffer scheduling**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky — all scheduled (Apr 10 - Apr 20)
+- **TikTok**: Scheduled Apr 6
+- **YouTube**: Scheduled Apr 29-30
 
-### GitHub Upload Summary
-- All 8 carousels × 3 sizes + 4 Pinterest pins uploaded successfully
-- 8 videos uploaded successfully
-- 3 initial upload failures retried and resolved
-- GitHub upload timeout on first batch (10 min); second batch completed remaining files
+### Skipped Row
+- **Row 65 (Testimonial: Ian Cumming)**: Skipped — no verifiable testimonial found online. Marked as "Skipped" in content calendar per rule: never fabricate testimonial quotes.
 
-### Files Updated
-- content-calendar.xlsx: Rows 66-69 marked "Scheduled"
-- carousel-log.xlsx: 8 new entries (rows 193-200)
-- run-log.md: This entry
+### Summary
+- **Total carousels created**: 8 (2 per topic)
+- **Total slides**: 60 (8+7+8+7+8+7+8+7)
+- **Total images uploaded to GitHub**: ~180 (60 slides × 3 sizes)
+- **Total pins created**: 8
+- **Total videos created**: 8
+- **Total Buffer posts scheduled**: 72 (8 carousels × 9 platforms)
+- **Pinterest**: Skipped (no boards configured)
+- **Errors**: YouTube daily limit (10/day) hit on multiple dates; shifted to Apr 23-30. TikTok daily limit (25/day) hit on Apr 5; shifted to Apr 6. Some GitHub uploads needed retry due to intermittent failures.
+- **Content calendar rows processed**: 65 (Skipped), 66, 67, 68, 69
+- **Handle database additions**: None this session
+- **Data files pushed to GitHub**: Once (end of session)
