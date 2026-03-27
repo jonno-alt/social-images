@@ -1809,3 +1809,21 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Content calendar rows processed**: 61 (T1 First Year Principal), 62 (T2 Hidden Potential), 63 (T3 Team Dysfunction), 64 (T4 Coaching for Leaders)
 - **Handle database additions**: Adam Grant (row 88, Topic 2), Dave Stachowiak (row 89, Topic 4)
 - **Data files pushed to GitHub**: 4 times (once after each topic completion)
+
+## Topic 1: Testimonial: Ian Cumming, Australia - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: 1 of 4
+- **Carousels built**: 
+  - Ian Cumming Testimonial (10 slides)
+  - What Great Coaching Looks Like (8 slides)
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky (8/9)
+- **YouTube**: Queue at capacity (100 scheduled posts). Log for manual upload.
+- **TikTok**: Carousel 1 scheduled Apr 1, Carousel 2 scheduled Apr 2 (daily limits active)
+- **Footer role**: Leadership Coach | Author | Keynote Speaker
+- **Testimonial quote**: VERIFIED from consultclarity.org/testimonials
+- **Handle research**: Ian Cumming - LinkedIn only (VERIFIED). No other social platforms found.
+- **Decisions**: Built 2 carousels from single testimonial - one for the quote itself, one for coaching principles derived from it.
+- **Errors**: YouTube queue full (100 posts). TikTok Apr 1 limit hit for carousel 2, rescheduled to Apr 2.
+- **Native action items**: Upload both videos to YouTube manually. 
+- **Daily counts**: TikTok Mar 27: 19, Mar 28-31: heavy. YouTube: queue at 100 max.
+- **Excel files updated**: content-calendar, carousel-log, handle-database
