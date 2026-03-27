@@ -1149,3 +1149,16 @@
 - YouTube: LIMIT REACHED — needs manual upload. Video at carousels/public-speaking/videos/public-speaking-youtube.mp4 (56sec, under 60sec limit)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: TikTok daily limit (25 posts/24hrs) and YouTube daily limit (10 posts/24hrs) both exceeded from previous session runs. Videos uploaded to GitHub and ready for manual scheduling.
+
+## Presentation Skills — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 20
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Vinh Giang, Brenden Kumarasamy, Nancy Duarte, Carmine Gallo, David JP Phillips, Conor Neill, Alex Lyon (7 total across all platforms, max 4 per platform)
+- Cross-platform overlap: ~40% (many people active across multiple platforms in this niche)
+- Slug: presentation-skills
+- Posts scheduled: 7/8 (YouTube saved as draft — 100 scheduled post queue limit reached)
+- TikTok scheduled: 2026-03-28 via customScheduled (daily limit hit for March 27)
+- YouTube: Saved as DRAFT (Buffer queue full at 100 posts). Manual scheduling needed.
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Video durations: TikTok=56s, YouTube=56s (both under 60s limit)
+- Issues: TikTok daily limit reached for March 27, scheduled for March 28. YouTube Buffer queue at 100 posts (max), saved as draft instead.
