@@ -1162,3 +1162,16 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
 - Video durations: TikTok=56s, YouTube=56s (both under 60s limit)
 - Issues: TikTok daily limit reached for March 27, scheduled for March 28. YouTube Buffer queue at 100 posts (max), saved as draft instead.
+
+## Written Communication — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: 16
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Jefferson Fisher, Cole Schafer, Alex Cattoni, Erin McGoff, Jeff Su, Dianna Booher (6 total across platforms, max 3 per platform)
+- Cross-platform overlap: ~60% (written communication is a narrow niche with limited platform-specific differentiation)
+- Slug: written-communication
+- Posts scheduled: 8/8 (Facebook had existing post from previous partial run)
+- YouTube scheduled: 2026-07-05 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-13 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- New people added to database: 10 (Ann Handley, Mignon Fogarty, Josh Bernoff, Laura Belgray, Joanna Wiebe, Shani Raja, Bryan Garner, Henneke Duistermaat, Bill Birchard, Soph/Workbaby)
+- Issues: Facebook duplicate detection triggered on multiple attempts — existing Written Communication post found (69c643ae) from previous partial run. Used existing post. Written communication is a narrow niche making 60% platform uniqueness difficult to achieve.
