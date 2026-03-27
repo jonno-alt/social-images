@@ -1009,3 +1009,17 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful (7 retries)
 - Issues: None
+
+## Procrastination — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 45
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Mel Robbins, Ali Abdaal, Thomas Frank, Andrew Huberman, Cal Newport, Matt D'Avella, Nir Eyal, Rory Vaden, Sahil Lavingia
+- Cross-platform overlap: ~30%
+- Slug: procrastination
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-24 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-02 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (7 retries)
+- Issues: None
