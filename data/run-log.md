@@ -957,3 +957,22 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful
 - Issues: None
+
+---
+
+## Topic 4: Energy Management
+- **Date**: 2026-03-27
+- **Images Generated**: 47 (FB:6, IG:6, TikTok:8, Threads:10, X:4, YT:8, GBiz:1, Bluesky:4)
+- **Videos Generated**: 2 (YouTube, TikTok)
+- **GitHub Uploads**: 49 (47 images + 2 videos), 1 retry
+- **Buffer Posts**: 8/8 scheduled
+  - Facebook: 69c5c9bb084613e3f1e7bced (addToQueue)
+  - Instagram: 69c5c9bdd05e1e11aeeb2abb (addToQueue)
+  - Threads: 69c5c9bf084613e3f1e7bd24 (addToQueue)
+  - X/Twitter: 69c5c9c0d05e1e11aeeb2aee (addToQueue)
+  - Google Business: 69c5c9d2d05e1e11aeeb2b60 (addToQueue)
+  - Bluesky: 69c5c9d4084613e3f1e7bda4 (addToQueue)
+  - YouTube: 69c5c9d4d05e1e11aeeb2bb3 (customScheduled 2026-06-22)
+  - TikTok: 69c5c9dbd05e1e11aeeb2be9 (customScheduled 2026-06-30)
+- **New People Added**: 14
+- **Featured People**: Jim Loehr, Tony Schwartz, Greg McKeown, Dr. Saundra Dalton-Smith, Molly Fletcher, Ron Friedman, Dr. Matthew Walker, Dr. Rangan Chatterjee, Christine Porath, Cassie Holmes, Amelia Nagoski, Dr. Adam Fraser, Helene Segura, Dr. Mithu Storoni, Dr. Elissa Epel, Pedram Shojai, Nick Littlehales
