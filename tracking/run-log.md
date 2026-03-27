@@ -1206,3 +1206,75 @@
 **New handles added:** 5 (Debra Fine, Divas Gupta, Patrick King, Tomas Svitorka, Rich Gallagher)
 **Handles updated:** 5 (Charlie Houpert, Brenden Kumarasamy, Dan O'Connor, Celeste Headlee, Yasir Khan)
 **Cross-platform overlap:** ~55% (conversation skills is a moderately broad niche)
+
+---
+
+### Topic 3: Nonviolent Communication
+**Completed:** 2026-03-27 21:37 UTC
+
+**Rosters:**
+- Facebook: 8 (Marshall Rosenberg Legacy, Oren Jay Sofer, Roxy Manning, Miki Kashtan, Yoram Mosenzon, Center for NVC, PuddleDancer Press, Kathy Simon)
+- Instagram: 8 (Oren Jay Sofer, Roxy Manning, Miki Kashtan, Yoram Mosenzon, PuddleDancer Press, Nati Beltrán, Center for NVC, Tracy Seed)
+- TikTok: 12 | Threads: 8 | X: 8 | YouTube: 12 | Google Business: 6 | Bluesky: 5
+
+**Images:** 83 carousel images + 2 videos
+**GitHub:** 85/85 uploaded to jonno-alt/social-images
+**Buffer Posts:** 8/8 platforms scheduled
+- Facebook: 69c6f86fdd5003d0a6ee9be0 → 2026-04-17
+- Instagram: 69c6f871dd5003d0a6ee9c06 → 2026-04-16
+- Threads: 69c6f872748a22558311e069 → 2026-04-16
+- X: 69c6f882dd5003d0a6ee9c52 → 2026-04-17
+- Google Business: 69c6f883dd5003d0a6ee9c78 → 2026-04-16
+- Bluesky: 69c6f884748a22558311e0a8 → 2026-04-16
+- YouTube: 69c6f890dd5003d0a6ee9cb7 → 2026-07-07 (customScheduled)
+- TikTok: 69c6f897dd5003d0a6ee9cdd → 2026-07-15 (customScheduled)
+
+**New handles added:** 10 (Oren Jay Sofer, Roxy Manning, Miki Kashtan, Yoram Mosenzon, PuddleDancer Press, NVC Academy, Nati Beltrán, Kathy Simon, Tracy Seed, Emma Collins)
+**Cross-platform overlap:** ~40% (NVC is a specialized niche with distinct community figures)
+
+---
+
+### Topic 4: Assertiveness
+**Completed:** 2026-03-27 21:49 UTC
+
+**Rosters:**
+- Facebook: 8 (Nedra Glover Tawwab, Amy Morin, Dr. Aziz Gazipura, Sharon Martin, Patrick King, Randy J. Paterson, Vanessa Van Edwards, Brené Brown)
+- Instagram: 8 (Nedra Tawwab, Amy Morin, Dr. Aziz, Sharon Martin, Brené Brown, Vanessa Van Edwards, Vinh Giang, Soph/Workbaby)
+- TikTok: 12 | Threads: 8 | X: 8 | YouTube: 12 | Google Business: 6 | Bluesky: 5
+
+**Images:** 83 carousel images + 2 videos
+**GitHub:** 85/85 uploaded to jonno-alt/social-images
+**Buffer Posts:** 8/8 platforms scheduled
+- Facebook: 69c6fb18dd5003d0a6eea703 → 2026-04-17
+- Instagram: 69c6fb1b748a22558311ecdf → 2026-04-16
+- Threads: 69c6fb1d748a22558311ed09 → 2026-04-16
+- X: 69c6fb2c748a22558311ed2f → 2026-04-17
+- Google Business: 69c6fb2cdd5003d0a6eea75c → 2026-04-17
+- Bluesky: 69c6fb2d748a22558311ed55 → 2026-04-17
+- YouTube: 69c6fb3bdd5003d0a6eea800 → 2026-07-08 (customScheduled)
+- TikTok: 69c6fb41dd5003d0a6eea826 → 2026-07-16 (customScheduled)
+
+**New handles added:** 5 (Nedra Glover Tawwab, Amy Morin, Dr. Aziz Gazipura, Sharon Martin, Randy J. Paterson)
+**Cross-platform overlap:** ~50% (assertiveness overlaps with boundaries and confidence niches)
+
+---
+
+## Run Summary
+**Run Date:** 2026-03-27
+**Topics Completed:** 4/4
+- Written Communication ✓
+- Small Talk & Conversation Skills ✓
+- Nonviolent Communication ✓
+- Assertiveness ✓
+
+**Total Output:**
+- 332 carousel images generated
+- 8 videos created (4 TikTok + 4 YouTube)
+- 340 files uploaded to GitHub
+- 32 Buffer posts scheduled (8 per topic × 4 topics)
+- 30 new people added to Handles database
+- 5 existing handles updated
+
+**Queue Positions After Run:**
+- YouTube: Next available slot → 2026-07-09
+- TikTok: Next available slot → 2026-07-17
