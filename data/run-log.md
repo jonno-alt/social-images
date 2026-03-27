@@ -1102,3 +1102,14 @@
 - TikTok path: 2 (placeholder, 12 people > 10)
 - TikTok scheduled: 2026-07-07 via customScheduled
 - Issues: None
+
+## Goal Setting — 2026-03-27
+- People: 13 (11 new, 2 returning)
+- Returning names: Michael Hyatt, Benjamin Hardy
+- Slug: goal-setting
+- Slides: 72 (cover + people + CTA per platform)
+- Posts scheduled: 8/8 (all successful)
+- YouTube scheduled: 2026-06-30 via customScheduled
+- TikTok path: 2 (placeholder, 12 people > 10)
+- TikTok scheduled: 2026-07-08 via customScheduled
+- Issues: None
