@@ -1098,3 +1098,38 @@ Sherry Turkle, Tristan Harris, Aza Raskin, Dr. Anna Lembke, Catherine Price, Jos
 ### Assets:
 - Images: GitHub `carousels/digital-minimalism/{platform}/`
 - Videos: GitHub `carousels/digital-minimalism/videos/`
+
+---
+
+## Topic 4: Morning Routines (Priority 87)
+**Processed:** 2026-03-27
+**Status:** DONE
+
+### Platforms Scheduled:
+| Platform | Post ID | Status | Due Date |
+|----------|---------|--------|----------|
+| Facebook | 69c5fc08d05e1e11aeec22fa | scheduled | 2026-04-14 |
+| Instagram | 69c5fc09d05e1e11aeec2320 | scheduled | 2026-04-14 |
+| Threads | 69c5fc18d05e1e11aeec23de | scheduled | 2026-04-14 |
+| X/Twitter | 69c5fc19d05e1e11aeec2404 | scheduled | 2026-04-14 |
+| Google Business | 69c5fc24d05e1e11aeec243a | scheduled | 2026-04-14 |
+| Bluesky | 69c5fc25084613e3f1e8b6b0 | scheduled | 2026-04-14 |
+| TikTok | — | failed (daily limit) | — |
+| YouTube | — | failed (daily limit) | — |
+
+### People Featured:
+- **Facebook (7):** Tim Ferriss, Robin Sharma, Hal Elrod, Arianna Huffington, Laura Vanderkam, Benjamin Hardy, Jay Shetty
+- **Instagram (7):** Hal Elrod, Mel Robbins, Shawn Stevenson, Dr. Andrew Huberman, Marie Forleo, Rachel Hollis, Dr. Rangan Chatterjee
+- **TikTok (10):** Tim Ferriss, Robin Sharma, Mel Robbins, Dr. Andrew Huberman, Wim Hof, Sadhguru, James Clear, Dr. Chatterjee, Mark Wahlberg, Jocko Willink
+- **Threads (12):** Robin Sharma, Hal Elrod, Laura Vanderkam, Dr. Andrew Huberman, Arianna Huffington, Jay Shetty, Wim Hof, Benjamin Hardy, Shawn Stevenson, Marie Forleo, Rachel Hollis, Mark Wahlberg
+- **X/Twitter (2):** Tim Ferriss, Jocko Willink
+- **YouTube (10):** Hal Elrod, Mel Robbins, Shawn Stevenson, Dr. Andrew Huberman, Wim Hof, Sadhguru, James Clear, Jocko Willink, Marie Forleo, Jay Shetty
+- **Google Business (cover only):** Tim Ferriss, Robin Sharma, Hal Elrod, Dr. Andrew Huberman, Mel Robbins, Arianna Huffington
+- **Bluesky (5):** Robin Sharma, Hal Elrod, Laura Vanderkam, Dr. Andrew Huberman, Arianna Huffington
+
+### New People Added to Database: 3
+Shawn Stevenson, Dr. Andrew Huberman, Mark Wahlberg
+
+### Assets:
+- Images: GitHub `carousels/morning-routines/{platform}/`
+- Videos: GitHub `carousels/morning-routines/videos/`
