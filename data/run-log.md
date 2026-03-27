@@ -1050,3 +1050,16 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Videos: TikTok (52sec), YouTube (52sec) — both uploaded to GitHub
 - Issues: Buffer duplicate detection blocked FB/Threads/Bluesky (previous partial run had work-smarter posts). TikTok and YouTube hit daily creation limits. 40 new people added to database.
+
+## Single-Tasking & Monotasking — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 48
+- Per-platform roster sizes: FB=7/8max, IG=7/8max, TikTok=10, Threads=12/18max, X=7, YT=10, GBiz=6, Bluesky=5
+- Returning names: Dave Crenshaw (FB, from T1), Nir Eyal (Threads, from prev), Cal Newport (TT/YT, from T1), Mike Vardy (X, from prev), Deb Lee (X, from T1), David Kadavy (X, from T1), Thomas Frank (YT, from prev), Matt D'Avella (YT, from prev), Ali Abdaal (YT, from prev), Gillian Perkins (YT/Threads, from T1)
+- Cross-platform overlap: ~20% (acceptable — Chris Bailey on IG+Threads, Johann Hari on TT+Threads, Gloria Mark on TT+Threads+Bluesky, Leo Babauta on FB+Threads, etc.)
+- Slug: single-tasking-monotasking
+- Posts scheduled: 6/8 (FB, IG, Threads, X, GBiz, Bluesky all scheduled; TikTok/YouTube hit daily API creation limits)
+- YouTube: BLOCKED — daily creation limit. Video uploaded to GitHub for manual scheduling.
+- TikTok: BLOCKED — daily creation limit (25 posts). Video uploaded to GitHub for manual scheduling.
+- Image counts: FB=9/10, IG=9/10, Threads=14/20, X=4/4, Bluesky=4/4, GBiz=1
+- Videos: TikTok (48sec), YouTube (48sec) — both under 60sec limit
+- Issues: TikTok and YouTube daily API creation limits. 19 new people added to database. Niche topic with excellent specialist coverage.
