@@ -860,3 +860,49 @@
 - **Total carousel assets on GitHub:** ~3,000 (2,880 PNGs + 120 videos)
 - **Series coverage:** All 6 series at 20 stories each (balanced).
 - **Next story number:** 121
+
+---
+
+## Run #13 - 2026-03-27
+
+**Stories Created:** 4 (Stories 121-124)
+**Type Mix:** 3 TRUE + 1 FICTIONAL
+**GitHub Commit:** b3463b79
+**Buffer Posts:** 36 (9 platforms x 4 stories)
+
+### Stories
+| # | Series | Type | Hook |
+|---|--------|------|------|
+| 121 | The Team That Looks Fine But Isn't | TRUE | Sound financial condition. Dead in 48 hours. |
+| 122 | The Meeting That Changed Everything | TRUE | Day one as CEO. He killed quarterly reports. |
+| 123 | The Leader Who Thought It Was a People Problem | FICTIONAL | Blamed six teachers. The timetable was broken. |
+| 124 | The Question That Changed Everything | TRUE | Membership was dying. One question saved it. |
+
+### Decisions
+- Batch size: 4 (per Settings tab)
+- All 6 series at 20 stories each; cycled through first 4 in order
+- TRUE stories: SVB collapse (2023), Paul Polman/Unilever (2009), Frances Hesselbein/Girl Scouts (1976)
+- FICTIONAL: School principal blaming teachers when timetable structure was the real problem
+
+### Platform Scheduling
+- LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, Bluesky: addToQueue (automatic)
+- TikTok: customScheduled (daily limit) - May 12-15, 10:00 AEST
+- YouTube: customScheduled (daily limit) - May 29, 30, 31, Jun 1, 10:00 AEST
+- Pinterest: SKIPPED (no boards configured)
+
+### Errors & Retries
+- TikTok/YouTube daily limits (switched to customScheduled as per protocol)
+- 1 Facebook Bad Gateway on Story 124 image fetch (retried successfully)
+- 1 X/Twitter 280-char exceeded on Story 123 (shortened and retried successfully)
+- 1 TikTok 150-char limit on Story 122 (shortened and retried successfully)
+
+### Quality Gates
+- All 4 stories: 8 slides x 3 sizes = 96 PNGs total ✓
+- All 4 videos: ~32 seconds each ✓
+- Cover slides visually verified: brand colors, text hierarchy, footer ✓
+- Content slides verified: readable text, proper margins ✓
+
+### Running Totals
+- Total stories: 124
+- Total Buffer posts: ~1,116 (estimated)
+- Total runs: 13
