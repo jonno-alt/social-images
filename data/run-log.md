@@ -1077,3 +1077,17 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful
 - Issues: Bluesky blocked by Buffer duplicate detection from previous partial run. Niche topic limits unique expert pool.
+
+## Morning Routines — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 37
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: 30 (common productivity topic with heavily-featured names)
+- Cross-platform overlap: ~57%
+- Slug: morning-routines
+- Posts scheduled: 5/8 (IG, GBiz, X, TikTok, YT scheduled; FB/Threads/Bluesky blocked by duplicate detection)
+- YouTube scheduled: 2026-06-28 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-06 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: FB, Threads, Bluesky blocked by Buffer duplicate detection from previous partial run. Images uploaded to GitHub for manual posting.
