@@ -1133,3 +1133,97 @@ Shawn Stevenson, Dr. Andrew Huberman, Mark Wahlberg
 ### Assets:
 - Images: GitHub `carousels/morning-routines/{platform}/`
 - Videos: GitHub `carousels/morning-routines/videos/`
+
+## Flow State — 2026-03-27 (Topic 1 of 4)
+- **Unique people featured:** ~16 across all platforms
+- **Cross-platform overlap:** Moderate (~40% — niche topic with smaller expert community)
+
+### Platforms Scheduled:
+| Platform | Post ID | Status | Due Date |
+|----------|---------|--------|----------|
+| Facebook | 69c6091b084613e3f1e8f272 | scheduled | 2026-04-15 |
+| Instagram | 69c6091d084613e3f1e8f298 | scheduled | 2026-04-15 |
+| Threads | 69c6091e084613e3f1e8f2be | scheduled | 2026-04-14 |
+| X/Twitter | 69c6092fd05e1e11aeec5f81 | scheduled | 2026-04-15 |
+| Google Business | 69c60931d05e1e11aeec5fa7 | scheduled | 2026-04-15 |
+| Bluesky | 69c60930084613e3f1e8f324 | scheduled | 2026-04-15 |
+| TikTok | 69c6093e084613e3f1e8f376 | scheduled | 2026-07-09 |
+| YouTube | 69c60943d05e1e11aeec5fff | scheduled | 2026-07-01 |
+
+### People Featured:
+- **Facebook (8):** Steven Kotler, Jamie Wheal, Keith Sawyer, Diane Allen, Wilson Meloncelli, Dr Cindra Kamphoff, Dr Sue Jackson, Rian Doris
+- **Instagram (8):** Jason Silva, Cameron Norsworthy, Wilson Meloncelli, Diane Allen, Flow Research Collective, Rian Doris, Dr Cindra Kamphoff, Steven Kotler
+- **TikTok (12):** Jason Silva, Ali Abdaal, Dan Koe, Andrew Huberman, Steven Kotler, Rian Doris, Wilson Meloncelli, Matt D'Avella, Thomas Frank, Dr Scott Barry Kaufman, Diane Allen, Dr Cindra Kamphoff
+- **Threads (8):** Steven Kotler, Jason Silva, Cameron Norsworthy, Wilson Meloncelli, Diane Allen, Dr Cindra Kamphoff, Keith Sawyer, Dr Sue Jackson
+- **X/Twitter (8):** Steven Kotler, Jason Silva, Scott Barry Kaufman, Jamie Wheal, Keith Sawyer, Dr Adam Gazzaley, Rian Doris, Wilson Meloncelli
+- **YouTube (12):** Jason Silva, Steven Kotler, Ali Abdaal, Dan Koe, Andrew Huberman, Rian Doris, Jamie Wheal, Wilson Meloncelli, Dr Scott Barry Kaufman, Diane Allen, Dr Cindra Kamphoff, Mihaly Robert Csikszentmihalyi Jr.
+- **Google Business (7):** Steven Kotler, Jamie Wheal, Keith Sawyer, Dr Sue Jackson, Diane Allen, Wilson Meloncelli, Rian Doris
+- **Bluesky (5):** Steven Kotler, Keith Sawyer, Dr Scott Barry Kaufman, Jamie Wheal, Dr Adam Gazzaley
+
+### Assets:
+- Images: GitHub `carousels/flow-state/{platform}/`
+- Videos: GitHub `carousels/flow-state/{tiktok,youtube}/video.mp4`
+
+---
+
+## Attention Management — 2026-03-27 (Topic 2 of 4)
+- **Unique people featured:** ~14 across all platforms
+- **Cross-platform overlap:** Moderate (~45% — established field with core thought leaders)
+
+### Platforms Scheduled:
+| Platform | Post ID | Status | Due Date |
+|----------|---------|--------|----------|
+| Facebook | 69c60af3084613e3f1e8f7f8 | scheduled | 2026-04-15 |
+| Instagram | 69c60af7d05e1e11aeec64f7 | scheduled | 2026-04-15 |
+| Threads | 69c60af9084613e3f1e8f81e | scheduled | 2026-04-14 |
+| X/Twitter | 69c60b0b084613e3f1e8f847 | scheduled | 2026-04-15 |
+| Google Business | 69c60b0dd05e1e11aeec654f | scheduled | 2026-04-15 |
+| Bluesky | 69c60b0cd05e1e11aeec6529 | scheduled | 2026-04-15 |
+| TikTok | 69c60b1c084613e3f1e8f872 | scheduled | 2026-07-10 |
+| YouTube | 69c60b21d05e1e11aeec6574 | scheduled | 2026-07-02 |
+
+### People Featured:
+- **Facebook (8):** Nir Eyal, Cal Newport, Dr Gloria Mark, Johann Hari, Maura Thomas, Chris Bailey, Dr Judson Brewer, Dr Adam Gazzaley
+- **Instagram (8):** Nir Eyal, Cal Newport, Dr Gloria Mark, Dr Amishi Jha, Chris Bailey, Johann Hari, Maura Thomas, Dr Adam Gazzaley
+- **TikTok (12):** Ali Abdaal, Thomas Frank, Matt D'Avella, Andrew Huberman, Dan Koe, Nir Eyal, Cal Newport, Johann Hari, Dr Gloria Mark, Chris Bailey, Dr Amishi Jha, Maura Thomas
+- **Threads (8):** Nir Eyal, Cal Newport, Dr Gloria Mark, Johann Hari, Maura Thomas, Chris Bailey, Dr Judson Brewer, Dr Adam Gazzaley
+- **X/Twitter (8):** Nir Eyal, Dr Scott Barry Kaufman, Dr Adam Gazzaley, Johann Hari, Cal Newport, Maura Thomas, Chris Bailey, Dr Gloria Mark
+- **YouTube (12):** Ali Abdaal, Thomas Frank, Matt D'Avella, Andrew Huberman, Dan Koe, Cal Newport, Nir Eyal, Johann Hari, Dr Gloria Mark, Chris Bailey, Dr Amishi Jha, Maura Thomas
+- **Google Business (7):** Nir Eyal, Cal Newport, Maura Thomas, Dr Gloria Mark, Johann Hari, Dr Adam Gazzaley, Dr Amishi Jha
+- **Bluesky (5):** Cal Newport, Dr Gloria Mark, Nir Eyal, Johann Hari, Dr Adam Gazzaley
+
+### Assets:
+- Images: GitHub `carousels/attention-management/{platform}/`
+- Videos: GitHub `carousels/attention-management/{tiktok,youtube}/video.mp4`
+
+---
+
+## Public Speaking — 2026-03-27 (Topic 3 of 4)
+- **Unique people featured:** 16 across all platforms
+- **Cross-platform overlap:** Moderate (~35% — large creator community with diverse voices)
+
+### Platforms Scheduled:
+| Platform | Post ID | Status | Due Date |
+|----------|---------|--------|----------|
+| Facebook | 69c60cb6d05e1e11aeec6a30 | scheduled | 2026-04-15 |
+| Instagram | 69c60cb8084613e3f1e8fd03 | scheduled | 2026-04-15 |
+| Threads | 69c60cb9084613e3f1e8fd29 | scheduled | 2026-04-14 |
+| X/Twitter | 69c60cd3d05e1e11aeec6a67 | scheduled | 2026-04-15 |
+| Google Business | 69c60cd5084613e3f1e8fd6e | scheduled | 2026-04-15 |
+| Bluesky | 69c60cd4d05e1e11aeec6a8d | scheduled | 2026-04-15 |
+| TikTok | 69c61a71d05e1e11aeecb6cc | scheduled | 2026-07-11 |
+| YouTube | 69c61a6b084613e3f1e94bc9 | scheduled | 2026-07-03 |
+
+### People Featured:
+- **Facebook (8):** Vinh Giang, Nancy Duarte, Carmine Gallo, Chris Anderson, Brenden Kumarasamy, Alexander Lyon, Conor Neill, Lisa Nichols
+- **Instagram (8):** Vinh Giang, Carmine Gallo, Brenden Kumarasamy, Heather Morrison, Chris Anderson, Nancy Duarte, Matt Abrahams, Lisa Nichols
+- **TikTok (12):** Vinh Giang, Yasir Khan, Brenden Kumarasamy, Heather Morrison, Dan O'Connor, Carmine Gallo, Matt Abrahams, Alexander Lyon, Lisa Nichols, Divas Gupta, Chris Haroun, Julian Treasure
+- **Threads (8):** Vinh Giang, Carmine Gallo, Nancy Duarte, Brenden Kumarasamy, Chris Anderson, Matt Abrahams, Julian Treasure, Heather Morrison
+- **X/Twitter (8):** Nancy Duarte, Carmine Gallo, Chris Anderson, Vinh Giang, Matt Abrahams, Brenden Kumarasamy, Julian Treasure, Conor Neill
+- **YouTube (12):** Vinh Giang, Brenden Kumarasamy, Alexander Lyon, Dan O'Connor, Conor Neill, Matt Abrahams, Carmine Gallo, Chris Haroun, Julian Treasure, Nancy Duarte, Lisa Nichols, Yasir Khan
+- **Google Business (7):** Nancy Duarte, Carmine Gallo, Chris Anderson, Vinh Giang, Matt Abrahams, Julian Treasure, Lisa Nichols
+- **Bluesky (5):** Nancy Duarte, Carmine Gallo, Chris Anderson, Matt Abrahams, Julian Treasure
+
+### Assets:
+- Images: GitHub `carousels/public-speaking/{platform}/`
+- Videos: GitHub `carousels/public-speaking/{tiktok,youtube}/video.mp4`
