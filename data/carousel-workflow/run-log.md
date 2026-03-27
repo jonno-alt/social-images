@@ -1923,3 +1923,28 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Bluesky: 3 posts (queued ~Apr 17)
 
 **Status**: Complete
+
+## Topic 4: Nobody Has Energy for Execution
+**Date**: 2026-03-28
+**Carousels Built**: 3
+- nobody-has-energy-signs (8 slides)
+- nobody-has-energy-causes (8 slides)
+- nobody-has-energy-solutions (8 slides)
+
+**Sizes**: Square (1080x1080), Portrait (1080x1350), Vertical (1080x1920), Pinterest Pin (1000x1500)
+**Videos**: 3 (1080x1920, 32s each)
+**Total Files**: 78 (uploaded to GitHub)
+**GitHub Path**: carousels/nobody-has-energy-2026-03-28/
+
+**Buffer Posts Scheduled**: 27
+- LinkedIn: 3 posts (queued ~Apr 11)
+- Facebook: 3 posts (queued ~Apr 17)
+- Instagram: 3 posts (queued ~Apr 17)
+- Threads: 3 posts (queued ~Apr 16-17)
+- X/Twitter: 3 posts (queued ~Apr 17)
+- Google Business: 3 posts (queued ~Apr 17)
+- TikTok: 3 posts (Jul 23-25, 2026)
+- YouTube: 3 posts (Jul 15-17, 2026)
+- Bluesky: 3 posts (queued ~Apr 17)
+
+**Status**: Complete
