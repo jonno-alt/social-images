@@ -1874,3 +1874,27 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Native action items**: None (no people to tag natively)
 - **Daily platform counts**: TikTok 20+ today (all future-dated), YouTube 10+ today (all future-dated)
 - **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
+
+
+## The Personal Histories Exercise - 2026-03-28
+- **Trigger**: Scheduled automated run
+- **Topic**: Topic 2 of 4 - The Personal Histories Exercise (Blog)
+- **Carousels built**: 3
+  - personal-histories-what (8 slides)
+  - personal-histories-how (8 slides)
+  - personal-histories-mistakes (8 slides)
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **People tagged**: None (methodology content, no individuals featured)
+- **Platforms scheduled**: 27 posts across 9 platforms
+  - LinkedIn: 3 (addToQueue)
+  - Facebook: 3 (addToQueue)
+  - Instagram: 3 (addToQueue, portrait)
+  - Threads: 3 (addToQueue)
+  - X/Twitter: 3 (addToQueue, 4 images)
+  - Google Business: 3 (addToQueue, 1 image, no video)
+  - Bluesky: 3 (addToQueue, 4 images)
+  - TikTok: 3 (customScheduled Jul 17-19, video)
+  - YouTube: 3 (customScheduled Jul 9-11, video, 32s each)
+- **Pinterest**: Skipped (no boards)
+- **Errors**: 1 GitHub upload failed initially, succeeded on retry
+- **Native action items**: None
