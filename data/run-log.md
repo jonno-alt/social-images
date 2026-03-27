@@ -1137,3 +1137,15 @@
 - TikTok scheduled: 2026-07-10 via customScheduled (Path 2, placeholder under 150 chars)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: Cal Newport famously avoids social media — no verified handles on any platform. Maura Thomas handles not found via search. Strong topic with clear anchor figures (Eyal, Newport, Mark, Hari).
+
+## Public Speaking — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 62
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Dorie Clark, Vinh Giang, Vanessa Van Edwards, Alexander Lyon (4 total, justified as public speaking defining figures)
+- Cross-platform overlap: ~25% (acceptable)
+- Slug: public-speaking
+- Posts scheduled: 6/8 (TikTok and YouTube hit 24-hour creation limits)
+- TikTok: LIMIT REACHED — needs manual upload. Video at carousels/public-speaking/videos/public-speaking-tiktok.mp4
+- YouTube: LIMIT REACHED — needs manual upload. Video at carousels/public-speaking/videos/public-speaking-youtube.mp4 (56sec, under 60sec limit)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit (25 posts/24hrs) and YouTube daily limit (10 posts/24hrs) both exceeded from previous session runs. Videos uploaded to GitHub and ready for manual scheduling.
