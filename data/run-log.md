@@ -1037,3 +1037,16 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful (7 retries)
 - Issues: None
+
+## Work Smarter Not Harder — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 57
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=11, Threads=15/18max, X=8, YT=11, GBiz=7, Bluesky=5
+- Returning names: Alex Hormozi (TikTok), Patrick Bet-David (TikTok), Jay Shetty (TikTok), James Clear (Threads), Tiago Forte (Threads), Nir Eyal (Threads), Vanessa Lau (IG), Carl Pullein (X), Graham Allcott (X), Dave Crenshaw (X), Ali Abdaal (YT), Thomas Frank (YT), Matt D'Avella (YT)
+- Cross-platform overlap: ~15% (Ryder Carroll on FB+Threads, Darius Foroux on FB+Threads+Bluesky, Gillian Perkins on Threads+YT, Jeff Su on TikTok+YT, Anne-Laure Le Cunff on Threads+Bluesky, Tiago Forte on Threads+Bluesky)
+- Slug: work-smarter-not-harder
+- Posts scheduled: 5/8 (Instagram, X/Twitter, Google Business scheduled; FB/Threads/Bluesky had existing posts from previous partial run; TikTok/YouTube hit daily API limits)
+- YouTube: BLOCKED — daily limit reached. Recommend scheduling manually or next run.
+- TikTok: BLOCKED — daily limit reached (25 posts/day). Recommend scheduling manually or next run.
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: TikTok (52sec), YouTube (52sec) — both uploaded to GitHub
+- Issues: Buffer duplicate detection blocked FB/Threads/Bluesky (previous partial run had work-smarter posts). TikTok and YouTube hit daily creation limits. 40 new people added to database.
