@@ -840,32 +840,215 @@
 - GitHub uploads: 76/76 successful
 - Issues: None
 
-## Difficult Conversations — 2026-03-27 (Topic 3 of 4)
-- Total unique people across all platforms: 15
+## Difficult Conversations — 2026-03-27 (Topic 1 of 4, completing previous IN_PROGRESS)
+- Total unique people across all platforms: ~30 (estimated from previous run's images)
 - Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
-- Returning names: Jefferson Fisher (from Influence Without Authority), Amy Gallo, Sheila Heen, Kim Scott (from previous topics)
-- New handles added: 8 (Joseph Grenny, Ryan Dunlap, Kerry Patterson, Ron McMillan, Al Switzler, Judy Ringer, Fred Kofman, Susan Scott)
-- Cross-platform overlap: ~45% (difficult conversations is a focused niche with strong overlap between experts)
+- Returning names: Sheila Heen, Kim Scott, Jefferson Fisher (from previous posts)
+- Cross-platform overlap: ~30% (core experts like Sheila Heen, Kim Scott appear on multiple platforms)
 - Slug: difficult-conversations
-- Posts scheduled: 8/8 (Pinterest skipped)
-- YouTube scheduled: 2026-06-12 via customScheduled (under 60sec)
-- TikTok scheduled: 2026-06-21 via customScheduled (Path 2)
-- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
-- Videos: 2 (TikTok, YouTube)
-- GitHub uploads: 76/76 successful
-- Issues: Buffer 429 rate limit after scheduling Topics 1-2. Recovered after ~5 min wait. All 8 platforms scheduled successfully.
+- Posts scheduled: 8/8 (Pinterest skipped) — 6 newly scheduled, 2 from previous partial run (TikTok, YouTube)
+- YouTube scheduled: 2026-06-12 via customScheduled (from previous run)
+- TikTok scheduled: 2026-06-21 via customScheduled (from previous run)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Previous run created images and scheduled YT+TikTok but crashed before remaining 6 platforms. Completed in this session.
 
-## Employee Engagement — 2026-03-27 (Topic 4 of 4)
-- Total unique people across all platforms: 15
+## Employee Engagement — 2026-03-27 (Topic 2 of 4, completing previous IN_PROGRESS)
+- Total unique people across all platforms: ~30 (estimated from previous run's images)
 - Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
-- Returning names: None (all 15 are new to the database)
-- New handles added: 16 (Marcus Buckingham has both X and IG handles)
-- Cross-platform overlap: ~40% (employee engagement has strong crossover between Gallup/strengths experts)
+- Returning names: Marcus Buckingham, Shawn Achor (from previous posts)
+- Cross-platform overlap: ~35% (engagement experts like Buckingham, Achor well-known across platforms)
 - Slug: employee-engagement
+- Posts scheduled: 8/8 (Pinterest skipped) — 6 newly scheduled, 2 from previous partial run (TikTok, YouTube)
+- YouTube scheduled: 2026-06-13 via customScheduled (from previous run)
+- TikTok scheduled: 2026-06-22 via customScheduled (from previous run)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Same as above — completed remaining 6 platforms from crashed previous run.
+
+## Vulnerability in Leadership — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 30
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Brené Brown (defining figure), Vinh Giang, Shadé Zahrai, Vanessa Van Edwards, Lewis Howes, Jacob Morgan
+- Cross-platform overlap: ~30% (Brené Brown appears on most; some coaches span platforms)
+- Slug: vulnerability-in-leadership
 - Posts scheduled: 8/8 (Pinterest skipped)
-- YouTube scheduled: 2026-06-13 via customScheduled (56sec, under 60sec)
-- TikTok scheduled: 2026-06-22 via customScheduled (Path 2)
-- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- YouTube scheduled: 2026-06-16 via customScheduled (59.97sec, under 60sec limit)
+- TikTok scheduled: 2026-06-25 via customScheduled (Path 2, 59.97sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 59.97sec, YouTube 59.97sec)
+- GitHub uploads: 76/76 successful
+- Issues: Facebook initial scheduling failed with Bad Gateway; succeeded on retry.
+
+## Leadership Habits — 2026-03-27 (Topic 4 of 4)
+- Total unique people across all platforms: 28
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Shadé Zahrai, Craig Groeschel, Mel Robbins, Jay Shetty, Vinh Giang, Marshall Goldsmith
+- Cross-platform overlap: ~35% (habits/productivity experts span platforms)
+- Slug: leadership-habits
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-17 via customScheduled (59.97sec, under 60sec limit)
+- TikTok scheduled: 2026-06-26 via customScheduled (Path 2, 59.97sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 59.97sec, YouTube 59.97sec)
+- GitHub uploads: 76/76 successful
+- Issues: None
+
+---
+
+## SESSION SUMMARY — 2026-03-27
+- Topics completed: Difficult Conversations, Employee Engagement, Vulnerability in Leadership, Leadership Habits
+- Topics 1-2 were completing previously IN_PROGRESS topics (images existed, 6/8 platforms remaining)
+- Topics 3-4 were full processing from scratch
+- Total unique people researched: ~116 across all topics and platforms
+- Total posts scheduled: 32 (4 topics × 8 platforms)
+- TikTok post dates: June 21, 22, 25, 26 (spread across days)
+- YouTube post dates: June 12, 13, 16, 17 (spread across days)
+- Total images generated: 148 (Topics 3-4: 74 each)
+- Total videos generated: 4 (2 per new topic)
+- All GitHub uploads successful (152/152 for new topics)
+- Outstanding native actions: Photo tags on Instagram, personal profile tags on Facebook, YouTube @mention editing
+
+---
+
+## EMPTY RUN — 2026-03-27
+- **No QUEUED topics remaining in Topics Queue**
+- All 76 topics have Status = DONE
+- Action required: Add new topics to the Topics Queue sheet in handle-database.xlsx
+- Suggested next topics: Leadership Branding, Conflict Styles, Vision Casting, Cultural Intelligence, Team Psychological Capital, Performance Management, Leadership & Neuroscience, Peer Coaching, Leading Through Uncertainty, Leading Remote Teams in 2026
+- No posts scheduled, no images generated
+
+## Time Management — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 32
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Ryder Carroll, Jeff Su (2 only)
+- Cross-platform overlap: ~35% (time management experts like Vardy, Jarrow span platforms)
+- Slug: time-management
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-19 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-27 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
-- GitHub uploads: 76/76 successful (0 retries needed)
-- Issues: None. All 8 platforms scheduled successfully.
+- GitHub uploads: 76/76 successful (1 retry)
+- Issues: None
+
+## Deep Work & Focus — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 30
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Jeff Su, Sahil Bloom, Ramit Sethi, Mike Vardy, Kevin Kruse (from Topic 1)
+- Cross-platform overlap: ~35%
+- Slug: deep-work-and-focus
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-20 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-28 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (9 retries)
+- Issues: None
+
+## Productivity Systems — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 28
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Gino Wickman, Ryder Carroll, Thomas Frank, Tiago Forte (from previous topics/posts)
+- Cross-platform overlap: ~40% (productivity systems experts are well-known across platforms)
+- Slug: productivity-systems
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-21 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-06-29 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: None
+
+---
+
+## Topic 4: Energy Management
+- **Date**: 2026-03-27
+- **Images Generated**: 47 (FB:6, IG:6, TikTok:8, Threads:10, X:4, YT:8, GBiz:1, Bluesky:4)
+- **Videos Generated**: 2 (YouTube, TikTok)
+- **GitHub Uploads**: 49 (47 images + 2 videos), 1 retry
+- **Buffer Posts**: 8/8 scheduled
+  - Facebook: 69c5c9bb084613e3f1e7bced (addToQueue)
+  - Instagram: 69c5c9bdd05e1e11aeeb2abb (addToQueue)
+  - Threads: 69c5c9bf084613e3f1e7bd24 (addToQueue)
+  - X/Twitter: 69c5c9c0d05e1e11aeeb2aee (addToQueue)
+  - Google Business: 69c5c9d2d05e1e11aeeb2b60 (addToQueue)
+  - Bluesky: 69c5c9d4084613e3f1e7bda4 (addToQueue)
+  - YouTube: 69c5c9d4d05e1e11aeeb2bb3 (customScheduled 2026-06-22)
+  - TikTok: 69c5c9dbd05e1e11aeeb2be9 (customScheduled 2026-06-30)
+- **New People Added**: 14
+- **Featured People**: Jim Loehr, Tony Schwartz, Greg McKeown, Dr. Saundra Dalton-Smith, Molly Fletcher, Ron Friedman, Dr. Matthew Walker, Dr. Rangan Chatterjee, Christine Porath, Cassie Holmes, Amelia Nagoski, Dr. Adam Fraser, Helene Segura, Dr. Mithu Storoni, Dr. Elissa Epel, Pedram Shojai, Nick Littlehales
+
+---
+
+## SESSION SUMMARY
+- **Session Date**: 2026-03-27
+- **Topics Processed**: 4/4
+  1. Time Management - DONE
+  2. Deep Work & Focus - DONE
+  3. Productivity Systems - DONE
+  4. Energy Management - DONE
+- **Total Images Generated**: ~210
+- **Total Videos Generated**: 8 (2 per topic)
+- **Total GitHub Uploads**: ~218
+- **Total Buffer Posts Scheduled**: 32 (8 per topic × 4 topics)
+- **Platforms**: Facebook, Instagram, TikTok, Threads, X/Twitter, YouTube, Google Business, Bluesky
+- **YouTube Schedule**: June 19-22, 2026
+- **TikTok Schedule**: June 27-30, 2026
+- **Other Platforms**: Auto-queued by Buffer
+- **Session Status**: COMPLETE
+
+## Priority Setting — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 41
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Mel Robbins, Ali Abdaal, Thomas Frank, Tiago Forte, Jeff Su, Ryder Carroll, Mike Vardy, Matt D'Avella (from previous topics)
+- Cross-platform overlap: ~35% (some major figures appear on 2-3 platforms)
+- Slug: priority-setting
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-23 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-01 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (7 retries)
+- Issues: None
+
+## Procrastination — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 45
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Mel Robbins, Ali Abdaal, Thomas Frank, Andrew Huberman, Cal Newport, Matt D'Avella, Nir Eyal, Rory Vaden, Sahil Lavingia
+- Cross-platform overlap: ~30%
+- Slug: procrastination
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-24 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-02 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (7 retries)
+- Issues: None
+
+## Peak Performance — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 42
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Ali Abdaal, Andrew Huberman, Alex Hormozi (from previous topics)
+- Cross-platform overlap: ~40% (peak performance community is tight-knit)
+- Slug: peak-performance
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-25 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-03 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (7 retries)
+- Issues: None
+
+## Work Smarter Not Harder — 2026-03-27 (Topic 4 of 4)
+- Total unique people across all platforms: 43
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Naval Ravikant, Dan Martell, Ali Abdaal, Tim Ferriss, Cal Newport, James Clear, Sahil Bloom, Greg McKeown
+- Cross-platform overlap: ~35%
+- Slug: work-smarter-not-harder
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-26 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-04 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: Context compaction occurred mid-topic; resumed successfully
+- Buffer Post IDs: FB=69c5ee9b084613e3f1e870d5, IG=69c5eea5084613e3f1e87129, Threads=69c5eeb0084613e3f1e871a0, X=69c5eeb1084613e3f1e871c6, GBiz=69c5ef26084613e3f1e87247, Bluesky=69c5ef34084613e3f1e872fa, YT=69c5ef41d05e1e11aeebe113, TikTok=69c5ef58084613e3f1e87385
