@@ -1841,3 +1841,36 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Key stats used**: 93.75% ASBA 2025, 29% teacher PD satisfaction, 23% higher test scores, 1.3M+ completions
 - **Errors**: Initial Instagram post failed (missing slide_01.png in portrait folder). Re-uploaded and retried successfully.
 - **Native action items**: Upload both videos to YouTube manually.
+
+
+## Step Up or Step Out: The Framework - 2026-03-28
+- **Trigger**: Scheduled automated run
+- **Topic**: Topic 1 of 4 - Step Up or Step Out: The Framework (Framework)
+- **Carousels built**: 3
+  - step-up-step-out-overview (8 slides)
+  - step-up-step-out-3-stages (8 slides)
+  - step-up-step-out-apply (8 slides)
+- **Footer role**: Author | Keynote Speaker
+- **People tagged**: None (Jonno's own framework/book content)
+- **Platforms scheduled**: 27 posts across 9 platforms (3 carousels x 9 platforms)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue, portrait images)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue, 4 images each)
+  - Google Business: 3 posts (addToQueue, 1 image each, no video)
+  - Bluesky: 3 posts (addToQueue, 4 images each)
+  - TikTok: 3 posts (customScheduled Jul 14-16, video only)
+  - YouTube: 3 posts (customScheduled Jul 6-8, video only, 32s each)
+- **Pinterest**: Skipped (no boards configured)
+- **Decisions made**:
+  - No people to tag since this is about Jonno's own book/framework
+  - Used "Author | Keynote Speaker" footer based on "Step Up or Step Out" keyword
+  - TikTok scheduled Jul 14-16 (after last known Jul 13)
+  - YouTube scheduled Jul 6-8 (after last known Jul 5)
+  - All videos 32 seconds (well under 60s YouTube Shorts limit)
+- **Handle research**: Not applicable (no people featured)
+- **Errors/warnings**: 10 GitHub uploads failed on first attempt, all succeeded on retry
+- **Native action items**: None (no people to tag natively)
+- **Daily platform counts**: TikTok 20+ today (all future-dated), YouTube 10+ today (all future-dated)
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx
