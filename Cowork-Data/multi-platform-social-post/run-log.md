@@ -979,22 +979,21 @@
 
 ---
 
-## SESSION SUMMARY — 2026-03-27 (Session 2)
+## SESSION SUMMARY
 - **Session Date**: 2026-03-27
 - **Topics Processed**: 4/4
-  1. Priority Setting - DONE
-  2. Procrastination - DONE
-  3. Peak Performance - DONE
-  4. Work Smarter Not Harder - DONE
-- **Total Images Generated**: 296 (74 per topic × 4 topics)
-- **Total Videos Generated**: 8 (2 per topic × 4 topics)
-- **Total GitHub Uploads**: 304 (76 per topic × 4 topics)
+  1. Time Management - DONE
+  2. Deep Work & Focus - DONE
+  3. Productivity Systems - DONE
+  4. Energy Management - DONE
+- **Total Images Generated**: ~210
+- **Total Videos Generated**: 8 (2 per topic)
+- **Total GitHub Uploads**: ~218
 - **Total Buffer Posts Scheduled**: 32 (8 per topic × 4 topics)
-- **New Names Added to Database**: 7 (Topic 4) + others from Topics 1-3
 - **Platforms**: Facebook, Instagram, TikTok, Threads, X/Twitter, YouTube, Google Business, Bluesky
-- **YouTube Schedule**: June 23-26, 2026 (1 per day)
-- **TikTok Schedule**: July 1-4, 2026 (1 per day)
-- **Other Platforms**: Auto-queued by Buffer (~April 14, 2026)
+- **YouTube Schedule**: June 19-22, 2026
+- **TikTok Schedule**: June 27-30, 2026
+- **Other Platforms**: Auto-queued by Buffer
 - **Session Status**: COMPLETE
 
 ## Priority Setting — 2026-03-27 (Topic 1 of 4)
@@ -1039,17 +1038,63 @@
 - GitHub uploads: 76/76 successful (7 retries)
 - Issues: None
 
-## Work Smarter Not Harder — 2026-03-27 (Topic 4 of 4)
-- Total unique people across all platforms: 43
-- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
-- Returning names: Naval Ravikant, Dan Martell, Ali Abdaal, Tim Ferriss, Cal Newport, James Clear, Sahil Bloom, Greg McKeown
-- Cross-platform overlap: ~35%
+## Work Smarter Not Harder — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 57
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=11, Threads=15/18max, X=8, YT=11, GBiz=7, Bluesky=5
+- Returning names: Alex Hormozi (TikTok), Patrick Bet-David (TikTok), Jay Shetty (TikTok), James Clear (Threads), Tiago Forte (Threads), Nir Eyal (Threads), Vanessa Lau (IG), Carl Pullein (X), Graham Allcott (X), Dave Crenshaw (X), Ali Abdaal (YT), Thomas Frank (YT), Matt D'Avella (YT)
+- Cross-platform overlap: ~15% (Ryder Carroll on FB+Threads, Darius Foroux on FB+Threads+Bluesky, Gillian Perkins on Threads+YT, Jeff Su on TikTok+YT, Anne-Laure Le Cunff on Threads+Bluesky, Tiago Forte on Threads+Bluesky)
 - Slug: work-smarter-not-harder
-- Posts scheduled: 8/8 (Pinterest skipped)
-- YouTube scheduled: 2026-06-26 via customScheduled (56sec, under 60sec limit)
-- TikTok scheduled: 2026-07-04 via customScheduled (Path 2, 56sec)
+- Posts scheduled: 5/8 (Instagram, X/Twitter, Google Business scheduled; FB/Threads/Bluesky had existing posts from previous partial run; TikTok/YouTube hit daily API limits)
+- YouTube: BLOCKED — daily limit reached. Recommend scheduling manually or next run.
+- TikTok: BLOCKED — daily limit reached (25 posts/day). Recommend scheduling manually or next run.
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
-- Videos: 2 (TikTok 56sec, YouTube 56sec)
-- GitHub uploads: 76/76 successful
-- Issues: Context compaction occurred mid-topic; resumed successfully
-- Buffer Post IDs: FB=69c5ee9b084613e3f1e870d5, IG=69c5eea5084613e3f1e87129, Threads=69c5eeb0084613e3f1e871a0, X=69c5eeb1084613e3f1e871c6, GBiz=69c5ef26084613e3f1e87247, Bluesky=69c5ef34084613e3f1e872fa, YT=69c5ef41d05e1e11aeebe113, TikTok=69c5ef58084613e3f1e87385
+- Videos: TikTok (52sec), YouTube (52sec) — both uploaded to GitHub
+- Issues: Buffer duplicate detection blocked FB/Threads/Bluesky (previous partial run had work-smarter posts). TikTok and YouTube hit daily creation limits. 40 new people added to database.
+
+## Single-Tasking & Monotasking — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 48
+- Per-platform roster sizes: FB=7/8max, IG=7/8max, TikTok=10, Threads=12/18max, X=7, YT=10, GBiz=6, Bluesky=5
+- Returning names: Dave Crenshaw (FB, from T1), Nir Eyal (Threads, from prev), Cal Newport (TT/YT, from T1), Mike Vardy (X, from prev), Deb Lee (X, from T1), David Kadavy (X, from T1), Thomas Frank (YT, from prev), Matt D'Avella (YT, from prev), Ali Abdaal (YT, from prev), Gillian Perkins (YT/Threads, from T1)
+- Cross-platform overlap: ~20% (acceptable — Chris Bailey on IG+Threads, Johann Hari on TT+Threads, Gloria Mark on TT+Threads+Bluesky, Leo Babauta on FB+Threads, etc.)
+- Slug: single-tasking-monotasking
+- Posts scheduled: 6/8 (FB, IG, Threads, X, GBiz, Bluesky all scheduled; TikTok/YouTube hit daily API creation limits)
+- YouTube: BLOCKED — daily creation limit. Video uploaded to GitHub for manual scheduling.
+- TikTok: BLOCKED — daily creation limit (25 posts). Video uploaded to GitHub for manual scheduling.
+- Image counts: FB=9/10, IG=9/10, Threads=14/20, X=4/4, Bluesky=4/4, GBiz=1
+- Videos: TikTok (48sec), YouTube (48sec) — both under 60sec limit
+- Issues: TikTok and YouTube daily API creation limits. 19 new people added to database. Niche topic with excellent specialist coverage.
+
+---
+
+## Topic 3: Digital Minimalism (Priority 86)
+**Processed:** 2026-03-27
+**Status:** DONE
+
+### Platforms Scheduled:
+| Platform | Post ID | Status | Due Date |
+|----------|---------|--------|----------|
+| Facebook | 69c5fa71084613e3f1e8af5e | scheduled | 2026-04-14 |
+| Instagram | 69c5fa72d05e1e11aeec1bdc | scheduled | 2026-04-14 |
+| Threads | 69c5fa82d05e1e11aeec1c50 | scheduled | 2026-04-14 |
+| X/Twitter | 69c5fa83084613e3f1e8b006 | scheduled | 2026-04-14 |
+| Google Business | 69c5fa8ed05e1e11aeec1c76 | scheduled | 2026-04-14 |
+| Bluesky | 69c5fa8fd05e1e11aeec1c9c | scheduled | 2026-04-14 |
+| TikTok | — | failed (daily limit) | — |
+| YouTube | — | failed (daily limit) | — |
+
+### People Featured:
+- **Facebook (7):** Cal Newport, Sherry Turkle, Tristan Harris, Joshua Becker, Joshua Fields Millburn, Matt D'Avella, Jose Briones
+- **Instagram (7):** Cal Newport, Adam Alter, Johann Hari, Dr. Anna Lembke, Catherine Price, Courtney Carver, Fumio Sasaki
+- **TikTok (10):** Cal Newport, Tristan Harris, Aza Raskin, Adam Alter, Johann Hari, Dr. Anna Lembke, Catherine Price, Jose Briones, Nir Eyal, Gloria Mark
+- **Threads (12):** Cal Newport, Sherry Turkle, Tristan Harris, Joshua Becker, Aza Raskin, Adam Alter, Johann Hari, Dr. Anna Lembke, Catherine Price, Christine Platt, Cait Flanders, Craig Mod
+- **X/Twitter (2):** Cal Newport, Tristan Harris
+- **YouTube (10):** Cal Newport, Joshua Fields Millburn, Matt D'Avella, Jose Briones, Courtney Carver, Fumio Sasaki, Christine Platt, Cait Flanders, Ryan Nicodemus, James Williams
+- **Google Business (cover only):** Cal Newport, Sherry Turkle, Tristan Harris, Joshua Becker, Joshua Fields Millburn, Matt D'Avella
+- **Bluesky (2):** Cal Newport, Joshua Becker
+
+### New People Added to Database: 10
+Sherry Turkle, Tristan Harris, Aza Raskin, Dr. Anna Lembke, Catherine Price, Jose Briones, Fumio Sasaki, Christine Platt, Cait Flanders, Ryan Nicodemus
+
+### Assets:
+- Images: GitHub `carousels/digital-minimalism/{platform}/`
+- Videos: GitHub `carousels/digital-minimalism/videos/`
