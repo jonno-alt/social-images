@@ -1091,3 +1091,14 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful
 - Issues: FB, Threads, Bluesky blocked by Buffer duplicate detection from previous partial run. Images uploaded to GitHub for manual posting.
+
+## Journaling — 2026-03-27
+- People: 29 (8 new, 21 returning)
+- Returning names: Ryder Carroll, Tim Ferriss, Brendon Burchard, Ali Abdaal, Matt D'Avella, Lavendaire, Rowena Tsai, Nathaniel Drew, Thomas Frank, Shade Zahrai, Dr. Julie Smith, James Clear, Ryan Holiday, Amanda Rach Lee, Benjamin Hardy, Hal Elrod, Michael Hyatt, Rachel Hollis, August Bradley, Muchelleb, Gretchen Rubin
+- Slug: journaling
+- Slides: 74 (cover + people + CTA per platform)
+- Posts scheduled: 8/8 (all successful)
+- YouTube scheduled: 2026-06-29 via customScheduled
+- TikTok path: 2 (placeholder, 12 people > 10)
+- TikTok scheduled: 2026-07-07 via customScheduled
+- Issues: None
