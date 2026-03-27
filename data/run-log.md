@@ -1125,3 +1125,15 @@
 - TikTok scheduled: 2026-07-09 via customScheduled (Path 2, placeholder under 150 chars)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: None. Strong flow-specific community with Steven Kotler, Jamie Wheal and Flow Research Collective as anchor figures. Good mix of academics (Sawyer, Nakamura, Gazzaley, Dietrich), practitioners (Meloncelli, Norsworthy, Allen), and content creators (Silva, Abdaal, Koe, Huberman).
+
+## Attention Management — 2026-03-27 (Topic 2 of 4)
+- Total unique people across all platforms: 16
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Ali Abdaal, Dan Koe, Dr Andrew Huberman, Matt D'Avella, Thomas Frank, Dr Adam Gazzaley (from Flow State)
+- Cross-platform overlap: Nir Eyal (7), Cal Newport (6), Dr Gloria Mark (6), Johann Hari (6)
+- Slug: attention-management
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-02 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-10 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: Cal Newport famously avoids social media — no verified handles on any platform. Maura Thomas handles not found via search. Strong topic with clear anchor figures (Eyal, Newport, Mark, Hari).
