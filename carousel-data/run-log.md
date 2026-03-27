@@ -1810,53 +1810,59 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Handle database additions**: Adam Grant (row 88, Topic 2), Dave Stachowiak (row 89, Topic 4)
 - **Data files pushed to GitHub**: 4 times (once after each topic completion)
 
----
+## Carousel Build & Schedule Run — 2026-03-27
 
-## Run: 2026-03-27 (Automated Session - carousel-build-and-schedule)
+### Overview
+- **Topics processed**: 4 (rows 66-69 from content-calendar.xlsx)
+- **Row 65 skipped**: Ian Cumming testimonial — text not found online, cannot fabricate
+- **Total carousels**: 8 (2 per topic)
+- **Total slides**: 61 (across all carousels)
+- **Total posts scheduled**: ~68 across 9 platforms
 
-**Topics Processed:** 4 (rows 66-69 from content calendar)
-**Carousels Built:** 7
-**Images Generated:** 182 files (PNG across 3 sizes + Pinterest pins)
-**Videos Generated:** 7 MP4 files
-**Total Files Uploaded to GitHub:** 182+
+### Topic 1: Service — School Leadership PD Day
+- Carousels: school-pd-day-reasons (7 slides), school-pd-day-agenda (8 slides)
+- Footer: "Certified Working Genius Facilitator | Author"
+- GitHub: carousels/school-leadership-pd-day-2026-03-27/
+- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
+- Posts: 18 (9 per carousel)
+- Issues: LinkedIn C2 failed with slide_02 CDN propagation error; retried without slide_02, succeeded. 3 GitHub uploads failed initially, retried successfully.
 
-### Topic 1: School Leadership PD Day (Row 66)
-- **Carousels:** school-pd-day-what-2026-03-27 (8 slides), school-pd-day-why-2026-03-27 (8 slides)
-- **Footer:** Certified Working Genius Facilitator | Author
-- **Platforms:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky
-- **Issues:** YouTube queue full (logged for manual upload)
+### Topic 2: Framework — Step Up or Step Out
+- Carousels: step-up-framework (8 slides), step-up-signs (7 slides)
+- Footer: "Author | Keynote Speaker"
+- GitHub: carousels/step-up-or-step-out-framework-2026-03-27/
+- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
+- Posts: 18 (9 per carousel)
+- Issues: None
 
-### Topic 2: Step Up or Step Out: The Framework (Row 67)
-- **Carousels:** step-up-framework-2026-03-27 (8 slides), step-up-signs-2026-03-27 (7 slides)
-- **Footer:** Author | Keynote Speaker
-- **Platforms:** Carousel 2A partial (Instagram, Google Business, TikTok, Bluesky only); Carousel 2B all 8 platforms
-- **Issues:** Buffer duplicate detection blocked LinkedIn, Facebook, Threads, X/Twitter for carousel 2A. YouTube queue full.
+### Topic 3: Blog — The Personal Histories Exercise
+- Carousels: personal-histories-what (8 slides), personal-histories-why (7 slides)
+- Footer: "Leadership Team Facilitator | Keynote Speaker | Author"
+- GitHub: carousels/personal-histories-exercise-2026-03-27/
+- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
+- Posts: 18 (9 per carousel)
+- Issues: None
 
-### Topic 3: The Personal Histories Exercise (Row 68)
-- **Carousels:** personal-histories-2026-03-27 (8 slides), personal-histories-how-2026-03-27 (8 slides)
-- **Footer:** Leadership Team Facilitator | Keynote Speaker | Author
-- **Platforms:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky
-- **Issues:** YouTube queue full (logged for manual upload)
+### Topic 4: Book Rec — The Ideal Team Player by Patrick Lencioni
+- Carousels: ideal-team-player-book (8 slides), ideal-team-player-missing (8 slides)
+- Footer: "Leadership Team Facilitator | Keynote Speaker | Author"
+- GitHub: carousels/ideal-team-player-book-rec-2026-03-27/
+- Platforms: LinkedIn, Facebook, Instagram, Threads, X, GBP, Bluesky, TikTok, YouTube
+- Posts: 18 (9 per carousel)
+- Issues: None
 
-### Topic 4: The Ideal Team Player (Row 69)
-- **Carousels:** ideal-team-player-2026-03-27 (9 slides)
-- **Footer:** Author | Keynote Speaker
-- **Platforms:** LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky
-- **Issues:** YouTube queue full (logged for manual upload). TikTok pushed to Apr 2 (daily limit).
+### Scheduling Notes
+- TikTok: Mar 30 slots full (29 posts on Mar 29 UTC). Spread across Apr 4-15 UTC.
+- YouTube: Apr 6-9 rejected (max 10/day despite showing fewer). Moved to Apr 14-25.
+- All other platforms: addToQueue mode, auto-scheduled by Buffer.
 
-### Skipped: Ian Cumming Testimonial (Row 65)
-- **Reason:** Could not find testimonial text on consultclarity.org website. Marked as "Skipped" in content calendar.
-- **Action Required:** Jonno to provide testimonial text manually.
+### GitHub Upload Summary
+- All 8 carousels × 3 sizes + 4 Pinterest pins uploaded successfully
+- 8 videos uploaded successfully
+- 3 initial upload failures retried and resolved
+- GitHub upload timeout on first batch (10 min); second batch completed remaining files
 
-### Platform Notes
-- **YouTube:** Queue completely full (appears to have a total cap of ~20 scheduled posts). All 7 YouTube posts logged for manual upload once queue clears.
-- **TikTok:** Hit 25/day limit on Mar 29 and Apr 1. Posts spread across Mar 31, Apr 1, Apr 2.
-- **Buffer Rate Limiting:** Hit 429 errors after ~40 rapid API calls. Resolved with 60-second wait.
-- **Buffer Duplicate Detection:** Image-based matching blocked some "Step Up" posts that used similar visual themes.
-
-### Summary
-- **Total posts scheduled:** ~55 across 8 platforms
-- **Posts requiring manual action:** 7 YouTube uploads
-- **Content calendar rows updated:** 5 (rows 65-69)
-- **Carousel log entries added:** 7
-
+### Files Updated
+- content-calendar.xlsx: Rows 66-69 marked "Scheduled"
+- carousel-log.xlsx: 8 new entries (rows 193-200)
+- run-log.md: This entry
