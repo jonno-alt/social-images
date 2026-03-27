@@ -1227,3 +1227,40 @@ Shawn Stevenson, Dr. Andrew Huberman, Mark Wahlberg
 ### Assets:
 - Images: GitHub `carousels/public-speaking/{platform}/`
 - Videos: GitHub `carousels/public-speaking/{tiktok,youtube}/video.mp4`
+
+---
+
+## Body Language — 2026-03-27 (Topic 4 of 4)
+- **Unique people featured:** 16 across all platforms (14 new, 2 returning)
+- **Returning names:** Amy Cuddy, Vanessa Van Edwards
+- **Cross-platform overlap:** Low (~30% — massive topic with huge creator community)
+- **Slug:** body-language
+
+### Platforms Scheduled:
+| Platform | Post ID | Status | Due Date |
+|----------|---------|--------|----------|
+| Facebook | 69c61d7dd05e1e11aeece588 | scheduled | 2026-04-15 |
+| Instagram | 69c61d7e084613e3f1e97923 | scheduled | 2026-04-15 |
+| Threads | 69c61d80d05e1e11aeece5ae | scheduled | 2026-04-15 |
+| X/Twitter | 69c61d91084613e3f1e979f6 | scheduled | 2026-04-15 |
+| Google Business | 69c61d92084613e3f1e97a1c | scheduled | 2026-04-15 |
+| Bluesky | 69c61d93d05e1e11aeece641 | scheduled | 2026-04-15 |
+| YouTube | 69c61da0d05e1e11aeece6d8 | scheduled | 2026-07-04 |
+| TikTok | 69c61da7d05e1e11aeece737 | scheduled | 2026-07-12 |
+
+### People Featured:
+- **Facebook (8):** Joe Navarro, Vanessa Van Edwards, Mark Bowden, Jesús Enrique Rosas, Logan Portenier, Charlie Houpert, Adrianne Carter, Amy Cuddy
+- **Instagram (8):** Vanessa Van Edwards, Jesús Enrique Rosas, Logan Portenier, Charlie Houpert, Villar Valerie, Adrianne Carter, Scott Rouse, Chase Hughes
+- **TikTok (12):** Joe Navarro, Vanessa Van Edwards, Mark Bowden, Chase Hughes, Scott Rouse, Greg Hartley, Jesús Enrique Rosas, Logan Portenier, Charlie Houpert, Villar Valerie, Adrianne Carter, Amy Cuddy
+- **Threads (8):** Joe Navarro, Vanessa Van Edwards, Jesús Enrique Rosas, Logan Portenier, Charlie Houpert, Adrianne Carter, Patti Wood, Judi James
+- **X/Twitter (8):** Joe Navarro, Vanessa Van Edwards, Jesús Enrique Rosas, Amy Cuddy, Judi James, Mark Bowden, Traci Brown, Patti Wood
+- **YouTube (12):** Joe Navarro, Vanessa Van Edwards, Mark Bowden, Chase Hughes, Scott Rouse, Greg Hartley, Jesús Enrique Rosas, Logan Portenier, Charlie Houpert, Villar Valerie, Adrianne Carter, Allan Pease
+- **Google Business (7):** Joe Navarro, Vanessa Van Edwards, Mark Bowden, Jesús Enrique Rosas, Charlie Houpert, Amy Cuddy, Allan Pease
+- **Bluesky (5):** Joe Navarro, Vanessa Van Edwards, Mark Bowden, Jesús Enrique Rosas, Charlie Houpert
+
+### New People Added to Database: 14
+Joe Navarro, Mark Bowden, Chase Hughes, Greg Hartley, Scott Rouse, Jesús Enrique Rosas, Logan Portenier, Charlie Houpert, Villar Valerie, Adrianne Carter, Patti Wood, Traci Brown, Judi James, Allan Pease
+
+### Assets:
+- Images: GitHub `carousels/body-language/{platform}/`
+- Videos: GitHub `carousels/body-language/{tiktok,youtube}/video.mp4`
