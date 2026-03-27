@@ -1827,3 +1827,17 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **Native action items**: Upload both videos to YouTube manually. 
 - **Daily counts**: TikTok Mar 27: 19, Mar 28-31: heavy. YouTube: queue at 100 max.
 - **Excel files updated**: content-calendar, carousel-log, handle-database
+
+## Topic 2: Service: School Leadership PD Day - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: 2 of 4
+- **Carousels built**:
+  - School PD Day (9 slides)
+  - Why Working Genius for Schools (8 slides)
+- **Platforms scheduled**: LinkedIn, Facebook, Instagram, Threads, X/Twitter, Google Business, TikTok, Bluesky (8/9)
+- **YouTube**: Queue at capacity (100 scheduled posts). Log for manual upload.
+- **TikTok**: Carousel 1 -> Apr 2, Carousel 2 -> Apr 3
+- **Footer role**: Certified Working Genius Facilitator | Author
+- **Key stats used**: 93.75% ASBA 2025, 29% teacher PD satisfaction, 23% higher test scores, 1.3M+ completions
+- **Errors**: Initial Instagram post failed (missing slide_01.png in portrait folder). Re-uploaded and retried successfully.
+- **Native action items**: Upload both videos to YouTube manually.
