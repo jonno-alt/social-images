@@ -1759,3 +1759,30 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - **GitHub uploads**: 78 files uploaded (all succeeded)
 - **Native action items**: None (no tags needed)
 - **Excel files updated**: content-calendar.xlsx (row 63), carousel-log.xlsx (3 rows)
+
+
+## Topic 4: Podcast Rec - Coaching for Leaders with Dave Stachowiak - 2026-03-27
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: Coaching for Leaders with Dave Stachowiak (Topic 4 of 4)
+- **Type**: Podcast Rec (no URL, researched from web)
+- **Carousels built**: 3
+  - why-listen-coaching-for-leaders: 7 slides
+  - best-episodes-coaching-for-leaders: 8 slides
+  - lessons-from-coaching-for-leaders: 7 slides
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Platforms scheduled**: 9/9 (Pinterest always skipped)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue, @davestachowiak tagged)
+  - Google Business: 3 posts (addToQueue)
+  - Bluesky: 3 posts (addToQueue)
+  - TikTok: 3 posts (customScheduled Apr 3-4)
+  - YouTube: 3 posts (customScheduled May 5-7)
+- **Handle research**: Dave Stachowiak — X: @davestachowiak (VERIFIED), LinkedIn: davestachowiak (VERIFIED). No IG/TikTok/YT/Threads/Bluesky found.
+- **Decisions**: Created 3 carousels: why listen, best topics covered, and key lessons. Podcast rec topic. Default footer role.
+- **Errors**: None
+- **GitHub uploads**: 72 files uploaded (all succeeded)
+- **Native action items**: None
+- **Excel files updated**: content-calendar.xlsx (row 64), carousel-log.xlsx (3 rows), handle-database.xlsx (Dave Stachowiak added)
