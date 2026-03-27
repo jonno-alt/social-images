@@ -1063,3 +1063,17 @@
 - Image counts: FB=9/10, IG=9/10, Threads=14/20, X=4/4, Bluesky=4/4, GBiz=1
 - Videos: TikTok (48sec), YouTube (48sec) — both under 60sec limit
 - Issues: TikTok and YouTube daily API creation limits. 19 new people added to database. Niche topic with excellent specialist coverage.
+
+## Digital Minimalism — 2026-03-27 (Topic 1 of 4)
+- Total unique people across all platforms: 31
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Cal Newport, Courtney Carver, Jonathan Haidt, Joshua Becker, Joshua Fields Millburn, Lavendaire, Matt D'Avella, Muchelleb, Nathaniel Drew, Nir Eyal, Oliver Burkeman, Pedram Shojai, Rachael George, Rowena Tsai, Thomas Frank
+- Cross-platform overlap: ~71% (niche topic with limited expert pool)
+- Slug: digital-minimalism
+- Posts scheduled: 7/8 (Pinterest skipped, Bluesky blocked by duplicate detection)
+- YouTube scheduled: 2026-06-27 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-05 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful
+- Issues: Bluesky blocked by Buffer duplicate detection from previous partial run. Niche topic limits unique expert pool.
