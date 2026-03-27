@@ -1023,3 +1023,17 @@
 - Videos: 2 (TikTok 56sec, YouTube 56sec)
 - GitHub uploads: 76/76 successful (7 retries)
 - Issues: None
+
+## Peak Performance — 2026-03-27 (Topic 3 of 4)
+- Total unique people across all platforms: 42
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Ali Abdaal, Andrew Huberman, Alex Hormozi (from previous topics)
+- Cross-platform overlap: ~40% (peak performance community is tight-knit)
+- Slug: peak-performance
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-06-25 via customScheduled (56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-03 via customScheduled (Path 2, 56sec)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Videos: 2 (TikTok 56sec, YouTube 56sec)
+- GitHub uploads: 76/76 successful (7 retries)
+- Issues: None
