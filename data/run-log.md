@@ -1298,3 +1298,16 @@
 - TikTok scheduled: 2026-03-31 via customScheduled (daily limit)
 - Image counts: FB=10/10, IG=10/10, Threads=16/20(cover skipped due to CDN delay), X=4/4, Bluesky=4/4, GBiz=1
 - Issues: Threads slide_01 CDN propagation delay - posted without cover. TikTok daily limit persists.
+## Voice & Vocal Presence — 2026-03-28 (Topic 3 of 4)
+- Total unique people across all platforms: ~20
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Roger Love, Julian Treasure, Vinh Giang, Caroline Goyder, Laura Sicola, Tracy Goodwin
+- Cross-platform overlap: ~30% (vocal coaching is a smaller niche)
+- Slug: voice-vocal-presence
+- Posts scheduled: 8/8 (Pinterest skipped)
+- Buffer Post IDs: FB=69c79008a194ba150379f3ca, IG=69c79009a194ba150379f3f0, X=69c7900afeab3741070e0cce, Threads=69c790a8a194ba150379f49a, TikTok=69c790c8a194ba150379f56b, YouTube=69c790a9a194ba150379f4bf, GBiz=69c790cda194ba150379f592, Bluesky=69c790b0a194ba150379f4fa
+- YouTube scheduled: 2026-07-23 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-02 via customScheduled (daily limit reached on April 1)
+- Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1 (used facebook/slide_01 for CDN)
+- GitHub uploads: 77/77 images + 2 videos = 79 files uploaded
+- Issues: TikTok daily limit on April 1 - moved to April 2. Google Business CDN issue with googlebusiness/ folder - used facebook/slide_01 instead.
