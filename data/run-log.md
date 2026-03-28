@@ -1175,3 +1175,16 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - New people added to database: 10 (Ann Handley, Mignon Fogarty, Josh Bernoff, Laura Belgray, Joanna Wiebe, Shani Raja, Bryan Garner, Henneke Duistermaat, Bill Birchard, Soph/Workbaby)
 - Issues: Facebook duplicate detection triggered on multiple attempts — existing Written Communication post found (69c643ae) from previous partial run. Used existing post. Written communication is a narrow niche making 60% platform uniqueness difficult to achieve.
+
+## Executive Communication — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: 18
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Matt Abrahams, Harrison Monarth, Melody Wilding, Kara Ronin, Anett Grant, Nancy Duarte, Deborah Grayson Riegel, Alexander Lyon (8 returning, max 3 per platform)
+- Cross-platform overlap: ~55% (narrow niche — executive communication coaches are primarily LinkedIn people)
+- Slug: executive-communication
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-17 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-14 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- New people added to database: 10 (Connie Dieken, Alexia Vernon, John Bates, Lorraine K. Lee, Robin Kermode, Meredith Fineman, Suman Kher, Ira Koretsky, Kevin Abdulrahman, Anitha)
+- Issues: Executive communication is a narrow, LinkedIn-dominated niche making 60% platform uniqueness difficult. Most coaches have minimal presence on TikTok/Instagram. Accepted higher overlap for this topic.
