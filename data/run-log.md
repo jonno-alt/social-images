@@ -1188,3 +1188,16 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - New people added to database: 10 (Connie Dieken, Alexia Vernon, John Bates, Lorraine K. Lee, Robin Kermode, Meredith Fineman, Suman Kher, Ira Koretsky, Kevin Abdulrahman, Anitha)
 - Issues: Executive communication is a narrow, LinkedIn-dominated niche making 60% platform uniqueness difficult. Most coaches have minimal presence on TikTok/Instagram. Accepted higher overlap for this topic.
+
+## Cross-Cultural Communication — 2026-03-28 (Topic 2 of 4)
+- Total unique people across all platforms: 17
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Erin Meyer, David Livermore, Andy Molinsky, Pellegrino Riccardi, Julien Bourrelle, Fons Trompenaars (6 returning, max 3 per platform)
+- Cross-platform overlap: ~45% (better differentiation than Executive Communication; intercultural field has more niche specialists)
+- Slug: cross-cultural-communication
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-18 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-14 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- New people added to database: 11 (Richard Lewis, Jennifer Kumar, Yara Hadrath, Lucy Bolin, Vicki Flier Hudson, Joseph Shaules, Phil Rosinski, Janet Bennett, Milton Bennett, Marieke de Mooij, Stella Ting-Toomey)
+- Issues: None. Strong topic with clear academic anchors (Erin Meyer, Hofstede legacy, Ting-Toomey) and practitioner differentiation.
