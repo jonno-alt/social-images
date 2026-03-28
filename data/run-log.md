@@ -1346,3 +1346,16 @@
 - All YouTube Shorts under 60sec limit
 - TikTok posts spread across April 1-3 (daily limit management)
 - YouTube posts scheduled July 21-24 (sequential days)
+
+## Personal Branding — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: ~58
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Mark Schaefer, Rory Vaden, Dickie Bush (from previous topics), Christine Gritmon, Keenya Kelly
+- Cross-platform overlap: ~20% (Philip VanDusen, Rory Vaden, Keenya Kelly, Christine Gritmon appear on 3+ platforms)
+- Slug: personal-branding
+- Posts scheduled: 8/8 (5 new + 3 from previous run; Pinterest skipped)
+- YouTube scheduled: 2026-07-25 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-29 via customScheduled (daily limit reached for today)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: Facebook, Threads, Bluesky posts already existed from previous partial run — kept existing. TikTok daily limit reached, scheduled for next day.
