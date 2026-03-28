@@ -1359,3 +1359,16 @@
 - Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
 - Videos: TikTok (56sec), YouTube (56sec)
 - Issues: Facebook, Threads, Bluesky posts already existed from previous partial run — kept existing. TikTok daily limit reached, scheduled for next day.
+
+## Thought Leadership — 2026-03-28 (Topic 2 of 4)
+- Total unique people across all platforms: ~75
+- Per-platform roster sizes: FB=7/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Ali Abdaal, Russell Brunson, Marie Forleo, Lex Fridman (from previous topics)
+- Cross-platform overlap: ~25% (David Perell, Jack Butcher, Nir Eyal, Russell Brunson appear on 3+ platforms)
+- Slug: thought-leadership
+- Posts scheduled: 8/8 (all new; Pinterest skipped)
+- YouTube scheduled: 2026-07-26 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-30 via customScheduled (spreading across days)
+- Image counts: FB=9/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: None. All 8 channels scheduled successfully.
