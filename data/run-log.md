@@ -1286,3 +1286,15 @@
 - TikTok scheduled: 2026-03-30 via customScheduled (daily limit reached, Path 2)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: TikTok daily limit reached - scheduled for March 30. Some GitHub uploads needed SHA retry.
+
+## Debate & Critical Discussion — 2026-03-28 (Topic 2 of 4)
+- Total unique people across all platforms: 42
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Kwame Christian, Jefferson Fisher, Robbie Crabtree, Julia Galef, Adam Grant, Charlie Houpert, Vinh Giang, Shane Snow
+- Cross-platform overlap: ~25%
+- Slug: debate-critical-discussion
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-22 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-03-31 via customScheduled (daily limit)
+- Image counts: FB=10/10, IG=10/10, Threads=16/20(cover skipped due to CDN delay), X=4/4, Bluesky=4/4, GBiz=1
+- Issues: Threads slide_01 CDN propagation delay - posted without cover. TikTok daily limit persists.
