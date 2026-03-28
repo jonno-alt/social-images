@@ -1274,3 +1274,15 @@
 - Database total: 1630 people
 
 **Note:** Topics 99-101 were also detected as completed from a previous crashed session and marked DONE. Persuasion & Influence (P95) and Negotiation (P96) remain IN_PROGRESS from a previous session crash — may need manual review.
+
+## Giving & Receiving Criticism — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: 45
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Sheila Heen, Douglas Stone, Jefferson Fisher, Melody Wilding, Henna Pryor, Vinh Giang, Amy Gallo, Joe Hirsch
+- Cross-platform overlap: ~25% (most rosters have unique platform-specific selections)
+- Slug: giving-receiving-criticism
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-21 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-30 via customScheduled (daily limit reached, Path 2)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit reached - scheduled for March 30. Some GitHub uploads needed SHA retry.
