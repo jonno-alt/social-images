@@ -1311,3 +1311,38 @@
 - Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1 (used facebook/slide_01 for CDN)
 - GitHub uploads: 77/77 images + 2 videos = 79 files uploaded
 - Issues: TikTok daily limit on April 1 - moved to April 2. Google Business CDN issue with googlebusiness/ folder - used facebook/slide_01 instead.
+
+## Personal Branding — 2026-03-28 (Topic 4 of 4)
+- Total unique people across all platforms: ~40
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: William Arruda, Dorie Clark (max 2 returning)
+- Cross-platform overlap: ~25%
+- Slug: personal-branding
+- Posts scheduled: 8/8 (Pinterest skipped)
+- Buffer Post IDs: FB=69c793d9a194ba15037a089b, IG=69c793dafeab3741070e22f7, X=69c793dbfeab3741070e231d, Threads=69c793fafeab3741070e2357, TikTok=69c793fbfeab3741070e2380, YouTube=69c79401feab3741070e23aa, GBiz=69c79407a194ba15037a08f8, Bluesky=69c79408feab3741070e23dd
+- YouTube scheduled: 2026-07-24 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-03 via customScheduled (daily limit management)
+- Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1 (used facebook/slide_01 for CDN reliability)
+- GitHub uploads: 91 images + 2 videos = 93 files uploaded (93/93 success)
+- Issues: None. All uploads and scheduling succeeded on first attempt.
+
+---
+
+## Session Summary — 2026-03-28
+
+### Topics Processed: 4
+1. **Giving & Receiving Criticism** — 8/8 posts scheduled
+2. **Debate & Critical Discussion** — 8/8 posts scheduled
+3. **Voice & Vocal Presence** — 8/8 posts scheduled
+4. **Personal Branding** — 8/8 posts scheduled
+
+### Totals
+- Total posts scheduled: 32 (8 per topic × 4 topics)
+- Total images generated: ~340
+- Total videos created: 8 (2 per topic × 4 topics)
+- New names added to database: ~55
+- Database total: ~1700+ people
+- GitHub files uploaded: ~350+
+- All YouTube Shorts under 60sec limit
+- TikTok posts spread across April 1-3 (daily limit management)
+- YouTube posts scheduled July 21-24 (sequential days)
