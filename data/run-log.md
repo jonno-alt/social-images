@@ -1385,3 +1385,52 @@
 - Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
 - Videos: TikTok (56sec), YouTube (56sec)
 - Issues: TikTok daily limit reached on first attempt (Mar 31), rescheduled to Apr 1.
+
+## Content Creation for Leaders — 2026-03-28 (Topic 4 of 4)
+- Total unique people across all platforms: ~65
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Kyle Gray (from Thought Leadership/Bluesky roster)
+- Cross-platform overlap: ~25% (Chris Do, Rand Fishkin, Jay Clouse, Alex Lieberman appear on 3+ platforms)
+- Slug: content-creation-for-leaders
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-28 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-02 via customScheduled (spreading across days)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: None. All 8 channels scheduled successfully.
+
+---
+
+## SESSION SUMMARY — 2026-03-28
+
+### Topics Completed (4/4)
+1. Personal Branding (slug: personal-branding)
+2. Thought Leadership (slug: thought-leadership)
+3. LinkedIn Strategy (slug: linkedin-strategy)
+4. Content Creation for Leaders (slug: content-creation-for-leaders)
+
+### Total Posts Scheduled: 32 (4 topics × 8 platforms)
+- Facebook: 4 posts (1 from prev run + 3 new)
+- Instagram: 4 posts
+- TikTok: 4 posts (spread across Mar 29, Mar 30, Apr 1, Apr 2)
+- Threads: 4 posts (1 from prev run + 3 new)
+- X/Twitter: 4 posts
+- YouTube: 4 posts (Jul 25, 26, 27, 28 via customScheduled)
+- Google Business: 4 posts
+- Bluesky: 4 posts (1 from prev run + 3 new)
+
+### YouTube Schedule
+- Jul 25: Personal Branding (56sec)
+- Jul 26: Thought Leadership (56sec)
+- Jul 27: LinkedIn Strategy (56sec)
+- Jul 28: Content Creation for Leaders (56sec)
+
+### TikTok Schedule
+- Mar 29: Personal Branding
+- Mar 30: Thought Leadership
+- Apr 1: LinkedIn Strategy
+- Apr 2: Content Creation for Leaders
+
+### Total Images Generated: ~300 (across 4 topics × 8 platforms)
+### Total Videos Generated: 8 (4 TikTok + 4 YouTube, all under 60sec)
+### New People Added to Database: ~85
