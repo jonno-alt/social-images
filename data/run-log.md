@@ -1228,3 +1228,49 @@
 - Google Business: 69c78592a194ba150379c29e (queued → 2026-04-17)
 - X/Twitter: 69c78591a194ba150379c278 (queued → 2026-04-17)
 - Bluesky: 69c78593a194ba150379c2c4 (queued → 2026-04-17)
+
+## Topic 4: Asking Better Questions (P105) — 2026-03-28
+
+**Rosters:**
+- Facebook: 8 people (Michael Bungay Stanier, Warren Berger, John C. Maxwell, Bob Tiede, Hal Gregersen, Tony Stoltzfus, Susanne Biro, Michael Marquardt)
+- Instagram: 8 people (Michael Bungay Stanier, Warren Berger, Rich Litvin, Bethany Peters, J.R. Briggs, Robin Camarote, Susanne Biro, James Brook)
+- TikTok: 12 people (Michael Bungay Stanier, Warren Berger, Rich Litvin, Bob Tiede, J.R. Briggs, Robin Camarote, Bethany Peters, Greg Harrod, Daniel Stillman, Tony Stoltzfus, Susanne Biro, John Mattone)
+- Threads: 8 people (Michael Bungay Stanier, Warren Berger, Rich Litvin, Robin Camarote, Bethany Peters, Daniel Stillman, James Brook, J.R. Briggs)
+- X/Twitter: 8 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, Bob Tiede, John C. Maxwell, Michael Marquardt, Tony Stoltzfus, Susanne Biro)
+- YouTube: 12 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, Bob Tiede, Rich Litvin, John C. Maxwell, Tony Stoltzfus, Greg Harrod, Daniel Stillman, John Mattone, James Brook, Robin Camarote)
+- Google Business: 6 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, John C. Maxwell, Bob Tiede, Michael Marquardt)
+- Bluesky: 5 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, Daniel Stillman, Robin Camarote)
+
+**Total unique people:** 16
+**New names added to DB:** 12
+**Images generated:** 68
+**Videos:** 2 (TikTok 60s, YouTube 60s)
+
+**Buffer Post IDs:**
+- Facebook: 69c7873cfeab3741070de438 (queued → 2026-04-17)
+- Instagram: 69c7873da194ba150379c9a1 (queued → 2026-04-17)
+- TikTok: 69c78762feab3741070de4de (customScheduled → 2026-07-15)
+- Threads: 69c78755a194ba150379c9ed (queued → 2026-04-17)
+- YouTube: 69c78767a194ba150379cac3 (customScheduled → 2026-07-20)
+- Google Business: 69c78757feab3741070de48b (queued → 2026-04-17)
+- X/Twitter: 69c78756a194ba150379ca13 (queued → 2026-04-17)
+- Bluesky: 69c78758feab3741070de4b1 (queued → 2026-04-17)
+
+---
+
+## Session Summary — 2026-03-28
+
+**Topics processed this session:** 4
+- Topic 1: Executive Communication (P102) — DONE
+- Topic 2: Cross-Cultural Communication (P103) — DONE
+- Topic 3: Radical Candor (P104) — DONE
+- Topic 4: Asking Better Questions (P105) — DONE
+
+**Session totals:**
+- Total posts scheduled: 32 (8 per topic × 4 topics)
+- Total images generated: ~272
+- Total videos created: 8
+- New names added to database: ~65
+- Database total: 1630 people
+
+**Note:** Topics 99-101 were also detected as completed from a previous crashed session and marked DONE. Persuasion & Influence (P95) and Negotiation (P96) remain IN_PROGRESS from a previous session crash — may need manual review.
