@@ -1372,3 +1372,16 @@
 - Image counts: FB=9/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
 - Videos: TikTok (56sec), YouTube (56sec)
 - Issues: None. All 8 channels scheduled successfully.
+
+## LinkedIn Strategy — 2026-03-28 (Topic 3 of 4)
+- Total unique people across all platforms: ~70
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Austin Belcak (from previous topics)
+- Cross-platform overlap: ~30% (Tommy Clark, Greg Langstaff, Pierre Herubel, Jasmin Alic appear on 3+ platforms — expected for LinkedIn niche)
+- Slug: linkedin-strategy
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-27 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-01 via customScheduled (daily limit reached for Mar 28-31)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: TikTok daily limit reached on first attempt (Mar 31), rescheduled to Apr 1.
