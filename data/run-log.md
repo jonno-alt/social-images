@@ -1201,3 +1201,30 @@
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - New people added to database: 11 (Richard Lewis, Jennifer Kumar, Yara Hadrath, Lucy Bolin, Vicki Flier Hudson, Joseph Shaules, Phil Rosinski, Janet Bennett, Milton Bennett, Marieke de Mooij, Stella Ting-Toomey)
 - Issues: None. Strong topic with clear academic anchors (Erin Meyer, Hofstede legacy, Ting-Toomey) and practitioner differentiation.
+
+## Topic 3: Radical Candor (P104) — 2026-03-28
+
+**Rosters:**
+- Facebook: 8 people (Kim Scott, Jason Rosoff, Amy Sandler, Shari Harley, Therese Huston, Joe Hirsch, Russ Laraway, Laura Dowling Grealish)
+- Instagram: 8 people (Kim Scott, Stephanie Sage, Melody Wilding, Lara Hogan, Wes Kao, Claire Lew, Nir Eyal, Julie Zhuo)
+- TikTok: 12 people (Kim Scott, Alexandra Young, Allison Barr, Dan Flint, Chantel Adams, Candice Solomon-Strutz, Dr. Jackie Phillips, Tracy Butz, Deirdre Orr, Jenn DeWall, Shari Harley, Melanie K. Hall)
+- Threads: 8 people (Kim Scott, Julie Zhuo, Wes Kao, Melissa Nightingale, Johnathan Nightingale, Claire Lew, Melody Wilding, Lara Hogan)
+- X/Twitter: 8 people (Kim Scott, Sheila Heen, Therese Huston, Joe Hirsch, Melissa Daimler, Jason Rosoff, Russ Laraway, M. Tamra Chandler)
+- YouTube: 12 people (Kim Scott, Amy Sandler, Joe Hirsch, Alex Lyon, Dan Flint, Stephanie Sage, Emma Lo Russo, Chris Cavallini, Tamara Ghandour, Melanie K. Hall, Russ Laraway, Shari Harley)
+- Google Business: 6 people (Kim Scott, Sheila Heen, Douglas Stone, Joe Hirsch, Therese Huston, Jason Rosoff)
+- Bluesky: 5 people (Kim Scott, Lara Hogan, Melissa Nightingale, Johnathan Nightingale, Claire Lew)
+
+**Total unique people:** 35+
+**New names added to DB:** 21
+**Images generated:** 68
+**Videos:** 2 (TikTok 60s, YouTube 60s)
+
+**Buffer Post IDs:**
+- Facebook: 69c78572feab3741070ddc4b (queued → 2026-04-17)
+- Instagram: 69c78574a194ba150379c16a (queued → 2026-04-17)
+- TikTok: 69c785a0a194ba150379c2e9 (customScheduled → 2026-07-15)
+- Threads: 69c78590feab3741070ddd44 (queued → 2026-04-17)
+- YouTube: 69c785a5feab3741070ddd91 (customScheduled → 2026-07-19)
+- Google Business: 69c78592a194ba150379c29e (queued → 2026-04-17)
+- X/Twitter: 69c78591a194ba150379c278 (queued → 2026-04-17)
+- Bluesky: 69c78593a194ba150379c2c4 (queued → 2026-04-17)
