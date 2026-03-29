@@ -1446,3 +1446,15 @@
 - TikTok scheduled: 2026-03-29 via addToQueue (path 2, placeholder under 150 chars)
 - Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
 - Issues: YouTube customScheduled failed for April 2-6 (daily limit of 10 reached across all dates). Used addToQueue instead.
+
+## Writing a Book — 2026-03-29 (Topic 2 of 4)
+- Total unique people across all platforms: 73
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=11, GBiz=6, Bluesky=5
+- Returning names: Ann Handley, Ryan Holiday, James Clear, Adam Grant, Seth Godin, Cal Newport
+- Cross-platform overlap: ~12% (mostly prolific authors appearing on 2 platforms)
+- Slug: writing-a-book
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-29 via addToQueue (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-30 via customScheduled (daily limit reached for Mar 29)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit reached. Scheduled for March 30 instead.
