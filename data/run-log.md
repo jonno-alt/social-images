@@ -1434,3 +1434,15 @@
 ### Total Images Generated: ~300 (across 4 topics × 8 platforms)
 ### Total Videos Generated: 8 (4 TikTok + 4 YouTube, all under 60sec)
 ### New People Added to Database: ~85
+
+## Building an Audience — 2026-03-29 (Topic 1 of 4)
+- Total unique people across all platforms: 64
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=11, GBiz=6, Bluesky=5
+- Returning names: Brendon Burchard, Vanessa Lau, Alex Cattoni, Rachel Pedersen, Jay Clouse, Justin Welsh, Dickie Bush, Dan Koe, Sahil Bloom, Jay Acunzo, Ali Abdaal, Codie Sanchez, Chris Do, Gary Vaynerchuk, Neil Patel, Seth Godin, James Clear, Sahil Lavingia, Tim Ferriss, Roberto Blake, Matt D'Avella, Ann Handley, Rand Fishkin
+- Cross-platform overlap: ~15% (most people unique to their platform)
+- Slug: building-an-audience
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-29 via addToQueue (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-29 via addToQueue (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: YouTube customScheduled failed for April 2-6 (daily limit of 10 reached across all dates). Used addToQueue instead.
