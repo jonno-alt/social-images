@@ -1176,105 +1176,320 @@
 - New people added to database: 10 (Ann Handley, Mignon Fogarty, Josh Bernoff, Laura Belgray, Joanna Wiebe, Shani Raja, Bryan Garner, Henneke Duistermaat, Bill Birchard, Soph/Workbaby)
 - Issues: Facebook duplicate detection triggered on multiple attempts — existing Written Communication post found (69c643ae) from previous partial run. Used existing post. Written communication is a narrow niche making 60% platform uniqueness difficult to achieve.
 
----
+## Executive Communication — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: 18
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Matt Abrahams, Harrison Monarth, Melody Wilding, Kara Ronin, Anett Grant, Nancy Duarte, Deborah Grayson Riegel, Alexander Lyon (8 returning, max 3 per platform)
+- Cross-platform overlap: ~55% (narrow niche — executive communication coaches are primarily LinkedIn people)
+- Slug: executive-communication
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-17 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-14 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- New people added to database: 10 (Connie Dieken, Alexia Vernon, John Bates, Lorraine K. Lee, Robin Kermode, Meredith Fineman, Suman Kher, Ira Koretsky, Kevin Abdulrahman, Anitha)
+- Issues: Executive communication is a narrow, LinkedIn-dominated niche making 60% platform uniqueness difficult. Most coaches have minimal presence on TikTok/Instagram. Accepted higher overlap for this topic.
 
-### Topic 2: Small Talk & Conversation Skills
-**Completed:** 2026-03-27 21:25 UTC
+## Cross-Cultural Communication — 2026-03-28 (Topic 2 of 4)
+- Total unique people across all platforms: 17
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=8/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Erin Meyer, David Livermore, Andy Molinsky, Pellegrino Riccardi, Julien Bourrelle, Fons Trompenaars (6 returning, max 3 per platform)
+- Cross-platform overlap: ~45% (better differentiation than Executive Communication; intercultural field has more niche specialists)
+- Slug: cross-cultural-communication
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-18 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-07-14 via customScheduled (Path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=10/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- New people added to database: 11 (Richard Lewis, Jennifer Kumar, Yara Hadrath, Lucy Bolin, Vicki Flier Hudson, Joseph Shaules, Phil Rosinski, Janet Bennett, Milton Bennett, Marieke de Mooij, Stella Ting-Toomey)
+- Issues: None. Strong topic with clear academic anchors (Erin Meyer, Hofstede legacy, Ting-Toomey) and practitioner differentiation.
 
-**Rosters:**
-- Facebook: 8 people (Vanessa Van Edwards, Patrick King, Debra Fine, Celeste Headlee, Divas Gupta, Brenden Kumarasamy, Tomas Svitorka, Charlie Houpert)
-- Instagram: 8 people (Vanessa Van Edwards, Vinh Giang, Brenden Kumarasamy, Divas Gupta, Celeste Headlee, Tomas Svitorka, Dan O'Connor, Soph/Workbaby)
-- TikTok: 12 people
-- Threads: 8 people
-- X/Twitter: 8 people
-- YouTube: 12 people
-- Google Business: 6 people
-- Bluesky: 5 people
-
-**Images:** 83 carousel images across 8 platforms + 2 videos (TikTok & YouTube)
-**GitHub:** All 85 files uploaded to jonno-alt/social-images
-**Buffer Posts:** 8/8 platforms scheduled
-- Facebook: 69c6f582748a22558311ce22 → 2026-04-16
-- Instagram: 69c6f588748a22558311ce7c → 2026-04-16
-- Threads: 69c6f58add5003d0a6ee86ce → 2026-04-16
-- X: 69c6f5aadd5003d0a6ee88a3 → 2026-04-16
-- Google Business: 69c6f59add5003d0a6ee877c → 2026-04-16
-- Bluesky: 69c6f5ac748a22558311d0a6 → 2026-04-16
-- YouTube: 69c6f5acdd5003d0a6ee88fe → 2026-07-06 (customScheduled)
-- TikTok: 69c6f5badd5003d0a6ee8996 → 2026-07-14 (customScheduled)
-
-**New handles added:** 5 (Debra Fine, Divas Gupta, Patrick King, Tomas Svitorka, Rich Gallagher)
-**Handles updated:** 5 (Charlie Houpert, Brenden Kumarasamy, Dan O'Connor, Celeste Headlee, Yasir Khan)
-**Cross-platform overlap:** ~55% (conversation skills is a moderately broad niche)
-
----
-
-### Topic 3: Nonviolent Communication
-**Completed:** 2026-03-27 21:37 UTC
+## Topic 3: Radical Candor (P104) — 2026-03-28
 
 **Rosters:**
-- Facebook: 8 (Marshall Rosenberg Legacy, Oren Jay Sofer, Roxy Manning, Miki Kashtan, Yoram Mosenzon, Center for NVC, PuddleDancer Press, Kathy Simon)
-- Instagram: 8 (Oren Jay Sofer, Roxy Manning, Miki Kashtan, Yoram Mosenzon, PuddleDancer Press, Nati Beltrán, Center for NVC, Tracy Seed)
-- TikTok: 12 | Threads: 8 | X: 8 | YouTube: 12 | Google Business: 6 | Bluesky: 5
+- Facebook: 8 people (Kim Scott, Jason Rosoff, Amy Sandler, Shari Harley, Therese Huston, Joe Hirsch, Russ Laraway, Laura Dowling Grealish)
+- Instagram: 8 people (Kim Scott, Stephanie Sage, Melody Wilding, Lara Hogan, Wes Kao, Claire Lew, Nir Eyal, Julie Zhuo)
+- TikTok: 12 people (Kim Scott, Alexandra Young, Allison Barr, Dan Flint, Chantel Adams, Candice Solomon-Strutz, Dr. Jackie Phillips, Tracy Butz, Deirdre Orr, Jenn DeWall, Shari Harley, Melanie K. Hall)
+- Threads: 8 people (Kim Scott, Julie Zhuo, Wes Kao, Melissa Nightingale, Johnathan Nightingale, Claire Lew, Melody Wilding, Lara Hogan)
+- X/Twitter: 8 people (Kim Scott, Sheila Heen, Therese Huston, Joe Hirsch, Melissa Daimler, Jason Rosoff, Russ Laraway, M. Tamra Chandler)
+- YouTube: 12 people (Kim Scott, Amy Sandler, Joe Hirsch, Alex Lyon, Dan Flint, Stephanie Sage, Emma Lo Russo, Chris Cavallini, Tamara Ghandour, Melanie K. Hall, Russ Laraway, Shari Harley)
+- Google Business: 6 people (Kim Scott, Sheila Heen, Douglas Stone, Joe Hirsch, Therese Huston, Jason Rosoff)
+- Bluesky: 5 people (Kim Scott, Lara Hogan, Melissa Nightingale, Johnathan Nightingale, Claire Lew)
 
-**Images:** 83 carousel images + 2 videos
-**GitHub:** 85/85 uploaded to jonno-alt/social-images
-**Buffer Posts:** 8/8 platforms scheduled
-- Facebook: 69c6f86fdd5003d0a6ee9be0 → 2026-04-17
-- Instagram: 69c6f871dd5003d0a6ee9c06 → 2026-04-16
-- Threads: 69c6f872748a22558311e069 → 2026-04-16
-- X: 69c6f882dd5003d0a6ee9c52 → 2026-04-17
-- Google Business: 69c6f883dd5003d0a6ee9c78 → 2026-04-16
-- Bluesky: 69c6f884748a22558311e0a8 → 2026-04-16
-- YouTube: 69c6f890dd5003d0a6ee9cb7 → 2026-07-07 (customScheduled)
-- TikTok: 69c6f897dd5003d0a6ee9cdd → 2026-07-15 (customScheduled)
+**Total unique people:** 35+
+**New names added to DB:** 21
+**Images generated:** 68
+**Videos:** 2 (TikTok 60s, YouTube 60s)
 
-**New handles added:** 10 (Oren Jay Sofer, Roxy Manning, Miki Kashtan, Yoram Mosenzon, PuddleDancer Press, NVC Academy, Nati Beltrán, Kathy Simon, Tracy Seed, Emma Collins)
-**Cross-platform overlap:** ~40% (NVC is a specialized niche with distinct community figures)
+**Buffer Post IDs:**
+- Facebook: 69c78572feab3741070ddc4b (queued → 2026-04-17)
+- Instagram: 69c78574a194ba150379c16a (queued → 2026-04-17)
+- TikTok: 69c785a0a194ba150379c2e9 (customScheduled → 2026-07-15)
+- Threads: 69c78590feab3741070ddd44 (queued → 2026-04-17)
+- YouTube: 69c785a5feab3741070ddd91 (customScheduled → 2026-07-19)
+- Google Business: 69c78592a194ba150379c29e (queued → 2026-04-17)
+- X/Twitter: 69c78591a194ba150379c278 (queued → 2026-04-17)
+- Bluesky: 69c78593a194ba150379c2c4 (queued → 2026-04-17)
 
----
-
-### Topic 4: Assertiveness
-**Completed:** 2026-03-27 21:49 UTC
+## Topic 4: Asking Better Questions (P105) — 2026-03-28
 
 **Rosters:**
-- Facebook: 8 (Nedra Glover Tawwab, Amy Morin, Dr. Aziz Gazipura, Sharon Martin, Patrick King, Randy J. Paterson, Vanessa Van Edwards, Brené Brown)
-- Instagram: 8 (Nedra Tawwab, Amy Morin, Dr. Aziz, Sharon Martin, Brené Brown, Vanessa Van Edwards, Vinh Giang, Soph/Workbaby)
-- TikTok: 12 | Threads: 8 | X: 8 | YouTube: 12 | Google Business: 6 | Bluesky: 5
+- Facebook: 8 people (Michael Bungay Stanier, Warren Berger, John C. Maxwell, Bob Tiede, Hal Gregersen, Tony Stoltzfus, Susanne Biro, Michael Marquardt)
+- Instagram: 8 people (Michael Bungay Stanier, Warren Berger, Rich Litvin, Bethany Peters, J.R. Briggs, Robin Camarote, Susanne Biro, James Brook)
+- TikTok: 12 people (Michael Bungay Stanier, Warren Berger, Rich Litvin, Bob Tiede, J.R. Briggs, Robin Camarote, Bethany Peters, Greg Harrod, Daniel Stillman, Tony Stoltzfus, Susanne Biro, John Mattone)
+- Threads: 8 people (Michael Bungay Stanier, Warren Berger, Rich Litvin, Robin Camarote, Bethany Peters, Daniel Stillman, James Brook, J.R. Briggs)
+- X/Twitter: 8 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, Bob Tiede, John C. Maxwell, Michael Marquardt, Tony Stoltzfus, Susanne Biro)
+- YouTube: 12 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, Bob Tiede, Rich Litvin, John C. Maxwell, Tony Stoltzfus, Greg Harrod, Daniel Stillman, John Mattone, James Brook, Robin Camarote)
+- Google Business: 6 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, John C. Maxwell, Bob Tiede, Michael Marquardt)
+- Bluesky: 5 people (Michael Bungay Stanier, Warren Berger, Hal Gregersen, Daniel Stillman, Robin Camarote)
 
-**Images:** 83 carousel images + 2 videos
-**GitHub:** 85/85 uploaded to jonno-alt/social-images
-**Buffer Posts:** 8/8 platforms scheduled
-- Facebook: 69c6fb18dd5003d0a6eea703 → 2026-04-17
-- Instagram: 69c6fb1b748a22558311ecdf → 2026-04-16
-- Threads: 69c6fb1d748a22558311ed09 → 2026-04-16
-- X: 69c6fb2c748a22558311ed2f → 2026-04-17
-- Google Business: 69c6fb2cdd5003d0a6eea75c → 2026-04-17
-- Bluesky: 69c6fb2d748a22558311ed55 → 2026-04-17
-- YouTube: 69c6fb3bdd5003d0a6eea800 → 2026-07-08 (customScheduled)
-- TikTok: 69c6fb41dd5003d0a6eea826 → 2026-07-16 (customScheduled)
+**Total unique people:** 16
+**New names added to DB:** 12
+**Images generated:** 68
+**Videos:** 2 (TikTok 60s, YouTube 60s)
 
-**New handles added:** 5 (Nedra Glover Tawwab, Amy Morin, Dr. Aziz Gazipura, Sharon Martin, Randy J. Paterson)
-**Cross-platform overlap:** ~50% (assertiveness overlaps with boundaries and confidence niches)
+**Buffer Post IDs:**
+- Facebook: 69c7873cfeab3741070de438 (queued → 2026-04-17)
+- Instagram: 69c7873da194ba150379c9a1 (queued → 2026-04-17)
+- TikTok: 69c78762feab3741070de4de (customScheduled → 2026-07-15)
+- Threads: 69c78755a194ba150379c9ed (queued → 2026-04-17)
+- YouTube: 69c78767a194ba150379cac3 (customScheduled → 2026-07-20)
+- Google Business: 69c78757feab3741070de48b (queued → 2026-04-17)
+- X/Twitter: 69c78756a194ba150379ca13 (queued → 2026-04-17)
+- Bluesky: 69c78758feab3741070de4b1 (queued → 2026-04-17)
 
 ---
 
-## Run Summary
-**Run Date:** 2026-03-27
-**Topics Completed:** 4/4
-- Written Communication ✓
-- Small Talk & Conversation Skills ✓
-- Nonviolent Communication ✓
-- Assertiveness ✓
+## Session Summary — 2026-03-28
 
-**Total Output:**
-- 332 carousel images generated
-- 8 videos created (4 TikTok + 4 YouTube)
-- 340 files uploaded to GitHub
-- 32 Buffer posts scheduled (8 per topic × 4 topics)
-- 30 new people added to Handles database
-- 5 existing handles updated
+**Topics processed this session:** 4
+- Topic 1: Executive Communication (P102) — DONE
+- Topic 2: Cross-Cultural Communication (P103) — DONE
+- Topic 3: Radical Candor (P104) — DONE
+- Topic 4: Asking Better Questions (P105) — DONE
 
-**Queue Positions After Run:**
-- YouTube: Next available slot → 2026-07-09
-- TikTok: Next available slot → 2026-07-17
+**Session totals:**
+- Total posts scheduled: 32 (8 per topic × 4 topics)
+- Total images generated: ~272
+- Total videos created: 8
+- New names added to database: ~65
+- Database total: 1630 people
+
+**Note:** Topics 99-101 were also detected as completed from a previous crashed session and marked DONE. Persuasion & Influence (P95) and Negotiation (P96) remain IN_PROGRESS from a previous session crash — may need manual review.
+
+## Giving & Receiving Criticism — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: 45
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Sheila Heen, Douglas Stone, Jefferson Fisher, Melody Wilding, Henna Pryor, Vinh Giang, Amy Gallo, Joe Hirsch
+- Cross-platform overlap: ~25% (most rosters have unique platform-specific selections)
+- Slug: giving-receiving-criticism
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-21 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-30 via customScheduled (daily limit reached, Path 2)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit reached - scheduled for March 30. Some GitHub uploads needed SHA retry.
+
+## Debate & Critical Discussion — 2026-03-28 (Topic 2 of 4)
+- Total unique people across all platforms: 42
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Kwame Christian, Jefferson Fisher, Robbie Crabtree, Julia Galef, Adam Grant, Charlie Houpert, Vinh Giang, Shane Snow
+- Cross-platform overlap: ~25%
+- Slug: debate-critical-discussion
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-22 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-03-31 via customScheduled (daily limit)
+- Image counts: FB=10/10, IG=10/10, Threads=16/20(cover skipped due to CDN delay), X=4/4, Bluesky=4/4, GBiz=1
+- Issues: Threads slide_01 CDN propagation delay - posted without cover. TikTok daily limit persists.
+## Voice & Vocal Presence — 2026-03-28 (Topic 3 of 4)
+- Total unique people across all platforms: ~20
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Roger Love, Julian Treasure, Vinh Giang, Caroline Goyder, Laura Sicola, Tracy Goodwin
+- Cross-platform overlap: ~30% (vocal coaching is a smaller niche)
+- Slug: voice-vocal-presence
+- Posts scheduled: 8/8 (Pinterest skipped)
+- Buffer Post IDs: FB=69c79008a194ba150379f3ca, IG=69c79009a194ba150379f3f0, X=69c7900afeab3741070e0cce, Threads=69c790a8a194ba150379f49a, TikTok=69c790c8a194ba150379f56b, YouTube=69c790a9a194ba150379f4bf, GBiz=69c790cda194ba150379f592, Bluesky=69c790b0a194ba150379f4fa
+- YouTube scheduled: 2026-07-23 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-02 via customScheduled (daily limit reached on April 1)
+- Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1 (used facebook/slide_01 for CDN)
+- GitHub uploads: 77/77 images + 2 videos = 79 files uploaded
+- Issues: TikTok daily limit on April 1 - moved to April 2. Google Business CDN issue with googlebusiness/ folder - used facebook/slide_01 instead.
+
+## Personal Branding — 2026-03-28 (Topic 4 of 4)
+- Total unique people across all platforms: ~40
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: William Arruda, Dorie Clark (max 2 returning)
+- Cross-platform overlap: ~25%
+- Slug: personal-branding
+- Posts scheduled: 8/8 (Pinterest skipped)
+- Buffer Post IDs: FB=69c793d9a194ba15037a089b, IG=69c793dafeab3741070e22f7, X=69c793dbfeab3741070e231d, Threads=69c793fafeab3741070e2357, TikTok=69c793fbfeab3741070e2380, YouTube=69c79401feab3741070e23aa, GBiz=69c79407a194ba15037a08f8, Bluesky=69c79408feab3741070e23dd
+- YouTube scheduled: 2026-07-24 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-03 via customScheduled (daily limit management)
+- Image counts: FB=10/10, IG=10/10, Threads=17/20, X=4/4, Bluesky=4/4, GBiz=1 (used facebook/slide_01 for CDN reliability)
+- GitHub uploads: 91 images + 2 videos = 93 files uploaded (93/93 success)
+- Issues: None. All uploads and scheduling succeeded on first attempt.
+
+---
+
+## Session Summary — 2026-03-28
+
+### Topics Processed: 4
+1. **Giving & Receiving Criticism** — 8/8 posts scheduled
+2. **Debate & Critical Discussion** — 8/8 posts scheduled
+3. **Voice & Vocal Presence** — 8/8 posts scheduled
+4. **Personal Branding** — 8/8 posts scheduled
+
+### Totals
+- Total posts scheduled: 32 (8 per topic × 4 topics)
+- Total images generated: ~340
+- Total videos created: 8 (2 per topic × 4 topics)
+- New names added to database: ~55
+- Database total: ~1700+ people
+- GitHub files uploaded: ~350+
+- All YouTube Shorts under 60sec limit
+- TikTok posts spread across April 1-3 (daily limit management)
+- YouTube posts scheduled July 21-24 (sequential days)
+
+## Personal Branding — 2026-03-28 (Topic 1 of 4)
+- Total unique people across all platforms: ~58
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Mark Schaefer, Rory Vaden, Dickie Bush (from previous topics), Christine Gritmon, Keenya Kelly
+- Cross-platform overlap: ~20% (Philip VanDusen, Rory Vaden, Keenya Kelly, Christine Gritmon appear on 3+ platforms)
+- Slug: personal-branding
+- Posts scheduled: 8/8 (5 new + 3 from previous run; Pinterest skipped)
+- YouTube scheduled: 2026-07-25 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-29 via customScheduled (daily limit reached for today)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: Facebook, Threads, Bluesky posts already existed from previous partial run — kept existing. TikTok daily limit reached, scheduled for next day.
+
+## Thought Leadership — 2026-03-28 (Topic 2 of 4)
+- Total unique people across all platforms: ~75
+- Per-platform roster sizes: FB=7/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=7, Bluesky=5
+- Returning names: Ali Abdaal, Russell Brunson, Marie Forleo, Lex Fridman (from previous topics)
+- Cross-platform overlap: ~25% (David Perell, Jack Butcher, Nir Eyal, Russell Brunson appear on 3+ platforms)
+- Slug: thought-leadership
+- Posts scheduled: 8/8 (all new; Pinterest skipped)
+- YouTube scheduled: 2026-07-26 via customScheduled (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-30 via customScheduled (spreading across days)
+- Image counts: FB=9/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: None. All 8 channels scheduled successfully.
+
+## LinkedIn Strategy — 2026-03-28 (Topic 3 of 4)
+- Total unique people across all platforms: ~70
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Austin Belcak (from previous topics)
+- Cross-platform overlap: ~30% (Tommy Clark, Greg Langstaff, Pierre Herubel, Jasmin Alic appear on 3+ platforms — expected for LinkedIn niche)
+- Slug: linkedin-strategy
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-27 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-01 via customScheduled (daily limit reached for Mar 28-31)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: TikTok daily limit reached on first attempt (Mar 31), rescheduled to Apr 1.
+
+## Content Creation for Leaders — 2026-03-28 (Topic 4 of 4)
+- Total unique people across all platforms: ~65
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=12, GBiz=6, Bluesky=5
+- Returning names: Kyle Gray (from Thought Leadership/Bluesky roster)
+- Cross-platform overlap: ~25% (Chris Do, Rand Fishkin, Jay Clouse, Alex Lieberman appear on 3+ platforms)
+- Slug: content-creation-for-leaders
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-07-28 via customScheduled (duration: 56sec)
+- TikTok scheduled: 2026-04-02 via customScheduled (spreading across days)
+- Image counts: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1/1max
+- Videos: TikTok (56sec), YouTube (56sec)
+- Issues: None. All 8 channels scheduled successfully.
+
+---
+
+## SESSION SUMMARY — 2026-03-28
+
+### Topics Completed (4/4)
+1. Personal Branding (slug: personal-branding)
+2. Thought Leadership (slug: thought-leadership)
+3. LinkedIn Strategy (slug: linkedin-strategy)
+4. Content Creation for Leaders (slug: content-creation-for-leaders)
+
+### Total Posts Scheduled: 32 (4 topics × 8 platforms)
+- Facebook: 4 posts (1 from prev run + 3 new)
+- Instagram: 4 posts
+- TikTok: 4 posts (spread across Mar 29, Mar 30, Apr 1, Apr 2)
+- Threads: 4 posts (1 from prev run + 3 new)
+- X/Twitter: 4 posts
+- YouTube: 4 posts (Jul 25, 26, 27, 28 via customScheduled)
+- Google Business: 4 posts
+- Bluesky: 4 posts (1 from prev run + 3 new)
+
+### YouTube Schedule
+- Jul 25: Personal Branding (56sec)
+- Jul 26: Thought Leadership (56sec)
+- Jul 27: LinkedIn Strategy (56sec)
+- Jul 28: Content Creation for Leaders (56sec)
+
+### TikTok Schedule
+- Mar 29: Personal Branding
+- Mar 30: Thought Leadership
+- Apr 1: LinkedIn Strategy
+- Apr 2: Content Creation for Leaders
+
+### Total Images Generated: ~300 (across 4 topics × 8 platforms)
+### Total Videos Generated: 8 (4 TikTok + 4 YouTube, all under 60sec)
+### New People Added to Database: ~85
+
+## Building an Audience — 2026-03-29 (Topic 1 of 4)
+- Total unique people across all platforms: 64
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=11, GBiz=6, Bluesky=5
+- Returning names: Brendon Burchard, Vanessa Lau, Alex Cattoni, Rachel Pedersen, Jay Clouse, Justin Welsh, Dickie Bush, Dan Koe, Sahil Bloom, Jay Acunzo, Ali Abdaal, Codie Sanchez, Chris Do, Gary Vaynerchuk, Neil Patel, Seth Godin, James Clear, Sahil Lavingia, Tim Ferriss, Roberto Blake, Matt D'Avella, Ann Handley, Rand Fishkin
+- Cross-platform overlap: ~15% (most people unique to their platform)
+- Slug: building-an-audience
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-29 via addToQueue (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-29 via addToQueue (path 2, placeholder under 150 chars)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: YouTube customScheduled failed for April 2-6 (daily limit of 10 reached across all dates). Used addToQueue instead.
+
+## Writing a Book — 2026-03-29 (Topic 2 of 4)
+- Total unique people across all platforms: 73
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=11, GBiz=6, Bluesky=5
+- Returning names: Ann Handley, Ryan Holiday, James Clear, Adam Grant, Seth Godin, Cal Newport
+- Cross-platform overlap: ~12% (mostly prolific authors appearing on 2 platforms)
+- Slug: writing-a-book
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-29 via addToQueue (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-30 via customScheduled (daily limit reached for Mar 29)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: TikTok daily limit reached. Scheduled for March 30 instead.
+
+## Keynote Speaking Business — 2026-03-29 (Topic 3 of 4)
+- Total unique people across all platforms: 68
+- Per-platform roster sizes: FB=8/8max, IG=8/8max, TikTok=12, Threads=15/18max, X=8, YT=11, GBiz=6, Bluesky=5
+- Returning names: Brendon Burchard, Mel Robbins, Amy Porterfield, Simon Sinek, Brene Brown, Adam Grant, Daniel Pink, Liz Wiseman, Seth Godin, Angela Duckworth, Gary Vaynerchuk, Tim Ferriss, Ryan Holiday, James Clear, Scott Galloway
+- Cross-platform overlap: ~18% (famous speakers naturally cross platforms)
+- Slug: keynote-speaking-business
+- Posts scheduled: 8/8 (Pinterest skipped)
+- YouTube scheduled: 2026-03-29 via addToQueue (duration: 56sec, under 60sec limit)
+- TikTok scheduled: 2026-03-31 via customScheduled (spreading across days)
+- Image counts per platform: FB=10/10max, IG=10/10max, Threads=17/20max, X=4/4max, Bluesky=4/4max, GBiz=1
+- Issues: None.
+
+## Topic 4: Online Course Creation (#116)
+- **Timestamp**: 2026-03-29T04:59 UTC
+- **Platforms**: Facebook, Instagram, TikTok, Threads, X/Twitter, YouTube, Google Business, Bluesky
+- **Roster sizes**: FB(8), IG(8), TikTok(12), Threads(15), X(8), YouTube(11), GBP(6), Bluesky(5)
+- **Total unique people**: ~55
+- **Images generated**: 75 (across 8 platforms)
+- **Videos generated**: 2 (TikTok + YouTube)
+- **Buffer posts scheduled**: 8/8
+- **New handles added**: 24
+- **Scheduling notes**: TikTok customScheduled for Apr 2 (daily limits), YouTube addToQueue, all others addToQueue
+- **Buffer post IDs**: 69c8b148a194ba1503801fc6 (FB), 69c8b14aa194ba1503801fec (IG), 69c8b184a194ba1503802090 (TT), 69c8b18cfeab374107144626 (Threads), 69c8b1a8a194ba1503802142 (X), 69c8b1a9feab37410714467f (YT), 69c8b18aa194ba15038020b7 (GBP), 69c8b1b4feab3741071446ad (Bluesky)
+
+---
+
+## Session Summary (All 4 Topics)
+- **Topics processed**: Building an Audience (#113), Writing a Book (#114), Keynote Speaking Business (#115), Online Course Creation (#116)
+- **Total posts scheduled**: 32 (8 per topic × 4 topics)
+- **Total images generated**: ~300
+- **Total videos generated**: 8 (2 per topic)
+- **Total new handles added**: ~100+
+- **Total handles in database**: 1904
+- **All GitHub pushes**: Successful
