@@ -1948,3 +1948,34 @@ Total: 63/63 posts scheduled across 9 platforms (Pinterest skipped)
 - Bluesky: 3 posts (queued ~Apr 17)
 
 **Status**: Complete
+
+
+## Topic 1: Podcast Rec - Global Leadership Podcast — 2026-03-29
+
+- **Trigger**: Scheduled automated run
+- **Topic**: Podcast Rec: Global Leadership Summit Podcast (Topic 1 of 4)
+- **Carousels built**:
+  - gls-podcast (8 slides) - Why you should listen
+  - gls-podcast-guests (10 slides) - 8 notable guests
+  - gls-podcast-themes (7 slides) - 5 key themes
+- **Total slides**: 25 (3 sizes each + 3 pins + 3 videos)
+- **GitHub uploads**: 81 files uploaded, 0 failed
+- **Platforms scheduled**: 8 of 9 (Pinterest skipped, YouTube logged for manual)
+  - LinkedIn: 3 posts (addToQueue)
+  - Facebook: 3 posts (addToQueue)
+  - Instagram: 3 posts (addToQueue, portrait images, photo tags on @glnsummit @craiggroeschel)
+  - Threads: 3 posts (addToQueue)
+  - X/Twitter: 3 posts (addToQueue, 4 images each)
+  - Google Business: 3 posts (addToQueue, 1 image each, learn_more button)
+  - Bluesky: 3 posts (addToQueue, 4 images each, no hashtags)
+  - TikTok: 3 videos (customScheduled Apr 3, Apr 3, Apr 5)
+- **YouTube**: SKIPPED - queue full at 99 scheduled posts. All 3 videos uploaded to GitHub for manual scheduling.
+- **Footer role**: Leadership Team Facilitator | Keynote Speaker | Author
+- **Handles researched**: @glnsummit (IG/X/Threads/FB), @craiggroeschel (IG/TikTok/X/FB)
+- **Native action items**:
+  - YouTube: Upload 3 videos manually from GitHub
+  - X/Twitter: Add photo tags natively after publishing
+  - Facebook: Add personal profile tags for featured guests
+  - Instagram: Verify photo tags applied correctly
+- **Errors/warnings**: YouTube Buffer queue at capacity (99 posts). TikTok Apr 5 also at limit initially, moved to Apr 6.
+- **Excel files updated**: content-calendar.xlsx, carousel-log.xlsx, handle-database.xlsx
