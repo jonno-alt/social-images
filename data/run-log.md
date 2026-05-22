@@ -3355,3 +3355,31 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
 - Sandbox calendar = 2026-05-22; AEST = 2026-05-23. GitHub slug-date uses sandbox date for path consistency.
 - Earliest dueAt: 2026-05-23T02:15+10:00. Latest dueAt: 2026-05-23T10:23+10:00.
 
+
+## Run 2026-05-23 07:10 AEST (retry attempt for prior pending posts)
+
+**Status:** Buffer rate limit (HTTP 429) persisted throughout the entire run window. No new Buffer posts scheduled. Pending posts JSON updated with fresh dueAt times and re-saved to GitHub for next retry.
+
+**Schedule (run_start):** 2026-05-23T08:15:00+10:00
+
+**Action taken:**
+- Restored handle-database.xlsx and run-log.md from GitHub.
+- Recomputed run_start (08:15 AEST) and topic_base_times (08:15, 10:15, 12:15, 14:15).
+- Loaded the 43 prepared Buffer posts from data/buffer_posts_pending_2026-05-23.json (saved by prior run at 01:09 AEST).
+- Shifted every dueAt forward by +6h (original earliest 02:15 → new 08:15).
+- Saved rescheduled payload back to data/buffer_posts_pending_2026-05-23.json on GitHub.
+- Skipped image regeneration: all 293 carousel images + 8 TikTok videos for Topics 1-4 (Loneliness at Work, Nervous System Regulation, Boundaries at Work, Grief & Loss in the Workplace) remain on GitHub at carousels/{slug}-2026-05-22/ and are accessible via raw URLs (verified 200 OK).
+
+**Buffer status:** Every call to mcp__buffer-mcp__get_account returned HTTP 429 across an 18-minute window with repeated 40-60s spacing between attempts. No create_post calls were issued. Airtable Social Post Status for the 4 topics remains "Scheduled" from the prior run — not updated to "Posted" or "Failed" because no actual scheduling outcome was observed.
+
+**Pending posts breakdown (unchanged, new dueAts only):**
+- Loneliness at Work (recQVbaAGx5XIgrrJ): IG 2 + Threads 1 + TikTok 2 + X 4 + Bluesky 4 = 13 posts.
+- Nervous System Regulation (recGLYaFNZIwGOjcm): IG 2 + Threads 1 + TikTok 2 + X 4 + Bluesky 3 = 12 posts.
+- Boundaries at Work (recQYEB8HR4wF3PSJ): IG 2 + Threads 1 + TikTok 2 + X 4 + Bluesky 0 = 9 posts.
+- Grief & Loss in the Workplace (recrvnVwrVE2lAReE): IG 2 + Threads 1 + TikTok 2 + X 3 + Bluesky 1 = 9 posts.
+- TOTAL: 43 Buffer posts queued for retry.
+
+**Earliest new dueAt:** 2026-05-23T08:15+10:00. **Latest new dueAt:** 2026-05-23T14:23+10:00.
+
+**Next-run recovery:** A future run can load data/buffer_posts_pending_2026-05-23.json directly, drop any dueAt that has gone stale (>2h in the past), re-stagger from a fresh run_start, and POST via Buffer. Images on GitHub do not need to be re-uploaded.
+
