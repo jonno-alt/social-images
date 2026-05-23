@@ -3405,3 +3405,41 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
 - No new image generation, no GitHub uploads, no Airtable roster re-pull — this run was a pure Buffer-side recovery of the pending payload.
 - All four topics' images remain at carousels/{slug}-2026-05-22/ on jonno-alt/social-images.
 - Backlog cleared. Next scheduled run can pull 4 fresh topics from the Research Queue.
+
+
+## Run: 2026-05-24T01:54:42.301160+10:00
+- Run start (computed): 2026-05-24T02:15:00+10:00 AEST
+- Topics processed: 4
+
+### Topic 1: Inclusive Communication (recQoRaFeunlVdWb9)
+- Rosters: IG=14, Threads=0, TikTok=15, X=14, Bluesky=0
+- Buffer posts scheduled: 7 (IG×2, TikTok×1, X×4)
+- Times Featured incremented for: 14 IG + 15 TT + 14 X people
+- X HEAD-trust fallback: 14 handles
+- Status: Posted
+
+### Topic 2: Radical Transparency (recjN8YpNt3i21Pkl)
+- Rosters: IG=1, Threads=1, TikTok=1, X=1, Bluesky=15
+- Buffer posts scheduled: 8 (IG×1, Threads×1, TikTok×1, X×1, Bluesky×4)
+- X HEAD-trust fallback: 1 handle (@RayDalio)
+- Status: Posted
+
+### Topic 3: Humour & Levity in Leadership (rec9cT4aDlqf4SgYV)
+- Rosters: IG=15, Threads=15, TikTok=16, X=14, Bluesky=15
+- Buffer posts scheduled: 5 (IG part 2, TikTok×1, X parts 1-3)
+- IG part 1 errored at Buffer (corrupt image fetch)
+- X part 4, Threads, Bluesky deferred (GitHub upload incomplete)
+- X HEAD-trust fallback: 14 handles
+- Status: Posted (partial)
+
+### Topic 4: Communication Styles & Profiles (recoh4RgBv3AoW8O8)
+- Rosters: IG=15, Threads=2, TikTok=15, X=15, Bluesky=0
+- Buffer posts scheduled: 3 (IG part 1, X parts 1 & 3)
+- IG part 2, Threads, TikTok, X parts 2 & 4 deferred (GitHub upload incomplete)
+- X HEAD-trust fallback: 15 handles
+- Status: Posted (partial)
+
+### Total
+- Buffer posts scheduled this run: 23
+- Schedule window: 2026-05-24T02:15 → 09:21 AEST
+- Mode: customScheduled, schedulingType: automatic
