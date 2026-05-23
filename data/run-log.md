@@ -3383,3 +3383,25 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
 
 **Next-run recovery:** A future run can load data/buffer_posts_pending_2026-05-23.json directly, drop any dueAt that has gone stale (>2h in the past), re-stagger from a fresh run_start, and POST via Buffer. Images on GitHub do not need to be re-uploaded.
 
+
+
+## Run 2026-05-23 19:09 AEST (retry — pending Buffer posts cleared)
+
+**Status:** All 43 pending Buffer posts from the prior 2026-05-23 01:09 AEST run have been successfully scheduled. Buffer rate limit cleared; no 429s observed during this run.
+
+**Schedule (run_start):** 2026-05-23T20:15:00+10:00
+
+**Approach:** Loaded the 43 prepared payloads from data/buffer_posts_pending_2026-05-23.json (which had been re-staggered once already to 08:15 AEST — those times had since gone stale). Restaggered every dueAt from the new run_start using the standard staggering formula (topic +2h, platform +0/2/4/6/8m, parts +30m). All 4 image sets verified live on GitHub (HEAD 200 OK). No image regeneration was needed.
+
+**Buffer scheduling results (43/43 posts created):**
+- Loneliness at Work (recQVbaAGx5XIgrrJ) — 13 posts: IG 2 + Threads 1 + TikTok 2 + X 4 + Bluesky 4. Airtable set to Posted.
+- Nervous System Regulation for Leaders (recGLYaFNZIwGOjcm) — 12 posts: IG 2 + Threads 1 + TikTok 2 + X 4 + Bluesky 3. Airtable set to Posted.
+- Boundaries at Work (recQYEB8HR4wF3PSJ) — 9 posts: IG 2 + Threads 1 + TikTok 2 + X 4 + Bluesky 0. Airtable set to Posted.
+- Grief & Loss in the Workplace (recrvnVwrVE2lAReE) — 9 posts: IG 2 + Threads 1 + TikTok 2 + X 3 + Bluesky 1. Airtable set to Posted.
+
+**Earliest dueAt:** 2026-05-23T20:15+10:00. **Latest dueAt:** 2026-05-24T03:21+10:00. All schedulingType=automatic, mode=customScheduled. No notification-mode fallbacks. No handle drops in this run (re-using already-verified rosters from the original Buffer payload).
+
+**Notes:**
+- No new image generation, no GitHub uploads, no Airtable roster re-pull — this run was a pure Buffer-side recovery of the pending payload.
+- All four topics' images remain at carousels/{slug}-2026-05-22/ on jonno-alt/social-images.
+- Backlog cleared. Next scheduled run can pull 4 fresh topics from the Research Queue.
