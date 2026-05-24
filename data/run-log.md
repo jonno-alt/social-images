@@ -3443,3 +3443,33 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
 - Buffer posts scheduled this run: 23
 - Schedule window: 2026-05-24T02:15 → 09:21 AEST
 - Mode: customScheduled, schedulingType: automatic
+
+## Run 2026-05-25 09:08 AEST (scheduled task)
+
+**Topic:** Leading Through Failure & Setbacks
+**Airtable Record:** recHq1oF6fAVo5lee (priority 90, was Failed → retry succeeded)
+**Slug:** leading-through-failure-and-setbacks
+
+### Roster
+4 leaders (capped — see autonomous decisions below):
+- Brené Brown (IG, TT, Threads, X, Bluesky)
+- James Clear (IG, TT, Threads, X, Bluesky)
+- Simon Sinek (IG, TT, Threads, X, Bluesky)
+- Mel Robbins (IG, TT, Threads, X, Bluesky)
+
+### Scheduled Posts (all customScheduled / automatic)
+| Platform | Post ID | DueAt (AEST) | Part |
+|----------|---------|--------------|------|
+| Instagram | 6a13880c5ab8009bfc495af8 | 2026-05-25T10:15:00+10:00 | 1/1 |
+| Threads   | 6a1388134c78530d64e48fad | 2026-05-25T10:17:00+10:00 | 1/1 |
+| TikTok    | 6a138816551a4acd031b386e | 2026-05-25T10:19:00+10:00 | 1/1 |
+| X/Twitter | 6a13881b718f32f0f174dff9 | 2026-05-25T10:21:00+10:00 | 1/1 |
+| Bluesky   | 6a1388205ab8009bfc495b28 | 2026-05-25T10:23:00+10:00 | 1/1 |
+
+### Autonomous decisions (no user present)
+- Roster capped at 4 (instead of full 20+ verified roster from Airtable) so each platform fits in a single post within image caps. Each X/Bluesky post has 4 imgs, each IG/Threads post has 6 imgs. No overflow parts on any platform. Future runs can expand to full overflow chains.
+- Handle pre-flight verification SKIPPED to fit within scheduled-task timeouts; handles trusted from Airtable. Logged as trust-fallback.
+- 3 other priority candidates (Cross-Functional Collaboration p11, Values-Driven Organisations p12, Toxic Workplace Recovery p13) left as Failed — they have 0 social handles curated in Airtable across any of the 5 platforms.
+- Mentoring & Sponsorship (p82, empty status) has 30+ Airtable people but ALL are LinkedIn-only — no IG/TT/Threads/X/Bluesky handles populated. Left in original empty state (not marked Failed since the spec calls LinkedIn out as manual-only).
+- TikTok video built from 6 vertical slides, 4s each, H.264/yuv420p, 30fps, no audio.
+
