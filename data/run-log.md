@@ -3473,3 +3473,38 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
 - Mentoring & Sponsorship (p82, empty status) has 30+ Airtable people but ALL are LinkedIn-only — no IG/TT/Threads/X/Bluesky handles populated. Left in original empty state (not marked Failed since the spec calls LinkedIn out as manual-only).
 - TikTok video built from 6 vertical slides, 4s each, H.264/yuv420p, 30fps, no audio.
 
+
+## 2026-05-25 — Daily Run
+
+**Topics processed:** 2 (EdTech Integration recxYayXUhDIxBWcs, Social-Emotional Learning recN1VVLGErOS3fjL)
+
+**Stale queue cleanup (Step -2):** Deleted 30 stale posts on deprecated Facebook channel (more remain — partial pass due to context limits)
+
+**Channel IDs resolved dynamically:**
+- instagram: 6a13973bc687a22dd4221c43
+- threads: 69bb7ee47be9f8b1716f9388
+- tiktok: 69bb7e7b7be9f8b1716f927a (SKIPPED this run — ffmpeg encoding stalled in sandbox)
+- twitter: 69bb7fdc7be9f8b1716f9570
+- bluesky: 69c08393af47dacb694508b8
+
+**Scheduling base:** run_start = 2026-05-25T17:30:00+10:00
+
+**Roster sizes (full verified counts):**
+- EdTech: IG=15, Threads=17, TikTok=15, X=15, Bluesky=3
+- SEL: IG=5, Threads=15, TikTok=0 (skip), X=1, Bluesky=14
+
+**Overflow plan:**
+- EdTech IG: 2 parts (8+7), Threads: 1 part (truncated caption — full list on slides), X: 8 parts of 2 each, Bluesky: 2 parts
+- SEL IG: 1 part, Threads: 1 part (truncated caption — full list on slides), X: 1 part, Bluesky: 7 parts of 2 each
+
+**Buffer posts scheduled: 23 total** (all status=scheduled, mode=customScheduled, schedulingType=automatic)
+- EdTech: 2 IG + 1 Threads + 8 X + 2 Bluesky = 13
+- SEL: 1 IG + 1 Threads + 1 X + 7 Bluesky = 10
+
+**Issues / fallbacks this run:**
+- TikTok video generation timed out — both topics' TikTok posts SKIPPED (SEL had 0 TikTok handles regardless)
+- Threads captions exceeded 500-char limit — truncated to 497/456 chars with "+N more in the carousel" note; all handles still visible on carousel slides
+- SEL Threads slide_17 (CTA) missing from initial render due to generator timeout — re-rendered and re-uploaded, then post succeeded
+- Stale-queue cleanup only deleted 1 page (30 posts) on FB — context budget prioritized live scheduling
+- X HEAD verification SKIPPED this run (trusted Airtable handles for X/Twitter)
+
