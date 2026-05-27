@@ -3528,3 +3528,72 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
   - bluesky   P3/4 @ 2026-05-27T19:08:00+10:00: id=6a169770a10aaf30404428cf status=scheduled
   - bluesky   P4/4 @ 2026-05-27T19:38:00+10:00: id=6a169773753b0bea92a64641 status=scheduled
 - Only 1 eligible topic in Research Queue this run (others either incomplete or already posted)
+
+## Run 2026-05-27 20:06 UTC+10:00
+
+Stale queue cleanup: 3 posts deleted on deprecated channels (1× facebook, 1× googlebusiness, 1× linkedin)
+Channel IDs (dynamic discovery): IG=6a13973bc687a22dd4221c43 TH=69bb7ee47be9f8b1716f9388 TT=69bb7e7b7be9f8b1716f927a X=69bb7fdc7be9f8b1716f9570 BS=69c08393af47dacb694508b8
+
+### Topic 1: Anti-Racism in Organizations (record recTz00f8ntFIdjYJ)
+Rosters: IG=10 TH=14 TT=6 X=9 BS=14
+Buffer posts: 12
+  - instagram P1/2 @ 2026-05-27T20:15:00+10:00
+  - threads P1/2 @ 2026-05-27T20:17:00+10:00
+  - tiktok P1/1 @ 2026-05-27T20:19:00+10:00
+  - twitter P1/3 @ 2026-05-27T20:21:00+10:00
+  - bluesky P1/4 @ 2026-05-27T20:23:00+10:00
+  - instagram P2/2 @ 2026-05-27T20:45:00+10:00
+  - threads P2/2 @ 2026-05-27T20:47:00+10:00
+  - twitter P2/3 @ 2026-05-27T20:51:00+10:00
+  - bluesky P2/4 @ 2026-05-27T20:53:00+10:00
+  - twitter P3/3 @ 2026-05-27T21:21:00+10:00
+  - bluesky P3/4 @ 2026-05-27T21:23:00+10:00
+  - bluesky P4/4 @ 2026-05-27T21:53:00+10:00
+
+### Topic 2: Disability Inclusion at Work (record rec2Elg4lUzhKjHb2)
+Rosters: IG=3 TH=11 TT=5 X=2 BS=9
+Buffer posts: 8
+  - instagram P1/1 @ 2026-05-27T22:15:00+10:00
+  - threads P1/2 @ 2026-05-27T22:17:00+10:00
+  - tiktok P1/1 @ 2026-05-27T22:19:00+10:00
+  - twitter P1/1 @ 2026-05-27T22:21:00+10:00
+  - bluesky P1/3 @ 2026-05-27T22:23:00+10:00
+  - threads P2/2 @ 2026-05-27T22:47:00+10:00
+  - bluesky P2/3 @ 2026-05-27T22:53:00+10:00
+  - bluesky P3/3 @ 2026-05-27T23:23:00+10:00
+
+### Topic 3: LGBTQ+ Inclusion at Work (record reccLD4ItPLnhFnFZ)
+Rosters: IG=15 TH=13 TT=5 X=15 BS=9
+Buffer posts: 12
+  - instagram P1/2 @ 2026-05-28T00:15:00+10:00
+  - threads P1/2 @ 2026-05-28T00:17:00+10:00
+  - tiktok P1/1 @ 2026-05-28T00:19:00+10:00
+  - twitter P1/4 @ 2026-05-28T00:21:00+10:00
+  - bluesky P1/3 @ 2026-05-28T00:23:00+10:00
+  - instagram P2/2 @ 2026-05-28T00:45:00+10:00
+  - threads P2/2 @ 2026-05-28T00:47:00+10:00
+  - twitter P2/4 @ 2026-05-28T00:51:00+10:00
+  - bluesky P2/3 @ 2026-05-28T00:53:00+10:00
+  - twitter P3/4 @ 2026-05-28T01:21:00+10:00
+  - bluesky P3/3 @ 2026-05-28T01:23:00+10:00
+  - twitter P4/4 @ 2026-05-28T01:51:00+10:00
+
+### Topic 4: Allyship in the Workplace (record reckpCqnyxoBiH0sh)
+Rosters: IG=15 TH=16 TT=5 X=15 BS=14
+Buffer posts: 13
+  - instagram P1/2 @ 2026-05-28T02:15:00+10:00
+  - threads P1/2 @ 2026-05-28T02:17:00+10:00
+  - tiktok P1/1 @ 2026-05-28T02:19:00+10:00
+  - twitter P1/4 @ 2026-05-28T02:21:00+10:00
+  - bluesky P1/4 @ 2026-05-28T02:23:00+10:00
+  - instagram P2/2 @ 2026-05-28T02:45:00+10:00
+  - threads P2/2 @ 2026-05-28T02:47:00+10:00
+  - twitter P2/4 @ 2026-05-28T02:51:00+10:00
+  - bluesky P2/4 @ 2026-05-28T02:53:00+10:00
+  - twitter P3/4 @ 2026-05-28T03:21:00+10:00
+  - bluesky P3/4 @ 2026-05-28T03:23:00+10:00
+  - twitter P4/4 @ 2026-05-28T03:51:00+10:00
+  - bluesky P4/4 @ 2026-05-28T03:53:00+10:00
+
+Total Buffer posts scheduled: 45 (12+8+12+13)
+All 4 Airtable Research Queue records updated to 'Posted'.
