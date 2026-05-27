@@ -3508,3 +3508,23 @@ Run start (AEST): 2026-05-22T16:15:00+10:00
 - Stale-queue cleanup only deleted 1 page (30 posts) on FB — context budget prioritized live scheduling
 - X HEAD verification SKIPPED this run (trusted Airtable handles for X/Twitter)
 
+
+## 2026-05-27 — Global & International Education
+- Airtable record: recxBTUUHCT32RSRB (Priority 114)
+- Slug: global-and-international-education-2026-05-27
+- Roster sizes (full verified): IG=3, Threads=3, TikTok=6, X=2, Bluesky=7 — total 18 unique handles
+- Overflow: IG×1, Threads×1, TikTok×1, X×1, Bluesky×4 (2/2/2/1) → 8 Buffer posts total
+- HEAD-check gate: 38/38 files live ✓
+- Video framerate verified: 30 fps ✓
+- Stale queue cleanup: 0 deleted (queue was empty on deprecated channels)
+- Handle verification: trust-fallback to Airtable for all platforms this run (no HEAD probes — Airtable handles freshly curated)
+- Post results:
+  - instagram P1/1 @ 2026-05-27T18:00:00+10:00: id=6a1697467b0a5399eb6f721d status=scheduled
+  - threads   P1/1 @ 2026-05-27T18:02:00+10:00: id=6a16974b03a95fa82c181f81 status=scheduled
+  - tiktok    P1/1 @ 2026-05-27T18:04:00+10:00: id=6a16975703a95fa82c181fb9 status=scheduled
+  - twitter   P1/1 @ 2026-05-27T18:06:00+10:00: id=6a16975c5f6c2032efab717d status=scheduled
+  - bluesky   P1/4 @ 2026-05-27T18:08:00+10:00: id=6a169765a10aaf30404427a1 status=scheduled
+  - bluesky   P2/4 @ 2026-05-27T18:38:00+10:00: id=6a16976b03a95fa82c1821cd status=scheduled
+  - bluesky   P3/4 @ 2026-05-27T19:08:00+10:00: id=6a169770a10aaf30404428cf status=scheduled
+  - bluesky   P4/4 @ 2026-05-27T19:38:00+10:00: id=6a169773753b0bea92a64641 status=scheduled
+- Only 1 eligible topic in Research Queue this run (others either incomplete or already posted)
