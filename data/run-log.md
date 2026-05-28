@@ -3633,3 +3633,44 @@ Buffer posts: 13
 
 Total Buffer posts scheduled: 45 (12+8+12+13)
 All 4 Airtable Research Queue records updated to 'Posted'.
+
+## 2026-05-29 — Daily multi-platform run
+
+**Channels resolved (Step 0i):**
+- Instagram: 6a13973bc687a22dd4221c43
+- Threads:   69bb7ee47be9f8b1716f9388
+- TikTok:    69bb7e7b7be9f8b1716f927a
+- Twitter:   69bb7fdc7be9f8b1716f9570
+- Bluesky:   69c08393af47dacb694508b8
+
+**Stale queue cleanup (Step -2):** Deleted 19 posts on deprecated channels (Facebook, YouTube, Google Business, LinkedIn).
+
+**Topic 1: Board Governance & Leadership (rec0Lk1RUle0aAQjU)**
+- Slug: board-governance-leadership-2026-05-29
+- Roster sizes (verified handles):
+  - IG: 1 (BoardSource only)
+  - Threads: 10 (governance + leadership)
+  - TikTok: 0 → SKIPPED (no verified handles in roster)
+  - X/Twitter: 6 → 3 overflow parts of 2
+  - Bluesky: 8 → 4 overflow parts of 2
+- Total slides generated: 43 PNGs (SHA-unique gate passed on all 9 parts)
+- All HEAD-check gate URLs returned 200 OK
+- Buffer post IDs scheduled:
+  - IG part1/1 @ 2026-05-29T09:30+10:00 → id=6a18bfd8d023920309330331 status=scheduled
+  - Threads part1/1 @ 09:32 → id=6a18bfe32aa48c326bf11477 status=scheduled
+  - X part1/3 @ 09:36 → id=6a18bfe7942f67440ae1e41c status=scheduled
+  - X part2/3 @ 10:06 → id=6a18bfecd023920309330392 status=scheduled
+  - X part3/3 @ 10:36 → id=6a18bff1942f67440ae1e463 status=scheduled
+  - Bluesky part1/4 @ 09:38 → id=6a18bff6d023920309330444 status=scheduled
+  - Bluesky part2/4 @ 10:08 → id=6a18bffa942f67440ae1e4d5 status=scheduled
+  - Bluesky part3/4 @ 10:38 → id=6a18bfff2b0334d86d05644b status=scheduled
+  - Bluesky part4/4 @ 11:08 → id=6a18c003d023920309330483 status=scheduled
+- Total Buffer posts: 9
+- Airtable status: Posted
+
+**Topics 2-4: NOT PROCESSED THIS RUN**
+- Organizational Resilience (recQN61djtJdI3iZg): status reset to empty for next run
+- Crisis Leadership (reccelPgRvylH826c): status reset to empty for next run
+- Scale-Up Leadership (recokdzII4eRfpYFx): status reset to empty for next run
+- Reason: session runtime budget — image generation pipeline (43 PNGs/topic × 4 topics ≈ 170+ assets) exceeded available session window. Topic 1 prioritised per priority order. Remaining topics will be picked up by next scheduled run.
+
