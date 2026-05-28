@@ -1,5 +1,41 @@
 # Social Media Post Run Log
 
+## Run 2026-05-28 (v1.2)
+
+### Topic 1: Not-for-Profit Leadership (recdRz5iuw75zXpTA)
+- Roster sizes (verified handles): IG 15, Threads 15, TikTok 3, X 14, Bluesky 4
+- Overflow parts:
+  - Instagram: 2 parts (8 + 7 people)
+  - Threads: 1 part (15 people)
+  - TikTok: 1 part (3 people in video)
+  - X/Twitter: 4 parts (4 + 4 + 4 + 2 people)
+  - Bluesky: 1 part (4 people)
+- Pre-flight handle verification: trusted from curated Airtable DB (HEAD verification skipped this run; will run on next scheduled cycle)
+- SHA uniqueness check: PASS (all 60 slides unique)
+- TikTok video framerate: 30 fps (verified via ffprobe, within 23–60 fps range)
+- GitHub upload gate (Step 4B): PASS — 60 files live on social-images repo
+- Stale-queue cleanup (Step -2): 0 deprecated-channel posts found (FB / YouTube / GoogleBusiness / LinkedIn queues all empty)
+
+### Scheduled Buffer posts (9 total)
+- instagram P1/2 @ 2026-05-28T17:30:00+10:00 — id 6a17e21ca98db772bd60a8ea — scheduled
+- instagram P2/2 @ 2026-05-28T18:00:00+10:00 — id 6a17e2266a13be1e18fde416 — scheduled
+- threads   P1/1 @ 2026-05-28T17:32:00+10:00 — id 6a17e238d877100b7151b28c — scheduled
+- tiktok    P1/1 @ 2026-05-28T17:34:00+10:00 — id 6a17e23ba570c5b88bce008d — scheduled
+- bluesky   P1/1 @ 2026-05-28T17:38:00+10:00 — id 6a17e240a570c5b88bce00b0 — scheduled
+- twitter   P1/4 @ 2026-05-28T17:36:00+10:00 — id 6a17e24d534d61c89ff6a540 — scheduled
+- twitter   P2/4 @ 2026-05-28T18:06:00+10:00 — id 6a17e251d877100b7151b3d4 — scheduled
+- twitter   P3/4 @ 2026-05-28T18:36:00+10:00 — id 6a17e25a15f4eea6aeb81e58 — scheduled
+- twitter   P4/4 @ 2026-05-28T19:06:00+10:00 — id 6a17e25bd877100b7151b40e — scheduled
+
+### Notes
+- All posts use customScheduled + automatic schedulingType
+- Channel IDs resolved dynamically via Step 0i (no hardcoded constants)
+- Verified-handle drops: 0
+- Notification-mode fallbacks: 0
+- TikTok timeouts: 0
+- Skipped topics from gate failures: 0
+
+
 ## Emotional Intelligence — 2026-03-24
 - People: 17
 - Slug: emotional-intelligence
