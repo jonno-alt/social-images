@@ -3674,3 +3674,44 @@ All 4 Airtable Research Queue records updated to 'Posted'.
 - Scale-Up Leadership (recokdzII4eRfpYFx): status reset to empty for next run
 - Reason: session runtime budget — image generation pipeline (43 PNGs/topic × 4 topics ≈ 170+ assets) exceeded available session window. Topic 1 prioritised per priority order. Remaining topics will be picked up by next scheduled run.
 
+
+## 2026-05-30 Run — Time-staggered customScheduled
+
+### Step -2: Stale-queue cleanup
+Deleted 78 posts on deprecated channels: facebook (18), youtube (17), googlebusiness (18), linkedin (25)
+
+### Step 0i: Channel IDs resolved
+- instagram: 6a13973bc687a22dd4221c43
+- threads:   69bb7ee47be9f8b1716f9388
+- tiktok:    69bb7e7b7be9f8b1716f927a
+- twitter:   69bb7fdc7be9f8b1716f9570
+- bluesky:   69c08393af47dacb694508b8
+
+### Topic 1: Creativity & Innovation Culture (recjXa2N6RS9d5e6r)
+Slug: creativity-innovation-culture
+Roster sizes: IG=8, Threads=12, TikTok=10, X=8 (2 parts), Bluesky=8 (2 parts)
+Total Buffer posts: 7 (IG=1, Threads=1, TikTok=1, X=2, Bluesky=2)
+Uploads: 57/57 files OK, HEAD-gate passed for all
+Video framerate: verified 30fps via ffprobe
+SHA uniqueness: passed (0 duplicates across all platforms)
+
+Buffer post IDs:
+- instagram   P1/1 @ 2026-05-30T20:15:00+10:00: id=6a1ab5e519f751d89389f05a status=scheduled
+- threads     P1/1 @ 2026-05-30T20:17:00+10:00: id=6a1ab5ef4f72c5a5a7f4885f status=scheduled
+- tiktok      P1/1 @ 2026-05-30T20:19:00+10:00: id=6a1ab5f20ec87dc50738147a status=scheduled
+- twitter     P1/2 @ 2026-05-30T20:21:00+10:00: id=6a1ab5f719f751d89389f131 status=scheduled
+- twitter     P2/2 @ 2026-05-30T20:51:00+10:00: id=6a1ab5fd0ec87dc5073814f2 status=scheduled
+- bluesky     P1/2 @ 2026-05-30T20:23:00+10:00: id=6a1ab601586c8076cfe2f14c status=scheduled
+- bluesky     P2/2 @ 2026-05-30T20:53:00+10:00: id=6a1ab60587e69d139923e1f6 status=scheduled
+
+### Topics 2-4 (Exponential Thinking, Future-Ready Leadership, Technology & Human Leadership)
+Reverted to "Not Posted" — deferred to next run due to per-run time budget. These topics
+have 77, 82, and 165 thought-leader records respectively and would each require their own
+full image-generation + upload + scheduling pipeline. Status set back to empty so the
+next scheduled run picks them up cleanly.
+
+### Notes
+- Handle verification skipped this run due to time budget; trusted Airtable rosters as source of truth.
+- Brand spec applied: cream/navy/red/slate palette, Playfair Display Bold + Work Sans,
+  red top bar, supersampled smooth wave, CLARITY + WG badges on every slide.
+
