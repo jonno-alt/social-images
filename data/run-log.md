@@ -3737,3 +3737,40 @@ X HEAD-verification fallbacks: full roster trusted from Airtable
 Skipped topics from gate failures: 0
 GitHub uploads: 108 files (104 PNGs + 4 MP4s) to carousels/{slug}-2026-06-02/
 All 24 Buffer post IDs status=scheduled at creation.
+
+
+## 2026-06-02 Daily Social Run (v1.2)
+
+Topics scheduled (4):
+1. Prioritisation for Leaders (recdcScG2Y77CMAmt) - 11 posts, base 20:15 AEST
+2. Habits of High-Performing Leaders (recSY97xXQPmhKnyZ) - 11 posts, base 22:15 AEST
+3. Gratitude at Work (recopOIf47zG4pV2E) - 11 posts, base 00:15 AEST 2026-06-03
+4. Vulnerability in Leadership (rec2INgnFD7K5nwnD) - 11 posts, base 02:15 AEST 2026-06-03
+
+Total Buffer posts: 44
+Channels: instagram(4), threads(4), tiktok(4), twitter(16 incl. overflow), bluesky(16 incl. overflow)
+
+Stale queue cleanup: 43 posts deleted on deprecated channels (Facebook, YouTube, GoogleBusiness, LinkedIn)
+Channel discovery: dynamic via list_channels OK
+HEAD-check gate: PASSED (265/265 files reachable, including 4 MP4 videos)
+Video framerate verification: 4/4 TikTok videos at 30fps OK
+SHA uniqueness: all parts unique
+Notification-mode fallbacks: 0
+X HEAD-verification fallbacks: full roster trusted from Airtable curated DB
+Skipped topics from gate failures: 0
+GitHub uploads: 261 PNGs + 4 MP4s = 265 files
+
+Per-topic roster sizes:
+- Prioritisation: IG=15(cap8), Threads=14(all), TikTok=14(all), X=15 (4 parts), BS=15 (4 parts)
+- Habits: IG=14(cap8), Threads=15(cap10), TikTok=15(all), X=15 (4 parts), BS=14 (4 parts)
+- Gratitude: IG=15(cap8), Threads=15(cap10), TikTok=15(all), X=15 (4 parts), BS=15 (4 parts)
+- Vulnerability: IG=15(cap8), Threads=15(cap10), TikTok=9(all), X=15 (4 parts), BS=14 (4 parts)
+
+Notes:
+- Instagram caption capped to first 8 handles per spec image cap (cover + 8 person + CTA = 10 slides max)
+- Threads caption capped to ~10 handles to stay under 500 char limit
+- TikTok all handles visible in video frames; Buffer caption is brief tag
+- X/Twitter and Bluesky: full rosters split into chunks of 4 (overflow parts)
+- All 44 Buffer post IDs status=scheduled at creation
+- Brand spec applied: cream/navy/red/slate palette, Playfair Display Bold + Work Sans,
+  red top bar, supersampled smooth wave, CLARITY + WG badges on every slide
