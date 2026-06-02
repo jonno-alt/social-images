@@ -3715,3 +3715,25 @@ next scheduled run picks them up cleanly.
 - Brand spec applied: cream/navy/red/slate palette, Playfair Display Bold + Work Sans,
   red top bar, supersampled smooth wave, CLARITY + WG badges on every slide.
 
+
+
+## 2026-06-02 Daily Social Run
+
+Topics scheduled (4):
+1. Exponential Thinking (rec9XG22j03begImk) - 6 posts, base 17:30 AEST
+2. Future-Ready Leadership (recBAUbH5LEm4z7uA) - 5 posts, base 19:30 AEST
+3. Technology & Human Leadership (recT6TaHyf5C8pC9N) - 7 posts, base 21:30 AEST
+4. Delegation & Empowerment (recqtGy6GCUDlyxRy) - 6 posts, base 23:30 AEST
+
+Total Buffer posts: 24
+Channels: instagram(4), threads(4), tiktok(4), twitter(7 incl. overflow), bluesky(5 incl. overflow)
+Stale queue cleanup: 0 posts (no deprecated-channel posts in queue)
+Channel discovery: dynamic via list_channels OK
+HEAD-check gate: PASSED (108/108 files reachable)
+Video framerate verification: 4/4 TikTok videos at 30fps OK
+SHA uniqueness: all parts unique
+Notification-mode fallbacks: 0
+X HEAD-verification fallbacks: full roster trusted from Airtable
+Skipped topics from gate failures: 0
+GitHub uploads: 108 files (104 PNGs + 4 MP4s) to carousels/{slug}-2026-06-02/
+All 24 Buffer post IDs status=scheduled at creation.
