@@ -3866,3 +3866,56 @@ Operational notes:
   3. Community Leadership (rec16rCmsD0EE7eZE, priority 155)
   4. Leadership & Legacy (recsLjGzhYfMkuPV1, priority 156)
 - **Airtable changes:** none — no records were marked Scheduled, Posted, or Failed
+
+## Run 2026-06-04 — Resumed manually after user override
+
+**Context:** Initial run aborted at Step 0i (TikTok disconnected). User confirmed TikTok was temporarily disconnected and asked to continue without it. Pipeline re-ran with TikTok skipped, IG/Threads/X/Bluesky enabled.
+
+**Channels resolved (live, TikTok skipped):**
+- instagram: 6a13973bc687a22dd4221c43
+- threads: 69bb7ee47be9f8b1716f9388
+- twitter: 69bb7fdc7be9f8b1716f9570
+- bluesky: 69c08393af47dacb694508b8
+- tiktok: 69bb7e7b7be9f8b1716f927a (disconnected — skipped per user override)
+
+### Topic 1: Legal & Professional Services Leadership (recMV1ttE2OSb05bI)
+- Slug: `legal-professional-services-leadership-2026-06-04`
+- Roster sizes: IG=15, Threads=15, X=15, Bluesky=0
+- Slides uploaded to GitHub: 69 PNGs, all HEAD-verified
+- Buffer posts created: 12 of 12 (10 succeeded at original times; 2 X parts hit X 50/day quota and were rescheduled to June 5)
+  - IG: 2 parts at 08:15 AEST (P1) and 08:45 AEST (P2)
+  - Threads: 2 parts at 08:17 (P1) and 08:47 (P2)
+  - X/Twitter: 8 parts — P3–P8 scheduled June 4 (09:21, 09:51, 10:21, 10:51, 11:21, 11:51 AEST); P1 (08:21) and P2 (08:51) rescheduled to June 5 (08:21 AEST and 08:51 AEST) due to X daily limit
+  - Bluesky: skipped (no verified handles in roster for this topic)
+- Airtable Social Post Status: Posted
+
+### Topic 2: Start-up Founder Leadership (recHITf2R0FM3GTLf)
+- **SKIPPED — insufficient roster data.** Thought Leaders table contains 0 records with topic area exactly matching "Start-up Founder Leadership".
+- Airtable Social Post Status: Failed (reason: empty roster)
+
+### Topic 3: Community Leadership (rec16rCmsD0EE7eZE)
+- **SKIPPED — insufficient roster data.** Thought Leaders table has 3 sparse records under "Community Leadership" variants. Below threshold to publish "N thought leaders" post.
+- Airtable Social Post Status: Failed (reason: roster too small, <5 unique people)
+
+### Topic 4: Leadership & Legacy (recsLjGzhYfMkuPV1)
+- Slug: `leadership-legacy-2026-06-04`
+- Roster sizes: IG=11, Threads=3, X=10, Bluesky=10
+- Slides uploaded to GitHub: 60 PNGs, all HEAD-verified
+- Buffer posts created: 13 of 13 — all scheduled for June 5 AEST (to avoid June 4 X daily limit conflict)
+  - IG: P1 08:15, P2 08:45
+  - Threads: P1 08:17 (single part — only 3 verified handles)
+  - X: P1 09:21, P2 09:51, P3 10:21, P4 10:51, P5 11:21
+  - Bluesky: P1 08:23, P2 08:53, P3 09:23, P4 09:53, P5 10:23
+- Airtable Social Post Status: Posted
+
+### Run totals
+- Buffer posts scheduled successfully: 25 (12 for Topic 1 + 13 for Topic 4)
+- Topics processed: 2 of 4 eligible; 2 skipped due to empty/sparse Airtable rosters
+- Slides uploaded to GitHub: 129
+- Notification-mode fallbacks: 0
+- TikTok videos: 0 (channel disconnected)
+
+### Operational notes
+- TikTok channel needs full disconnect + reconnect in Buffer before next run can include TikTok.
+- X 50/day quota appears to be a hard rolling limit. To get all 8 X parts of Topic 1 plus all 5 X parts of Topic 4 (13 total) into a single calendar day would require ~26 posts in a single 24h X window — feasible only when no other Buffer X posts are queued.
+- Air​table Thought Leaders table for "Start-up Founder Leadership" and "Community Leadership" needs more entries before those topics can be socialized.
