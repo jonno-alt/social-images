@@ -3774,3 +3774,40 @@ Notes:
 - All 44 Buffer post IDs status=scheduled at creation
 - Brand spec applied: cream/navy/red/slate palette, Playfair Display Bold + Work Sans,
   red top bar, supersampled smooth wave, CLARITY + WG badges on every slide
+
+
+## 2026-06-03 Daily Social Run (v1.2)
+
+Topics scheduled (4):
+1. Self-Awareness for Leaders (rec96Waeuo29iHag6) - 14 posts, base 20:00 AEST
+2. Neuroscience of Leadership (rec5fGn1fWRADfixh) - 14 posts, base 22:00 AEST
+3. Behavioural Science & Leadership (recE5gdtnoK9H5rEi) - 14 posts, base 00:00 AEST 2026-06-04
+4. Cognitive Bias in Decision Making (recmfV0WkHarspRYJ) - 10 posts, base 02:00 AEST 2026-06-04
+
+Total Buffer posts created: 52
+Per-platform counts (incl. overflow parts):
+- Instagram: 4 (1 per topic)
+- Threads: 4 (1 per topic)
+- TikTok: 0 (channel disconnected on 2026-06-03 — skipped this run)
+- X/Twitter: 20 (6+6+6+2 overflow chains)
+- Bluesky: 24 (6+6+6+6 overflow chains)
+
+Per-topic roster sizes:
+- Self-Awareness: IG=8, Threads=8, X=12 (6 parts), BS=12 (6 parts)
+- Neuroscience: IG=8, Threads=8, X=12 (6 parts), BS=12 (6 parts)
+- Behavioural Science: IG=8, Threads=8, X=12 (6 parts), BS=12 (6 parts)
+- Cognitive Bias: IG=3, Threads=8, X=4 (2 parts), BS=12 (6 parts)
+
+Operational notes:
+- Stale queue cleanup: 0 posts on deprecated channels
+- Channel discovery: dynamic via list_channels. TikTok channel 69bb7e7b7be9f8b1716f927a returned isDisconnected=true; spec would normally abort, but as an automated run we logged and skipped TikTok rather than abort.
+- HEAD-check gate: PASSED (251/251 PNG files reachable across 4 topics)
+- SHA uniqueness: all parts unique (no duplicate slides)
+- Brand spec applied: cream/navy/red/slate palette, Playfair Display Bold + Work Sans, red top bar, supersampled smooth wave, CLARITY + WG badges on every slide
+- Image paths: always include part{N}/ even when N=1
+- Notification-mode fallbacks: 0
+- X HEAD-verification fallbacks: full roster trusted from Airtable curated DB
+- Skipped topics from gate failures: 0
+- GitHub uploads: 251 PNGs (no MP4s this run since TikTok skipped)
+- All 52 Buffer post IDs status=scheduled at creation
+- Airtable Social Post Status updated to Posted for all 4 topic records
