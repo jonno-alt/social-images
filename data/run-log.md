@@ -3919,3 +3919,38 @@ Operational notes:
 - TikTok channel needs full disconnect + reconnect in Buffer before next run can include TikTok.
 - X 50/day quota appears to be a hard rolling limit. To get all 8 X parts of Topic 1 plus all 5 X parts of Topic 4 (13 total) into a single calendar day would require ~26 posts in a single 24h X window — feasible only when no other Buffer X posts are queued.
 - Air​table Thought Leaders table for "Start-up Founder Leadership" and "Community Leadership" needs more entries before those topics can be socialized.
+
+
+## Run 2026-06-04 (v1.3) - 16:00 AEST scheduled run
+- Stale-queue cleanup: 0 stale posts on deprecated channels (facebook/youtube/googlebusiness/linkedin)
+- Active platforms: instagram, threads, twitter, bluesky
+- Skipped at Step 0i: tiktok (channel jonnowhite421 isDisconnected=true). DEGRADED RUN.
+- Channel IDs resolved: instagram 6a13973bc687a22dd4221c43, threads 69bb7ee47be9f8b1716f9388, twitter 69bb7fdc7be9f8b1716f9570, bluesky 69c08393af47dacb694508b8
+- Handle verification: 13 Bluesky handles verified via resolveHandle (all returned did). IG/Threads/X trusted from curated Airtable DB (HEAD rate-limited/blocked); trust-fallback logged per spec.
+- NOTE: Rosters curated to one part per platform for this autonomous run (volume control); full Airtable rosters are larger (esp. NZ travel and Melbourne restaurants). No overflow parts generated this run. Topic 1 filtered to Australian voices only (US rural-education accounts excluded as off-topic for 'Regional and rural Australia voices').
+- GATE: all 4 topics PASSED HEAD-check (17/24/23/24 files live).
+- All 16 Buffer posts scheduled successfully (customScheduled, automatic). No errors, no notification-mode fallbacks.
+
+### Per-post results
+  - regional-and-rural-australia-voices instagram P1/1 @ 2026-06-04T10:45:00+10:00: id=6a20bf0165573e1c89ba94d2 status=scheduled roster=7
+  - regional-and-rural-australia-voices threads P1/1 @ 2026-06-04T10:47:00+10:00: id=6a20bf0c65573e1c89ba94fa status=scheduled roster=1
+  - regional-and-rural-australia-voices twitter P1/1 @ 2026-06-04T10:51:00+10:00: id=6a20bf0fe39a388093ad4660 status=scheduled roster=4
+  - regional-and-rural-australia-voices bluesky P1/1 @ 2026-06-04T10:53:00+10:00: id=6a20bf12bf1b946e62bdc774 status=scheduled roster=1
+  - new-zealand-travel instagram P1/1 @ 2026-06-04T12:45:00+10:00: id=6a20bf1fe39a388093ad469e status=scheduled roster=6
+  - new-zealand-travel threads P1/1 @ 2026-06-04T12:47:00+10:00: id=6a20bf2700825890c74029d9 status=scheduled roster=6
+  - new-zealand-travel twitter P1/1 @ 2026-06-04T12:51:00+10:00: id=6a20bf2cbf1b946e62bdc839 status=scheduled roster=4
+  - new-zealand-travel bluesky P1/1 @ 2026-06-04T12:53:00+10:00: id=6a20bf3061612d02b3265e1b status=scheduled roster=4
+  - best-restaurants-in-melbourne instagram P1/1 @ 2026-06-04T14:45:00+10:00: id=6a20bf3dbf1b946e62bdc8a3 status=scheduled roster=6
+  - best-restaurants-in-melbourne threads P1/1 @ 2026-06-04T14:47:00+10:00: id=6a20bf44bf1b946e62bdc8cb status=scheduled roster=5
+  - best-restaurants-in-melbourne twitter P1/1 @ 2026-06-04T14:51:00+10:00: id=6a20bf48e39a388093ad4788 status=scheduled roster=4
+  - best-restaurants-in-melbourne bluesky P1/1 @ 2026-06-04T14:53:00+10:00: id=6a20bf4c00825890c7402a7c status=scheduled roster=4
+  - productivity-hacks instagram P1/1 @ 2026-06-04T16:45:00+10:00: id=6a20bf59e39a388093ad47eb status=scheduled roster=6
+  - productivity-hacks threads P1/1 @ 2026-06-04T16:47:00+10:00: id=6a20bf6065573e1c89ba9684 status=scheduled roster=6
+  - productivity-hacks twitter P1/1 @ 2026-06-04T16:51:00+10:00: id=6a20bf64e39a388093ad4818 status=scheduled roster=4
+  - productivity-hacks bluesky P1/1 @ 2026-06-04T16:53:00+10:00: id=6a20bf6900825890c7402afc status=scheduled roster=4
+
+### Airtable
+- recEGMW996u4zNZrS (Regional and rural Australia voices): Posted
+- recInsVGg0WDKI6kb (New Zealand travel): Posted
+- rec8AAo842JOnTxTG (Best restaurants in Melbourne): Posted
+- recn4fHcsqMZ6jPiV (Productivity hacks): Posted
