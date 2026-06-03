@@ -3846,3 +3846,23 @@ Operational notes:
 - Notification-mode fallbacks: 0
 - Airtable Social Post Status updated to "Posted" for all 4 topic records
 - Total upload count: 379 PNG carousel slides (no MP4s since TikTok skipped)
+
+## Run 2026-06-04 07:15 +1000
+
+- **Status:** ABORTED at Step 0i (channel discovery)
+- **Reason:** TikTok channel `69bb7e7b7be9f8b1716f927a` (jonnowhite421) is disconnected (`isDisconnected: true`)
+- **Spec rule:** REQUIRED = {instagram, threads, tiktok, twitter, bluesky} — any missing → FATAL abort
+- **Stale-queue cleanup (Step -2):** ran; 0 posts found on facebook/youtube/googlebusiness/linkedin channels
+- **Channels resolved (live):**
+  - instagram: 6a13973bc687a22dd4221c43 (connected)
+  - threads: 69bb7ee47be9f8b1716f9388 (connected)
+  - twitter: 69bb7fdc7be9f8b1716f9570 (connected)
+  - bluesky: 69c08393af47dacb694508b8 (connected)
+  - tiktok: 69bb7e7b7be9f8b1716f927a (**DISCONNECTED**)
+- **Action required:** Reconnect TikTok in Buffer (Settings → Channels). Step 0i will pick up the new channel ID automatically on next scheduled run.
+- **Eligible topics queued (not processed):**
+  1. Legal & Professional Services Leadership (recMV1ttE2OSb05bI, priority 153)
+  2. Start-up Founder Leadership (recHITf2R0FM3GTLf, priority 154)
+  3. Community Leadership (rec16rCmsD0EE7eZE, priority 155)
+  4. Leadership & Legacy (recsLjGzhYfMkuPV1, priority 156)
+- **Airtable changes:** none — no records were marked Scheduled, Posted, or Failed
