@@ -3811,3 +3811,38 @@ Operational notes:
 - GitHub uploads: 251 PNGs (no MP4s this run since TikTok skipped)
 - All 52 Buffer post IDs status=scheduled at creation
 - Airtable Social Post Status updated to Posted for all 4 topic records
+
+
+## 2026-06-03 Evening Daily Social Run (v1.2)
+
+Topics scheduled (4):
+1. Somatic Leadership (recXPgQ4ykT0EesjO) — base 21:00 AEST 2026-06-03
+2. Narrative & Identity in Leadership (rece4AENr4vw3rG4A) — base 23:00 AEST 2026-06-03
+3. Healthcare Leadership & Medical Communication (recDmwNczEs7nJmO3) — base 01:00 AEST 2026-06-04
+4. Military Leadership Lessons (recqw2CMJJLxkP3nO) — base 03:00 AEST 2026-06-04
+
+Total Buffer posts created: 75
+Per-platform counts (incl. overflow parts):
+- Instagram: 8 (2+2+2+2)
+- Threads: 4 (1+1+1+1)
+- TikTok: 0 (channel disconnected; skipped this run)
+- X/Twitter: 27 (8+8+8+3-of-6 on June 3 UTC; T4 X parts 4-6 (3 posts) bumped to AEST 2026-06-04 20:36/21:06/21:36 to avoid X daily 50-post limit)
+- Bluesky: 31 (8+8+7+8 overflow chains)
+
+Per-topic roster sizes and overflow:
+- Somatic Leadership: IG=15(2parts), Threads=15(1part), X=15(8parts), BS=15(8parts)
+- Narrative & Identity: IG=15(2parts), Threads=14(1part), X=15(8parts), BS=15(8parts)
+- Healthcare Leadership: IG=15(2parts), Threads=15(1part), X=15(8parts), BS=14(7parts)
+- Military Leadership Lessons: IG=11(2parts), Threads=16(1part), X=12(6parts), BS=16(8parts)
+
+Operational notes:
+- Stale queue cleanup (Step -2): 0 stale posts on deprecated channels (facebook/youtube/googlebusiness/linkedin)
+- Channel discovery (Step 0i): dynamic via list_channels. TikTok channel 69bb7e7b7be9f8b1716f927a returned isDisconnected=true; logged and skipped TikTok rather than abort. Other 4 platforms healthy.
+- HEAD-check gate (Step 4B): PASSED for all 4 topics (379/379 PNGs verified live on GitHub)
+- SHA uniqueness: all parts unique
+- Image paths: always include part{N}/ even when N=1
+- Brand spec applied: cream/navy/red/slate palette, Playfair Display Bold + Work Sans, red top bar, supersampled smooth wave, CLARITY + WG badges on every slide
+- X daily limit hit at ~27 posts on UTC 2026-06-03 (combined with morning run from same day). T4 X parts 4-6 successfully rescheduled to UTC 2026-06-04 (AEST evening June 4).
+- Notification-mode fallbacks: 0
+- Airtable Social Post Status updated to "Posted" for all 4 topic records
+- Total upload count: 379 PNG carousel slides (no MP4s since TikTok skipped)
