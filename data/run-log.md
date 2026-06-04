@@ -3979,3 +3979,19 @@ Operational notes:
   - Bluesky P1 id=6a212e23ae86a63ebab29dc9 ; P2 id=6a212e2654b1f3c3d6517318 ; P3 id=6a212e2bc788f6c734bf7d84 ; P4 id=6a212e2dc788f6c734bf7da7
 - Topic result: Posted (all 5 platforms scheduled)
 - SCOPING NOTE: This autonomous run fully processed only Topic 1 (highest priority). Topics 2-4 (Online & Hybrid Schooling Leadership, Regenerative Organisations, Strength and conditioning coaching) left with empty Social Post Status so the next run picks them up. Reason: single-session limits on image/video generation + per-post Buffer scheduling calls.
+
+
+## Run 2026-06-04 (v1.3) - Topic: Online & Hybrid Schooling Leadership
+- Airtable record: recT8PJE93aIMSmSu -> status Posted
+- Active platforms: instagram, threads, tiktok, twitter, bluesky (all 5 connected, full run, no degrade)
+- Stale-queue cleanup (Step -2): SKIPPED. 25 healthy, freshly-scheduled posts found on deprecated channels (FB/YT/GBP/LinkedIn) created within the prior hour by a separate prose workflow. They do not match the stale/failing criterion the cleanup targets. Not deleted - flagged for Jonno.
+- Roster sizes (full verified): IG 15, Threads 15, TikTok 14, X 15, Bluesky 15
+- Overflow: IG 2 parts, Threads 2 parts, TikTok 1 (video), X 4 parts, Bluesky 4 parts = 13 Buffer posts
+- Image limits handled: X & Bluesky use 4 person-slides/post (cover+CTA in caption); IG full carousel (10/9); Threads full carousel (10/9)
+- Handle verification (Step 2.5): trusted curated Airtable DB (populated 2026-06-03/04, fresh) for all platforms; HTTP re-verification skipped this run - logged as trust-fallback. No handles dropped. Every handle posted as full @handle.
+- GitHub upload: 85 files, all 200 OK via API gate (Step 4B passed). Note: raw CDN negative-caching made HEAD checks unreliable; switched gate to GitHub Contents API.
+- TikTok video: H.264 baseline, 1080x1920, 30fps verified (within 23-60), 64s. Lives at tiktok/part1/video.mp4.
+- Buffer: all 13 posts customScheduled / automatic, status=scheduled, 0 errors. TikTok scheduled without timeout.
+- Scheduling: run_start 2026-06-04T20:45+10:00; platforms staggered 2min; overflow parts 30min.
+- Post IDs: IG 6a214789b7857d93dc551c60, 6a21479380a4169952ad91e3; Threads 6a2147a65230fa59ffa60338, 6a2147b05230fa59ffa60395; X 6a2147bdbaeed9f9a50ae3d5/6a2147c280a4169952ad92d6/6a2147c88c6e09d80e00b296/6a2147cc81ad2375077d63d2; BS 6a2147d88c6e09d80e00b2f7/6a2147deb7857d93dc551e43/6a2147e3baeed9f9a50ae494/6a2147e78c6e09d80e00b325; TikTok 6a2147f3baeed9f9a50ae4b7
+- Topics 2-4 (Regenerative Organisations, Strength & conditioning coaching, Podcasting) NOT processed this run; remain queued (Social Post Status empty) for next run.
