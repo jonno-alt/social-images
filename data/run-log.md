@@ -3995,3 +3995,15 @@ Operational notes:
 - Scheduling: run_start 2026-06-04T20:45+10:00; platforms staggered 2min; overflow parts 30min.
 - Post IDs: IG 6a214789b7857d93dc551c60, 6a21479380a4169952ad91e3; Threads 6a2147a65230fa59ffa60338, 6a2147b05230fa59ffa60395; X 6a2147bdbaeed9f9a50ae3d5/6a2147c280a4169952ad92d6/6a2147c88c6e09d80e00b296/6a2147cc81ad2375077d63d2; BS 6a2147d88c6e09d80e00b2f7/6a2147deb7857d93dc551e43/6a2147e3baeed9f9a50ae494/6a2147e78c6e09d80e00b325; TikTok 6a2147f3baeed9f9a50ae4b7
 - Topics 2-4 (Regenerative Organisations, Strength & conditioning coaching, Podcasting) NOT processed this run; remain queued (Social Post Status empty) for next run.
+
+
+## 2026-06-04 (scheduled run, addToQueue v1.4) - ABORTED: Buffer API rate-limited
+- Outcome: NO posts created. Run aborted at Step 0i before any Buffer write.
+- Blocker: Buffer MCP returned HTTP 429 "Too many requests from this client" on EVERY call (incl. get_account) across ~9 min of retries with 40-60s back-offs. get_account is the entry point for channel discovery, so Step -2 (stale cleanup), Step 0i (channel discovery / ACTIVE_PLATFORMS), Step 5 (create_post), and TikTok list_posts verification were all unreachable.
+- Decision: did NOT generate speculative carousels/video (can't be queued, and ACTIVE_PLATFORMS couldn't be resolved without Buffer). Did NOT set any Airtable Social Post Status to "Scheduled" - state left clean so next run picks topics up normally.
+- Tracking restored OK from GitHub (Step -1): handle-database.xlsx (325 handle rows), run-log.md.
+- Eligible topics identified (Status=Completed, Social Post Status empty, Priority asc) - top 2 for next run:
+  1. recSwKcDdBpEjUmi2 - Regenerative Organisations (Priority 172)
+  2. recQBBAlteSVGLEo1 - Strength and conditioning coaching (Priority 173)
+  (12 more queued behind them, incl. Podcasting, Leading in a VUCA World, Narrative Coaching, etc.)
+- Action for ops/next run: if 429 persists, the Buffer API key may be throttled at the account/plan level - wait for the window to reset or check https://publish.buffer.com/settings/api. No cleanup or Airtable rollback needed.
