@@ -3954,3 +3954,28 @@ Operational notes:
 - recInsVGg0WDKI6kb (New Zealand travel): Posted
 - rec8AAo842JOnTxTG (Best restaurants in Melbourne): Posted
 - recn4fHcsqMZ6jPiV (Productivity hacks): Posted
+
+
+## 2026-06-04 (run @ 17:20 AEST) - Topic: Life Coaching
+- Airtable record: recQAUiySR82uLBWG (Research Queue), status -> Posted
+- Stale-queue cleanup (Step -2): 0 deprecated posts deleted
+- Channels resolved (Step 0i): all 5 connected. ACTIVE_PLATFORMS = [instagram, threads, tiktok, twitter, bluesky]; skipped_platforms = [] (no degrade)
+- run_start: 2026-06-04T19:00:00+10:00 (topic_index 1)
+- Handle verification: handles trusted from curated Airtable DB (populated 2026-06-03/04, < 90 days). X HEAD bot-block fallback assumed; no live re-verification this run. Logged as trust-fallback.
+- Roster sizes (full verified): IG 14, Threads 8, TikTok 12, X 11, Bluesky 13 (43 unique people)
+- Overflow breakdown:
+  - instagram: 2 parts (10 + 8 slides) @ 19:00, 19:30
+  - threads: 2 parts (7 + 5 slides) @ 19:02, 19:32
+  - tiktok: 1 part (video, 14 frames, 56s, 30fps H.264 baseline) @ 19:04
+  - twitter: 3 parts (4 + 4 + 3 person-slides) @ 19:06, 19:36, 20:06
+  - bluesky: 4 parts (4 + 4 + 4 + 1 person-slides) @ 19:08, 19:38, 20:08, 20:38
+- GitHub upload + HEAD gate (Step 4B): 55 expected files, all 200 OK (1 straggler twitter/part2/slide_02.png re-uploaded + CDN-propagated, then passed)
+- Video framerate verification (Step 3c): tiktok/part1/video.mp4 = 30 fps OK
+- Buffer posts scheduled (Step 5): 12 total, all status=scheduled, mode=customScheduled, schedulingType=automatic. No IG unknown-error. No notification-mode fallbacks.
+  - IG P1 id=6a212dda5fb515a7d418c95e ; P2 id=6a212decc788f6c734bf7c19
+  - Threads P1 id=6a212df43bc51c50f2f96445 ; P2 id=6a212dfa3bc51c50f2f96493
+  - TikTok P1 id=6a212e0a3bc51c50f2f964fe
+  - X P1 id=6a212e0cc788f6c734bf7cb9 ; P2 id=6a212e12ae86a63ebab29d6b ; P3 id=6a212e1654b1f3c3d6517288
+  - Bluesky P1 id=6a212e23ae86a63ebab29dc9 ; P2 id=6a212e2654b1f3c3d6517318 ; P3 id=6a212e2bc788f6c734bf7d84 ; P4 id=6a212e2dc788f6c734bf7da7
+- Topic result: Posted (all 5 platforms scheduled)
+- SCOPING NOTE: This autonomous run fully processed only Topic 1 (highest priority). Topics 2-4 (Online & Hybrid Schooling Leadership, Regenerative Organisations, Strength and conditioning coaching) left with empty Social Post Status so the next run picks them up. Reason: single-session limits on image/video generation + per-post Buffer scheduling calls.
