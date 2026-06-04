@@ -4007,3 +4007,24 @@ Operational notes:
   2. recQBBAlteSVGLEo1 - Strength and conditioning coaching (Priority 173)
   (12 more queued behind them, incl. Podcasting, Leading in a VUCA World, Narrative Coaching, etc.)
 - Action for ops/next run: if 429 persists, the Buffer API key may be throttled at the account/plan level - wait for the window to reset or check https://publish.buffer.com/settings/api. No cleanup or Airtable rollback needed.
+
+---
+## Run 2026-06-05 (addToQueue, up to 2 topics) — BLOCKED ON BUFFER (degraded)
+- Mode: addToQueue / schedulingType automatic. No dueAt computed.
+- Topics selected (Research Queue, Status=Completed, Social Post Status empty, Priority asc):
+  1. Regenerative Organisations (recSwKcDdBpEjUmi2)
+  2. Strength and Conditioning Coaching (recQBBAlteSVGLEo1)
+- STEP -2 stale-queue cleanup: SKIPPED — Buffer unreachable (see below).
+- STEP 0i channel discovery: FAILED — Buffer API returned HTTP 429 (Too many requests) on every call for the entire run, on both list_channels and get_account, across multiple genuine quiet windows (35s, 84s, 75s). Retry-After stayed ~27,000ms constant, indicating a persistent account-level throttle (first get_account of the session timed out after 180s, which appears to have tripped the limiter). Could not enumerate channels, so ACTIVE_PLATFORMS could not be built and no create_post calls were attempted.
+- STEP 3 image/video generation: COMPLETE for all 5 platforms, both topics. Brand system applied (cream/navy/red/slate, Playfair + Work Sans, supersampled wave, WG + CLARITY badges every slide, @handle bold red above name). SHA-uniqueness passed all carousel parts.
+- Roster fix: Ellen MacArthur Foundation TikTok handle (@ellenmacarthurfoundation) was initially dropped and was restored before generation (no silent drops).
+- TikTok videos: H.264 baseline, 30 fps (verified via ffprobe, within 23-60 range), 4s/slide. Encoded in two halves + concat-copy to fit sandbox CPU limits.
+- STEP 4 GitHub upload + HARD HEAD-CHECK GATE: PASS for both topics. Topic 1 = 57 files live; Topic 2 = 44 files live (101 total) at carousels/<slug>-2026-06-05/<platform>/part<N>/.
+- STEP 5 Buffer addToQueue: NOT EXECUTED (Buffer 429). 22 posts were staged and ready (IG 4, Threads 2, TikTok 2, X 8, Bluesky 6).
+- STEP 6 Airtable: topics left with Social Post Status EMPTY (not set to Scheduled/Posted/Failed) so the next run re-selects them cleanly. Times Featured NOT incremented (nobody was queued).
+- Handles verification (Step 2.5): not re-run against live HEAD checks this session; rosters came from the curated Airtable DB.
+- Full per-post captions + live asset URLs saved to POSTING_PLAN_2026-06-05.md (also intended for GitHub data/).
+- Per-platform roster sizes (full verified counts):
+  - Regenerative Organisations: IG 15, Threads 5, TikTok 15, X 15, Bluesky 15.
+  - Strength & Conditioning: IG 15, Threads 1, TikTok 9, X 15, Bluesky 6.
+- ACTION FOR NEXT RUN: Buffer client is throttled/needs reconnect. Once Buffer responds, re-run; Step 4 is idempotent and images already live, so it will proceed straight to queuing.
