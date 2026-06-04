@@ -4028,3 +4028,14 @@ Operational notes:
   - Regenerative Organisations: IG 15, Threads 5, TikTok 15, X 15, Bluesky 15.
   - Strength & Conditioning: IG 15, Threads 1, TikTok 9, X 15, Bluesky 6.
 - ACTION FOR NEXT RUN: Buffer client is throttled/needs reconnect. Once Buffer responds, re-run; Step 4 is idempotent and images already live, so it will proceed straight to queuing.
+
+---
+## Run 2026-06-05 09:55 AEST (addToQueue, up to 2 topics) — BLOCKED ON BUFFER (3rd consecutive)
+- Mode intended: addToQueue / schedulingType automatic. No dueAt computed.
+- STEP -1 tracking restore: OK (handle-database.xlsx 64894 bytes, run-log.md, POSTING_PLAN_2026-06-05.md all restored from GitHub).
+- STEP -2 stale-queue cleanup: SKIPPED — Buffer unreachable.
+- STEP 0i channel discovery: FAILED — Buffer API returned HTTP 429 ("Too many requests from this client") on every get_account call across ~6 min of real waiting (gaps of 30s, 40s, 44s, 74s). Retry-After pinned at ~26,500ms the entire time (26715 -> 26444), i.e. a fixed account/plan-level throttle, NOT a countdown. ACTIVE_PLATFORMS could not be built, so no create_post calls were attempted.
+- STEP 3 image/video generation: NOT re-run — all assets already generated and LIVE on GitHub from the earlier 2026-06-05 run (Topic 1 = 57 files, Topic 2 = 44 files, 101 total). Step 4 is idempotent; a future run goes straight to Step 5 queuing.
+- STEP 5 Buffer addToQueue: NOT EXECUTED. 22 posts staged & ready per POSTING_PLAN_2026-06-05.md (Regenerative Organisations: IG 2, Threads 1, TikTok 1, X 4, Bluesky 4 = 12; Strength & Conditioning: IG 2, Threads 1, TikTok 1, X 4, Bluesky 2 = 10).
+- STEP 6 Airtable: topics recSwKcDdBpEjUmi2 (Regenerative Organisations) and recQBBAlteSVGLEo1 (Strength and Conditioning Coaching) left with Social Post Status EMPTY — not touched this run — so the next run re-selects them cleanly. Times Featured NOT incremented (nobody queued).
+- ACTION FOR OPS / NEXT RUN: the connected Buffer client is under a persistent account-level rate limit. It will not clear within a scheduled-task window. Check https://publish.buffer.com/settings/api — the API key may need to be regenerated/reconnected, or wait for Buffer to lift the throttle. Once Buffer responds to get_account, re-run: images are already live so it proceeds directly to queuing the 22 staged posts.
