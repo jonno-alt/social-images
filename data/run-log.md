@@ -4039,3 +4039,11 @@ Operational notes:
 - STEP 5 Buffer addToQueue: NOT EXECUTED. 22 posts staged & ready per POSTING_PLAN_2026-06-05.md (Regenerative Organisations: IG 2, Threads 1, TikTok 1, X 4, Bluesky 4 = 12; Strength & Conditioning: IG 2, Threads 1, TikTok 1, X 4, Bluesky 2 = 10).
 - STEP 6 Airtable: topics recSwKcDdBpEjUmi2 (Regenerative Organisations) and recQBBAlteSVGLEo1 (Strength and Conditioning Coaching) left with Social Post Status EMPTY — not touched this run — so the next run re-selects them cleanly. Times Featured NOT incremented (nobody queued).
 - ACTION FOR OPS / NEXT RUN: the connected Buffer client is under a persistent account-level rate limit. It will not clear within a scheduled-task window. Check https://publish.buffer.com/settings/api — the API key may need to be regenerated/reconnected, or wait for Buffer to lift the throttle. Once Buffer responds to get_account, re-run: images are already live so it proceeds directly to queuing the 22 staged posts.
+
+## Run 2026-06-05T03:10:22Z (v1.5 scheduled task — STEP -3 PREFLIGHT ABORT)
+- BUFFER 429: circuit breaker tripped at STEP -3 (get_account canary). Halting ALL Buffer calls for this run. No retry, no sleep-and-retry, no get_account polling.
+- Retry-After reported ~14781s (~4h) — consistent with the persistent account-level throttle seen all day 2026-06-05.
+- Nothing generated this run. No stale-queue cleanup, no image generation, no Airtable writes. SCHEDULED_THIS_RUN empty → nothing to roll back.
+- Topics left untouched (Social Post Status still EMPTY) so the next run re-selects them cleanly. No topic marked Failed (429 is infra throttle, not a content failure).
+- Assets from earlier 2026-06-05 run remain LIVE on GitHub (101 files). A future run is idempotent at Step 4 and goes straight to Step 5 queuing once Buffer answers get_account.
+- ACTION FOR OPS: client still under account-level Buffer rate limit. Check https://publish.buffer.com/settings/api — key may need reg/reconnect, or wait for the rolling window to drain. Do NOT launch more runs today; each extra call pushes the reset further out.
