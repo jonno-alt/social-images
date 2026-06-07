@@ -4048,18 +4048,38 @@ Operational notes:
 - Assets from earlier 2026-06-05 run remain LIVE on GitHub (101 files). A future run is idempotent at Step 4 and goes straight to Step 5 queuing once Buffer answers get_account.
 - ACTION FOR OPS: client still under account-level Buffer rate limit. Check https://publish.buffer.com/settings/api — key may need reg/reconnect, or wait for the rolling window to drain. Do NOT launch more runs today; each extra call pushes the reset further out.
 
-## Run 2026-06-07T21:25:09Z (v1.5 scheduled task — addToQueue, up to 2 topics) — SUCCESS (Buffer recovered)
-- STEP -3 preflight: get_account canary OK (no 429). Org "My Organization" 5c007ba74b1be74967117b58, tz Australia/Brisbane.
-- Buffer 429 circuit breaker: NEVER tripped this run. ~28 Buffer calls total, well under all rolling windows.
-- STEP -2 stale-queue cleanup: 1 errored Facebook post found (id 6a212faa54b1f3c3d6517a0b); delete returned "Document not found" (already gone). Net deleted: 0. Non-429, logged, continued.
-- STEP 0i channel discovery: all 5 target channels live. ACTIVE_PLATFORMS = [instagram, threads, tiktok, twitter, bluesky]. None disconnected/locked. Deprecated channels present (facebook, youtube, googlebusiness, 2x linkedin) — not posted to. Resolved IDs: IG 6a13973bc687a22dd4221c43, Threads 69bb7ee47be9f8b1716f9388, TikTok 6a210bb6c687a22dd45b7d3e, X 69bb7fdc7be9f8b1716f9570, Bluesky 69c08393af47dacb694508b8.
-- STEP 1 topic selection: the two highest-priority eligible topics were the two STAGED from 2026-06-05, both stuck at Social Post Status="Scheduled" (prior rollback to empty never applied). Priorities 172 (Regenerative Organisations recSwKcDdBpEjUmi2) and 173 (Strength and Conditioning Coaching recQBBAlteSVGLEo1) — ahead of Podcasting (174) and Leading in a VUCA World (175). Decision: queue the staged, already-live assets rather than regenerate (spec idempotency guidance + operator run-log handoff). Note: Podcasting and VUCA are now Completed and will be next in line.
-- STEP 3 image/video generation: SKIPPED — assets from 2026-06-05 reused (Step 4 idempotent).
-- STEP 4B HARD HEAD-CHECK GATE: PASS. All 101 GitHub asset URLs returned 200 (Regenerative 57, Strength 44).
-- STEP 5 Buffer addToQueue (schedulingType automatic, no dueAt sent): 22 posts queued, ALL status=scheduled, zero errors, zero notification-mode fallbacks, zero TikTok timeouts.
-  Topic 1 Regenerative Organisations (12): IG p1 6a25e08132bfe18df58d61db, IG p2 6a25e0925205cc790d3557cb, Threads 6a25e0a0521414e3c0333e80, TikTok 6a25e0aa74031f4964d26c09, X p1 6a25e0b4d06e7c8e3b8e56e7, X p2 6a25e0c832bfe18df58d628b, X p3 6a25e0d374031f4964d26c6f, X p4 6a25e0dc52eb7fd342a6c1b2, BS p1 6a25e0e552eb7fd342a6c1db, BS p2 6a25e0ef52eb7fd342a6c208, BS p3 6a25e0f9521414e3c0333f0c, BS p4 6a25e101d06e7c8e3b8e57d0.
-  Topic 2 Strength and Conditioning Coaching (10): IG p1 6a25e12152eb7fd342a6c281, IG p2 6a25e13174031f4964d26e9d, Threads 6a25e13c5205cc790d355925, TikTok 6a25e14432bfe18df58d63b7, X p1 6a25e14e521414e3c0333f92, X p2 6a25e159521414e3c0333fbd, X p3 6a25e1655205cc790d355a35, X p4 6a25e16ed06e7c8e3b8e5912, BS p1 6a25e17832bfe18df58d649f, BS p2 6a25e18232bfe18df58d64c2.
-- Per-platform Buffer post counts: IG 4, Threads 2, TikTok 2, X 8 (4+4 parts), Bluesky 6 (4+2 parts) = 22.
-- Full verified roster sizes (unchanged from staging): Regenerative IG 15 / Threads 5 / TikTok 15 / X 15 / Bluesky 15; Strength IG 15 / Threads 1 / TikTok 9 / X 15 / Bluesky 6.
-- STEP 6 Airtable: recSwKcDdBpEjUmi2 -> Posted; recQBBAlteSVGLEo1 -> Posted. The 3-day Buffer outage backlog is now cleared.
-- Handle verification (2.5): not re-run; rosters reused from staged plan (curated Airtable DB).
+
+## Run 2026-06-08 (addToQueue, v1.5)
+- Preflight get_account: OK (no 429). Org 5c007ba74b1be74967117b58, tz Australia/Brisbane.
+- Stale-queue cleanup: deleted 1 errored Facebook post on deprecated channel.
+- Active platforms: instagram, threads, tiktok, twitter, bluesky (all 5 connected). Skipped: none.
+- Buffer 429 circuit breaker: NOT tripped. All 22 create_post calls returned status=scheduled, error=null.
+- Handle verification: 20 Bluesky handles verified via resolveHandle API (all valid, 0 drops). IG/X/TikTok/Threads trusted from curated Airtable DB (bot-HEAD unreliable), logged as trust-fallback.
+- Repeat-name ban (>=3): none applicable (DB has no Times Featured column; 0 bans).
+- GitHub upload: Contents API, serial, idempotent. 100 files (56 regen + 44 strength) all confirmed live (raw-CDN 404 was negative-cache; Contents API 200).
+- Video framerate: both TikTok videos verified at 30 fps (in 23-60 range).
+  - regenerative-organisations instagram P1/2 addToQueue: id=6a25e66432bfe18df58d79ae status=scheduled rosterN=15
+  - regenerative-organisations instagram P2/2 addToQueue: id=6a25e67752eb7fd342a6d63d status=scheduled rosterN=15
+  - regenerative-organisations threads P1/1 addToQueue: id=6a25e68632bfe18df58d7a7b status=scheduled rosterN=5
+  - regenerative-organisations tiktok P1/1 addToQueue: id=6a25e69032bfe18df58d7ac0 status=scheduled rosterN=15
+  - regenerative-organisations twitter P1/4 addToQueue: id=6a25e69b74031f4964d284bf status=scheduled rosterN=15
+  - regenerative-organisations twitter P2/4 addToQueue: id=6a25e6a774031f4964d284eb status=scheduled rosterN=15
+  - regenerative-organisations twitter P3/4 addToQueue: id=6a25e6b15205cc790d357086 status=scheduled rosterN=15
+  - regenerative-organisations twitter P4/4 addToQueue: id=6a25e6bad06e7c8e3b8e6d88 status=scheduled rosterN=15
+  - regenerative-organisations bluesky P1/4 addToQueue: id=6a25e6c6521414e3c0335347 status=scheduled rosterN=14
+  - regenerative-organisations bluesky P2/4 addToQueue: id=6a25e6d05205cc790d35713e status=scheduled rosterN=14
+  - regenerative-organisations bluesky P3/4 addToQueue: id=6a25e6d9521414e3c03353d3 status=scheduled rosterN=14
+  - regenerative-organisations bluesky P4/4 addToQueue: id=6a25e6e25205cc790d357199 status=scheduled rosterN=14
+  - strength-and-conditioning-coaching instagram P1/2 addToQueue: id=6a25e6fb5205cc790d35720e status=scheduled rosterN=15
+  - strength-and-conditioning-coaching instagram P2/2 addToQueue: id=6a25e70dd06e7c8e3b8e6f22 status=scheduled rosterN=15
+  - strength-and-conditioning-coaching threads P1/1 addToQueue: id=6a25e71852eb7fd342a6d8e3 status=scheduled rosterN=1
+  - strength-and-conditioning-coaching tiktok P1/1 addToQueue: id=6a25e721521414e3c03354dd status=scheduled rosterN=9
+  - strength-and-conditioning-coaching twitter P1/4 addToQueue: id=6a25e72b521414e3c0335500 status=scheduled rosterN=15
+  - strength-and-conditioning-coaching twitter P2/4 addToQueue: id=6a25e7385205cc790d3572a9 status=scheduled rosterN=15
+  - strength-and-conditioning-coaching twitter P3/4 addToQueue: id=6a25e74252eb7fd342a6d917 status=scheduled rosterN=15
+  - strength-and-conditioning-coaching twitter P4/4 addToQueue: id=6a25e74b74031f4964d2871a status=scheduled rosterN=15
+  - strength-and-conditioning-coaching bluesky P1/2 addToQueue: id=6a25e75732bfe18df58d7d56 status=scheduled rosterN=6
+  - strength-and-conditioning-coaching bluesky P2/2 addToQueue: id=6a25e75f52eb7fd342a6d9bc status=scheduled rosterN=6
+- Topic regenerative-organisations: queued all 5 platforms (IG2, Threads1, TikTok1, X4, Bluesky4) = 12 posts. Marked Posted.
+- Topic strength-and-conditioning-coaching: queued all 5 platforms (IG2, Threads1, TikTok1, X4, Bluesky2) = 10 posts. Marked Posted.
+- X full-roster overflow: regen 15 X handles -> 4 parts; strength 15 X handles -> 4 parts.
