@@ -4047,3 +4047,19 @@ Operational notes:
 - Topics left untouched (Social Post Status still EMPTY) so the next run re-selects them cleanly. No topic marked Failed (429 is infra throttle, not a content failure).
 - Assets from earlier 2026-06-05 run remain LIVE on GitHub (101 files). A future run is idempotent at Step 4 and goes straight to Step 5 queuing once Buffer answers get_account.
 - ACTION FOR OPS: client still under account-level Buffer rate limit. Check https://publish.buffer.com/settings/api — key may need reg/reconnect, or wait for the rolling window to drain. Do NOT launch more runs today; each extra call pushes the reset further out.
+
+## Run 2026-06-07T21:25:09Z (v1.5 scheduled task — addToQueue, up to 2 topics) — SUCCESS (Buffer recovered)
+- STEP -3 preflight: get_account canary OK (no 429). Org "My Organization" 5c007ba74b1be74967117b58, tz Australia/Brisbane.
+- Buffer 429 circuit breaker: NEVER tripped this run. ~28 Buffer calls total, well under all rolling windows.
+- STEP -2 stale-queue cleanup: 1 errored Facebook post found (id 6a212faa54b1f3c3d6517a0b); delete returned "Document not found" (already gone). Net deleted: 0. Non-429, logged, continued.
+- STEP 0i channel discovery: all 5 target channels live. ACTIVE_PLATFORMS = [instagram, threads, tiktok, twitter, bluesky]. None disconnected/locked. Deprecated channels present (facebook, youtube, googlebusiness, 2x linkedin) — not posted to. Resolved IDs: IG 6a13973bc687a22dd4221c43, Threads 69bb7ee47be9f8b1716f9388, TikTok 6a210bb6c687a22dd45b7d3e, X 69bb7fdc7be9f8b1716f9570, Bluesky 69c08393af47dacb694508b8.
+- STEP 1 topic selection: the two highest-priority eligible topics were the two STAGED from 2026-06-05, both stuck at Social Post Status="Scheduled" (prior rollback to empty never applied). Priorities 172 (Regenerative Organisations recSwKcDdBpEjUmi2) and 173 (Strength and Conditioning Coaching recQBBAlteSVGLEo1) — ahead of Podcasting (174) and Leading in a VUCA World (175). Decision: queue the staged, already-live assets rather than regenerate (spec idempotency guidance + operator run-log handoff). Note: Podcasting and VUCA are now Completed and will be next in line.
+- STEP 3 image/video generation: SKIPPED — assets from 2026-06-05 reused (Step 4 idempotent).
+- STEP 4B HARD HEAD-CHECK GATE: PASS. All 101 GitHub asset URLs returned 200 (Regenerative 57, Strength 44).
+- STEP 5 Buffer addToQueue (schedulingType automatic, no dueAt sent): 22 posts queued, ALL status=scheduled, zero errors, zero notification-mode fallbacks, zero TikTok timeouts.
+  Topic 1 Regenerative Organisations (12): IG p1 6a25e08132bfe18df58d61db, IG p2 6a25e0925205cc790d3557cb, Threads 6a25e0a0521414e3c0333e80, TikTok 6a25e0aa74031f4964d26c09, X p1 6a25e0b4d06e7c8e3b8e56e7, X p2 6a25e0c832bfe18df58d628b, X p3 6a25e0d374031f4964d26c6f, X p4 6a25e0dc52eb7fd342a6c1b2, BS p1 6a25e0e552eb7fd342a6c1db, BS p2 6a25e0ef52eb7fd342a6c208, BS p3 6a25e0f9521414e3c0333f0c, BS p4 6a25e101d06e7c8e3b8e57d0.
+  Topic 2 Strength and Conditioning Coaching (10): IG p1 6a25e12152eb7fd342a6c281, IG p2 6a25e13174031f4964d26e9d, Threads 6a25e13c5205cc790d355925, TikTok 6a25e14432bfe18df58d63b7, X p1 6a25e14e521414e3c0333f92, X p2 6a25e159521414e3c0333fbd, X p3 6a25e1655205cc790d355a35, X p4 6a25e16ed06e7c8e3b8e5912, BS p1 6a25e17832bfe18df58d649f, BS p2 6a25e18232bfe18df58d64c2.
+- Per-platform Buffer post counts: IG 4, Threads 2, TikTok 2, X 8 (4+4 parts), Bluesky 6 (4+2 parts) = 22.
+- Full verified roster sizes (unchanged from staging): Regenerative IG 15 / Threads 5 / TikTok 15 / X 15 / Bluesky 15; Strength IG 15 / Threads 1 / TikTok 9 / X 15 / Bluesky 6.
+- STEP 6 Airtable: recSwKcDdBpEjUmi2 -> Posted; recQBBAlteSVGLEo1 -> Posted. The 3-day Buffer outage backlog is now cleared.
+- Handle verification (2.5): not re-run; rosters reused from staged plan (curated Airtable DB).
