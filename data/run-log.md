@@ -4083,3 +4083,13 @@ Operational notes:
 - Topic regenerative-organisations: queued all 5 platforms (IG2, Threads1, TikTok1, X4, Bluesky4) = 12 posts. Marked Posted.
 - Topic strength-and-conditioning-coaching: queued all 5 platforms (IG2, Threads1, TikTok1, X4, Bluesky2) = 10 posts. Marked Posted.
 - X full-roster overflow: regen 15 X handles -> 4 parts; strength 15 X handles -> 4 parts.
+
+## Run 2026-06-08 14:07:35 AEST (v1.5)
+- STEP -3 preflight: get_account OK (no 429). Org 5c007ba74b1be74967117b58, tz Australia/Brisbane.
+- STEP 0i channel discovery: all 5 target platforms connected (instagram, threads, tiktok, twitter, bluesky). ACTIVE_PLATFORMS = all 5. No degraded platforms.
+- STEP -2 stale-queue cleanup: found 13 scheduled posts on deprecated channels (facebook/youtube/googlebusiness/linkedin). Deleted 4 (6a260be252eb7fd342a77c98, 6a260b4352eb7fd342a77b71, 6a260a645205cc790d3616d6, 6a260a3732bfe18df58e2220) before hitting the rate limit.
+- BUFFER 429: circuit breaker tripped in delete_post (5th deletion, id=6a2609fd5205cc790d36160d) during STEP -2 stale-queue cleanup. Retry-After ~61s. Halting ALL Buffer calls for this run. No retry, no wait, no polling.
+- Rollback: SCHEDULED_THIS_RUN was empty (429 hit before STEP 1 topic selection). No Airtable records claimed, nothing to roll back, no topic marked Failed.
+- No images/video generated (STEP -3/-2 precede heavy work, as designed). Nothing to clean up on GitHub.
+- 9 stale deprecated-channel posts remain queued; next run's STEP -2 will sweep them once the rolling window drains.
+- RESULT: run aborted on Buffer rate limit. 0 topics processed. 0 posts queued.
