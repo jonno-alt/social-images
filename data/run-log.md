@@ -4093,3 +4093,32 @@ Operational notes:
 - No images/video generated (STEP -3/-2 precede heavy work, as designed). Nothing to clean up on GitHub.
 - 9 stale deprecated-channel posts remain queued; next run's STEP -2 will sweep them once the rolling window drains.
 - RESULT: run aborted on Buffer rate limit. 0 topics processed. 0 posts queued.
+
+
+## Run 2026-06-11 04:35:38Z (addToQueue, v1.5)
+- STEP -3 preflight: get_account OK (no 429). Org 5c007ba74b1be74967117b58, tz Australia/Brisbane.
+- STEP 0i channel discovery: all 5 target platforms connected (instagram, threads, tiktok, twitter, bluesky). ACTIVE_PLATFORMS = all 5. No degraded platforms.
+- STEP -2 stale-queue cleanup: 0 stale posts on deprecated channels (facebook/youtube/googlebusiness/linkedin x2) - queue already clean.
+- TOPIC SELECTION: by Priority asc the next two eligible were "Leading in a VUCA World" (P175, recytl4TILD2t8wfJ) and "Narrative Coaching" (P176, recm60zvXBvhtIrGi).
+  - "Leading in a VUCA World" had only 3 unique people in Thought Leaders (2 with handles) - too thin for a quality listicle. Rolled its Social Post Status back to EMPTY for a future run/merge (not marked Failed). Reason logged here.
+  - Processed ONE topic this run: Narrative Coaching. Single-topic run chosen deliberately given the Buffer rate-limit fragility seen 2026-06-05/06-08; keeps call volume conservative (~13 Buffer calls total).
+- ROSTER (curated 15 from 141 matched rows, deduped, handles merged): Brené Brown, Adam Grant, Simon Sinek, Seth Godin, Donald Miller, Susan Cain, Matthew Dicks, Dorie Clark, Park Howell, Carmine Gallo, Kindra Hall, Nancy Duarte, Lisa Cron, Michael Bungay Stanier, Jonah Sachs. Excluded Neil Gaiman (reputational risk / off-brand).
+- Per-platform full rosters: IG 15, Threads 9, TikTok 10, X 13, Bluesky 7.
+- STEP 2.5 verification: 7 Bluesky handles verified via resolveHandle API (all VALID, 0 drops). IG/X/TikTok/Threads trusted from curated Airtable DB (bot-HEAD unreliable) - logged as trust-fallback.
+- STEP 3 images: 50 PNGs + 1 TikTok video generated to brand design system. SHA-uniqueness passed every part. TikTok video verified 30 fps (in 23-60). Video at tiktok/part1/video.mp4 (path consistent).
+- STEP 4 GitHub: 51 files pushed serially via Contents API (curl; urllib network-refused in sandbox). Idempotent. carousels/narrative-coaching-2026-06-11/.
+- STEP 4B HARD GATE: all 51 expected files confirmed 200 (parallel raw HEAD + Contents API). Repo public, unauthenticated raw = 200 (Buffer can fetch).
+- STEP 5 Buffer addToQueue: 10 posts created, ALL status=scheduled, error=null. Buffer 429 circuit breaker NOT tripped. schedulingType=automatic, mode=addToQueue. No notification-mode fallbacks. TikTok no timeout.
+  - Instagram P1/2 addToQueue: id=6a2a3a5561b4aa11f08cabcb status=scheduled rosterN=15
+  - Instagram P2/2 addToQueue: id=6a2a3a6961b4aa11f08cad3b status=scheduled rosterN=15
+  - Threads P1/1 addToQueue: id=6a2a3a7bc7189b2094b9885e status=scheduled rosterN=9
+  - TikTok P1/1 addToQueue: id=6a2a3a87d94814c03b582913 status=scheduled rosterN=10
+  - X P1/4 addToQueue: id=6a2a3a92c7189b2094b989d2 status=scheduled rosterN=13
+  - X P2/4 addToQueue: id=6a2a3aa061b4aa11f08cb000 status=scheduled rosterN=13
+  - X P3/4 addToQueue: id=6a2a3aaa61b4aa11f08cb082 status=scheduled rosterN=13
+  - X P4/4 addToQueue: id=6a2a3ab1009bddec5de48ac8 status=scheduled rosterN=13
+  - Bluesky P1/2 addToQueue: id=6a2a3abcd94814c03b582bc4 status=scheduled rosterN=7
+  - Bluesky P2/2 addToQueue: id=6a2a3ac6e7e413f1ab59fdb7 status=scheduled rosterN=7
+- X full-roster overflow: 13 X handles -> 4 parts [4,4,4,1]. Every X handle queued; none dropped.
+- STEP 6 Airtable: Narrative Coaching (recm60zvXBvhtIrGi) marked Posted (all 5 platforms queued). VUCA (recytl4TILD2t8wfJ) left EMPTY (rolled back).
+- RESULT: 1 topic, 10 Buffer posts queued across 5 platforms (IG 2, Threads 1, TikTok 1, X 4, Bluesky 2). 0 failures, 0 skips, 0 rate-limit issues.
