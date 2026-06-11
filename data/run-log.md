@@ -4122,3 +4122,42 @@ Operational notes:
 - X full-roster overflow: 13 X handles -> 4 parts [4,4,4,1]. Every X handle queued; none dropped.
 - STEP 6 Airtable: Narrative Coaching (recm60zvXBvhtIrGi) marked Posted (all 5 platforms queued). VUCA (recytl4TILD2t8wfJ) left EMPTY (rolled back).
 - RESULT: 1 topic, 10 Buffer posts queued across 5 platforms (IG 2, Threads 1, TikTok 1, X 4, Bluesky 2). 0 failures, 0 skips, 0 rate-limit issues.
+
+## Run 2026-06-11 09:33Z (addToQueue, v1.5) - SECOND run of the day
+- STEP -3 preflight: get_account OK (no 429). Org 5c007ba74b1be74967117b58, tz Australia/Brisbane.
+- STEP -2 stale-queue cleanup: deleted 3 scheduled posts on deprecated channels (youtube 6a2a49ee009bddec5de4f663, googlebusiness 6a2a499961b4aa11f08d2712, facebook 6a2a491ed94814c03b5899c7). These were Sinek single-quote posts from a separate flow. No 429.
+- STEP 0i channel discovery: all 5 target platforms connected (instagram, threads, tiktok, twitter, bluesky). ACTIVE_PLATFORMS = all 5. No degraded platforms.
+- TOPIC SELECTION (Priority asc, Status=Completed & Social Post Status empty; 55 eligible):
+  - P175 "Leading in a VUCA World" (recytl4TILD2t8wfJ): only 2 people with handles (Margie Warrell, Matthew Griffin; Bob Johansen none) - too thin. SKIPPED (not claimed, left EMPTY), consistent with prior run.
+  - P178 "Functional medicine" (recwLnVP2zfZSYe00): only 1 person (Chris Kresser) - too thin. Not selected.
+  - P180 "Christian podcasters": 0 thought leaders in DB. Not selected.
+  - SELECTED: Topic 1 = "Home cooking and recipes" (P177, rec6jn2Uw5Y73PFf6); Topic 2 = "Youth sports coaching" (P179, recAC27beNwOwReon). Both claimed -> Scheduled.
+- ROSTERS:
+  - Home cooking (17 curated from 49 matched rows): IG 13, Threads 11, TikTok 7, X 5, Bluesky 10.
+  - Youth sports coaching (26 curated from 64 matched rows): IG 7, Threads 7, TikTok 8, X 8, Bluesky 4.
+  - No repeat-name bans (none in handle DB; all new people).
+- STEP 2.5 verification: 14 Bluesky handles verified via resolveHandle API (all VALID, 0 drops). IG/X/TikTok/Threads trusted from curated Airtable DB (bot-HEAD unreliable) - trust-fallback logged.
+- STEP 3 images: 75 PNGs + 2 TikTok videos to brand design system. SHA-uniqueness passed every part (0 dups). Both videos verified 30 fps (in 23-60). Videos at tiktok/part1/video.mp4 (path consistent). Visual QA: cover/person/CTA/tiktok-frame/long-bsky-handle all checked OK (badges, wave, counter, red handle above name, no overflow).
+- STEP 4 GitHub: 77 files pushed serially via Contents API (curl, payload via file for large MP4 base64). Idempotent, resumable across windows. carousels/home-cooking-and-recipes-2026-06-11/ and carousels/youth-sports-coaching-2026-06-11/.
+- STEP 4B HARD GATE: all 77 expected files confirmed 200 via parallel raw HEAD. 0 missing. No Buffer create_post fired before gate passed.
+- STEP 5 Buffer addToQueue: 15 posts created, ALL status=scheduled, error=null. 429 circuit breaker NOT tripped. schedulingType=automatic, mode=addToQueue. No notification-mode fallbacks. No TikTok timeout.
+  HOME COOKING:
+  - Instagram P1/2: id=6a2a80e1ab3552535e64c39e rosterN=13
+  - Instagram P2/2: id=6a2a810b778ea6413f30231c rosterN=13
+  - Threads P1/1: id=6a2a8123ab3552535e64c418 rosterN=11
+  - TikTok P1/1: id=6a2a812f778ea6413f3023f7 rosterN=7
+  - X P1/2: id=6a2a813b778ea6413f302421 rosterN=5
+  - X P2/2: id=6a2a8145d8ed5d2f349f8e84 rosterN=5
+  - Bluesky P1/3: id=6a2a8150ab3552535e64c52c rosterN=10
+  - Bluesky P2/3: id=6a2a815ad8ed5d2f349f8efe rosterN=10
+  - Bluesky P3/3: id=6a2a81637047825520c9fc21 rosterN=10
+  YOUTH SPORTS COACHING:
+  - Instagram P1/1: id=6a2a818ac6121f5344c78753 rosterN=7
+  - Threads P1/1: id=6a2a819cab3552535e64c692 rosterN=7
+  - TikTok P1/1: id=6a2a81a8c77af25211cb050c rosterN=8
+  - X P1/2: id=6a2a81b5d8ed5d2f349f905c rosterN=8
+  - X P2/2: id=6a2a81c0c77af25211cb0530 rosterN=8
+  - Bluesky P1/1: id=6a2a81cfab3552535e64c70d rosterN=4
+- X full-roster overflow: home cooking 5 X handles -> 2 parts [4,1]; youth sports 8 X handles -> 2 parts [4,4]. Every X handle queued; none dropped.
+- STEP 6 Airtable: Home cooking (rec6jn2Uw5Y73PFf6) and Youth sports coaching (recAC27beNwOwReon) both marked Posted (all 5 platforms queued each). VUCA left EMPTY (too thin, not claimed).
+- RESULT: 2 topics, 15 Buffer posts queued across 5 platforms (IG 3, Threads 2, TikTok 2, X 4, Bluesky 4). 0 failures, 0 skips, 0 rate-limit issues. Stale cleanup deleted 3.
